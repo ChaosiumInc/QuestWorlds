@@ -1,13 +1,12 @@
      By Robin D. Laws
 
- e a i f q o 7p g . z h b W s
+
 a
   Core Rules
 h
 Moon Design Publications 3450 Wooddale Ct Ann Arbor, MI 48104
   1
 
- - y k l r / v x j d m ' t cn
 Credits
 Author: Robin D. Laws
 With: Jeff Richard, Ian Cooper, Lawrence Whitaker, and David Dunham.
@@ -26,9 +25,8 @@ Publication ISS 2001. First Printing July 2009. ISBN# 978-0-9777853-2-2
 The Glorantha game setting is created by Greg Stafford and owned by Issaries, Inc. HeroQuest and its supplements are published by Moon Design Publications.
 Would you like to know more about HeroQuest? See the extensive website at www.Glorantha.com
 To buy HeroQuest products, see your local game retailer. If you can’t  nd what you want locally, you can buy them online from Moon Design Publications at www.Glorantha.com.
-  2
 
-  e a i f q o 7p g . z h b W s
+
 Contents
 Introduction 5 Confusing Ties 24
 Tools, Not Rules
@@ -65,7 +63,7 @@ Framing the Contest
 Default Ratings 22 Altering Probabilities 22 Hero Points 22 Modi ers 22 Resistance 23 Die Rolls 23 Bumps 23 Bump Up with Mastery 23 Bump Up with Hero Points 23 No Repeat Attempts 24
 3
 
- - y k l r / v x j d m ' t cn
+
 Recovery and Healing
 Healing During an Extended Contest Relationships with Supporting Characters
 59 Creating Genre Packs 93
@@ -114,9 +112,7 @@ Other Magic 108
 88 Blank Character Sheet 126 Index 127
  Keywords
 93
-4
 
-  e a i f q o 7p g . z h b W s
 Introduction
  HeroQuest is a roleplaying rules engine suitable for play in any genre. (In the unlikely event that you’ve picked up this book without knowing what a roleplaying game is, go immediately to “Roleplaying In a Nutshell”, below, and then return to this section.)
 The game presents a simple and  exible system that allows Game Masters (hereafter called “Narrators”) to make decisions the way authors and screenwriters do when creating novels, TV episodes and movies. HeroQuest encourages creative input from your players, resulting in an exciting, unpredictable narrative created through group collaboration. Its abstract resolution methods and scalable character levels make it equally suitable to any genre, from epic fantasy to satirical soap opera. Whether your next game idea draws on the tropes of horror, war, westerns, martial arts, pulps, cyberpunk, cliff-hangers, giant robots, super-powered heroes, space opera, cop action, corporate intrigue, furry animals, swashbuckling adventure, Greek tragedy or drawing room comedy, HeroQuest can resolve its scenes of con ict, both big and small. You could even use HeroQuest to emulate a musical—although it won’t do any of the singing or dancing for you.
@@ -173,7 +169,7 @@ Rich: I have Everything I Touch Turns To Crap at 13.
  6
 Version History
 HeroQuest began its life in 2000 under a slightly different title, Hero Wars. The game was  rst issued, in a revised edition, under its current name, in 2003. The book you hold in your hands is the game’s  rst appearance as a core rules set intended for use in any genre. Previous editions were set in Greg Stafford’s classic fantasy world of Glorantha. Moon Design offers a line of HeroQuest products set in Glorantha, which remain compatible with this generic version of the rules. A new Glorantha-based genre book, as well as sourcebooks to supplement play in a variety of other settings and genres, will follow this one. You don’t need to know anything about Glorantha to understand this book or play HeroQuest games.
-a g k HeroQuest Core rules h b d
+
 
  Ashley: I have Stop Stupid People From Doing Stupid Things at 17.
 Lynne: Roll the dice.
@@ -232,9 +228,9 @@ What complicating factors are
 Create complicating factors to make failure credible and emotionally potent.
 Assign a high resistance. Create tough complicating factors to foster narrative credibility.
 The Logic of Story Obstacles
-a g k HeroQuest Core rules h b d
 
- e a i f q o 7p g . z h b W s
+
+ 
 Creating your Character
 The following chapter shows you how to create a HeroQuest PC. It is addressed primarily to players, with the occasional aside to Narrators.
 Before Starting
@@ -278,7 +274,7 @@ Parody: goofy characters enjoy comic invulnerability to permanent consequences i
 Satire: a darkly comic setting infused with biting social commentary.
 10
 Keywords
-a g k HeroQuest Core rules h b d
+
 
 The mode suggests elements to build into your character. A procedural demands professional competence. A parodic series encourages a series of absurdly named abilities.
 Mode also suggests behavioral norms for the characters. Picaresque characters are supposed to be clever and waggish, and remain sympathetic even when they engage in a little larceny. Epic characters, by contrast, should be heightened in both their positive qualities and their tragic  aws.
@@ -344,7 +340,7 @@ In a tear-jerking climactic sequence achieved after many weeks of play, Zenkichi
 Vengeance, you decide. Zenkichi will risk all to slay the seven grotesque leaders of the bakemono clan. If the series continues after he succeeds at that dread task, he’ll need yet another narrative hook. But that’s a problem for many months from now...
 In  ction, major characters are often torn between contradictory impulses. Tony Soprano juggles his desire to be a good family man against the pursuit of his rapacious appetites, and the need to manage his criminal empire. Hamlet is caught between his desire for certainty and his obligation to avenge his father. Building inner tension into your own characters may achieve powerful results—provided that the warring impulses motivate the PC to go out and do contradictory things, like Tony Soprano, rather than miring him in indecision, like Hamlet.
 12
-a g k HeroQuest Core rules h b d
+
 
  Choosing Abilities
 Now that you know who your character is, what he does, and why, it’s time to better de ne exactly how he does things, by picking his abilities.
@@ -395,9 +391,9 @@ Many so-called  aws are in fact abilities in disguise, and should be treated as 
 However, you might not realize that a  aw can be useful. If during play what seemed only detrimental could be of use, with Narrator approval you can spend a hero point (see p. 57) and convert it to a regular ability.
 Brenna is Disrespectful of Authority. She is constantly in trouble, and winds up thrown out of Harvard. But when a man in a dark suit shows up late at night and  ashes a Homeland Security ID, she decides to stand up to him. Her most appropriate ability is Disrespectful of Authority. Although it was considered a  aw, the Narrator agrees this is an amusing twist, and allows it to be converted into an ability. Brenna wins the contest, and the mysterious suit backs down from her courageous refusal to submit passively. She might still get into trouble with the powers that be a lot of the time, but she’s now also free to use the ability to her advantage.
 14
-a g k HeroQuest Core rules h b d
 
- e a i f q o 7p g . z h b W s
+
+ 
 Character Creation Methods
 HeroQuest offers three methods of character creation: prose, list, and as-you-go. Innovative Narrators may introduce other methods, like having the players answer a questionnaire, and deriving abilities from their answers.
 The Prose Method
@@ -441,7 +437,7 @@ Steve creates a character for the same globetrotting action series in which Bill
 His core concept is of a remorseful former counter-insurgent. Steve decides to make him a former member of the Russian military, haunted by atrocities he took part in during the Chechen con ict. After some quick research into Russian names, he calls his PC Nikolai Levshin. His narrative hook is that, if he gets wind of a chance at redemption, he’ll sacri ce anything to get it.
 Implicit in the concept are the two abilities Counter- insurgency and Remorseful. That leaves Steve with nine more abilities to pick. He imagines that Nikolai has been living in
                             16
-a g k HeroQuest Core rules h b d
+
 
  Creating Entertaining and Effective Characters
 Sympathy
@@ -513,7 +509,7 @@ Items: shotgun, GPS tracker
 Background: speaks Spanish, Gymnastics training, make
 tasty food out of anything
 18
-a g k HeroQuest Core rules h b d
+
 
 Advantages of the As-You-Go Method:
 This approach allows you the highest degree of collaboration with your Narrator. It’s faster than any other, letting you get started immediately, without any prep work. Because you get to create abilities in response to situations that come up in play, you rarely wind up with items on your character sheet that never get used. This method embodies the “show, don’t tell” rule of  ction: like a character in a story, all of your abilities are introduced through action. As-You-Go is the best way to introduce players who are completely unfamiliar with roleplaying to the form.
@@ -568,9 +564,9 @@ HeroQuest can easily handle a campaign where the PCs are movers and shakers of t
 5. Add narrative hooks
 6. Choose abilities (prose, list, or as-you-go); include keywords if available
 7. Assign ability ratings
-a g k HeroQuest Core rules h b d
 
- e a i f q o 7p g . z h b W s
+
+ 
 Overcoming Obstacles
 How to Begin
 Adventure stories consist of a series of obstacles, which the heroes must overcome in order to reach their  nal goal.
@@ -635,7 +631,7 @@ Altering Probabilities
 Groups wanting higher abilities to win out slightly more often can invert the results when both contestants get the same result, so that the high roller, not the low roller, wins the marginal victory.
 Hero Points
 Each character starts the game with a pool of 3 hero points, and gains more of them at the end of every session. These are a precious resource, as they are used both to boost characters’ contest results, and to improve abilities over the long term. For more on how hero points are awarded, and how they can be used to improve your character, see p. 57.
-a g k HeroQuest Core rules h b d
+
 
 Resistance
 Most dramatic obstacles come in the form of supporting characters opposed to your goals. When you face impersonal or abstract forces, the Narrator chooses a Resistance to represent the dif culty of the obstacle. Guidance for Narrators on assigning Resistances appears on p. 71.
@@ -684,7 +680,7 @@ Petrov and Bulgakov struggle for the Luger. It falls from both of their grips, d
 However, in some situations, ties become dif cult to visualize. Chief among these are contests with binary outcomes, where only two possible results are conceivable.
 To go back to the example of Crittenden trying to stay in the tree as it gets struck by lightning, what happens if Crittenden and the storm tie? He’s either in the tree, or out of it; he can’t be both.
 Narrators resolve confusing ties in favor of the PC, awarding him a marginal victory. Contests between PCs tend not to be binary; in the rare cases where they are, award the minor victory to the PC with the highest number of unspent hero points. (This adjudication does not require the winner to spend any of those points.)
-a g k HeroQuest Core rules h b d
+
 
 • The Narrator decides that the character will succeed. If degree of success matters, the PC scores a minor victory.
 • The Narrator describes what happens.
@@ -758,7 +754,7 @@ Sheriff Cooper (played by Dan) is the lawman of a typical western town. The bank
 Step 1: Dan and Jenny (the Narrator, who’ll be playing Ned) frame the contest.
 “What prize are you going for?” Jenny asks.
  26
-a g k HeroQuest Core rules h b d
+
 
 “I want Ned Bates to change his mind and help me sway the townsfolk. I don’t want him to necessarily do anything heroic— just give me some moral support.”
 “That's great. Very clear goal. Now what tactic are you using to get it?”
@@ -841,7 +837,7 @@ Healthy
 Characters who aren’t in a state of adversity at all are considered healthy.
 It is possible to seem banged up without suffering any measurable penalties. If you get into an extended contest during which you were at a disadvantage for a long time and  nally came from behind for the win, you may seem bruised, winded, anxious, or otherwise the worse for wear. Although this apparent harm may yield you useful sympathy, it doesn’t actually slow you down at all.
 28
-a g k HeroQuest Core rules h b d
+
 
 Injured
 An injured character has suffered a debilitating shock to the system, one which renders him all but helpless.
@@ -904,7 +900,7 @@ In a particularly grim or deterministic series, you may instead prefer to blinds
 Egyptian priest Horemheb (Jim) enters his bedchamber, unaware that an asp has been hidden in a hollowed compartment in his headrest. The Narrator, Alice, is more interested in surprise than suspense and opts for a secret contest. Looking at her copy of Jim’s character sheet, she sees that Horemheb’s most appropriate ability is Wary, rated at 17. Keeping track of which die is which, she rolls that ability against a resistance of 14. She scores a 10 for Horemheb, versus an 8 for the resistance. Horemheb fails.
 Unaware of the threat, Horemheb proceeds into the room. When Jim says that his character goes to sleep, Alice narrates the snake attack. If Horemheb had seen it, he could have avoided the attack entirely, for example by tossing a blanket onto the headrest and tossing it out the window.
 Secret contests are always simple. When necessary, they may be group simple contests against a single resistance (p. 32).
-a g k HeroQuest Core rules h b d
+
 
 Successful intervention usually leaves the character injured. Depending on the narrative circumstances, a complete victory on the intervention attempt may leave him merely impaired.
 If intervention fails, the character will die, but not necessarily immediately. Although irrevocably doomed, he may survive long enough to deliver a poignant  nal speech... or linger in his deathbed for agonizing months. He will be lucid enough to deliver dialogue but, unless the Narrator deems it dramatically appropriate, unable to perform any task complicated enough to require a contest.
@@ -990,7 +986,7 @@ Pigsy uses his Forage For Food 3W; Scott rolls an 11 against the Narrator’s 15
 Sandy uses his Scary Countenance of 8W to frighten the  sh into submission. (In a more serious game, the Narrator might consider this a Stretch (see p. 52), but it  ts the spirit of this series just  ne.) He rolls a 15; so does Vivian. This tied success vs. success result adds nothing to the  nal total.
 That total, at 3–1 in favor of the PCs, means that they’ve caught the  sh. Consulting the group simple contest result table, Vivian sees that it is a minor victory.
 Now that the results are in, it’s time for Vivian to narrate: “You leap heedlessly into the water, splashing after the  sh. Sandy splutters down into the water to scare the  sh with his frightening visage, but forgets to breathe and winds up coughing and spluttering. The terri ed  sh leaps into Pigsy, who stuns it slightly, before it bounces off of him and into a startled Tripitaka, who falls back into the water. Monkey leaps in, deftly snatching it out of the air. The four of you wind up on the bank, wet, spluttering, and exhausted—but with a slippery  sh to take to the village, inside a clay pot full of river water.”
-a g k HeroQuest Core rules h b d
+
 
 Alternatively, a group simple contest can take place as a series of paired match-ups between two groups of contestants. Characters forced to participate in more than one contest face the standard multiple opponent penalties (see p. 43).
 Lindsay runs a game of post-apocalyptic survivalism. The PCs are the battle leaders for the feral suburban community of Millwood Acres, which is at war with the neighboring gated community of Riverglen Homes. Fearing an alliance between Riverglen and the gothsquads of the nearby amusement park, they decide to launch a series of punitive raids against their enemies. They frame the contest so that, if they
@@ -1026,7 +1022,7 @@ Separated results could also apply in cases where team members are working towar
 When singling out participants in a winning contest, characters who posted positive resolution points to their side’s result get the bene t corresponding to their level of victory, as seen on the Simple Contest Results Table (p. 28 or Quick Reference Appendix) and compared to the Lingering Bene ts Table (p. 31 or Quick Reference Appendix.)
 In a losing contest, the characters whose opponents won victories against them suffer penalties as per their defeat levels, also as per the Simple Contest Results table, as compared to the Consequences of Defeat table (p. 30 or Quick Reference Appendix.)
  34
-a g k HeroQuest Core rules h b d
+
 
 Separated Bene ts Example: Elena runs a fantasy series set in the Gloranthan city of Pavis, which is currently under occupation by the hated Lunar Empire. The heroes (Harmath, Svetz, Varond, and Sabyne) are working to bring down the Lunar regime, but are scattered around Pavis and unable to easily meet up. At the moment they are looking to make contact with the Free Pavisites and their leader, Brygga Scissortongue—a tough task because the Lunars have many spies and much magic employed in the hope of trapping Brygga and any who oppose the Lunar forces. Whichever character manages to make contact with Brygga will gain kudos amongst their respective local street gangs. The PCs all contest against a resistance representing Brygga’s elusive and suspicious nature, and the various Lunar spies who are out to catch anyone conspiring to subvert the Lunar regime.
 Harmath scores a success vs. success, adding 1 point to the group total. Svetz loses a success vs. success, subtracting 1 point. Varond gets a critical vs. success, posting 2 points for the team. Sabyne, with a success vs. a fumble, adds 3 points to the group total. The team wins the group simple contest, with an impressive 5-point difference separating them from the resistance. That’s a complete success: Elena  nishes her narration of their various attempts to contact Brygga by cutting to the infamous tavern, Gimpy’s, where the PCs meet, face to face, with the elusive Brygga, travelling incognito and with a substantial, if well-disguised, bodyguard.
@@ -1075,7 +1071,7 @@ On a 3-point result, your opponent might be thrown completely off-track, as audi
 In interpreting the results of individual simple contests within an extended contest, Narrators are guided by two principles:
 1. No consequence is certain until the entire extended contest is over.
 2. When a character scores points, it can re ect any positive change in fortunes, not just the most obvious one.
-a g k HeroQuest Core rules h b d
+
 
     RESOLUTION POINT TABLE
      Level of Success
@@ -1205,7 +1201,7 @@ If you succeed in your parting shot roll, you add the result from your roll to t
 However, if the opponent succeeds, he takes the number of RPs he would, in a standard exchange, score against you, and instead subtracts them from the number of RPs scored against him in the exchange that removed him from the contest. If the revised total is now less than 5, he returns to the contest, and may re-engage you. The Narrator describes this as a dramatic turnaround, in which the victim’s overreaching foe has somehow granted him an advantage allowing him to recover from his previous misfortune. The provisional consequences suffered now go away, and are treated as a momentary disadvantage.
 If Leonidas scores a Failure and Xerxes a Critical, the 3 resolution points that would, in a normal contest, apply to Leonidas are instead subtracted from the total lodged against Xerxes. The score goes from 5–1 against Xerxes to 2–1.
  38
-a g k HeroQuest Core rules h b d
+
 
 The Narrator describes the outcome: “Xerxes is so enraged by the spear which has just struck one of his most precious concubines that he yanks the spear from the woman’s body, whirls, and throws it into the Spartan ranks. It strikes Menelaus, a young warrior Leonidas had considered a potential captain. The Persian ranks roar with laughter and approval; the Spartans are, for now, on the receiving end of some humiliation.” And, on a score of 2-1, Xerxes’s reputation and standing has been somewhat restored.
 Where it makes sense in the narrative, unengaged characters may attempt parting shots against opponents taken out of the contest by third parties. Defenders who are enabled to return to the group contest may rejoin the contest they previously lost, or start a new exchange, most likely against the over-reaching enemy who tried to harm them when they were down.
@@ -1254,7 +1250,7 @@ The Narrator calls for a disengagement roll to see if Agent Gray manages to capt
 Example Reversed: Jenny Fails To Escape
 Let’s take a look at the example of Jenny and the slasher with the opposite outcome:
 If the rolls had been reversed, with Adrienne getting a 20 and the Narrator an 18, this is what would have happened: Even with a hero point spent by Adrienne, the exchange resolves as a success vs. failure in the slasher’s favor. Jenny not only fails to escape, but has another 2 resolution points scored against her. With the total against her at 5, she is defeated by the slasher, and rendered helpless. Even under rising action resolution, the difference of 5 points means she is injured. As homicidal maniacs aren’t known for their mercy, and there’s no one around to rescue Jenny, she becomes another unfortunate addition to his kill list for the night.)
-a g k HeroQuest Core rules h b d
+
 
 Group Extended Contests
 Group extended contests proceed as a series of extended contests between pairs of characters, interwoven so that they happen nearly simultaneously. As in an extended contest between two characters, only one exchange per pair of adversaries occurs each round. Usually the PCs make up one team, and their supporting character antagonists the other.
@@ -1328,7 +1324,7 @@ Change to Score against Recipient
 +2
   Complete Defeat
 +3
- a g k HeroQuest Core rules h b d
+ 
 
 Points from an assist can be applied to a single exchange only. Scores in exchanges can never be reduced below 0.
 The good guys are trying to pilot their star ghters through the asteroid  eld to blow up the AQ’ak satellite before it activates and  lls the Guidon Sector with tri-polarizing radiation. Hotshot pilot Harsteni Valk has just sent the AQ’ak Scream ghter on her tail spinning into the void. Now she sees that her comrade, Dirk Fles, is in trouble, with a laser burn eating its way through his aft engine. (In rules terms, the score in Dirk’s current exchange is 4–2 against him.) Rather than engage the Scream ghter directly, Harsteni decides to execute a spiral pass maneuver and get close enough to Dirk’s ship to spray it with retardant, putting out the  re. Having already established the asteroid  eld as a challenge to navigate through, the Narrator assigns a Very High resistance, which Harsteni nonetheless beats, scoring a marginal victory. The score in Dirk’s exchange changes from 4–2 against him, to 3–2.
@@ -1376,7 +1372,7 @@ Consequences and Group Extended contests
 In a Rising Action contest, if you win more than one exchange, you can theoretically be hurt multiple times— once for each contest you win with a difference between results of 1.
 If you win more than one exchange in either Rising Action or Climactic contests, and then need to determine a  nal level of victory (to determine, for example, lingering bene ts from the contest), use the victory level you attained against the character who contested against you with the highest target number.
 Political pundit Theo Arlino holds his own in a televised debate against two more famous talking heads. He scores a minor victory against Florence Rutka and a major one against Hyman Durrell. Florence contested Theo with Ad Hominem Attacks 4W; Hyman resorted alternately to Heated Rhetoric 18, Circular Logic 17, and Damned Lies and Statistics 3W. The highest of those ratings is Florence’s 4W, so Theo’s victory level for the entire group contest is minor.
-a g k HeroQuest Core rules h b d
+
 
 Tonight’s opponents are:
 • Thundering Skullhead, who boasts a rating of 9W in Electro-Trident. No hero points.
@@ -1418,7 +1414,7 @@ with an elbow to the throat,” Michelle follows up her bombast with a roll of 1
 That’s a critical vs. success, which lodges 2 resolution points against Pete, for a new score of 1–2.
 Red Shaman vs. Thundering Skullhead: “Learning my lesson about the electro-trident, I try to get behind him and deliver a roundhouse kick,” says Sam. He rolls a 4, to the Narrator’s 12. Skullhead’s mastery bumps his failure into a success, but that still leaves Red Shaman with the low success, for a success vs. success result in his favor. “The kick hits home!” Irene narrates.
  46
-a g k HeroQuest Core rules h b d
+
 
  Keeping Score
 To maintain the sense of back-and-forth of a suspenseful scene, make sure you keep your players aware at all times of where they stand by reminding them of the scores after each exchange. You may even  nd it useful to mark the running scores on a whiteboard or (for the technically well-equipped) projected computer image.
@@ -1471,7 +1467,7 @@ Heavy Rapper had only 1 point lodged against him in any of the three exchanges h
 The other survivors, losers and victors alike, are rushed off, groaning, on stretchers, bound for top-notch medical treatment be tting the top stars of the American Gladiatorial League.
 It has been a glorious day in the arena.
 48
-a g k HeroQuest Core rules h b d
+
 
  Contest Options
 Players who want more tactical choices can use these optional rules.
@@ -1513,9 +1509,9 @@ RS17 vs. TS10W
        RS19 vs. TS10W 
        RS17 vs. TS10W 
        50
-a g k HeroQuest Core rules h b d
 
- e a i f q o 7p g . z h b W s
+
+ 
 This section contains additional information on modi ers. As you’ll recall, modi ers are added to or subtracted from a character’s ability to arrive at his  nal target number. Positive modi ers are called bonuses; negative modi ers are called penalties.
 Positive modi ers, or bonuses, may raise an ability high enough to gain a mastery, in which case the character gets the bumps up or down that a mastery would normally supply.
 Negative modi ers, or penalties, may lower an ability to the point where it loses one or more masteries. In this case, the character loses the bumps up or down he would normally get.
@@ -1550,7 +1546,7 @@ The de nition of stretch is elastic, depending on genre. All sorts of crazy stun
 Narrators may allow stretches for the same reason authors and directors do: to keep the story moving. If they disallow an action as implausible during one session, they can still reserve the right to rule it a stretch later on—provided they do some fancy justifying to explain the apparent internal contradiction.
 Narrators should not impose stretch penalties on action descriptions that add  avor and variety to a scene, but do not fundamentally change what the character can do with his ability. These make the scene more fun but don’t really gain any advantage, much less an unfair one, for the player.
   52
-a g k HeroQuest Core rules h b d
+
 
 Rebecca is running a  ght sequence in a fantasy series, using the extended contest rules. Martin, playing Caladro the Swordsman,  ghts with his Flashing Cutlass ability. Thanks to a series of atrocious rolls, he’s missed a bunch of times against what should be an inferior opponent. “To heck with the sword!” Martin cries. “I’m going to kick him into the wine barrel!”
 A Narrator accustomed to saying “no” to her players might consider this a stretch, given that his described action involves neither  ashing nor a cutlass. But if successful, it accomplishes the same end as an action using the sword—lodging resolution points against an opponent in an ongoing  ght. The Narrator allows it to pass without comment.
@@ -1612,7 +1608,7 @@ Major Defeat
   0
    Complete Defeat
 -3
- a g k HeroQuest Core rules h b d
+ 
 
  Quick Augments
 Although some players like the uncertainty of rolling for augments, these rolls don’t advance the story, and can slow down the game a bit. Narrators may choose to run their game with calculated augments: divide the augmenting ability by 5 and round.
@@ -1671,9 +1667,9 @@ A character with the Private Treasure Vault ability at 5W is unlikely to notice 
 Use the same guidelines when deciding if a player can increase wealth with a hero point between adventures.
 But remember: Wealth in HeroQuest is primarily about how well you use your resources to solve problems; it is not about bean-counting or noting every gold piece, doubloon, dollar, cent or Euro on your character sheet.
  56
-a g k HeroQuest Core rules h b d
 
- e a i f q o 7p g . z h b W s
+
+ 
 Hero points are a resource that players must carefully allocate. They allow you to heighten your victories and dull your defeats. They are the price you pay to improve your abilities over time. They are also used in a few unusual adjudications—resolving tied results between PCs, for example (see p. 24).
 Gaining Hero Points
 You get 3 hero points when you create your character.
@@ -1722,9 +1718,9 @@ In series  ction, relationships are another common exception; highly competent h
  Extended Contests and Healing Resistances
 Narrators anxious to recognize the  ne gradations of extended contest results can use the following rules. In an extended contest (rising action), the resistance is 14, or four times the difference between results, whichever is greater. In an extended contest (climactic scene), the resistance is 14, or four times the total resolution points scored against the character, whichever is greater.
 The mercenary Ingrid Umlaut was debilitated on the Transix Orbital Platform when the Big Garçon hacked into her zero gravity martial arts nanoware implants, reprogramming them into an expert system specializing in Byzantine hagiography. She lost a climactic contest with a 7-4 score. A street doctor will face a resistance of 8W to restore her implants to their proper function.
-a g k HeroQuest Core rules h b d
 
- e a i f q o 7p g . z h b W s
+
+ 
 Recovery and Healing
 States of adversity of Injured or less lapse on their own with the passage of time. However, you’ll often want to remove them ahead of schedule, with the use of abilities.
 Healing Abilities
@@ -1842,7 +1838,7 @@ Cigar-chomping newspaper tycoon Wilford Conrad (played by Rory) seeks vengeance 
 Any professional ability can be treated as a source of contacts. If you’re a lawyer, it stands to reason that you know many other lawyers, and probably politicians, members of public interest groups, and businessmen associated with your legal specialty. Mercenaries know other mercenaries, along with an array of arms dealers, brokers, and international shady characters. A priest knows fellow ecclesiasts, various parishioners, and maybe a theologian or two.
 However, a profession used as a source of contacts will always be considered a Stretch (p. 52). To more reliably draw on particular contacts associated with your profession, take an explicit ability too.
 62
-a g k HeroQuest Core rules h b d
+
 
 Retainers: Paparazzi ability to stake out the club his wild quasi- celebrity daughter frequents, and get scandalous shots of her.” The Narrator, Eva, speci es a simple contest, chooses a Resistance of 10 (the daughter is notorious for this sort of thing), and Rory rolls his ability of 18 against it. He gets a 1 against her 12: a critical vs. failure, or major victory.
 “Your paparazzo minions do you proud,” says Eva. “You have your choice of severe inebriation pictures, or ones showing her in a state of accidental undress.”
@@ -1889,7 +1885,7 @@ When the top 3 abilities are reduced by 3 apiece, these ratings become:
 Lucky 4W, Scrappy Brawler 19, Mechanic 13, Mysterious Amulet 11.
 Herve can now create a new sidekick with four abilities, rated at 4W, 19, 13, and 11.
 64
-a g k HeroQuest Core rules h b d
+
 
 If your old sidekick was a creature and your new one is a standard character, the new character gets only a number of starting abilities equal to 3, plus the number of new abilities you added to the creature sidekick during play.
 If your new sidekick is a creature, it has its base abilities, plus an additional one for each new ability you added to your previous sidekick during play. If the new sidekick has more abilities than the old, any abilities left over after you’ve allocated the modi ed ability ratings are rated at 13.
@@ -1926,9 +1922,9 @@ As the above example attests, many dramatic stories can arise from a con ict bet
 Community Centered Series
 Series in which community plays a central role call for more involved rules. These appear in their own chapter, starting on p. 87.
  66
-a g k HeroQuest Core rules h b d
 
- e a i f q o 7p g . z h b W s
+
+ 
 Playing Stories
 Adventure stories consist of a series of obstacles, which the heroes must overcome in order to reach their  nal goal. This chapter shows Narrators how to think of stories as a chain of obstacles, then demonstrates how to use the game’s various resolution systems to move the characters through the story from one obstacle to the next.
 The Pass/Fail Cycle
@@ -1966,7 +1962,7 @@ The author of  ction enjoys an advantage over a HeroQuest Narrator: she has to t
 Narrators, rather than creating a single plot line for the hero to move through, must anticipate that the heroes will either succeed or fail when confronted by any noteworthy obstacle. Either by preparing in advance or through improvisation, they must be ready for the story to branch into many possible stories. The decisions of the players, in tandem with the game’s resolution system, determine which story actually takes place. The result is also a linear story, but the process must be at all times open-ended, so that the players have determining in uence over the outcome of the story. They must not only be granted considerable power to drive the story, they must feel that they have it. Oddly enough, it is often easier to accomplish the former than the latter.
 In a HeroQuest version of the Beowulf story, the Narrator would require the player to use a suitable ability to impress the Danish border guard. She’d have to react with an interesting story choice if he failed his roll, leaving the border guard unimpressed with him. Beowulf’s player might decide to approach the king’s
 68
-a g k HeroQuest Core rules h b d
+
 
 hall without permission. This would in turn change the nature of the scene in which they seek Hrothgar’s permission to billet there, making it harder, or requiring an ability other than Past Great Deeds. Perhaps Beowulf and his entourage decide to stake out the hall from a distance, intercepting Grendel before he arrives...
 Although the branched story probably winds up revolving around successive confrontations with Grendel and his mother, as per the original, the series of obstacles, as well as the pattern of passes and failures, no doubt diverges substantially from the original plan. This is how it ought to be, especially when the divergences result from player choices.
@@ -2050,7 +2046,7 @@ NOT ENOUGH
 Use simple contest, or delay and begin next session with extended contest
 HIGH
   70
-a g k HeroQuest Core rules h b d
+
 
 He looks around for Little Louie. Re ecting the ease of his entry into the Black Finn, Julie describes him as looking in the other direction, polishing a glass behind the bar.
 Mack could talk him into custody, using his “It’s All Over, Pal” ability. But over the course of his investigation, he’s come to feel for Lili Watson, a poor kid who never caught a break. “I leap the counter and whale on him,” Ronnie decides.
@@ -2122,7 +2118,7 @@ Base
 Base -6
    Very Low
 Base -W or 6, whichever is lower
- a g k HeroQuest Core rules h b d
+ 
 
 The base starts at 14. After two sessions of play, it increases by 1. After every subsequent two-session interval, it increases by another point.
 All contests use the base number, except for contests to determine augments. Resistance to augments increases at a slower rate (because characters often augment with secondary abilities they don’t increase as fast); it increases so augments don’t become more in uential as PCs improve.
@@ -2188,7 +2184,7 @@ In works of  ction, it is the author’s job to maintain the illusion of  ctiona
 If you’re watching a western and the hero leaps from the top of a bluff onto the back of his speeding horse, you probably buy this as a possible action in the heightened world of the movies. If, however, you saw a movie where the hero is standing on the plain a half a mile behind his speeding horse, and then runs to catch up with it and mount it, you’d  nd this laughable breach of reality so great as to take you out of the movie.
 As Narrator, you are never obligated to allow a contest just because two characters have abilities that can be brought into con ict. If the character’s proposed result would seem absurd, you disallow the contest, period. If it seems
  74
-a g k HeroQuest Core rules h b d
+
 
 possible but very dif cult, assign an extremely high resistance. Don’t make the mistake of assigning a high resistance to avoid an impossible outcome—lucky rolls and hero points can make your world seem suddenly ridiculous.
 Michelle is running a western game. The Minnesota Kid (played by Alex) stands on a salt  at, half a mile away from his horse, Platinum. A posse is on the horizon, and intends to take Minnesota back to town for a necktie party. Minnesota has a Run Fast ability of 18W. Platinum’s Run Fast ability is rated at 8W.
@@ -2230,9 +2226,9 @@ This injects added suspense to the ongoing proceedings, making the group more af
 Death Spiral
 A very few  ctional models depict contests as harsh, attritional affairs where the  rst hit is almost always determinative. To make extended contests grim, brutish and short, immediately assess penalties to losers of exchanges according to the Consequences Of Defeat table. As the death spiral rule reduces the chances of reversals and makes outcomes more predictable, you may prefer to skip a step and simply resolve every con ict, no matter how momentous, with simple contests.
  76
-a g k HeroQuest Core rules h b d
 
- e a i f q o 7p g . z h b W s
+
+ 
 No matter what rules set you use, running an entertaining roleplaying game remains a fun and rewarding challenge. This chapter presents advice speci c to the HeroQuest system, as opposed to more general advice applicable to all games. Beginning Narrators who need help on the fundamentals can look to a number of high quality standalone products that provide general game mastering advice.
 Collaboration Versus Authorship
 A narrative-based roleplaying game like HeroQuest takes interpretive power away from rulebooks (with their speci c descriptions of various powers and abilities), and gives it to the Narrator. In doing so, it also takes a sense of control from the players, who select these powers and use them to in uence the game world. For this reason, you must give them that power back—and more—in the form of creative input. It’s easy to improvise with HeroQuest. To create a new supporting character or obstacle, simply jot down a few words and numbers on a piece of scrap paper. This makes it a simple matter to switch gears on a dime, and to follow the story leads that your players lay down for you.
@@ -2286,9 +2282,9 @@ Another way to think of this is to ask
 yourself what the PCs want, then  nd a way to work your set piece into the answer
 to that question.
  78
-a g k HeroQuest Core rules h b d
 
- e a i f q o 7p g . z h b W s
+
+ 
 Running Contests
 The secret of becoming an entertaining HeroQuest Narrator is to learn to bend the contest system to  t your style. This section contains further notes and options for running contests.
 Combined Abilities
@@ -2326,7 +2322,7 @@ There’s no particular time scale associated with contests. Both simple and ext
 Ask yourself if dragging out the resolution increases the tension, or if the moment will be lost. Also be sure you can describe the results of each round without certain consequences. If in doubt, use a shorter contest, perhaps treating it as a series of  ashbacks.
 Killer Korol (played by Chris), a noted warrior, lover, and poet of the Varmandi clan, learns of a nymph who lives in a pool off of the Swan Creek. After several trips to scout her out, he  nally gets a glance of this unearthly beauty. He is enamored, and declares he must have her. The Narrator, Dana,  gures seducing the elusive nymph could take weeks. Because the other players have made plans for a trip to Wintertop, she decides to run an extended contest over several sessions.
  80
-a g k HeroQuest Core rules h b d
+
 
 For the  rst round, Korol spreads  ower petals over the waters of the pool and offers the nymph a  ne silver necklace. From poolside he recites poetry extolling her great beauty and his love for her. He can see her watching from below. Chris uses Korol's Seduce Women With Poetry augmented by Know Gifts Women Want. His adjusted skill is 5W. But nymphs will not accept just any man. The nymph resists with her Resist Mortal Suitor, rated at 11W because it is a hard contest. Dana rules that nymphs aren't women, and assesses an additional -3 penalty to Korol. Chris feels this is a de ning moment for Korol, and pre-spends a hero point to help improve his chances. Dana reminds him to describe the hero point use, so Chris says, “I draw on my experiences patrolling the local area to compare her pool favorably to all bodies of water within a day's ride.” He rolls a 7 and Dana rolls a 10 for the nymph. The hero point bump raises Korol's failure to a success and he gains a resolution point from the marginal victory. The nymph rises up out of the pool, gives Korol a kiss full on the lips, and dives back in. Korol leaves the Swan Creek more determined than ever; he has a new goal. On the trip back to his stead, Korol begins composing an elaborate poem he can use next time, still savoring the nymph's sweet taste on his lips.
 Difficulty Without Failure
@@ -2368,7 +2364,7 @@ they’re taking to achieve their objective. They must also show how these risks
 Leonidas and his Spartan captains prepare their phalanx to withstand the Persian charge at Thermopylae. The contest is framed so that they succeed in turning back the Persians if they succeed, and are overrun if they fail. The PCs engage in a group simple contest; the results of which will apply to all of them. Leonidas boosts his Spartan warrior from 18 to 18W. Cylon increases his Phalanx Fighter from 14 to 14W. Demeos boosts Fearless Fighter from 1W to 1W2. This evens their chances against their opponent’s Terrifying Army 8W2 ability.
 At the end of an extended contest (in which the Narrator treats the Terrifying Army as a horde, with one unit against each PC), the Spartans knock out the three horde units and
  82
-a g k HeroQuest Core rules h b d
+
 
 win. The Persians are driven back, losing the battle. Cylon is out, too, however, suffering a Marginal Defeat. He’s dead. Leonidas wins with a marginal victory. He’s dead. Demeos ends on a major victory. He’s merely injured.
 missile  ghts. In reality, missile combat is a game of caution;  ghters run for cover when they’re  red on, then hunker down and plink at each other. Dramatic missile combats come in two varieties: the duel, and the fast-moving action sequence.
@@ -2426,7 +2422,7 @@ Character A is trying to do something bad to character B; character B is trying 
 In either case, the results of the contest are fairly easy to determine. In the  rst instance, character A either succeeds, or doesn’t, and negative consequences strike the loser. In the second, one side wins, the other loses.
 Sometimes, though, the two sides in a contest may have goals that do not directly contract one another.
 A huntsman pursues a nurse, who is trying to escape through the forest with two small children. The huntsman wants to kill the nurse. The nurse wants to save the children.
-a g k HeroQuest Core rules h b d
+
 
 When encountering mismatched goals, your  rst job is to determine whether the mismatch is complete, or partial.
 In a complete mismatch, neither side is at all interested in preventing the other’s goal. A complete mismatch does not result in a contest; the Narrator asks what the PCs are doing, and then describes each participant succeeding at their goals.
@@ -2471,9 +2467,9 @@ In certain settings, like military adventure, the killing of helpless foes may b
 Often what players really want is the chance to rightfully kill a bunch of bad guys in righteous combat. Satisfy this need by pumping up the results when they overcome anonymous or essentially interchangeable minor foes. Treat complete, major or even minor victories as viscerally satisfying instant kills.
 Likewise, marginal or even minor victories may mean not that enemies are incapacitated, but that they  ee the  eld of battle, removing themselves as threats. (Don’t do this in cases where the PCs want to capture their enemies for ransom or interrogation.)
  86
-a g k HeroQuest Core rules h b d
 
- e a i f q o 7p g . z h b W s
+
+ 
 Community Resources and Support
 Some series revolve around the relationship between a band of in uential  gures and the community they protect. In defense of the community, they can bolster, expend, and juggle its various resources.
 Defining Your Community
@@ -2527,7 +2523,7 @@ c) ignored them and kept on
 scavenging (+1 to Wealth) d)turned them against their enemies (+1 to Diplomacy) e) felt their futures as a new color in the world (+1 to
 Psionics)
  88
-a g k HeroQuest Core rules h b d
+
 
 Narrators who want resource depletion to lead to longer-lasting social penalties can, at the cost of some extra bookkeeping, have the characters shed a 3-point penalty at the end of each interval.
     RESOURCE DEPLETION TABLE
@@ -2606,7 +2602,7 @@ Depletion Penalty
 -6
   Complete Defeat
 -9
- a g k HeroQuest Core rules h b d
+ 
 
     RESOURCE NOTATION TABLE
               Total
@@ -2686,9 +2682,9 @@ Narrators can inject a jolt into their long-running series by switching the scal
   Counting Cows
 Groups who wish to quantify community resources even further can tie their more concrete resource abilities to particular numbers per rating point. You might decide that each point of Wealth rating indicates a million dollars, twenty- ve cows, or a chest of gold. Each point of Warfare might indicate a speci c number of fully equipped soldiers and one piece of  eld artillery.
 92
-a g k HeroQuest Core rules h b d
 
- e a i f q o 7p g . z h b W s
+
+ 
 Creating Genre Packs
 This chapter shows Narrators how to adapt the game to various genres and settings.
 A genre pack is an information kit for your players, telling them what sort of world they’ll be operating in, what they can expect to be doing in it, and what extraordinary abilities (if any) they can use to accomplish these aims.
@@ -2728,7 +2724,7 @@ Abilities for cultural keywords re ect the background knowledge the character ga
 • knowledge of an area, which may range from a neighborhood to an entire region, depending on the distance people travel in that culture in the course of their ordinary lives
 • (in pre-industrial societies) one or more subsistence skills, such as farming, hunting, foraging, and various crafts
 • (in modern societies) basic education in reading, math, and so on. These abilities can usually be left implicit and needn’t be spelled out.
-a g k HeroQuest Core rules h b d
+
 
 Many culture keywords will also include a working knowledge of a religious faith or ideology. Pantheistic cultures may allow you to take a general keyword for the core mythology and then take one or more religious keywords to specialize in the rites and myths of particular gods of their pantheons.
 In some settings characters might belong to two cultures: a base culture and a sub-culture.
@@ -2775,7 +2771,7 @@ Like any shaman, you dispense advice to the people. You embody the great spirit 
 Abilities: Give Advice, Predict Weather, Mythology: Bitter Wind, Good Humor, Protectiveness, Raging Fury, Shaman
 Magical Abilities: Summon Winds, Dismiss Winds, Whip Up Snow, Resist Cold
 96
-a g k HeroQuest Core rules h b d
+
 
 Magic
 To build magic into your setting,  rst create a framework. If there are multiple origins for magic, create a framework for each. The framework can be a few paragraphs long or run for thousands of words, depending on how tightly you wish to de ne your world. Some players love detail; others will skim any documents you send them and rely on you to explain as you go.
@@ -2821,7 +2817,7 @@ Each type of item requires its own separate crafting ability: Create Magic Weapo
 Certain cultures or schools of magic may specialize in particular items. Nomadic shamans may make items from animal products. Artfully crafted glass and metals are made only in large settlements capable of sustaining populations of artisans.
 Depending on the rules of magic in your world, you may want to require that makers of these items can themselves work the type of magic they’re instilling in their items: if you want
 98
-a g k HeroQuest Core rules h b d
+
 
 to create a Fire-Breathing Sword, you need the magical ability Fire-Breathing.
 It is not unreasonable to rule that characters must get a complete victory to craft a fully functioning item. Lesser results may get you items that work only brie y (perhaps only once in the case of a marginal victory), or deliver only partial results. A less-than-perfect Fire-Breathing Sword may throw off a burning aura that is somewhat useful as a light source, but does nothing to burn your enemies in battle. Although unpredictably wonky results are more fun, here are default ranges for imperfect magical items, for moments when inspiration fails you:
@@ -2865,7 +2861,7 @@ Player-created limitations should be at least as credible as the examples from t
 These limitations function as a type of  aw. As with any  aw, make sure that the brunt of the disadvantage falls on the player and his character, not on the group as a whole. Enforce this even when the player can point to multiple examples in the source material. The classic instance of this would be the power that malfunctions and turns the hero into a berserk killing machine who attacks his friends.
 It is not uncommon for players to happily build limitations into their super-characters, but to rebel when you do what a comic book writer would do, and insert them into the story to prevent the character from doing something obvious to bring the story to a premature conclusion. Junk limitations entirely if you think some of your players will object to their use. Comic book heroes tend to have absolute powers, which work all the time unless blocked by a limitation. HeroQuest characters are
  100
-a g k HeroQuest Core rules h b d
+
 
  always limited by their ratings, so all you need to do to protect a plot situation requiring a high likelihood of failure is to assign it a high resistance.
 AC Comics’ marquee character, Uberhuman, only fails while using his X-ray vision power when the thing he’s trying to perceive is shielded by lead. HeroQuest character Ultraperson fails whenever his player rolls poorly in comparison to the Resistance.
@@ -2920,7 +2916,7 @@ If you look to the source material, you’ll see that psychic powers are kept ge
 You may wish to impose limits on ability ratings. Another way to handle this is to cap degree of success for mental powers. Perhaps all major and complete successes are treated as minor. Or you can impose a more dif cult resistance to plot-harmful abilities.
 Outside of science  ction, stories in which multiple protagonists exhibit mental powers are rare. Your standard horror/mystery allows for one psychic among a team of
 102
-a g k HeroQuest Core rules h b d
+
 
 otherwise normal investigators. You may wish to permit only one player—perhaps the one with the best attendance record— to give his PC psychic powers. This single psychic should be restricted to one to three extraordinary abilities. To save time creating write-ups, you might ask the player to, drawing on genre material for inspiration, propose the types of abilities he wants to have. Then you can write up detailed descriptions for only these powers. This is less work for you, but risks disappointing a player who envisioned the ability with different limitations.
 Species Traits
@@ -2969,7 +2965,7 @@ Elven Longevity: The High Elves of Ammelon are effectively immortal. Though susc
 Animals that never pose a challenge to people in any way don’t warrant ability ratings. Treat them as a part of the scenery. A swarm of ants might have a Resistance to an exterminator, but don’t usually need game statistics.
 Consciousness
 In fantastic settings, it’s not always clear whether a creature is just an animal, or an intelligent being in its own right. Where necessary, distinguish between the two by noting the creature’s Consciousness.
-a g k HeroQuest Core rules h b d
+
 
   Most settings require three states of Consciousness:
 Sapient: The creature is intelligent, has a personality, and can make conscious choices. It is can therefore be affected by standard social abilities, including personality traits. (This assumes that the characters attempting to do so are able to meaningfully communicate with them.) In a fantasy setting, sapient creatures might include dragons, sphinxes, and tree- men.
