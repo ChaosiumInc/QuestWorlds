@@ -1,132 +1,35 @@
+HeroQuest     
      By Robin D. Laws
 
 
-a
-  Core Rules
-h
-Moon Design Publications 3450 Wooddale Ct Ann Arbor, MI 48104
-  1
+
+
+  
 
 Credits
 Author: Robin D. Laws
-With: Jeff Richard, Ian Cooper, Lawrence Whitaker, and David Dunham.
-Project Manager: David Dunham
-Project Assistance: Simon Bray, Ian Cooper, Mark Galeotti, Neil Robinson, Darran Sims, and Graham Spearing
-Cover Painting: Jon Hodgson
-Interior Illustrations: Bernard Bittler, Simon Bray, Frederic Chenier, Dario Corallo, Gene Day, Marian Gutowski, William McAuasland, Regis Moulin, Mike O'Connor, Manoel Magalhães, Walter Moore, Duck Nicolson, Pierre Le Pivain Jean Luc Sala, Markku Silvennoinen, Darran Sims, Hiroki Tomoyuki and Keiko Yamato.
-Art Direction: Simon Bray, with assistance from David Dunham
-Copy Editing: Jeff Edman § HeroQuest Logo: Darran Sims § Layout: Rick Meints
-Playtesters: Benedict Adamson , Simon Bray, Pam Carlson, Matthew Cole, Richard Crawley, Brian Curley, Lori Ann Curley, Michael Kindt Dalzen, Andy Dawson, Mike Dawson, Alexander Dotor, Colin Driver, Nick Eden, Christian Einsporn, Stephen Elves, Mark Galeotti, Sven Grottke, Viktor Haag, Rob Helm, Shane Ivey, Guy Jobbins, Chris Kantzer, Paul King, Fabian Kuechler, Christian Kühnemund, Chris Lemens, Claudia Loroff, Jamie MacLaren, John Marron, Kevin McDonald, Newt Newport, Mike O'Connor, Kevin Pezzan, Darcy Phipps, Christine Reich, Jamie Revell, Glenn Ritchie, Roderick Robertson, Mike Rowe, Charlotte J. Rucks, Dana Schack, David Scott, Darran Sims, Russell Sims, Stewart Stans eld, Darren Staples, Brian Stewart, Erik Weissengruber, Paul Wiesner and others.
-Our appreciation to our loyal Tentacles Omega Edition Patrons:
-Mike Gibb, Paul King, Maddy Eid, Guy Hoyle, Benedict Adamson, Scott Mayne, Carl Pates, Ian Cooper, Eetu Makela, Andre Jarosch, Michael Ross, Christian Kühnemund, Timo Malvisalo, Juho Korolainen, Sidonie Calabuig,
-Erio Barale-Thomas, Ben Quant, Stephen McGinness, Shinya Hanataka, Matti Järvinen, Nick Eden, Charles Corrigan, Simon Braithwaite, Sean Foster, Olli Kantola, Andrew Dawson, Eero Tuovinen, Kevin Maroney, Dan Baker, Nick Brooke, Ed McDonald, Fabian Kuechler, and Gregory Molle.
-Contents copyright © 2009 by Moon Design Publications, all rights reserved. Similarities between characters in HeroQuest and any persons living or dead are coincidental. Cover illustration copyright ©2009 by Jon Hodgson. Interior artwork and graphics copyright © by Moon Design Publications or the artist and used by permission. Reproduction of material from this book for personal or private pro t, by photographic, electronic, or any other means for storage or retrieval, is strictly prohibited.
-Publication ISS 2001. First Printing July 2009. ISBN# 978-0-9777853-2-2
-The Glorantha game setting is created by Greg Stafford and owned by Issaries, Inc. HeroQuest and its supplements are published by Moon Design Publications.
-Would you like to know more about HeroQuest? See the extensive website at www.Glorantha.com
-To buy HeroQuest products, see your local game retailer. If you can’t  nd what you want locally, you can buy them online from Moon Design Publications at www.Glorantha.com.
+With: Jeff Richard, Ian Cooper, Lawrence Whitaker, and David Dunham.  
 
 
-Contents
-Introduction 5 Confusing Ties 24
-Tools, Not Rules
-Roleplaying in a Nutshell
-Who Prospers?
-What You Need
-Version History
-Thinking in Story Terms
-The Logic of Story Obstacles First, Second and Third Person
-5 Bump Down with Mastery 24 5 Degrees of Success 24 5 Automatic Success 24 6 Sample Contest Consequences 25 6 Climbing 25 7 Combat 25 8 Finding Your Way 25 8 Romance 25
-Creating your Character 9
-Before Starting 9 Parameters 9 Keywords 10 Concept 11 Appearance 12 Narrative Hooks 12 Choosing Abilities 13 Your Character Sheet 14 Flaws 14
-Social Con ict 25 Simple Contests 26 Consequences 27 Mock Contests 27 Dazed 29 Unconscious 29 Secret Contests 30 Lingering Bene ts 31 Group Simple Contests 32 Extended Contests 35 What Scores Represent 36
-Character Creation Methods
-Dwayne-O’s Abilities, Synopsized
-The List Method
-The As-You-Go Method
-Creating Entertaining and Effective Characters Sympathy
-15 Backwards Compatibility 37 16 Poker Chips 39 16 Example Reversed: Jenny Fails To Escape 40 17 Disengagement in Group Extended Contests 42 17 Consequences and Group Extended contests 44 17 The Implied “I Try To” 46 17 Keeping Score 47 17 Contest Options 49 17 Notation 50 18 Speci c Ability Bonuses 51
-Modi ers 51
-Target Numbers of Zero or Less 51 Stretches 52 Situational Modi ers 53 Augments 53 Armor and Weapons 55 Quick Augments 55 In a Nutshell: Augments 55
-Indispensability
-Ambiguous References
-Backstory
-Cultural andLanguage Abilities
-Assigning Ability Ratings 19 Masteries 19 How Good are Masteries? 19 Boosting Keywords 20 Character Creation Recap 20 Bill Assigns His Abilities 20 Dwayne-O Walken 20 High Level Campaigns 20
-Overcoming Obstacles
-21 Possessions and Equipment 56 21 Wealth 56 21 Gaining Hero Points 57 21 Improving Your Character 57
-Hero Points 57
-Improving Keywords 57 Why Advance Characters At All? 58 Extended Contests and Healing Resistances 58 Healing Abilities 59 Resistances 59 Consequences of Healing 59 Example of Healing: The Spear Wound 59 Example of Healing: The Apology Tour 59
-How to Begin
-Contests
-Framing the Contest
-Default Ratings 22 Altering Probabilities 22 Hero Points 22 Modi ers 22 Resistance 23 Die Rolls 23 Bumps 23 Bump Up with Mastery 23 Bump Up with Hero Points 23 No Repeat Attempts 24
-3
+Introduction  
 
-
-Recovery and Healing
-Healing During an Extended Contest Relationships with Supporting Characters
-59 Creating Genre Packs 93
-59 Sample Occupational Keyword 94
-60 Pulper 94
-Relationships 60
-Changing Ability Ratings over Time 61 Relationships as Flaws 62 Followers 62 Professional Contacts 62 Availability of Followers 64 Community Centered Series 66 The Pass/Fail Cycle 67
-Extraordinary Powers 95 Sample Cultural Keyword 95 Ak-Thul 95 Sample Religious Keyword 96 Bitter Wind Shaman 96 Frameworks 96 Magic 97 Example Framework 97 Making Items 98
-Playing Stories
-67 Ordinary vs. Extraordinary 99
-68 Sample Tech Descriptions 101
-68 Example Psychic Talent 103
-69 EVP Reader 103
-69 Sample Species Keyword 104
-70 High Elves of Ammelon 104
-71 Sample Creature 105
-72 Grif n 105
-75 What is Magic in Glorantha? 107
-Gaming in Glorantha 107
-Beowulf Pass/Fail Cycle
-Fiction is Linear but Roleplaying Branches
-Resolution Methods
-Other Story Types
-Decision Tree: Choosing Your Contest Type
-Assigning Resistances
-Sample Pass / Fail Notation
-Contest Options
-In a Nutshell: Resistances 75 Collaboration Versus Authorship 77
-Narrating
-Player Responsibility
-Set Pieces
-Combined Abilities Mobs, Gangs, and Hordes Mass Effort
-Running Contests 79
-Force vs. Words 79 Extremely Extended Contests 80 Dif culty Without Failure 81 Arduous Auto-Success 81 Decision Tree: 81 Tricky Cases 83 Non-Lethal Combat 83 De ning Your Community 87 De ning Resources 87
-Community Resources and Support
-Sample Questionnaire Questions 88 Assigning Ability Ratings 88
-Quick Reference 123
-The Questionaire Method
-Drawing on Resources 88 Required Resource Use 89 Preserving Resources 89 In a Nutshell: Community Design 89 Nested Communities 89 Bolstering Resources 90 Background Events 90 Crisis Tests 90 Cementing Bene ts of Background Events 91 Resource Notation 91 Changes to Resource Ratings 91 Counting Cows 92 Changing Scale 92
-Other Magic 108
-77 HeroQuests 108
-78 A World of Exceptions 108
-78 Framework:Three Forms of Magic 108
-79 Runes 108
-79 Divine Magic 109 79 Ten Thousand Gods? 109 Rituals and Other Systems 112 Spirit Magic 112 Wizardry 115 The Abiding Book 116 The One True Book 116 The Runes and the Gods of Glorantha 117 Element Runes 117 Power Runes 117 Form Runes 119 Condition Runes 119 Other Runes 120 87 Pantheons and Runes 121
-88 Blank Character Sheet 126 Index 127
- Keywords
-93
-
-Introduction
  HeroQuest is a roleplaying rules engine suitable for play in any genre. (In the unlikely event that you’ve picked up this book without knowing what a roleplaying game is, go immediately to “Roleplaying In a Nutshell”, below, and then return to this section.)
 The game presents a simple and  exible system that allows Game Masters (hereafter called “Narrators”) to make decisions the way authors and screenwriters do when creating novels, TV episodes and movies. HeroQuest encourages creative input from your players, resulting in an exciting, unpredictable narrative created through group collaboration. Its abstract resolution methods and scalable character levels make it equally suitable to any genre, from epic fantasy to satirical soap opera. Whether your next game idea draws on the tropes of horror, war, westerns, martial arts, pulps, cyberpunk, cliff-hangers, giant robots, super-powered heroes, space opera, cop action, corporate intrigue, furry animals, swashbuckling adventure, Greek tragedy or drawing room comedy, HeroQuest can resolve its scenes of con ict, both big and small. You could even use HeroQuest to emulate a musical—although it won’t do any of the singing or dancing for you.
-Tools, Not Rules
-Think of HeroQuest not as a set of inviolable rules which you must adhere to in order to be running the game properly, but as a toolkit containing a variety of ways
-of resolving dramatic situations as they arise in play.
+
+Tools, Not Rules  
+
+Think of HeroQuest not as a set of inviolable rules which you must adhere to in order to be running the game properly, but as a toolkit containing a variety of waysof resolving dramatic situations as they arise in play.
 It is meant to facilitate your creativity—and then to get out of your way, and that of your players. It offers multiple ways of resolving con icts, and relies on you to choose the best one for the current moment, based on your storytelling instincts.
 Every HeroQuest Narrator can, and should, use the toolkit the game provides to run in her own way. You may run it differently from one genre to the next, or to suit the changing input of an evolving group of players.
 HeroQuest does not make speci c decisions for you, but instead helps to shape and guide your own decision-making process. It is well suited to a collaborative, friendly group with a high degree of trust in each other’s creativity.
 If the members of your group are often at odds and rely on their chosen rules kit as an arbiter between competing visions of how the game ought to develop, HeroQuest is not the rules set you need. Stick with your more structured system of choice.
-HeroQuest becomes your game as soon as you start to use it. In HeroQuest mailing lists and discussion forums, this principle is known as YGWV: Your Game Will Vary.
-Roleplaying in a Nutshell
+HeroQuest becomes your game as soon as you start to use it. In HeroQuest mailing lists and discussion forums, this principle is known as YGWV: Your Game Will Vary.  
+
+Roleplaying in a Nutshell  
+
 Experienced roleplayers have read versions of this section many times before. Move along; there’s nothing new to see here. As for Neophytes, keep reading.
-Roleplaying is a hybrid experience, combining elements of game play and collective storytelling. A group gathers together to talk its way through a spontaneously created story. All but one of the participants, called players, creates a  ctional character (called a PC, for player character) de ned by various
+Roleplaying is a hybrid experience, combining elements of game play and collective storytelling. A group gathers together to talk its way through a spontaneously created story. All but one of the participants, called players, creates a  ctional character (called a PC, for player character) de ned by various  
+
  Who Prospers?
 It is an unavoidable fact that all roleplaying games favor certain player skill sets. Where some games reward memorization, an instinct for math, and the willingness to comb through multiple rulebooks for the most useful super powers, HeroQuest tips the scales for creative improvisation, verbal acuity, and a familiarity with the techniques and stereotypes of popular  ction.
 5
