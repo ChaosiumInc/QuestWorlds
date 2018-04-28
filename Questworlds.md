@@ -1,6 +1,18 @@
 # Introduction
+Questworlds is a roleplaying rules engine suitable for play in any genre.  Its abstract resolution methods and scalable character levels make it equally suitable to any genre, from epic fantasy to satirical soap opera. 
 
- Questworlds is a roleplaying rules engine suitable for play in any genre.  Its abstract resolution methods and scalable character levels make it equally suitable to any genre, from epic fantasy to satirical soap opera. 
+# Version
+The first version of these rules Hero Wars was published in 2000 (ISBN 978-1-929052-01-1)
+
+The second version HeroQuest was published in 2003 (ISBN 978-1-929052-12-7). We refer to this as HeroQuest 1e to disambiguate.
+
+The third version HeroQuest: Core Rules was published in 2009 (ISBN 978-0-977785-32-2). We refer to this as HeroQuest 2e.
+
+HeroQuest Glorantha was published in 2015 (ISBN 978-1-943223-01-5). It is the version of the rules in HeroQuest 2e, presented for playing in Glorantha. Some sources refer to it as HeroQuest 2.1e.
+
+Questworld was published as a System Reference Document (SRD) (this document) in 2018. The version of the rules here is slightly updated, mainly to clarify ambiguities, from the version presented in HeroQuest 2e and HeroQuest 2.1e.
+
+An Appendix lists changes in this version. As the SRD is updated we will continue to track version changes there.
 
 ## Why Questworlds?
 
@@ -19,6 +31,9 @@ A player’s encounter with a plot obstacle presents a conflict which must be re
 
 Whenever the characters try to overcome a difficult obstacle, the GM decides how difficult it will be. The player chooses an ability relevant to the conflict at hand, describes exactly what the PC is trying to accomplish, and how. The PCs success or failure, as determined by die rolls, changes the direction of the story, in either a big or small way.
 
+# Optional Mechanics
+We flag some mechanics as Advanced. The Questworlds engine is intended to be rules-lite, so we distinguish between the core mechanics, and options. Previous presentations tended to include all the rules, but to make this SRD as flexible as possible we want to highlight which mechanics are optional. For this reason, [Option] indicates a rule that can be ommitted in a presentation of the rules here. We do not denote Core, as this is considered the default.
+
 ## Abilities
 Anything that a character can use to solve problems or overcome obstacles in a story can be an ability. The player decides how to describe abilities. Some abilities, such as a PC's central area of expertise, can be very broad, entailing a wide variety of related capabilities. Others might be very colorful and specific, granting a PC advantages when entering into a conflict with an opponent using a less directly applicable ability.
 
@@ -29,7 +44,7 @@ As you progress, you may gain multiple masteries. Multiple mastery is marked wit
 
 Questworlds genre packs may use symbols relevant to that genre to denote mastery, instead of M.
 
-### Hero Points
+### [Option] Hero Points
 Each character starts the game with a pool of 3 hero points, and gains more of them at the end of every session. These are a precious resource, as they are used both to boost characters’ contest results, and to improve abilities over the long term. 
 
 ## Procedure
@@ -49,7 +64,7 @@ The GM compares the two results, and determines success or failure. Armed with t
 
 If players enter into conflict with one another, each rolls dice, and the GM interprets the results, as usual.
 
-### Extended Contest
+### [Option] Extended Contest
 A sequence of die rolls, between one or more PCs and one or more supporting characters, breaks the conflict resolution into a series of actions. This method trades speed for detail. 
 
 All contest types can resolve the actions of multiple characters acting at once, on either side of the conflict.
@@ -119,7 +134,7 @@ Opposed masteries cancel out, each contestant reducing their rating by the same 
 
 You get one bump up for each level of mastery your PC has greater than your opponent’s. 
 
-## Bump Up with Hero Points
+## [Option] Bump Up with Hero Points
 You can spend a hero point to bump up any result by one step. You may only bump your own rolls, not those of PCs or supporting characters—with the exception of sidekicks and retainers, which, as extensions of your characters, you may spend hero points on. You can decide to use a hero point for a bump after the die roll results are calculated (including any bump ups resulting from masteries
 
 ## Resistance
@@ -138,26 +153,47 @@ RESISTANCE CLASS TABLE
 |Low|Base -6|
 |Very Low|Base -M or 6, whichever is lower|
  
-By default, the base starts at 14. After two sessions of play, it increases by 1. After every subsequent two-session interval, it increases by another point. 
+By default, the base starts at 14. 
 
-### Modifying resistance progression
-GMs may prefer other progression schemes that reflect the rate of advancement in their game, such as every four sessions of play, or every campaign.
+All contests use the base number + resistance class, except for contests to determine augments. Augmenting always faces a Moderate resistance—this is always the unmodified base value
 
-All contests use the base number, except for contests to determine augments. Augmenting always faces a Moderate resistance—this is always the unmodified base value
+## [Option] Resistance Progression
+After two sessions of play, the base resistance increases by 1. After every subsequent two-session interval, it increases by another point. 
 
-## Degrees of Success
+GMs may prefer other progression schemes that reflect the rate of advancement in their game, such as every four sessions of play (used in Heroquest 2.1e), or even every campaign.
+
+## [Option] Degrees of Success
 Often all you need to know to interpret the results of a resolution is whether the character succeeded or failed. 
 
 Sometimes, you’ll want to know how well a PC succeeded, or how badly he failed. This may be important in providing consequences or benefits, that drive futher story.
 
 All of the resolution methods yield degrees of success for the victor. The possible degrees of success, from least to greatest, are: marginal, minor, major, complete. Ties are also possible. 
 
-If a PC contests against NPCs or abstract forces, the interpretation of the results reveals what happens to the PC, but the GM is at liberty to narrate the fate of the NPCS or other forces depending on what makes sense for the narrative. So whilst a PC would only be killed on a Complete Defeat, and NPC might be killed on any victory. However, when two PC are engaged in a contest then a success for one contestant means a corresponding failure for the loser.
+If a PC contests against NPCs or abstract forces, the interpretation of the results reveals whether the PC gains the prize, and any consequences or benefits for the PC, and the GM narrate the fate of the NPCS or other forces depending on what makes sense. However, when two PC are engaged in a contest then a success for one contestant means a corresponding failure for the loser.
 
-Tie: Tie means no result. Effort was expended, but the net result is that nothing consequential occurs, or else both sides lose or gain equally.
-Marginal: A nominal victory or defeat, with little gain or loss. The victor gains only the immediate bene ts of winning. The loser suffers no lasting effects of his defeat beyond the end of the contest.
-Minor: A clear victory or defeat, with a signi cant but limited effect. The victor gains the immediate advantage of his victory, plus the defeat has some lasting effects, although they are typically annoyances. The loser suffers penalties that last for at least a day, possibly longer.
-Major: A resounding victory or defeat, with serious consequences for all participants. The victor may gain fame or glory. The loser is prevented from pursuing his plans until he somehow counters the results, and he will likely suffer lasting penalties. For both, the effects are long-term, lasting weeks or even months.
-Complete: A total victory or defeat, with momentous consequences for all involved. These repercussions are often permanent or irreversible; the Narrator might make their removal the goal of an entire adventure or campaign. The victor will be famous (at least for a while). The loser suffers a severe penalty.
+So whilst in a PC vs. PC duel the PC would only be killed on a Complete Defeat, an NPC, described as a resistance, might be killed on any victory, depending on how the prize was framed.
+
+The focus of the narrative should always be the PCs.
+
+Tie: Tie means no result. Effort was expended, but the net result is that nothing consequential occurs, or else both sides lose or gain equally. If this is confusing, the PC gains a Marginal Victory.
+
+Marginal Victory: Yes, but… The PC gets what they want, but there are complications, the effect is more limited than they desired, or they have to make a hard choice between benefits or accept a loss to get one
+
+Minor Victory: Yes... The PC gets exactly what they want i.e. the stakes. 
+
+Major & Complete Victory: Yes, and… The PC get the stakes, and something else. The PC gains something, stealing a possession, gaining a new follower, or become renowned in song. If you want to distinguish a Complete the effect is often permanent and no new contests should be framed for this prize. 
+
+Marginal Defeat: No, but… The PC doesn't get what they want, they lose, but it’s not a total loss. They are able to salvage something from the defeat, a little more if they sacrifice something other than the prize to their opponent, that the opponents agrees to take instead.
+
+Minor Defeat: No… They don't get what they want, they lose the stakes. Any consequences or complications such as injury or loss of influence are short term and easily shrugged off. Just take the loss and rest up.
+
+Major & Complete Defeat: No and… You don’t get what you want, and there are long-term consequences. The situation might grow worse or more complicated or you might suffer adverse consequences that will require other conflicts to resolve: an injury that needs a healer, an insult that requires a formal apology, a loss of influence with the community that requires a triumph to win their trust again etc. You might be dead, or as good as. Or perhaps you lose something, an item is taken from you, a follower deserts you, your reputation lies in ruins as poets mock your defeat. If you want to distinguish, a Complete should be bigger loss than a Major, but you can ignore this distinction often. 
+
 Use the degree of success to determine any side effects (p. 27) or lingering consequences (p. 31), but be sure to describe the success in narrative terms.
 
+# Appendix
+## Version Changes
+### Version 2.2
+* Flagged some rules that are not required, as optional to allow those using the SRD to safely omit them if not required.
+* Clarified that contest results are only reciprocal between PCs. When the contest is against a resistance set by the GM, the results indicate whether the PC gains the prize, and the GM narrates the result for the resistance based on this.
+* Rephrased the contest results to emphasise: Yes, No, And..., But..., This change is designed to dissuade GMs from misunderstanding that the prize is obtained on a marginal victory, one of the most common result types, and instead encourage GMs to allow PCs to fail forward on such a result by introducing downstream complications.
