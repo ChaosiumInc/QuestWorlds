@@ -325,8 +325,8 @@ BENEFITS OF VICTORY TABLE
 3. The GM determines the resistance. The GM opposes the PC with a resistance—the harder the task or tougher the opponent, the higher the resistance.
 4. Roll a d20 to determine the PCs degree of success or failure, then apply any bumps. The GM does the same for the resistance. Compare your rolled number with your TN to see how well you succeeded or failed with your ability. Remember to apply any bumps from masteries or hero points.
 5. Determine victory or defeat
-    1. [Optional] Determine level of victory or defeat. Compare the PCs success or failure with the GM’s on the Simple Contest Results table. It is possible for a character to succeed at their die roll but still be defeated.
-    2. [Optional] Determine consequences. 
+    1. [Option] Determine level of victory or defeat. Compare the PCs success or failure with the GM’s on the Simple Contest Results table. It is possible for a character to succeed at their die roll but still be defeated.
+    2. [Option] Determine consequences. 
 6. Describe the result based on the agreed prize.
 
 
