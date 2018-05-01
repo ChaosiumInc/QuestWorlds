@@ -490,6 +490,7 @@ that of an opponent, or an abstract resistance.
 or if you spend a hero point.
 • Degrees of success provide the magnitude of victory—or
 defeat.
+
 Framing the Contest
 Contests in HeroQuest are more abstract than resolution methods in most other roleplaying games. They don’t simply tell you how well you succeeded at a particular task: they tell you whether or not you achieved your entire goal.
 The player(s) taking part in the contest and the Narrator start by clearly agreeing on 1) what prize is up for grabs and 2) what tactics they’re using to try to get it. The Narrator then secretly makes the same determination for supporting character opposition, if any. This process is called framing the contest.
