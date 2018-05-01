@@ -9,4 +9,31 @@
 7. Describe the result.
 
 
-# [Placeholder] Degrees of Success
+## [Placeholder] Degrees of Success
+
+## [Optional] Consequences
+Contests, in addition to deciding whether the character gets the prize he was after, carry additional side effects, or consequences. These are negative if the character loses, and positive if he wins.
+
+The GM may simply determine these from what makes fictional sense, given the agreed prize for the contest, as described above. Optionally the GM may impose Consequences of Defeat or provide Benefits of Victory if they desire ongoing penalties or bonuses. This rule is used in conjuction with Degrees of Success. The GM should always respond to the flow of the story, if narrative consequences are enough, don't reach for additional mechanical penalties. 
+
+The Consequences of Defeat
+When heroes lose contests, they may suffer consequences: literal or metaphorical injuries which make it harder for the heroes to use related abilities.
+
+• In a fight or test of physical mettle, heroes wind up literally wounded.
+• In a social contest, they may suffer damage to their reputations.
+• If commanding a war, they lose battalions, equipment, or territories.
+• In an economic struggle, they lose money, other resources, or opportunities.
+• In a morale crisis, heroes may suffer bouts of crippling self-doubt.
+
+From the least to the most punishing, the five levels of consequences are: Hurt, Impaired, Injured, Dying, and Dead. The first four are possible results of any contest. Dying heroes become dead, unless they receive intervention of some sort. 
+
+### Hurt
+A hurt PC shows signs of adversity and  nds it slightly harder to do things related to his defeat. Either his  esh or pride may be bruised. If he’s halfway sensible, he’ll enter similar situations with some reluctance—at least until he recovers. Until he does, he suffers a –3 penalty to all related abilities.
+
+Characters may suffer multiple hurts to the same ability. These are cumulative until recovery occurs.
+
+Unless the Narrator has a compelling dramatic reason to decide otherwise, hurts vanish at the end of a session, after one day of rest per accumulated hurt, or when in-game events justify their removal.
+
+
+
+
