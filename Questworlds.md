@@ -33,7 +33,9 @@ A player’s encounter with a plot obstacle presents a conflict which must be re
 Whenever the characters try to overcome a difficult obstacle, the GM decides how difficult it will be. The player chooses an ability relevant to the conflict at hand, describes exactly what the PC is trying to accomplish, and how. The PCs success or failure, as determined by die rolls, changes the direction of the story, in either a big or small way.
 
 ### Optional Mechanics
-We flag some mechanics as Advanced. The Questworlds engine is intended to be rules-lite, so we distinguish between the core mechanics, and options. Previous presentations included all the rules and whilst they suggested some were optional in the text were not explicit in tagging those rules. To make this SRD as flexible as possible we want to highlight which mechanics are optional; [Option] indicates a rule that can be ommitted in a presentation of the rules here. 
+We flag some mechanics as [Option]. 
+
+The Questworlds engine is intended to be rules-lite, so we distinguish between the core mechanics, and options. Previous presentations included all the rules and whilst they suggested some were optional in the text were not explicit in tagging those rules. To make this SRD as flexible as possible we want to highlight which mechanics are optional; [Option] indicates a rule that can be ommitted in a presentation of the rules here. Sub-headings under that heading should be considered part of the optional content.
 
 If this is your first time reading these rules, you may wish to skip reading the sections marked [Option] on first reading and return to them once you understand the core mechanics.
 
@@ -94,7 +96,7 @@ A contest represents all of a PCs attempts to overcome an obstacle. If a PC is d
 ## Default Ratings
 If a PC enters a contest for which they have no relevant ability whatsoever, their base target number is a 6. Like ability ratings, it may be subject to modifiers.
 
-## Modifiers
+## [Option] Modifiers
 Where an ability rating represents a general ability to succeed in the narrative, modifiers reflect specific conditions that may make it easier or harder to overcome particular obstacles. They are applied to your ability to get a final target number (TN).
 
 Positive modifiers are called bonuses; negative modifiers are called penalties.
