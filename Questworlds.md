@@ -35,6 +35,8 @@ Whenever the characters try to overcome a difficult obstacle, the GM decides how
 ### Optional Mechanics
 We flag some mechanics as Advanced. The Questworlds engine is intended to be rules-lite, so we distinguish between the core mechanics, and options. Previous presentations included all the rules and whilst they suggested some were optional in the text were not explicit in tagging those rules. To make this SRD as flexible as possible we want to highlight which mechanics are optional; [Option] indicates a rule that can be ommitted in a presentation of the rules here. 
 
+If this is your first time reading these rules, you may wish to skip reading the sections marked [Option] on first reading and return to them once you understand the core mechanics.
+
 ## Abilities
 Anything that a character can use to solve problems or overcome obstacles in a story can be an ability. The player decides how to describe abilities. Some abilities, such as a PC's central area of expertise, can be very broad, entailing a wide variety of related capabilities. Others might be very colorful and specific, granting a PC advantages when entering into a conflict with an opponent using a less directly applicable ability.
 
