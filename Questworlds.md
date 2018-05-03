@@ -322,7 +322,7 @@ BENEFITS OF VICTORY TABLE
 |Major|+6|
 |Complete|+9|
 
-# Simple Contests
+# Simple Contest
 ## Procedure
 1. Frame the contest.
 2. Figure the PC's target number (TN) using the ability rating and any modifiers. The PCs TN is the rating of their ability, plus or minus modifiers the GM may give the PC. 
@@ -345,6 +345,38 @@ SIMPLE CONTEST RESULTS TABLE
 |Fumble|Complete Victory|Major Victory|Minor Victory|Tie*|
 
 * In a group simple contest (see below), the Game Master may declare that both contestants suffer a Marginal Defeat to indicate that, although their results cancel out with respect to each other, their situation worsens compared to other contestants.
+
+# Group Simple Contest
+
+In the group simple contest, multiple participants take part in a simple contest. Each of the participants conducts an individual simple contest, and the results for each side are collated to determine the victor. 
+
+A group simple contest may pit all of the participating PCs against a single resistance, representing one obstacle. 
+Alternatively, a group simple contest may be a series of paired match-ups between two groups of contestants. PCs forced to participate in more than one contest face the standard multiple opponent penalties.
+
+## Procedure
+1. Frame the contest.
+2. Figure each PC's target number (TN) using the ability rating and any modifiers. The PCs TN is the rating of their ability, plus or minus modifiers the GM may give the PC. 
+3. The GM determines the resistance. The GM opposes the PC with a resistance—the harder the task or tougher the opponent, the higher the resistance.
+4. For each PC, Roll a d20 to determine the PCs degree of success or failure, then apply any bumps. The GM does the same for the resistance. Compare your rolled number with your TN to see how well you succeeded or failed with your ability. Remember to apply any bumps from masteries or hero points.
+5. Determine the number of RPs scored by the victor in the contest.
+6. Describe the overall winner.
+7. Describe the result based on the agreed prize.
+
+### Boosting Results
+Because they average together the results of multiple participants, group simple contests tend to flatten outcomes, making victories more likely to be marginal or minor than major or complete. 
+
+To overcome this flattening effect, players can, at the beginning of a group simple contest, to spend one or more Hero Points to purchase a boost. A boost assures a clearer victory, should they prevail. 
+
+The cost varies by the number of heroes participating: 
+* 1 Hero Point for 1-3 heroes; 
+* 2 Hero Points for 4-6 heroes
+* 3 Hero Points for 7-9 heroes.  
+* and so on...
+
+Groups may spend twice as many Hero Points as required to gain a double boost. The points may be spent by any combination of players. They remain spent no matter how the contest resolves.
+
+On a tie or a victory, the boost increases the collective victory level by one step. A double boost increases it by
+two steps.
 
 # Appendix
 ## Version Changes
