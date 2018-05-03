@@ -358,8 +358,10 @@ Alternatively, a group simple contest may be a series of paired match-ups betwee
 2. Figure each PC's target number (TN) using the ability rating and any modifiers. The PCs TN is the rating of their ability, plus or minus modifiers the GM may give the PC. 
 3. The GM determines the resistance. The GM opposes the PC with a resistance—the harder the task or tougher the opponent, the higher the resistance.
 4. For each PC, Roll a d20 to determine the PCs degree of success or failure, then apply any bumps. The GM does the same for the resistance. Compare your rolled number with your TN to see how well you succeeded or failed with your ability. Remember to apply any bumps from masteries or hero points.
-5. Determine the number of RPs scored by the victor in the contest.
-6. Describe the overall winner.
+5. Determine the number of RPs scored by the victor in the contest from the Group Simple Contest Results table.
+6. Sum the RPs gained for each side.
+6. The side with the highest number of RP is the victor in the contest.
+    1. [Option] Determine level of victory or defeat based on the difference between the winner and loser's resource point totals on the Group Simple Contest results table. 
 7. Describe the result based on the agreed prize.
 
 ### Boosting Results
@@ -377,6 +379,27 @@ Groups may spend twice as many Hero Points as required to gain a double boost. T
 
 On a tie or a victory, the boost increases the collective victory level by one step. A double boost increases it by
 two steps.
+
+### Groupe Simple Contest Resource Points
+GROUP SIMPLE CONTEST RESULTS TABLE
+| | | |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+|Roll|Critical|Success|Failure|Fumble|
+|Critical|1|2|3|5|
+|Success|Minor Victory|High roll = Marginal Victory, else tie|Minor Victory|Major Victory|
+|Failure|Major Victory|Minor Victpry|High roll = Marginal Victory, else tie|Minor Victory|
+|Fumble|Complete Victory|Major Victory|Minor Victory|Tie*|
+
+### [Option] Degrees of Success
+| | |
+| ------------- | ------------- |
+|Victory Level|Benefit|
+|Marginal|+0|
+|Minor|+3|
+|Major|+6|
+|Complete|+9|
+
+
 
 # Appendix
 ## Version Changes
