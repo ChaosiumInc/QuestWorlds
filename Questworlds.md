@@ -125,11 +125,6 @@ GMs may also impose modifiers when, given the description of the current situati
 
 During an extended contest, they should typically last for a single exchange, and reflect clever or foolish choices by the character. 
 
-### Specific Ability Bonuses
-Questworlds encourages players to be creative about their choice of their PC's abilities, but this creates tension between narrow and broadly defined abilities.
-
-When two PCs contest and one has a broadly defined ability than the PC with a specific ability should gain either a +3 or +6 modi er, with the higher modifier reflecting a larger gap between the specificity of the two abilities.
-
 ## Resistance
 The GM chooses a Resistance to represent the difficulty of the obstacle.
 
@@ -329,8 +324,8 @@ BENEFITS OF VICTORY TABLE
 3. The GM determines the resistance. The GM opposes the PC with a resistance—the harder the task or tougher the opponent, the higher the resistance.
 4. Roll a d20 to determine the PCs degree of success or failure, then apply any bumps. The GM does the same for the resistance. Compare your rolled number with your TN to see how well you succeeded or failed with your ability. Remember to apply any bumps from masteries or hero points.
 5. Determine victory or defeat
-    1. [Option] Determine level of victory or defeat. Compare the PCs success or failure with the GM’s on the Simple Contest Results table. It is possible for a character to succeed at their die roll but still be defeated.
-    2. [Option] Determine consequences. 
+    1. [Option] Determine Degrees of Success. Compare the PCs success or failure with the GM’s on the Simple Contest Results table. It is possible for a character to succeed at their die roll but still be defeated.
+    2. [Option] Determine Benefits of Victory or Consequences of Defeat. 
 6. Describe the result based on the agreed prize.
 
 
@@ -347,7 +342,6 @@ SIMPLE CONTEST RESULTS TABLE
 * In a group simple contest (see below), the Game Master may declare that both contestants suffer a Marginal Defeat to indicate that, although their results cancel out with respect to each other, their situation worsens compared to other contestants.
 
 # Group Simple Contest
-
 In the group simple contest, multiple participants take part in a simple contest. Each of the participants conducts an individual simple contest, and the results for each side are collated to determine the victor. 
 
 A group simple contest may pit all of the participating PCs against a single resistance, representing one obstacle. 
@@ -361,7 +355,8 @@ Alternatively, a group simple contest may be a series of paired match-ups betwee
 5. Determine the number of RPs scored by the victor in the contest from the Group Simple Contest Results table.
 6. Sum the RPs gained for each side.
 6. The side with the highest number of RP is the victor in the contest.
-    1. [Option] Determine level of victory or defeat based on the difference between the winner and loser's resource point totals on the Group Simple Contest results table. 
+    1. [Option] Determine Degee of Succes based on the difference between the winner and loser's resource point totals on the Group Simple Contest results table.
+    2. [Option] Determine Benefits of Victory or Consequences of Defeat. 
 7. Describe the result based on the agreed prize.
 
 ### Boosting Results
@@ -386,18 +381,65 @@ GROUP SIMPLE CONTEST RESULTS TABLE
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 |Roll|Critical|Success|Failure|Fumble|
 |Critical|1|2|3|5|
-|Success|Minor Victory|High roll = Marginal Victory, else tie|Minor Victory|Major Victory|
-|Failure|Major Victory|Minor Victpry|High roll = Marginal Victory, else tie|Minor Victory|
-|Fumble|Complete Victory|Major Victory|Minor Victory|Tie*|
+|Success|2|1|2|3|
+|Failure|3|2|1|2|
+|Fumble|5|3|2|N/A|
 
 ### [Option] Degrees of Success
 | | |
 | ------------- | ------------- |
-|Victory Level|Benefit|
-|Marginal|+0|
-|Minor|+3|
-|Major|+6|
-|Complete|+9|
+|Difference Between Results|Winning Group's Degree of Success|
+|1|Marginal|
+|2|Minor|
+|3-4|Major|
+|5+|Complete|
+
+### Consequences and Benefits
+Depending on which approach seems to grow from the story, Consequences of Defeat or Benefits of Victory from Group Simple Contests may be assigned to the entire group, or to individual members who performed either especially well, or especially poorly. Default to rewarding or penalizing everyone. Resort to individualized repercussions or benefits only when a group reward defies dramatic credibility, or when competition within the group is a pivotal dramatic issue.
+
+# [Option] Extended Contest
+Most conflicts should be resolved using the simple contest rules. However, every so often, you’ll want to stretch out a resolution, breaking it down into a series of smaller actions, increasing the suspense the players feel as they wait to see if they succeed or fail.
+
+## Procedure
+1. Frame the contest.
+2. Figure the PC's target number (TN) using the ability rating and any modifiers. The PCs TN is the rating of their ability, plus or minus modifiers the GM may give the PC. 
+3. The GM determines the resistance. The GM opposes the PC with a resistance—the harder the task or tougher the opponent, the higher the resistance.
+4. Carry out one or more rounds, repeating as necessary.
+    1. An extended contest unfolds as a series of simple contests. At the end of each simple contest, the winning character (or resistance) scores a number of resolution points (RPs) to his tally, which varies between 1 and 5, depending on the result. Tied results leave the score unchanged.
+    2. The number of resolution points the winner garners at the end of each exchange depends on the degree of victory he scored. He gets 1 point for a marginal victory, 2 for a minor victory, 3 for a major victory, and 5 for a complete victory. 
+    3. The first of the contesting characters to accumulate a total of 5 points wins; his opponent is knocked out of the contest and loses the prize.
+5. Determine Degee of Succes based on Rising Action of Climax (below).
+6. Determine Benefits of Victory or Consequences of Defeat. 
+7. Describe the result based on the agreed prize.
+
+### Rising Action 
+Rising action refers to all of the many plot events and complications that occur between the beginning and the climax of a story. During this phase of your story, use the Rising Action Consequence table to assess results.
+
+Find the difference between the winner and loser’s resolution point scores as of the contest’s conclusion, and cross-reference with the following table to find the severity of lasting consequences suffered by the loser. 
+
+GROUP SIMPLE CONTEST RESULTS TABLE
+| | | |
+| ------------- | ------------- | ------------- | ------------- | 
+|Difference Between Results|Negative Consequences for Loser|Negative Consequences for Wnner|Vitory Level|
+|1|Hurt|2|3|
+|2|Hurt|1|2|
+|3|Impaired|2|1|
+|4|Imparied|3|2|
+|5|Injured|3|2|
+|6|Injured|3|2|
+|7|Dying|3|2|
+|8|Dead|3|2|
+|9|Dead|3|2|
+
+
+### Climax
+For the final, climactic confrontation that wraps up your story, use the following, more punishing method of doling out consequences. 
+
+Take into account all resolution points scored against all participants. Winners and losers alike add up all resolution points scored against them by any opponent. Then the losers add 1 to their totals. The result is then cross-referenced against the Climactic Scene Consequence table.
+
+
+
+
 
 
 
@@ -408,3 +450,5 @@ GROUP SIMPLE CONTEST RESULTS TABLE
 * Clarified that contest results are only reciprocal between PCs. When the contest is against a resistance set by the GM, the results indicate whether the PC gains the prize, and the GM narrates the result for the resistance based on this.
 * Rephrased the contest results to emphasise: Yes, No, And..., But..., This change is designed to dissuade GMs from misunderstanding that the prize is obtained on a marginal victory, one of the most common result types, and instead encourage GMs to allow PCs to fail forward on such a result by introducing downstream complications.
 * Provided clarity that consequences of defeat and benefit of victory are optional and the GM should focus on using the prize to narrate the outcome of a contest, only applying mechanical benefits if they make sense. 
+* Specific Ability Bonuses are dropped. They were hard for the GM to adjudicate and the same intent is better served by using a stretch on a broad ability when contesting against a PC with a more specific ability.
+* A winning group in a Group Simple Contest does not suffer a Consequence of Defeat as a result of a low RP difference victory any more, the GM should narrate consequences from the level of victory, if appropriate.
