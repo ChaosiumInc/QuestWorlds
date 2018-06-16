@@ -417,6 +417,7 @@ tasty food out of anything
 Advantages of the As-You-Go Method:
 This approach allows you the highest degree of collaboration with your Narrator. It’s faster than any other, letting you get started immediately, without any prep work. Because you get to create abilities in response to situations that come up in play, you rarely wind up with items on your character sheet that never get used. This method embodies the “show, don’t tell” rule of  ction: like a character in a story, all of your abilities are introduced through action. As-You-Go is the best way to introduce players who are completely unfamiliar with roleplaying to the form.
 Disadvantages: Some players  nd that the initial fungibility of the As-You-Go character disrupts their ability to immerse themselves in their characters. Others feel that they’d rather have their characters shape the storyline than allow the storyline to shape their characters.
+
 Assigning Ability Ratings
 Through one of the character creation methods, you’ve now de ned your abilities. These tell you what you can do. Now you assign numbers to each ability, called ratings, which determine how well they do these things.
 Assign a starting rating of 17 to the ability you  nd most important or de ning. Although most players consider it wisest to assign this rating to their area of expertise, which is also often a keyword, you don’t have to do this. All of your other abilities start at a rating of 13.
