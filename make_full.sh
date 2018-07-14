@@ -1,1 +1,0 @@
-cat 1.Contents.md 2.Introduction_Participants.md 3.Core_Mechanics.md 4.Character_Creation.md 5.Optional_Mechanics.md 6.Simple_Contests.md 7.Hero_Points.md 8.Relationships.md 9.Extended_Contests.md 10.Alternative_Character_Creation.md 11.Community_Resources_and_Support.md Appendix.md > QuestWorlds.md 

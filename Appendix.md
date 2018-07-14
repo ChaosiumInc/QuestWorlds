@@ -10,3 +10,5 @@
 * A winning group in a Group Simple Contest does not suffer a Consequence of Defeat as a result of a low RP difference victory any more, the GM should narrate consequences from the level of victory, if appropriate.
 * Dropped the negative consequences for the winner in an Extended Contest during the Rising Action. If the winner is a PC the degree of success already suggests consequences in addition to the prize on a marginal victory. So this rule is over-complication.
 * Made it clear that only a PC should use a parting shot, not the resistance.
+
+

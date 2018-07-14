@@ -27,7 +27,6 @@ If this is your first time reading these rules, you may wish to skip reading the
 
 Optional mechanics can be brought in individually, they do not have to be all brought in together.
 
-
 # Why Questworlds?
 
 Questworlds is meant to facilitate your creativity—and then to get out of your way. It is well suited to a collaborative, friendly group with a high degree of trust in each other’s creativity. If the members of your group are often at odds and rely on their chosen rules kit as an arbiter between competing visions of how the game ought to develop, Questworlds is not the rules set you need. Stick with your more structured system of choice.
@@ -38,6 +37,7 @@ Each player creates a character or PC. The PCs pursue various goals in an imagin
 
 ## GM
 The Games Master (GM), portrays the imaginary world in which the PCs live. The GM controls other people and creatures, or non-player characters, in this fictional environment. 
+
 # Core Mechanics
 Stories consist of a series of obstacles, which the heroes must overcome in order to reach their final goal.
 
@@ -101,10 +101,10 @@ The GM chooses a Resistance to represent the difficulty of the obstacle.
 
 Resistance numbers are derived from a base number, which is modified according to the resistance class, as per the following table:
 
-RESISTANCE CLASS TABLE
-| | |
-| ------------- | ------------- |
+### RESISTANCE CLASS TABLE
+
 |Class|Value|
+|-------------|-------------|
 |Nearly Impossible|Base +M2|
 |Very High|Base +M|
 |High|Base +6|
@@ -174,10 +174,10 @@ To grant an augment to a PC in an upcoming contest, you engage in a simple conte
 
 In order to work, an augment attempt must be **entertaining** and **memorable**.
 
-AUGMENT RESULTS
-| | |
-| ------------- | ------------- |
+### AUGMENT RESULTS TABLE
+
 |Contest Outcome|Bonus|
+|-------------|-------------|
 |Complete Victory|+M|
 |Major Victory|+9|
 |Minor Victory|+6|
@@ -214,6 +214,8 @@ Having inappropriate equipment can result in an action being treated as a Stretc
 
 ## Wealth
 In most settings, wealth is treated as just another ability you use to overcome obstacles. Your ability is not an objective measure of the size of your fortune, but instead indicates how well you solve problems with money and resources.
+
+
 # Character Creation
 ## As-You-Go Method
 1. Concept
@@ -269,6 +271,8 @@ GMs may decide during play that certain  aws are better expressed as penalties t
 * Tongue-tied in large gatherings. 
 * Lousy with a stick shift.
 * Can’t stand snakes.
+
+
 # Optional Mechanics
 ## Resolution Methods
 An optional resolution method is also available as follows:
@@ -379,10 +383,10 @@ Death from a non-physical contest will likely be metaphorical. If you die in an 
 
 Even only metaphorically dead, the GM may declare that the PC has undergone changes so dire as to make them unplayable. They may be incurably insane, or so socially shamed that they retire to a life of obscurity or religious meditation. They may be shunned by all around them, sent into permanent exile, or sentenced to long-term imprisonment with no hope of escape.
 
-CONSEQUENCES OF DEFAT TABLE
-| | | |
-| ------------- | ------------- | ------------- |
+### CONSEQUENCES OF DEFAT TABLE
+
 |Defeat Level|State of Adversity|Penalty|
+|:-------------:|:-------------:|:-------------:|
 |Marginal|Hurt|–3 penalty to appropriate abilities| 
 |Minor|Impaired|–6 penalty to appropriate abilities|
 |Major|injured|Automatic bump down on uses of appropriate ability|
@@ -397,10 +401,10 @@ At the end of a storyline, especially when a significant period of game-world ti
 
 A PC may apply bonuses from multiple benefits to a single contest.
 
-BENEFITS OF VICTORY TABLE
-| | |
-| ------------- | ------------- |
+### BENEFITS OF VICTORY TABLE
+
 |Victory Level|Benefit|
+|:-------------:|:-------------:|
 |Marginal|+0|
 |Minor|+3|
 |Major|+6|
@@ -425,10 +429,10 @@ Healing attempts will almost always unfold as simple contests. An exception migh
 #### Resistances
 Default resistances to remove states of adversity are as follows:
 
- HEALING RESISTANCES TABLE
-| | |
-| ------------- | ------------- |
+### HEALING RESISTANCES TABLE
+
 |Consequence of Defeat|Difficulty|
+|:-------------:|:-------------:|
 |Hurt|Low|
 |Impaired|Moderate|
 |Injured|High|
@@ -479,6 +483,8 @@ This is like the As-You-Go method but PCs spend all their points before the game
 
 ### The Prose Method
 This is the most different method as the player writes a piece of prose and the pulls abilities from that. It's intent is to emulate a character description in fiction, and indeed PCs can be built by copying text from a story and then identifying keywords. It is the least 'fair' of the character creation options.
+
+
 # Simple Contest
 ## Procedure
 1. Frame the contest.
@@ -491,10 +497,11 @@ This is the most different method as the player writes a piece of prose and the 
 6. Describe the result based on the agreed prize.
 
 ## Optional: Degrees of Success
-SIMPLE CONTEST RESULTS TABLE
-| | | |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
+
+### SIMPLE CONTEST RESULTS TABLE
+
 |Roll|Critical|Success|Failure|Fumble|
+|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 |Critical|High roll = Marginal Victory, else tie|Minor Victory|Major Victory|Complete Victory|
 |Success|Minor Victory|High roll = Marginal Victory, else tie|Minor Victory|Major Victory|
 |Failure|Major Victory|Minor Victory|High roll = Marginal Victory, else tie|Minor Victory|
@@ -521,19 +528,22 @@ Alternatively, a group simple contest may be a series of paired match-ups betwee
 7. Describe the result based on the agreed prize.
 
 ### Groupe Simple Contest Resource Points
-GROUP SIMPLE CONTEST RESULTS TABLE
-| | | | | |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
+
+### GROUP SIMPLE CONTEST RESULTS TABLE
+
 |Roll|Critical|Success|Failure|Fumble|
+|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 |Critical|1|2|3|5|
 |Success|2|1|2|3|
 |Failure|3|2|1|2|
 |Fumble|5|3|2|N/A|
 
 ### Optional: Degrees of Success
-| | |
-| ------------- | ------------- |
+
+### DEGRESS OF SUCCESS TABLE
+
 |Difference Between Results|Winning Group's Degree of Success|
+|:-------------:|:-------------:|
 |1|Marginal|
 |2|Minor|
 |3-4|Major|
@@ -557,6 +567,8 @@ Groups may spend twice as many Hero Points as required to gain a double boost. T
 
 On a tie or a victory, the boost increases the collective victory level by one step. A double boost increases it by
 two steps.
+
+
 # Hero Points
 
 Hero points are a resource that players must carefully allocate. They allow you to heighten your victories and dull your defeats. They are the price you pay to improve your abilities over time. They are also used in a few unusual adjudications—resolving tied results between PCs.
@@ -584,6 +596,8 @@ You can’t raise abilities under a keyword, nor gain a catch-up when the effect
 On occasion a Narrator may increase one of your abilities, by 1 to 3 points, or give you a new ability, usually rated at 13. These are called directed improvements.
 
 Ability increases are usually rewards for overcoming particularly important or dramatic obstacles. They happen immediately, rather than at session’s end. 
+
+
 # Relationships
 Abilities may represent the relationship of the PC to supporting characters.
 
@@ -680,6 +694,8 @@ An adversary is a rival, enemy or other individual who can be relied upon to per
 THe adversary’s goals are probably the opposite of the PC's, although he could be a bitter rival within the same community, organization, or movement.
 
 To treat an adversary as an ability, rather than a flaw, describe the PC's emotional response to them. Examples: Hates Leonard Crisp, Fears the Electronaut, Sworn Vengeance Against Heimdall. That way, you still inspire the Narrator to add the plot elements you desire, but can use your antipathy toward the enemy to augment your target numbers against them.
+
+
 # Optional: Extended Contest
 ## Procedure
 1. Frame the contest.
@@ -698,10 +714,10 @@ Rising action refers to all of the many plot events and complications that occur
 
 Find the difference between the winner and loser’s resolution point scores as of the contest’s conclusion. Determine the outcome for the PCs either winner or loser and cross-reference with the following table to find the benefits of victory or lasting consequences.
 
-GROUP SIMPLE CONTEST RESULTS TABLE
-| | | | |
-| ------------- | ------------- | ------------- | ------------- | 
+### GROUP SIMPLE CONTEST RESULTS TABLE
+
 |Difference Between Results|Negative Consequences for Loser|Victory/Defeat Level|
+|:-------------:|:-------------:|:-------------:|:-------------:| 
 |1|Hurt|Marginal|
 |2|Hurt|Marginal|
 |3|Impaired|Minor|
@@ -712,7 +728,6 @@ GROUP SIMPLE CONTEST RESULTS TABLE
 |8|Dead|Complete|
 |9|Dead|Complete|
 
-
 ## Climax
 For the final, climactic confrontation that wraps up your story, use the following, more punishing method of doling out consequences. 
 
@@ -720,10 +735,10 @@ Take into account all resolution points scored against all participants. Winners
 
 To determine the winning side’s victory level for a climactic scene, cross-reference with the second-worst consequence among the defeated opponents on the Climatic Scene Victory Level table. If there is only one opponent, use their consequence of defeat.
 
-CLIMACTIC CONSEQUENCE
-| | |
-| ------------- | ------------- |
+### CLIMACTIC CONSEQUENCE TABLE
+
 |Total Resolution Points Scored Against PC|Consequence|
+|:-------------:|:-------------:|
 |0|Unharmed|
 |1|Dazed|
 |2|Hurt|
@@ -735,10 +750,10 @@ CLIMACTIC CONSEQUENCE
 |8|Dying|
 |9|Dead|
 
-CLIMACTIC SCENE VICTORY LEVEL
-| | |
-| ------------- | ------------- |
+### CLIMACTIC SCENE VICTORY LEVEL TABLE
+
 |Consequence|Victory Level|
+|:-------------:|:-------------:|
 |Hurt|Marginal|
 |Impaired|Minor|
 |Injured|Major|
@@ -816,10 +831,10 @@ Game Masters should feel free to adjust the starting difficulty up or down by on
 
 The assist alters the score against your teammate according to the result of a simple contest
 
-ASSIST RESULTS
-| | |
-| ------------- | ------------- |
+### ASSIST RESULTS TABLE
+
 |Contest Outcome|Change to Score Against Recipient|
+|:-------------:|:-------------:|
 |Complete Victory|-4|
 |Major Victory|-3|
 |Minor Victory|-2|
@@ -853,6 +868,8 @@ If both contestants engage in a risky gambit, the winner lodges an additional 2 
 
 ### Defensive Responses
 In an extended contest, a PC can make a defensive response, lowering the number of Resolution Points lodged against the losing party to an exchange. If the hero wins the exchange, the number of Resolution Points lodged against his opponent decreases by 1. If the hero loses, he lodges 2 fewer Resolution Points against his opponent. The total number of Resolution Points assigned by an exchange is never less than 0; there is no such thing as a negative Resolution Point.
+
+
 ## Optional: Alternative Character Creation Methods
 HeroQuest offers two optional methods of character creation: prose and list. 
 
@@ -880,6 +897,8 @@ Compose the description in complete, grammatical sentences. No lists of abilitie
 Once your narrative is finished, convert the description into a set of abilities. Mark any keywords with double underlines. Mark any other word or phrase that could be an ability with a single underline. Then write these keywords and abilities on your character sheet.
 
 There is no limit to the number of abilities a PC can gain from a single sentence, as long as the sentence is not just a list of abilities. If your GM decides a sentence is just a list, they may allow the first two abilities, or they may tell the player to rewrite the sentence. Note, however, that the player cannot specify more than one sidekick in their prose description.
+
+
 # Optional Community Resources and Support
 Some series revolve around the relationship between a band of influential figures and the community they protect. In defense of the community, they can bolster, expend, and juggle its various resources.
 
@@ -933,28 +952,19 @@ Like other modifiers to resources, depletion penalties end at the end of the cur
 
 Narrators who want resource depletion to lead to longer-lasting social penalties can, at the cost of some extra bookkeeping, have the characters shed a 3-point penalty at the end of each interval.
 
-    RESOURCE DEPLETION TABLE
-  Contest Outcome
-  Complete Victory
-Minor Victory
-    Marginal Victory
-Minor Defeat
+### RESOURCE DEPLETION TABLE
 
-Depletion Penalty
-0
--3
-
-    Major Victory
--3
-  -3
-  Marginal Defeat
--6
-  -6
-    Major Defeat
--6
-  Complete Defeat
--9
-
+|Contest Outcome|Depletion Penalty|
+|:---------------:|:-----------------:|
+|Complete Victory|0|
+|Major Victory|-3|
+|Minor Victory|-3|
+|Marginal Victory|-3|
+|Marginal Defeat|-6|
+|Minor Defeat|-6|
+|Major Defeat|-6|
+|Complete Defeat|-9|
+  
 ## Required Resource Use
 As part of your setting design, you may specify that certain actions in a setting always require the use of a community resource. Because the resource use is obligatory, it need not meet the usual criteria for entertainment value. Also, when the resource is used as an augment, the PCs can also add a second augment from some other ability, adjudicated according to the standard rules, including entertainment value criteria. (This way, the required resource use doesn’t penalize you by forcing you to augment with a low-rated resource when you could otherwise use a higher-rated ability.)
 
@@ -975,27 +985,18 @@ At the beginning of each interval, ask one of the players' to perform a simple c
 
 The result of the contest may apply a modifier to a resource, as per the following table:
 
-      RESOURCE FLUCTUATION TABLE
-  Contest Outcome
-  Complete Victory
- Minor Victory
-    Marginal Victory
-Depletion Penalty
-+9
-    Major Victory
-+6
- +3
-0
-  Marginal Defeat
-0
-    Minor Defeat
--3
-  Major Defeat
--6
-  Complete Defeat
--9
-
-
+RESOURCE FLUCTUATION TABLE
+|Contest Outcome|Depletion Penalty|
+|:---------------:|:-----------------:|
+|Complete Victory|+9|
+|Major Victory|+6|
+|Minor Victory|+3|
+|Marginal Victory|0|
+|Marginal Defeat|0|
+|Minor Defeat|-3|
+|Major Defeat|-6|
+|Complete Defeat|-9|  
+  
 Except where the group is exceptionally keen on tracking resources, the GM should skip the background events process when the PCs are long absent from home. The GM should rejigger them to serve their plot purposes when they return. The GM may also want to shuffle this process offstage when the PCs are occupied by epic events. This prevents them from having to flee from a climactic plot development to go home and tend to the beet crop.
 
 ## Crisis Tests
@@ -1035,6 +1036,8 @@ Having made permanent changes to the community’s resource ratings, you then re
 
 ## Changes from Plot Events
 You may decide that certain remarkable triumphs or horrifying catastrophes may directly alter a resource rating, independent of the seasonal resource tracking system given here. The possibility of a dramatic swing in community fortunes should be made clear by the Narrator during contest framing, so that the players know the stakes and can pull out all the stops to secure victory or stave off defeat.
+
+
 # Appendix
 ## Version Changes
 ### Version 2.2
@@ -1047,3 +1050,5 @@ You may decide that certain remarkable triumphs or horrifying catastrophes may d
 * A winning group in a Group Simple Contest does not suffer a Consequence of Defeat as a result of a low RP difference victory any more, the GM should narrate consequences from the level of victory, if appropriate.
 * Dropped the negative consequences for the winner in an Extended Contest during the Rising Action. If the winner is a PC the degree of success already suggests consequences in addition to the prize on a marginal victory. So this rule is over-complication.
 * Made it clear that only a PC should use a parting shot, not the resistance.
+
+
