@@ -1,7 +1,9 @@
-# Introduction
+# 1. Introduction
+
 Questworlds is a roleplaying rules engine suitable for play in any genre.  Its abstract resolution methods and scalable character levels make it equally suitable to any genre, from epic fantasy to satirical soap opera. 
 
-# Version
+## 1.1 Version
+
 The first version of these rules Hero Wars was published in 2000 (ISBN 978-1-929052-01-1)
 
 The second version HeroQuest was published in 2003 (ISBN 978-1-929052-12-7). We refer to this as HeroQuest 1e to disambiguate.
@@ -14,7 +16,8 @@ Questworlds was published as a System Reference Document (SRD) (this document) i
 
 An Appendix lists changes in this version. As the SRD is updated we will continue to track version changes there.
 
-# Core & Optional Mechanics
+## 1.2 Core & Optional Mechanics
+
 We flag some mechanics as Optional. 
 
 The Questworlds engine is intended to be rules-lite, so we distinguish between the core mechanics, and optional ones. Previous presentations included all the rules and whilst they suggested some were optional in the text were less explicit in tagging those rules. 
@@ -27,56 +30,76 @@ If this is your first time reading these rules, you may wish to skip reading the
 
 Optional mechanics can be brought in individually, they do not have to be all brought in together.
 
-# Why Questworlds?
+## 1.3 Why Questworlds?
 
 Questworlds is meant to facilitate your creativity—and then to get out of your way. It is well suited to a collaborative, friendly group with a high degree of trust in each other’s creativity. If the members of your group are often at odds and rely on their chosen rules kit as an arbiter between competing visions of how the game ought to develop, Questworlds is not the rules set you need. Stick with your more structured system of choice.
 
-# Participants
-## Players
+## 1.4 Numbering
+
+Sections within this document are numbered. This does not imply that implementers need number them. Numbering however makes it easy to refer to rules in this document when page numbers may vary by presentation format for the purposes of error trapping or tracking changes.
+
+## 1.5  Participants
+
+### 1.5.1 Players
+
 Each player creates a character or PC. The PCs pursue various goals in an imaginary world. 
 
-## GM
+## 1.5.2 GM
+
 The Games Master (GM), portrays the imaginary world in which the PCs live. The GM controls other people and creatures, or non-player characters, in this fictional environment. 
 
-# Core Mechanics
+# 2. Core Mechanics
+
 Stories consist of a series of obstacles, which the heroes must overcome in order to reach their final goal.
 
 A player’s encounter with a plot obstacle presents a conflict which must be resolved, either as a success or a failure. 
 
 Whenever the characters try to overcome a difficult obstacle, the GM decides how difficult it will be. The player chooses an ability relevant to the conflict at hand, describes exactly what the PC is trying to accomplish, and how. The PCs success or failure, as determined by die rolls, changes the direction of the story, in either a big or small way.
 
-## Abilities
+## 2.1 Abilities
+
 Anything that a character can use to solve problems or overcome obstacles in a story can be an ability. The player decides how to describe abilities. Some abilities, such as a PC's central area of expertise, can be very broad, entailing a wide variety of related capabilities. Others might be very colorful and specific, granting a PC advantages when entering into a conflict with an opponent using a less directly applicable ability.
 
-### Masteries
+### 2.1.2 Masteries
+
 Questworld abilities are scored on a range of 1–20, but are scalable. When you raise a rating of 20 by one point, it increases not to 21, but to 1M. The M signifies a game abstraction called a mastery. You have now reached a new order of excellence in that ability.
 
-As you progress, you may gain multiple masteries. Multiple mastery is marked with a number to the right of the M symbol. If you have 10M2, you have two masteries. 10M3 means that you have three masteries, and so on. 
+As you progress, you may gain multiple masteries. Multiple mastery is marked with a number to the right of the M symbol. If you have 10M2, you have two masteries. 10M3 means that you have three masteries, and so on.
+
+In summary, to reflect abilities, or resistances, higher than 20, we divide the ability by 20, using a mastery for each multiple of 20 the ability is, and treating the remainder as the target number. So an ability of 27 translates into 1 remainder 7 or 7M; an ability of 43 translates into 2 remainder 3 or 3M2.
 
 Questworlds genre packs may use symbols relevant to that genre to denote mastery, instead of M.
 
-## Hero Points
+## 2.2 Hero Points
+
 Each character starts the game with a pool of 3 hero points, and gains more of them at the end of every session. These are a precious resource, as they are used both to boost characters’ contest results, and to improve abilities over the long term. 
 
-## Procedure
+## 2.3 Procedure
+
 The player chooses an ability relevant to the conflict at hand, describes exactly what his character is trying to accomplish, and how. The GM may modify these suggested actions to better fit the fictional circumstances, and describes the actions of the characters or forces on the other side of the conflict. 
 
 If a PC enters a contest for which they have no relevant ability whatsoever, their base target number is a 6. Like ability ratings, it may be subject to modifiers.
 
-### Resolution Methods
+### 2.3.1 Resolution Methods
+
 The core resolution methods are as follows:
 
-#### Automatic Success
+#### 2.3.1.1 Automatic Success
+
 The PC simply succeeds. This may indicate that failure would not be interesting (such as finding an important clue, and the PC has an ability that it is credible could help to uncover that clue), or that failure would make the PC appear to be incompetent at a trivial or simple task for someone with that skill (such as a hunter bringing in the evening meal in a forest filled with game animals).
 
-#### Simple Contest
+Use Automaric Success when the PC has a relevant ability. If the PC has no relevant ability, they should find an alternate way to overcome the obstacle.
+
+#### 2.3.1.2 Simple Contest
+
 The player rolls a 20-sided die; the GM does the same. 
 
 The GM compares the two results, and determines success or failure. Armed with this knowledge, they describes the outcome of the conflict, and any consequences to either participant.
 
 If players enter into conflict with one another, each rolls dice, and the GM interprets the results, as usual.
 
-### Framing the Contest
+### 2.3.2 Framing the Contest
+
 Contests in HeroQuest are more abstract than resolution methods in most other roleplaying games. They don’t simply tell you how well a PC succeeded at a particular task: they tell you whether or not the PC achieved their goal.
 
 The player(s) taking part in the contest and the GM start by clearly agreeing on 1) what prize is up for grabs and 2) what tactics they’re using to try to get it. This process is called framing the contest.
@@ -93,10 +116,12 @@ Naming the prize: GMs start framing the contest by asking the involved player(s)
 
 • The stakes may be defensive in nature, as when the PCs try to stop supporting characters from doing something harmful, like dropping a bomb on a city, or assassinating the king.
 
-#### No Repeat Attempts
+#### 2.3.2.1 No Repeat Attempts
+
 A contest represents all of a PCs attempts to overcome an obstacle. If a PC is defeated it means that no matter how many times they tried to solve the problem with their ability, the finally had to give up. THey can try again only if they apply a new ability to the task or the GM agrees that special circumstances exist.
 
-### Resistance
+### 2.3.3 Resistance
+
 The GM chooses a Resistance to represent the difficulty of the obstacle.
 
 Resistance numbers are derived from a base number, which is modified according to the resistance class, as per the following table:
@@ -104,7 +129,7 @@ Resistance numbers are derived from a base number, which is modified according t
 ### RESISTANCE CLASS TABLE
 
 |Class|Value|
-|-------------|-------------|
+|:-------------:|:-------------:|
 |Nearly Impossible|Base +M2|
 |Very High|Base +M|
 |High|Base +6|
@@ -116,7 +141,8 @@ By default, the base starts at 14.
 
 All contests use the base number + resistance class, except for contests to determine augments. Augmenting always faces a Moderate resistance—this is always the unmodified base value
 
-### Die Rolls
+### 2.3.4 Die Rolls
+
 To determine how well a PC uses an ability, roll a 20-sided die (d20). At the same time, the GM rolls for the resistance.
 
 Compare the rolled number with the target number to determine the level of success or failure. 
@@ -126,7 +152,8 @@ Compare the rolled number with the target number to determine the level of succe
 * Failure: If the die roll is greater than the target number but not 20, the PC fails. Things do not happen as hoped.
 * Fumble: If the die roll is 20, the PC fumbles (even when the target number is 20). This is the worst result possible, and the PC will suffer a disturbing or entertaining catastrophe. 
 
-### Victory or Defeat
+### 2.3.5 Victory or Defeat
+
 The degree of success or failure of the PC and GM’s rolls are compared.
 
 If the PC has a better result than the resistance the PC has a victory and they gain the prize set out when the contest was framed. 
@@ -139,35 +166,43 @@ if the PC and GMs rolls tie, then it is a standoff.
 
 The GM describes what happens, based on their interpretation of the results.
 
-#### Better Roll
+#### 2.3.5.1 Better Roll
+
 Questworlds supports two options for the 'better roll' the highest roll, or the lowest roll. Some groups prefer lowest roll, some higher. The preference toward 'low is better', is often because because 1 is a critical and 20 a fumble, and toward 'high is better' because the winner has rolled a higher number. Groups wanting higher abilities to win out slightly more often should use higher roll. 
 
 Groups who use higher roll is better may also want to make 1 a Fumble and a critical rolling the Target Number exactly.
 
-#### Confusing Ties
+#### 2.3.5.1 Confusing Ties
+
 Most tied results are easy to describe—as inconclusive standoffs, in which neither participant gets what they wanted.
 
 In some situations, ties become difficult to visualize. Chief among these are contests with binary outcomes, where only two possible results are conceivable.
 
 The GM can either change the situation on such a tie, introducing a new element that likely renders the original prize irrelevant to both pariticipants, or resolve the ties in favor of the PC. 
 
-#### Bumps
+#### 2.3.5.2 Bumps
+
 A bump affects the degree of success or failure of the die roll. A bump up improves the result by one step, changing a fumble to a failure, a failure to a success, or a success to a critical. Bump ups come from two sources: masteries and hero points (applied in that order). A bump down reduces the degree of success of your opponent. Bump downs come from one source: masteries.
 
-#### Bump Up with Mastery
-If you’re engaged in a contest against a resistance, and you have an ability of 10M versus a resistance of 10, you enjoy an advantage. 
+#### 2.3.5.3 Bump Up with Mastery
+
+If you’re engaged in a contest against a resistance, and you have an ability of 10M versus a resistance of 10, you enjoy an advantage. You get a bump to your die roll from that mastery.
+
+You get one bump up for each level of mastery your PC has greater than your opponent’s. So against a resistance of 14 a PC's ability of 7M is treated as 7 vs. 14 but we bump the result one step in the the favor of the PC; a PC's ability of 3M2 is treated as 3 vs. 14 but we bump the result two steps in the the favor of the the PC.
+
+This reflects the fact that an ability above 20 would always succeed on a D20. Because each mastery represents automatic success (apart from a fumble) on a D20, we roll agains the remainder, and treat the mastery as a bump. So on an ability of 27 is 7M, which means a target number of 7 and bump the result; an ability of 43 means 3M2 or a target number of 3 and bump the result twice.
 
 Opposed masteries cancel out, each contestant reducing their rating by the same number of masteries until only one or neither of them has masteries. A character with two masteries enjoys the same great advantage over one with a single mastery as a character with one mastery has over an opponent with no masteries. If you have an advantage of two or more masteries over an opponent, you can pretty much count on pounding him into the dust.
 
-You get one bump up for each level of mastery your PC has greater than your opponent’s. 
+This allows QuestWorlds to represent large differences in abiilty or resistance.
 
-#### Bump Up with Hero Points
+#### 2.3.5.4 Bump Up with Hero Points
+
 You can spend a hero point to bump up any result by one step. You may only bump your own rolls, not those of PCs or supporting characters—with the exception of sidekicks and retainers, which, as extensions of your characters, you may spend hero points on. You can decide to use a hero point for a bump after the die roll results are calculated (including any bump ups resulting from masteries
 
-## Augments
-An augment is a bonus a PC gets to their target number as a result of a prior contest. This can be
-either a contest they took part in, or one performed by someone else, most likely a PC. Unlike the case of a
-Benefit of Victory, which is a side effect of a contest conducted for another reason, an augment contest is
+## 2.4 Augments
+
+An augment is a bonus a PC gets to their target number as a result of a prior contest. This can be either a contest they took part in, or one performed by someone else, most likely a PC. Unlike the case of a Benefit of Victory, which is a side effect of a contest conducted for another reason, an augment contest is 
 conducted for the sole purpose of gaining a bonus.
 
 To grant an augment to a PC in an upcoming contest, you engage in a simple contest against a Moderate resistance. The player frames the contest, making it clear how their PC's action will assist the recipient (who might be themselves, or another PC).
@@ -177,7 +212,7 @@ In order to work, an augment attempt must be **entertaining** and **memorable**.
 ### AUGMENT RESULTS TABLE
 
 |Contest Outcome|Bonus|
-|-------------|-------------|
+|:-------------:|:-------------:|
 |Complete Victory|+M|
 |Major Victory|+9|
 |Minor Victory|+6|
@@ -195,13 +230,16 @@ It is impossible to augment an augment roll.
 
 Augments last for the duration of a single contest, whether simple or extended.
 
-### Quick Augments
+### 2.4.1 Quick Augments
+
 Although some players like the uncertainty of rolling Game Masters may choose to run their game with calculated augments: divide the augmenting ability by 5 and round up.
 
-### Plot Augments
+### 2.4.2 Plot Augments
+
 A plot augment is earned by overcoming a particular plot obstacle created by the Game Master. The magnitude of the plot augment is +3, +6, +9, or +M. The more challenging the plot obstacle, the higher the augment.
 
-## Armor and Weapons, Possessions and Equipment
+## 2.5 Armor and Weapons, Possessions and Equipment
+
 Questworlds models arms and armor like it does everything else: any piece of gear, if sufficiently important to even mention, is treated as an ability the PC uses to solve problems. 
 
 The degree to which a PC can overcome an obstacle with their armor and weapons depends not on any qualities inherent to the objects themselves, but to the points the player has allocated to the ability. 
@@ -212,14 +250,17 @@ Similarly, Questworlds treats your possessions and equipment like it does everyt
 
 Having inappropriate equipment can result in an action being treated as a Stretch.
 
-## Wealth
+## 2.6 Wealth
+
 In most settings, wealth is treated as just another ability you use to overcome obstacles. Your ability is not an objective measure of the size of your fortune, but instead indicates how well you solve problems with money and resources.
 
+# 3. Character Creation
 
-# Character Creation
-## As-You-Go Method
+## 3.1 As-You-Go Method
+
 1. Concept
 The concept is a brief phrase, often just a couple of words, that tells the GM and other players what the PC does and how they act. When in doubt, start with a noun or phrase indicating the PC’s profession or area of expertise, and modify it with an adjective suggesting a dominant personality trait:
+
 * haughty priestess
 * hotshot lawyer
 * naïve warrior
@@ -227,13 +268,15 @@ The concept is a brief phrase, often just a couple of words, that tells the GM a
 * remorseful assassin
 * sardonic ex-mercenary 
 * slothful vampire
+
 2. Now provide the character with a name.
 3. If the series uses other keywords, such as those for culture or religion, the PC may have them for free.
 4. When events in the story put the PC in a situation where the player wants them to do something, the player makes up an applicable ability on the spot. The first time the PC uses an ability (including the two the PC starts play with), assign an ability rating to it. This may be a breakout ability from a keyword. The PC is restricted to only one Sidekick.
 5. If the player wants, describe flaws.
 6. Once the PC has 12 abilities (including the two for character concept), and up to three flaws the player is done creating their character.
 
-## Assigning Ability Ratings
+## 3.2 Assigning Ability Ratings
+
 A player has now defined a PC's abilities. These tell everyone what the PC can do. Now the player assigns numbers to each ability, called ratings, which determine how well they do these things.
 
 The player assigns a starting rating of 17 to the ability they find most important or defining. Although most players consider it wisest to assign this rating to their area of expertise, which is also often a keyword, they don’t have to do this. All other abilities start at a rating of 13.
@@ -242,7 +285,8 @@ Now the player may spend up to 20 points to boost any of the PC's various abilit
 
 Some genre packs may require PCs to have additional keywords that reflect the setting. These additional keywords come from the 12 ability allowance, so in many genres the PCs will have fewer wildcard abilities but better fit the setting.
 
-## Keywords
+## 3.3 Keywords
+
 A player may build a character around one or more keywords. A keyword gives the PC a package deal: the PC gets a number of abilities by selecting a pre-existing character concept, which the player then modifies. 
 
 Keywords are best suited for use as the character’s core area of expertise. 
@@ -257,7 +301,8 @@ Here are two ways to handle keywords. If in doubt, choose Umbrella.
 
 In some settings, an ability may be listed in more than one of a character’s keywords. Choose only one to detail it under. 
 
-## Flaws
+## 3.3 Flaws
+
 A player may assign up to three flaws to their PC. Common flaws include:
 
 * Personality traits:surly, petty, compulsive.
@@ -272,9 +317,12 @@ GMs may decide during play that certain  aws are better expressed as penalties t
 * Lousy with a stick shift.
 * Can’t stand snakes.
 
+# 5. Simple Contests
 
-# Simple Contest
-## Procedure
+## 5.1 Simple Contest
+
+### 5.1.1 Procedure
+
 1. Frame the contest.
 2. Figure the PC's target number (TN) using the ability rating and any modifiers. The PCs TN is the rating of their ability, plus or minus modifiers the GM may give the PC. 
 3. The GM determines the resistance. The GM opposes the PC with a resistance—the harder the task or tougher the opponent, the higher the resistance.
@@ -284,7 +332,7 @@ GMs may decide during play that certain  aws are better expressed as penalties t
     2. Optional: Determine Benefits of Victory or Consequences of Defeat. 
 6. Describe the result based on the agreed prize.
 
-## Optional: Degrees of Success
+### 5.1.2 Optional: Degrees of Success
 
 ### SIMPLE CONTEST RESULTS TABLE
 
@@ -297,13 +345,15 @@ GMs may decide during play that certain  aws are better expressed as penalties t
 
 * In a group simple contest (see below), the Game Master may declare that both contestants suffer a Marginal Defeat to indicate that, although their results cancel out with respect to each other, their situation worsens compared to other contestants.
 
-# Group Simple Contest
+## 5.2 Group Simple Contest
+
 In the group simple contest, multiple participants take part in a simple contest. Each of the participants conducts an individual simple contest, and the results for each side are collated to determine the victor. 
 
 A group simple contest may pit all of the participating PCs against a single resistance, representing one obstacle. 
 Alternatively, a group simple contest may be a series of paired match-ups between two groups of contestants. PCs forced to participate in more than one contest face the standard multiple opponent penalties.
 
-## Procedure
+### 5.2.1 Procedure
+
 1. Frame the contest.
 2. Figure each PC's target number (TN) using the ability rating and any modifiers. The PCs TN is the rating of their ability, plus or minus modifiers the GM may give the PC. 
 3. The GM determines the resistance. The GM opposes the PC with a resistance—the harder the task or tougher the opponent, the higher the resistance.
@@ -315,7 +365,7 @@ Alternatively, a group simple contest may be a series of paired match-ups betwee
     2. [Option] Determine Benefits of Victory or Consequences of Defeat. 
 7. Describe the result based on the agreed prize.
 
-### Groupe Simple Contest Resource Points
+### 5.2.2 Groupe Simple Contest Resource Points
 
 ### GROUP SIMPLE CONTEST RESULTS TABLE
 
@@ -326,9 +376,7 @@ Alternatively, a group simple contest may be a series of paired match-ups betwee
 |Failure|3|2|1|2|
 |Fumble|5|3|2|N/A|
 
-### Optional: Degrees of Success
-
-### DEGRESS OF SUCCESS TABLE
+### OPTIONAL: DEGRESS OF SUCCESS TABLE
 
 |Difference Between Results|Winning Group's Degree of Success|
 |:-------------:|:-------------:|
@@ -337,15 +385,18 @@ Alternatively, a group simple contest may be a series of paired match-ups betwee
 |3-4|Major|
 |5+|Complete|
 
-### Optional Consequences and Benefits
+### 5.2.4 Optional Consequences and Benefits
+
 Depending on which approach seems to grow from the story, Consequences of Defeat or Benefits of Victory from Group Simple Contests may be assigned to the entire group, or to individual members who performed either especially well, or especially poorly. Default to rewarding or penalizing everyone. Resort to individualized repercussions or benefits only when a group reward defies dramatic credibility, or when competition within the group is a pivotal dramatic issue.
 
-### Optional: Boosting Results
+### 5.2.5 Optional: Boosting Results
+
 Because they average together the results of multiple participants, group simple contests tend to flatten outcomes, making victories more likely to be marginal or minor than major or complete. 
 
 To overcome this flattening effect, players can, at the beginning of a group simple contest, to spend one or more Hero Points to purchase a boost. A boost assures a clearer victory, should they prevail. 
 
 The cost varies by the number of heroes participating: 
+
 * 1 Hero Point for 1-3 heroes; 
 * 2 Hero Points for 4-6 heroes
 * 3 Hero Points for 7-9 heroes.  
@@ -356,17 +407,17 @@ Groups may spend twice as many Hero Points as required to gain a double boost. T
 On a tie or a victory, the boost increases the collective victory level by one step. A double boost increases it by
 two steps.
 
-
-# Hero Points
+# 6. Hero Points
 
 Hero points are a resource that players must carefully allocate. They allow you to heighten your victories and dull your defeats. They are the price you pay to improve your abilities over time. They are also used in a few unusual adjudications—resolving tied results between PCs.
 
-## Gaining Hero Points
+## 6.1 Gaining Hero Points
 
 You get 3 hero points at the beginning of every session. During the session, all Hero Points
 must be spent, either on improving contest results or character improvement. At the end of the session, unspent points are lost.
 
-## Improving Your Character
+## 6.2 Improving Your Character
+
 You may improve any ability by 1 point per session, at a cost of 1 hero point.
 
 It costs 1 Hero Point to raise a single breakout ability under the keyword, or 2 points to raise the entire keyword or runic affinity by a point.
@@ -375,21 +426,24 @@ You can add a new ability by spending 1 point; it begins with a rating of 13.
 
 You can add a new breakout ability by spending 1 point; it begins with a rating of +1 to the keyword it modifies
 
-## Catch-Ups
+## 6.3 Catch-Ups
+
 A package deal, called a catch-up, applies whenever you acquire a new mastery, up to three abilities or keywords of your choice also increase by 3 points apiece. Only abilities or keywords with values 5 or more points behind your newly adjusted rating in the raised ability qualify for a catch-up.
 
 You can’t raise abilities under a keyword, nor gain a catch-up when the effective value of a subability reaches a mastery (since it’s the keyword, not the abilities under it, which has a rating).
 
-## Directed Improvements
+## 6.4 Directed Improvements
+
 On occasion a Narrator may increase one of your abilities, by 1 to 3 points, or give you a new ability, usually rated at 13. These are called directed improvements.
 
-Ability increases are usually rewards for overcoming particularly important or dramatic obstacles. They happen immediately, rather than at session’s end. 
+Ability increases are usually rewards for overcoming particularly important or dramatic obstacles. They happen immediately, rather than at session’s end.
 
+# 7. Relationships
 
-# Relationships
 Abilities may represent the relationship of the PC to supporting characters.
 
-## Supporting Characters
+## 7.1 Supporting Characters
+
 Many relationships connect the PC to supporting characters controlled by the Game Master.
 
 When the PC tries to use one of these relationships to solve a problem, they contest with their relationship ability. The PC can’t simply go to the supporting character they have a relationship with, stick them with the problem, and expect to see it solved.
@@ -403,31 +457,37 @@ Before putting supporting characters at serious risk, Game Masters should make s
 When supporting characters undertake significant risk, the supporting character may suffer a consequence of defeat commensurate with the level of the defeat in the contest. Or
 it may simply be the PC’s relationship with that is damaged or destroyed.
 
-## Allies
+## 7.2 Allies
+
 An ally is a character of roughly the same level of accomplishment as the PC, often in the same or a similar line of work. For every favor a PC asks of them, they’ll ask one of them. These reciprocal favors will be roughly equivalent in terms of risk, time commitment, difficulty, and inconvenience.
 
-## Patrons
+## 7.3 Patrons
+
 Patrons enjoy greater access to resources than the PC, either through personal ownership (as in a Merchant Prince) or authority (as in the governnor of a province). They may lend the PC advice or provide them with resources but are too busy and important to personally perform tasks for them. They may hire the PC to do jobs, or issue orders within a command structure to which they both belong.  
 
 When a PC rolls their Patron relationship, the Game Master adjusts the difficulty depending on what
 the PC has done for them lately.
 
-## Contacts
+## 7.4 Contacts
+
 A contact is a specialist in an occupation, skill, or area of expertise. Contacts provide information and perform minor favors, but will expect information or small favors from the PC in return.
 
 You can describe a contact as being a particular individual, or as a group of similar individuals. 
 
-### Occupational Contacts
+### 7.4.1 Occupational Contacts
+
 Any occupational keyword can be treated as a source of contacts. However, using an occupational keyword as a source of contacts will always be a stretch. To more reliably draw on particular contacts associated with a profession, a PC should take an explicit ability.
 
-## Followers
+## 7.5 Followers
+
 A follower is a secondary character that travels with the PC and contributes on a regular basis to their success.
 
 There are two types of followers: sidekicks and retainers.
 
 Followers need not be people, or even sentient beings: you can write up a spirit guardian, trusty robot, or companion animal as a follower.
 
-### Sidekick
+### 7.5.1 Sidekick
+
 A sidekick is a secondary character under the player's control. Most of the time they stays at the PC's side to render assistance, but they can also go off and perform errands or missions on their own. 
 
 The PC should give their sidekick a name. They should, when asked, explain how the sidekick came to be
@@ -446,7 +506,8 @@ These abilities, like those of the PC, can be improved through the expenditure o
 A player may use any of the sidekick’s abilities as they would their PC's. The companion can go off
 and do things without the PC.
 
-### Replacing Lost Sidekicks
+### 7.5.2 Replacing Lost Sidekicks
+
 As a consequence of defeats in which they participated, sidekicks can be killed or leave the PC's
 service permanently. 
 
@@ -457,7 +518,8 @@ must explain how the new sidekick has come to be their new follower.
 
 PCs with retainers may find it convenient to promote them to sidekick status, giving them names and personalities, with a sudden boost in abilities and ratings to match.
 
-### Retainers
+### 7.5.3 Retainers
+
 A retainer is a more or less anonymous servant or helper. The PC may specify a single retainer, or, where appropriate to the character concept, an entire staff of them.
 
 Like any other ability, a retainer ability allows the player to overcome relevant obstacles by engaging in a contest. To model the contribution of retainers to the PC, where the PC is the primary actor, the player can use them to augment their ability. The GM can rule that consequences
@@ -468,21 +530,23 @@ Retainers generally regard the PC with all the affection and loyalty due to an e
 If the PC loses retainers for any reason, they can replace them simply by providing a convincing
 explanation of how you go about it. 
 
-## Relationships as Flaws
+## 7.6 Relationships as Flaws
+
 Certain relationships with supporting characters act as flaws. They impose obligations on the PC, prompting the GM to present the PC with obstacles they have no choice but to overcome.
 
-### Dependents
+### 7.6.1 Dependents
+
 A dependent is a person, usually a family member or loved one, who requires the PCs aid and protection. The GM should periodically create storylines in which the dependent is endangered.
 
 Rather than taking a dependent as a flaw, the player may find it more fruitful to specify the nature of the PC's relationship as an ability, such as Love for Wife or Love for Son.
 
-### Adversaries
+### 7.6.2 Adversaries
+
 An adversary is a rival, enemy or other individual who can be relied upon to periodically disrupt the PC's plans.
 
 THe adversary’s goals are probably the opposite of the PC's, although he could be a bitter rival within the same community, organization, or movement.
 
 To treat an adversary as an ability, rather than a flaw, describe the PC's emotional response to them. Examples: Hates Leonard Crisp, Fears the Electronaut, Sworn Vengeance Against Heimdall. That way, you still inspire the Narrator to add the plot elements you desire, but can use your antipathy toward the enemy to augment your target numbers against them.
-
 
 # Appendix
 ## Version Changes
@@ -496,5 +560,4 @@ To treat an adversary as an ability, rather than a flaw, describe the PC's emoti
 * A winning group in a Group Simple Contest does not suffer a Consequence of Defeat as a result of a low RP difference victory any more, the GM should narrate consequences from the level of victory, if appropriate.
 * Dropped the negative consequences for the winner in an Extended Contest during the Rising Action. If the winner is a PC the degree of success already suggests consequences in addition to the prize on a marginal victory. So this rule is over-complication.
 * Made it clear that only a PC should use a parting shot, not the resistance.
-
 

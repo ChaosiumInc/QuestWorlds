@@ -1,3 +1,3 @@
-cat 1.Contents.md 2.Introduction_Participants.md 3.Core_Mechanics.md 4.Character_Creation.md 5.Optional_Mechanics.md 6.Simple_Contests.md 7.Hero_Points.md 8.Relationships.md 9.Extended_Contests.md 10.Alternative_Character_Creation.md 11.Community_Resources_and_Support.md Appendix.md > markdown/QuestWorlds.md
-cat 1.Contents.md 2.Introduction_Participants.md 3.Core_Mechanics.md 4.Character_Creation.md  6.Simple_Contests.md 7.Hero_Points.md 8.Relationships.md Appendix.md > markdown/QuestWorlds_Quickstart.md 
+cat 1.Introduction_Participants.md 2.Core_Mechanics.md 3.Character_Creation.md 4.Optional_Mechanics.md 5.Simple_Contests.md 6.Hero_Points.md 7.Relationships.md 8.Extended_Contests.md 9.Alternative_Character_Creation.md 10.Community_Resources_and_Support.md 11.Appendix.md > markdown/QuestWorlds.md
+cat 1.Introduction_Participants.md 2.Core_Mechanics.md 3.Character_Creation.md 5.Simple_Contests.md 6.Hero_Points.md 7.Relationships.md 11.Appendix.md > markdown/QuestWorlds_Quickstart.md 
 
