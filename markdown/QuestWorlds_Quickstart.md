@@ -1,14 +1,14 @@
 # 1. Introduction
 
-Questworlds is a roleplaying rules engine suitable for you to play in any genre.  It features an abstract, conflict-based, resolution method and scalable, customizable, character descriptions. Designed to emulate the way characters in fiction face and overcome challenges, it is suitable for a wide variety of generes and play styles. 
+QuestWorlds is a roleplaying rules engine suitable for you to play in any genre.  It features an abstract, conflict-based, resolution method and scalable, customizable, character descriptions. Designed to emulate the way characters in fiction face and overcome challenges, it is suitable for a wide variety of generes and play styles. 
 
-## 1.1 Why Questworlds?
+## 1.1 Why QuestWorlds?
 
-Questworlds is meant to facilitate your creativity, and then to get out of your way. 
+QuestWorlds is meant to facilitate your creativity, and then to get out of your way. 
 
-It is well suited to a collaborative, friendly group with a high degree of trust in each other’s creativity. Characters in Questworlds are described more in terms of their place in your imagination and the game setting than by game mechanics. 
+It is well suited to a collaborative, friendly group with a high degree of trust in each other’s creativity. Characters in QuestWorlds are described more in terms of their place in your imagination and the game setting than by game mechanics. 
 
-If your group are often at odds and rely on their chosen rules kit as an arbiter between competing visions of how the game ought to develop, or use mechanical options to decide 'what action to take', then Questworlds is not the rules set you need. Stick with your more structured system of choice.
+If your group are often at odds and rely on their chosen rules kit as an arbiter between competing visions of how the game ought to develop, or use mechanical options to decide 'what action to take', then QuestWorlds is not the rules set you need. Stick with your more structured system of choice.
 
 ## 1.2 Version
 
@@ -20,7 +20,7 @@ The third version HeroQuest: Core Rules was published in 2009 (ISBN 978-0-977785
 
 HeroQuest Glorantha was published in 2015 (ISBN 978-1-943223-01-5). It is the version of the rules in HeroQuest 2e, presented for playing in Glorantha. We refer to this as HeroQuest 2.1e.
 
-Questworlds was published as a System Reference Document (SRD) (this document) in 2018. The version of the rules here is slightly updated, mainly to clarify ambiguities, from the version presented in HeroQuest 2e and HeroQuest 2.1e. This makes this ruleset HeroQuest 2.2e, despite the name change. However, to simplify we identify this version as Questworlds 1e.
+QuestWorlds was published as a System Reference Document (SRD) (this document) in 2018. The version of the rules here is slightly updated, mainly to clarify ambiguities, from the version presented in HeroQuest 2e and HeroQuest 2.1e. This makes this ruleset HeroQuest 2.2e, despite the name change. However, to simplify we identify this version as QuestWorlds 1e.
 
 An Appendix lists changes in this version. As the SRD is updated we will continue to track version changes there.
 
@@ -28,7 +28,7 @@ An Appendix lists changes in this version. As the SRD is updated we will continu
 
 We flag some mechanics as Optional. 
 
-The Questworlds engine is intended to be rules-lite, so we distinguish between the core mechanics, and optional ones. 
+The QuestWorlds engine is intended to be rules-lite, so we distinguish between the core mechanics, and optional ones. 
 
 A rule in an optional section can  be ommitted. Variation is possible, whilst retaining the feel of QuestWorlds. Optional rules provide more detailed or complex options. They add depth, but at the cost of speed of play.
 
@@ -99,7 +99,7 @@ As you progresses, you may gain multiple masteries. Multiple mastery is marked w
 
 In summary, to reflect abilities, or resistances, higher than 20, you divide the ability by 20, using a mastery for each multiple of 20 the ability is, and treating the remainder as the target number. So an ability of 27 translates into 1 remainder 7 or 7M; an ability of 43 translates into 2 remainder 3 or 3M2.
 
-Questworlds genre packs may use symbols relevant to that genre to denote mastery, instead of M.
+QuestWorlds genre packs may use symbols relevant to that genre to denote mastery, instead of M.
 
 ## 2.2 Hero Points
 
@@ -250,7 +250,7 @@ Your GM describes what happens, based on their interpretation of the results.
 
 #### 2.3.5.1 Better Roll
 
-Questworlds supports two options for the 'better roll': the highest roll, or the lowest roll. Some groups prefer lowest roll, some higher. The preference toward 'low is better', is often because because 1 is a critical and 20 a fumble, and toward 'high is better' because the winner has rolled a higher number. Groups wanting higher abilities to win out slightly more often should use higher roll. 
+QuestWorlds supports two options for the 'better roll': the highest roll, or the lowest roll. Some groups prefer lowest roll, some higher. The preference toward 'low is better', is often because because 1 is a critical and 20 a fumble, and toward 'high is better' because the winner has rolled a higher number. Groups wanting higher abilities to win out slightly more often should use higher roll. 
 
 #### 2.3.5.1 Confusing Ties
 
@@ -319,13 +319,13 @@ A plot augment is earned when you overcome a particular plot obstacle created by
 
 ## 2.5 Armor and Weapons, Possessions and Equipment
 
-Questworlds models arms and armor like it does everything else: any piece of gear, if sufficiently important to even mention, is treated as an ability you can use to solve a problem. 
+QuestWorlds models arms and armor like it does everything else: any piece of gear, if sufficiently important to even mention, is treated as an ability you can use to solve a problem. 
 
 The degree to which you can overcome obstacles with your armor and weapons depends not on any qualities inherent to the objects themselves, but to the points you have allocated to your ability. 
 
 The difference between types of armor or weapons lies in the types of actions you can describe, and what you can accomplish in unrelated actions and unusual contests. 
 
-Similarly, Questworlds treats your possessions and equipment like it does everything else: as abilities you can use to solve problems, or to augment other abilities, which you then use to solve problems.
+Similarly, QuestWorlds treats your possessions and equipment like it does everything else: as abilities you can use to solve problems, or to augment other abilities, which you then use to solve problems.
 
 Armor and Weapons, Possessions and Equipment can be a common source of augments. However, this grows tired if over-used and you should try and restrict repated use equipment used in this way to those items that are signature items for your PC.
 
