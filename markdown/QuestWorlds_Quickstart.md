@@ -70,7 +70,7 @@ Your Game Master (GM) is the interface between your imagination and the game-wor
 
 We generally refer to the GM as 'your GM' in this document's player-facing language. However, if you are the GM for a given game, this naturally refers to you.
 
-# 2. Basic Mechanics
+# 2. Mechanics
 
 In a QuestWorlds game, stories develop dynamically as you and your GM work together to role-play the dramatic conflict between your group's PCs using their abilities in pursuit of their goals and the obstacles, challenges, or threats that your GM presents to stand in your way. 
 
@@ -349,7 +349,7 @@ Having inappropriate equipment can result in an action being treated as a Stretc
 
 In most settings, wealth is treated as just another ability you use to overcome obstacles. Your ability is not an objective measure of the size of your fortune, but instead indicates how well you solve problems with money and resources.
 
-# 3. Basic Character Creation
+# 3. Character Creation
 
 The first step in creating your character is to come up with a concept that fits in with the genre of game that your GM intends to run. With that, you can assign abilities, ratings for those abilities, and if required flaws.
 
