@@ -807,11 +807,11 @@ Your GM may decide during play that certain flaws are better expressed as penalt
 * Lousy with a stick shift.
 * Can’t stand snakes.
 
-# Advanced Character Creation Methods
+## 3.4 Advanced Character Creation
 
 HeroQuest offers two advanced methods of character creation: prose and list.
 
-## 3.4 List Method
+## 3.5 List Method
 
 1. Concept
 
@@ -831,7 +831,7 @@ The concept is a brief phrase, often just a couple of words, that tells the GM a
 5. Pick 10 additional abilities, describing them however the player wants. Only one of these abilities may be a Sidekick.
 6. If you want, describe up to 3 flaws.
 
-## 3.5 Prose Method
+## 3.6 Prose Method
 
 You writes a paragraph of text like you would see in a story outline, describing the most essential elements of your character. Include keywords, personality traits, important possessions, relationships, and anything else that suggests what you can do and why. The paragraph should be about 100 words long. 
 
@@ -883,13 +883,13 @@ A Group Simple Contest may pit all of you against a single resistance, represent
 |Success|2|1|2|3|
 |Failure|3|2|1|2|
 |Fumble|5|3|2|0|
-# Advanced Simple Contests
+## 4.3 Advanced Simple Contests
 
 Advanced options for a simple contest allow greater granularity of the results, through benefits of victory and consequences of defeat.
 
-## 4.3 Simple Contest
+## 4.4 Simple Contest
 
-### 4.3.1 Advanced Procedure
+### 4.4.1 Advanced Procedure
 
 1. Your GM frames the contest.
 2. You choose a tactic, and figure your PC's target number (TN) using the ability rating and any modifiers. The PCs TN is the rating of their ability, plus or minus modifiers the GM may give you. 
@@ -900,7 +900,7 @@ Advanced options for a simple contest allow greater granularity of the results, 
     *2. ODetermine Benefits of Victory or Consequences of Defeat.*
 6. Describe the result based on the story obstacle.
 
-### 4.3.2 Degrees of Success
+### 4.4.2 Degrees of Success
 
 ### SIMPLE CONTEST RESULTS TABLE
 
@@ -913,9 +913,9 @@ Advanced options for a simple contest allow greater granularity of the results, 
 
 * In a Group Simple Contest (see below), your GM may declare that both contestants suffer a Marginal Defeat to indicate that, although their results cancel out with respect to each other, their situation worsens compared to other contestants.
 
-## 4.4 Advanced Group Simple Contest
+## 4.5 Advanced Group Simple Contest
 
-### 4.4.1 Procedure
+### 4.5.1 Procedure
 
 1. Your GM frames the contest.
 2. You choose a tactic, and figure your PC's target number (TN) using the ability rating and any modifiers. Your TN is the rating of their ability, plus or minus modifiers the GM may give you. 
@@ -937,11 +937,11 @@ Advanced options for a simple contest allow greater granularity of the results, 
 |3-4|Major|
 |5+|Complete|
 
-### 4.4.2 Consequences and Benefits
+### 4.5.2 Consequences and Benefits
 
 Depending on which approach seems to grow from the story, your GM may assign Consequences of Defeat or Benefits of Victory from Group Simple Contests to the entire group, or to individual members who performed either especially well, or especially poorly. Your GM should default to rewarding or penalizing everyone. Your GM should resort to individualized repercussions or benefits only when a group reward defies dramatic credibility, or when competition within the group is a pivotal dramatic issue.
 
-### 4.4.3 Boosting Results
+### 4.5.3 Boosting Results
 
 Because they average together the results of multiple participants, group simple contests tend to flatten outcomes, making victories more likely to be marginal or minor than major or complete.
 
