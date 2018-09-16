@@ -957,6 +957,7 @@ The cost varies by the number of heroes participating:
 You may spend twice as many Hero Points as required to gain a double boost. The points may be spent by any combination of players. They remain spent no matter how the contest resolves.
 
 On a tie or a victory, the boost increases the collective victory level by one step. A double boost increases it by two steps.
+
 # 5. Long Contests
 
 Most conflicts should be resolved simply and quickly, using the Simple Contests rules.
