@@ -896,8 +896,11 @@ Advanced options for a simple contest allow greater granularity of the results, 
 3. Your GM determines the resistance.  If two PCs contend, your opponent figures their TN as described in step 2.
 4. Roll a d20 to determine your degree of success or failure, then apply any bumps. Your GM does the same for the resistance. Compare your rolled number with your TN to see how well you succeeded or failed with your ability. Remember to apply any bumps from masteries or hero points.
 5. Determine victory or defeat
+
     *1. Determine Degrees of Success. Compare your success or failure with the GM’s on the Simple Contest Results table.*
+    
     *2. ODetermine Benefits of Victory or Consequences of Defeat.*
+
 6. Describe the result based on the story obstacle.
 
 ### 4.4.2 Degrees of Success
@@ -924,8 +927,11 @@ Advanced options for a simple contest allow greater granularity of the results, 
 5. Determine the number of OPs scored by the victor in the contest from the Group Simple Contest Results table. On a tie the victory goes to the Better Roll.
 6. Sum the OPs gained for each side.
 6. The side with the highest number of OPs is the victor in the contest.
+
     *1. Determine Degree of Success based on the difference between the winner and loser's outcome point totals on the Group Simple Contest results table.*
+    
     *2. Determine Benefits of Victory or Consequences of Defeat.*
+
 7. Describe the result based on the agreed prize.
 
 ### DEGREES OF SUCCESS TABLE
