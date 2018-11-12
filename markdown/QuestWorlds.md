@@ -742,6 +742,8 @@ Your GM may use a costly success where failure offers no entertaining plot branc
 Even if you suffer a defeat, you still overcome the story obstacle. You also, however, suffer a state of adversity to one or more abilities, in keeping with the defeat level, as per the Consequences of Defeat Table.
 
 The state of adversity might apply, as in an ordinary contest, to the abilities you used in that contest. Usually, though, they apply to some other resource-related ability, which may come to haunt you later on. When in doubt, ask yourself if the penalty will cripple the group in dealing with contests.
+
+
 # 3. Character Creation
 
 The first step in creating your character is to come up with a concept that fits in with the genre of game that your GM intends to run. With that, you can assign abilities, ratings for those abilities, and if required flaws.
