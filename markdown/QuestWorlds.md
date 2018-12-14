@@ -1,12 +1,83 @@
+# Legal Information
+
+The QuestWorlds System Reference Document 2.2 (“QSRD22”) describes the rules of Hero Wars, HeroQuest, and QuestWorlds. You may incorporate these rules, wholly or part, into a derivative work, through the use of the Open Gaming License, Version 1.0a. You should read and understand the terms of that license before creating a derivative work from this material.
+
+The text of the Open Gaming License itself is not Open Game Content.
+
+## Product Identity
+
+The following items are hereby identified as Product Identity, as defined in the Open Game License version 1.0a, Section 1(e), and are not Open Content: All trademarks, registered trademarks, runes, proper names (characters, icons, place names, deities, etc.), plots, story elements, locations, characters, artwork, trade dress, the world and mythology of Glorantha, HeroQuest, and Hero Wars. 
+
+## Open Content
+
+Except for material designated as Product Identity (see above), the game mechanics of this Moon Design game product are Open Game Content, as defined in the Open Gaming License version 1.0a Section 1(d). No portion of this work other than the material designated as Open Game Content may be reproduced in any form without written permission.
+
+## Open Game License
+
+OPEN GAME LICENSE Version 1.0a
+The following text is the property of Wizards of the Coast, Inc. and is Copyright 2000 Wizards of the Coast, Inc ("Wizards"). All Rights Reserved.
+
+1. Definitions: (a)"Contributors" means the copyright and/or trademark owners who have contributed Open Game Content; (b)"Derivative Material" means copyrighted material including derivative works and translations (including into other computer languages), potation, modification, correction, addition, extension, upgrade, improvement, compilation, abridgment or other form in which an existing work may be recast, transformed or adapted; (c) "Distribute" means to reproduce, license, rent, lease, sell, broadcast, publicly display, transmit or otherwise distribute; (d)"Open Game Content" means the game mechanic and includes the methods, procedures, processes and routines to the extent such content does not embody the Product Identity and is an enhancement over the prior art and any additional content clearly identified as Open Game Content by the Contributor, and means any work covered by this License, including translations and derivative works under copyright law, but specifically excludes Product Identity. (e) "Product Identity" means product and product line names, logos and identifying marks including trade dress; artifacts; creatures characters; stories, storylines, plots, thematic elements, dialogue, incidents, language, artwork, symbols, designs, depictions, likenesses, formats, poses, concepts, themes and graphic, photographic and other visual or audio representations; names and descriptions of characters, spells, enchantments, personalities, teams, personas, likenesses and special abilities; places, locations, environments, creatures, equipment, magical or supernatural abilities or effects, logos, symbols, or graphic designs; and any other trademark or registered trademark clearly identified as Product identity by the owner of the Product Identity, and which specifically excludes the Open Game Content; (f) "Trademark" means the logos, names, mark, sign, motto, designs that are used by a Contributor to identify itself or its products or the associated products contributed to the Open Game License by the Contributor (g) "Use", "Used" or "Using" means to use, Distribute, copy, edit, format, modify, translate and otherwise create Derivative Material of Open Game Content. (h) "You" or "Your" means the licensee in terms of this agreement.
+
+2. The License: This License applies to any Open Game Content that contains a notice indicating that the Open Game Content may only be Used under and in terms of this License. You must affix such a notice to any Open Game Content that you Use. No terms may be added to or subtracted from this License except as described by the License itself. No other terms or conditions may be applied to any Open Game Content distributed using this License.
+3.Offer and Acceptance: By Using the Open Game Content You indicate Your acceptance of the terms of this License.
+
+4. Grant and Consideration: In consideration for agreeing to use this License, the Contributors grant You a perpetual, worldwide, royalty-free, non-exclusive license with the exact terms of this License to Use, the Open Game Content.
+
+5. Representation of Authority to Contribute: If You are contributing original material as Open Game Content, You represent that Your Contributions are Your original creation and/or You have sufficient rights to grant the rights conveyed by this License.
+
+6. Notice of License Copyright: You must update the COPYRIGHT NOTICE portion of this License to include the exact text of the COPYRIGHT NOTICE of any Open Game Content You are copying, modifying or distributing, and You must add the title, the copyright date, and the copyright holder's name to the COPYRIGHT NOTICE of any original Open Game Content you Distribute.
+
+7. Use of Product Identity: You agree not to Use any Product Identity, including as an indication as to compatibility, except as expressly licensed in another, independent Agreement with the owner of each element of that Product Identity. You agree not to indicate compatibility or co-adaptability with any Trademark or Registered Trademark in conjunction with a work containing Open Game Content except as expressly licensed in another, independent Agreement with the owner of such Trademark or Registered Trademark. The use of any Product Identity in Open Game Content does not constitute a challenge to the ownership of that Product Identity. The owner of any Product Identity used in Open Game Content shall retain all rights, title and interest in and to that Product Identity.
+
+8. Identification: If you distribute Open Game Content You must clearly indicate which portions of the work that you are distributing are Open Game Content.
+
+9. Updating the License: Wizards or its designated Agents may publish updated versions of this License. You may use any authorized version of this License to copy, modify and distribute any Open Game Content originally distributed under any version of this License.
+
+10. Copy of this License: You MUST include a copy of this License with every copy of the Open Game Content You Distribute.
+
+11. Use of Contributor Credits: You may not market or advertise the Open Game Content using the name of any Contributor unless You have written permission from the Contributor to do so.
+
+12. Inability to Comply: If it is impossible for You to comply with any of the terms of this License with respect to some or all of the Open Game Content due to statute, judicial order, or governmental regulation then You may not Use any Open Game Material so affected.
+
+13. Termination: This License will terminate automatically if You fail to comply with all terms herein and fail to cure such breach within 30 days of becoming aware of the breach. All sublicenses shall survive the termination of this License.
+
+14. Reformation: If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable.
+
+15. COPYRIGHT NOTICE
+Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc.
+
+QuestWorlds. Copyright 2018, Moon Design Publications, LLC; Authors: original rules Robin Laws, developed by Greg Stafford, Jeff Richard, Ian Cooper, David Dunham, Lawrence Whitaker, Mark Galeotti, Stephen Martin, and Roderick Robinson. 
+
+Chained Contests and Plot Edits from Mythic Russia, Copyright 2006, 2010 by Mark Galeotti, developed by Graham Robinson (for "Chained Contests") and added as Open Game Content here with permission.
+
+# Credits
+
+Original Rules; Robin Laws
+
+Further Development: Greg Stafford, Jeff Richard, Ian Cooper, David Dunham, Lawrence Whitaker, Mark Galeotti, Stephen Martin, and Roderick Robinson
+
+This Version: Ian Cooper
+
+Development Assistance (This Version): Jonathan Laufersweiler
+
 # 1. Introduction
 
-QuestWorlds is a roleplaying rules engine suitable for you to play in any genre.  It features an abstract, conflict-based, resolution method and scalable, customizable, character descriptions. Designed to emulate the way characters in fiction face and overcome challenges, it is suitable for a wide variety of genres and play styles. 
+QuestWorlds is a roleplaying rules engine suitable for you to play in any genre.  
+
+It is a traditional roleplaying game in that their is a GM and players. The players play a character, guided by the internal thoughts of their character as to what decisions they make, and the GM plays the world, including non-player characters (NPCs) and abstract threats.
+
+It features an abstract, conflict-based, resolution method and scalable, customizable, character descriptions. Designed to emulate the way characters in fiction face and overcome challenges, it is suitable for a wide variety of genres and play styles.
+
+It is a rules-lite system that facilitates beginning play easily, and resolving conflicts in play quickly.
+
+We refer to a rules-lite but traditional role-playing game as a storytelling game, after Greg Stafford's definition in *Prince Valiant*.
 
 ## 1.1 Why QuestWorlds?
 
-QuestWorlds is meant to facilitate your creativity, and then to get out of your way. 
+QuestWorlds is meant to facilitate your creativity, and then to get out of your way.
 
-It is well suited to a collaborative, friendly group with a high degree of trust in each other’s creativity. Characters in QuestWorlds are described more in terms of their place in your imagination and the game setting than by game mechanics. 
+It is well suited to a collaborative, friendly group with a high degree of trust in each other’s creativity. Characters in QuestWorlds are described more in terms of their place in your imagination and the game setting than by game mechanics.
 
 If your group are often at odds and rely on their chosen rules kit as an arbiter between competing visions of how the game ought to develop, or use mechanical options to decide "what action to take," QuestWorlds is not a rules set that provides that structure. Make sure to discuss with your group whether you are collectively on board with trying a new play style dynamic, or if you would rather stick to more structured systems.
 
@@ -50,9 +121,9 @@ It is expected that the designers of games you play based on these rules will in
 
 ## 1.4 Numbering
 
-Sections within this document are numbered. This is for the benefit of game designers and reviewers. 
+Sections within this document are numbered. This is for the benefit of game designers and reviewers.
 
-This does not imply that game designers need number the rules in their own games. 
+This does not imply that game designers need number the rules in their own games.
 
 Numbering however makes it easy to refer to rules in this document when page numbers may vary by presentation format for the purposes of error trapping or tracking changes. If you need to give us feedback about this document, that will assist us.
 
@@ -60,13 +131,13 @@ Numbering however makes it easy to refer to rules in this document when page num
 
 ### 1.5.1 Players
 
-You and your fellow players each create a Player Character (PC) to be the "avatar" or "persona" whose role you will play in the game. The PCs pursue various goals in an imaginary world, using their abilities, motivations, connections, and more to solve problems and overcome obstacles that stand in their way. 
+You and your fellow players each create a Player Character (PC) to be the "avatar" or "persona" whose role you will play in the game. The PCs pursue various goals in an imaginary world, using their abilities, motivations, connections, and more to solve problems and overcome obstacles that stand in their way.
 
 When we say 'you' in this document we may mean the player or their PC. Which should be clear from context, or explicitly noted.
 
 ### 1.5.2 Game Master
 
-Your Game Master (GM) is the interface between your imagination and the game-world in which the PCs have their adventures; describing the people, places, creatures, objects, and events therein. Your GM also plays the role of any Non-Player Characters (NPCs) with whom your PC interacts in the course of your adventures. 
+Your Game Master (GM) is the interface between your imagination and the game-world in which the PCs have their adventures; describing the people, places, creatures, objects, and events therein. Your GM also plays the role of any Non-Player Characters (NPCs) with whom your PC interacts in the course of your adventures.
 
 We generally refer to the GM as 'your GM' in this document's player-facing language. However, if you are the GM for a given game, this naturally refers to you.
 
@@ -279,6 +350,8 @@ Your GM describes what happens, based on their interpretation of the results.
 
 QuestWorlds supports two options for the "better roll": the highest roll, or the lowest roll. Some groups prefer lowest roll, some higher. The preference toward "low is better", is often because because 1 is a critical and 20 a fumble, and toward "high is better" because the winner has rolled a higher number. Groups wanting higher abilities to win out slightly more often should use higher roll. 
 
+We also use the phrase "worse roll@ to indicate the losing roll.
+
 #### 2.3.5.2 Confusing Ties
 
 Your GM will describe most tied results as inconclusive standoffs, in which neither of you gets what you wanted.
@@ -355,7 +428,6 @@ It is at your GM's discretion whether to roll augments or use quick augments. Yo
 
 A plot augment occurs when your GM decides that your victory over a previous obstacle is sufficiently relevant to the contest at hand as to warrant a bonus much like a supporting ability can. The previous contest need not have been immediately prior to the current one, as long as its results remain relevant. The magnitude of a plot augment can be +3, +6, +9, or +M. The more challenging the previous contest was and the more relevant that vitory is to the current challenge, the higher the augment. 
 
-
 ## 2.7 Advanced Mechanics
 
 You can play QuestWorlds with just the basic mechanics, and we recommend start with this simpler set of rules whilst your GM masters the less-familiar ideas like story obstacles instead of task resolution, that make QuestWorlds different from traditional RPGs.
@@ -382,9 +454,9 @@ More details on Long Contests are available in their own section.
 
 ### 2.8.2 Escalating Contests
 
-If your GM chooses Scored Contests form of Long Contest you can use an option called Escalating Contests.
+If your GM chooses Scored Contests or Chained Contests form of Long Contest you can use an option called Escalating Contests.
 
-Escalating Contests allow your GM to switch a Simple Contest to a Long Contest. To do this, simply re-interpret the Simple Contest results as the first round of a Scored Contest. For example, in a contest of magic at the Thaumaturgical Academy, Billiard, your PC, gains a Marginal Victory over his opponent Crowsky. The GM narrates the outcome, but although you get what you agreed, you want Crowskey to be humiliated. Your GM agrees to an Escalating Contest, treating the result as the first round of a Scored Contest, and scores 1 RP against Crowsky before beginning adjudication with the second round.
+Escalating Contests allow your GM to switch a Simple Contest to a Long Contest. To do this, simply re-interpret the Simple Contest results as the first round of a Scored Contest or Chained Contest. For example, in a contest of magic at the Thaumaturgical Academy, Billiard, your PC, gains a Marginal Victory over his opponent Crowsky. The GM narrates the outcome, but although you get what you agreed, you want Crowskey to be humiliated. Your GM agrees to an Escalating Contest, treating the result as the first round of a Scored Contest, and scores 1 RP against Crowsky before beginning adjudication with the second round.
 
 Escalating Contests can serve three functions:
 
@@ -1132,7 +1204,6 @@ Even if you suffer a defeat, you still overcome the story obstacle. You also, ho
 
 The state of adversity might apply, as in an ordinary contest, to the abilities you used in that contest. Usually, though, they apply to some other resource-related ability, which may come to haunt you later on. When in doubt, ask yourself if the penalty will cripple the group in dealing with contests.
 
-
 # 3. Character Creation
 
 The first step in creating your character is to come up with a concept that fits in with the genre of game that your GM intends to run. With that, you can assign abilities, ratings for those abilities, and if required flaws.
@@ -1204,7 +1275,9 @@ Your GM may decide during play that certain flaws are better expressed as penalt
 
 * Tongue-tied in large gatherings.
 * Lousy with a stick shift.
-* Can’t stand snakes.## 3.4 Advanced Character Creation
+* Can’t stand snakes.
+  
+## 3.4 Advanced Character Creation
 
 HeroQuest offers two advanced methods of character creation: prose and list.
 
@@ -1267,19 +1340,20 @@ A Group Simple Contest may pit all of you against a single resistance, represent
 4. For each of your group, roll a d20 to determine your degree of success or failure, then apply any bumps. Your GM does the same for the resistance. Compare your rolled number with your TN to see how well you succeeded or failed with your ability. Remember to apply any bumps from masteries or hero points.
 5. Determine the number of Outcome Points (OPs) scored by the victor in the contest from the Group Simple Contest Results table. On a tie the victory goes to the Better Roll.
 6. Sum the OPs gained for each side.
-6. The side with the highest number of OPs is the victor in the contest.
-7. Describe the result based on the agreed prize.
+7. The side with the highest number of OPs is the victor in the contest.
+8. Describe the result based on the agreed prize.
 
 ### 4.2.2 Group Simple Contest Resource Points
 
 ### GROUP SIMPLE CONTEST RESULTS TABLE
 
-|Roll|Critical|Success|Failure|Fumble|
+||Critical|Success|Failure|Fumble|
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 |Critical|1|2|3|5|
 |Success|2|1|2|3|
 |Failure|3|2|1|2|
 |Fumble|5|3|2|0|
+
 ## 4.3 Advanced Simple Contests
 
 Advanced options for a simple contest allow greater granularity of the results, through benefits of victory and consequences of defeat.
@@ -1306,9 +1380,9 @@ Advanced options for a simple contest allow greater granularity of the results, 
 
 |Roll|Critical|Success|Failure|Fumble|
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-|Critical|High roll = Marginal Victory, else tie|Minor Victory|Major Victory|Complete Victory|
-|Success|Minor Victory|High roll = Marginal Victory, else tie|Minor Victory|Major Victory|
-|Failure|Major Victory|Minor Victory|High roll = Marginal Victory, else tie|Minor Victory|
+|Critical|Better roll = Marginal Victory, else tie|Minor Victory|Major Victory|Complete Victory|
+|Success|Minor Victory|Better roll = Marginal Victory, else tie|Minor Victory|Major Victory|
+|Failure|Major Victory|Minor Victory|Better roll = Marginal Victory, else tie|Minor Victory|
 |Fumble|Complete Victory|Major Victory|Minor Victory|Tie*|
 
 * In a Group Simple Contest (see below), your GM may declare that both contestants suffer a Marginal Defeat to indicate that, although their results cancel out with respect to each other, their situation worsens compared to other contestants.
@@ -1323,13 +1397,13 @@ Advanced options for a simple contest allow greater granularity of the results, 
 4. For each of your group, roll a d20 to determine your degree of success or failure, then apply any bumps. Your GM does the same for the resistance. Compare your rolled number with your TN to see how well you succeeded or failed with your ability. Remember to apply any bumps from masteries or hero points.
 5. Determine the number of OPs scored by the victor in the contest from the Group Simple Contest Results table. On a tie the victory goes to the Better Roll.
 6. Sum the OPs gained for each side.
-6. The side with the highest number of OPs is the victor in the contest.
+7. The side with the highest number of OPs is the victor in the contest.
 
     *1. Determine Degree of Success based on the difference between the winner and loser's outcome point totals on the Group Simple Contest results table.*
     
     *2. Determine Benefits of Victory or Consequences of Defeat.*
 
-7. Describe the result based on the agreed prize.
+8. Describe the result based on the agreed prize.
 
 ### DEGREES OF SUCCESS TABLE
 
@@ -1359,7 +1433,9 @@ The cost varies by the number of heroes participating:
 
 You may spend twice as many Hero Points as required to gain a double boost. The points may be spent by any combination of players. They remain spent no matter how the contest resolves.
 
-On a tie or a victory, the boost increases the collective victory level by one step. A double boost increases it by two steps.# 5. Long Contests
+On a tie or a victory, the boost increases the collective victory level by one step. A double boost increases it by two steps.
+
+# 5. Long Contests
 
 Most conflicts should be resolved simply and quickly, using the Simple Contests rules.
 
@@ -1373,7 +1449,7 @@ The action can be portrayed quickly, cutting to a moment with the thief with the
 
 Another film might instead choose to make the bank robbery a pivotal turning point in the story, if not its climactic moment. It would spend many scenes building up to the safe-cracking sequence: obtaining the plans of the bank, learning the movements of the guards, crawling through the air conditioning ducts, sliding past the motion sensors and pressure plates, and finally cracking the safe itself. All of these scenes would be rounds of a long contest.
 
-Remember that QuestWorlds uses conflict resolution. If you want to describe how you overcome a sequence of obstacles to overcome the resistance then your GM should use an extended contest, if you just want to move on to the next scene, use a simple contest.
+Remember that QuestWorlds uses conflict resolution. If you want to describe how you overcome a sequence of obstacles to overcome the resistance then your GM should use an long contest, if you just want to move on to the next scene, use a simple contest.
 
 Even a movie driven by action and suspense will typically include only a handful of these set-piece sequences. They need the rest of their running times to build up to their big moments, to make us care about the characters, and to give us quiet moments to contrast with the white-knuckle parts.
 
@@ -1381,7 +1457,13 @@ So pacing may always trump your desire to work through the sequence of events, a
 
 Your GM may be tempted, to adjudicate every fight with a long contest, because fights seem like they should be played out blow-by-blow. They should resist this temptation, as fights are often repetitive exchanges of blows that can drag when everyone repeats actions from round to round. Only use long contests for fights where the PCs want to do more than slug it out toe-to-toe with their opponents until only one is left standing.
 
+There are three types of long contest. Your GM should chose one to use with their campaign: Scored Contest, Extended Contest, or Chained Contest.
+
 ## 5.1 Scored Contest
+
+Scored contests are longer and more dramatic than simple contests. Your GM uses scored contests when the outcome of the struggle is important, to generate suspense for you, or when your GM want a back-and-forth struggle. It is something you and your GM should visualize and describe. 
+
+A scored contest consists of one or more rounds, in which you perform actions that are similar to simple contests. However, actions and rounds do not decide the outcome of the whole contest, only who gains or loses resolution points (RP) at that time. In a scored contest there is no distinction between aggressor and defender, each round represents attempts by both parties to overcome their opponent. Your GM should determine who has the initiative to describe what they are doing for any round, based on their interpretation of the flow of events. If in doubt your GM should defer to you over your opponent to describe what you do in the round, and describe the NPC reacting to that.
 
 ### 5.1.1 Procedure
 
@@ -1396,6 +1478,38 @@ Your GM may be tempted, to adjudicate every fight with a long contest, because f
 6. Determine Benefits of Victory or Consequences of Defeat.
 7. Describe the result based on the story obstacle.
 
+Unlike in an extended contest (see below), where you usually take part in two exchanges with your opponent per round (one in which you choose the AP bid, and one in which your opponent does), here you and your opponent engage in a single exchange. In a scored contest there is no distinction between aggressor and defender.
+
+Your resolution point score tells you how well you’re doing, relative to your opponent, in the ebb and flow of a fluid, suspenseful conflict. If you’re leading your opponent by 0–4, you’re giving him a thorough pasting. If you’re behind 4–0, you’re on your last legs, while your opponent has had an easy time of it. If you’re tied, you’ve each been getting in some good licks.
+
+In a fight, scoring 1 point might mean that you hit your opponent with a grazing blow, or knocked him into an awkward position.
+
+Scoring 2 points might mean a palpable hit, most likely with bone-crunching sound effects.
+
+A 3-point hit sends him reeling, and, depending on the realism level of the genre, may be accompanied by a spray of blood.
+
+However, the exact physical harm you’ve dished out to him remains unclear until the contest’s end. When that happens, the real effects of your various victories become suddenly apparent. Perhaps he staggers, merely dazed, up against a wall. Maybe he falls over dead.
+
+In a debate, a 1-point success might occasion mild head nodding from spectators, or a frown on your opponent’s face.
+
+A 2-point result would occasion mild applause from onlookers, or send a flush to your opponent’s face.
+
+On a 3-point result, your opponent might be thrown completely off-track, as audience members wince at the force of your devastating verbal jab.
+
+In interpreting the results of individual simple contests within an scored contest, Narrators are guided by two principles:
+
+1. No consequence is certain until the entire extended contest is over.
+2. When a character scores points, it can reflect any positive change in fortunes, not just the most obvious one.
+
+### Resource Point Table
+
+||Critical|Success|Failure|Fumble|
+|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+|Critical|1|2|3|5|
+|Success|2|1|2|3|
+|Failure|3|2|1|2|
+|Fumble|5|3|2|n/a|
+
 ### 5.1.2 Rising Action
 
 Rising action refers to all of the many plot events and complications that occur between the beginning and the climax of a story. During this phase of your GM's story, they will use the Rising Action Consequence table to assess results.
@@ -1403,6 +1517,8 @@ Rising action refers to all of the many plot events and complications that occur
 Find the difference between you and your opponent's resolution point scores at the contest’s conclusion. Your GM then determines your outcome by cross-referencing with the following table to find the benefits of victory or consequences of defeat.
 
 If you engage multiple opponents in a Rising Action Scored Contest, only use the last opponent you engaged to determine your individual outcome.
+
+Note, that as with all contests, we care about your result, win or lose, and the GM will narrate the consequence for the resistance, which may not be symmetrical. You may suffer a consequence, even if you win.
 
 ### RISING ACTION CONTEST RESULTS TABLE
 
@@ -1422,6 +1538,7 @@ If you engage multiple opponents in a Rising Action Scored Contest, only use the
 
 For the final, climactic confrontation that wraps up your GM's story, your GM uses the following, more punishing method of doling out consequences. This represents that at the climax you may triumph, but be laid low by the effort. At the end of the contest up all resolution points scored against you by your opponents. If you engage more than one opponent, be sure to add the resolution points scored against you by all of them. If you lost, add 1 to your total. Your GM cross-references the result against the Climactic Consequence table.
 
+As with all contests, we care about your result, win or lose, and the GM will narrate the consequence for the resistance, which may not be symmetrical. Even if you win, you may suffer consequences as per this table.
 
 ### CLIMACTIC CONSEQUENCE TABLE
 
@@ -1482,31 +1599,6 @@ You can always abandon a contest, but, in addition to failing at the story obsta
 To disengage, you make an asymmetrical exchange, using the ability relevant to the contest you’re trying to wriggle out of.
 
 If you fail, your effort is wasted and the score against you increases, as it would have during a normal exchange. If you succeed, they escape the clutches, literal or metaphorical, of your opponent, without further harm from a contest during the rising action. In a climactic scene, however, RPs scored during contests you disengaged from are still taken into account when determining consequences. In the case of a group contest, consequences against you are determined as soon as you disengage.
-
-### 5.1.7 What Scores Represent
-
-Your Resolution Point score, tells you how well you’re doing, relative to your opponent, in the ebb and flow of a fluid, suspenseful conflict. If you’re leading your opponent by 4–0, you’re giving him a thorough pasting. 
-
-If you’re behind 0–4, you’re on your last legs, while your opponent has had an easy time of it. If you’re tied, you’ve each been getting in some good licks.
-
-In a fight, scoring 1 point might mean that you hit your opponent with a grazing blow, or knocked him into an awkward position.
-
-Scoring 2 points might mean a solid hit, most likely with bone-crunching sound effects.
-
-A 3-point hit sends him reeling, and, depending on the realism level of the genre, may be accompanied by a spray of blood.
-
-However, the exact physical harm you’ve dished out to him remains unclear until the contest’s end. When that happens, the real effects of your various victories becomes suddenly apparent. Perhaps he staggers, merely dazed, up against a wall. Maybe he falls over dead.
-
-In a debate, a 1-point success might occasion mild head-nodding from spectators, or a frown on your opponent’s face.
-
-2 points would occasion mild applause from onlookers, or send a flush to your opponent’s face.
-
-On a 3-point result, your opponent might be thrown completely off-track, as audience members wince at the force of your devastating verbal jab.
-
-In interpreting the results of individual Simple Contests within a Scored Contest, Narrators are guided by two principles:
-
-1. No consequence is certain until the entire Scored Contest is over.
-2. When a character scores points, it can reflect any positive change in fortunes, not just the most obvious one.
 
 ## 5.2 Group Scored Contest
 
@@ -1601,6 +1693,10 @@ You may describe an action in a Scored Contest that is not covered by the abilit
 
 ## 5.3 Extended Contest
 
+Extended contests are longer and more dramatic than simple contests. Your GM uses extended contests when the outcome of the struggle is important, to generate suspense for the players, or when they want a back-and-forth struggle. It is something you and your GM should visualize and describe. 
+
+An extended contest consists of one or more rounds, in which you perform actions that are similar to simple contests. However, actions and rounds do not decide the outcome of the whole contest, only who gains or loses advantage points (AP) at that time. You take actions in turn, losing and gaining the advantage, until either you or your opponent runs out of advantage points and is defeated.
+
 ### 5.3.1 Procedure
 
 1. Your GM frames the contest.
@@ -1608,24 +1704,22 @@ You may describe an action in a Scored Contest that is not covered by the abilit
 3. The GM determines the resistance. The GM opposes the PC with a resistance—the harder the task or tougher the opponent, the higher the resistance. The Narrator figures starting APs for the opposition/resistance from the resistance TN.
 4. Carry out one or more rounds, repeating as necessary.
     1. Each round is an action and immediate response.
-        1. Describe your action towards the desired outcome, what ability you uses, and how
-much risk you take. “I want to climb straight up to that outcrop, taking chances if needed.” You can specify your AP bid; if you do not, your GN determines this based on the amount of risk you are taking. The size of the bid mirrors how bold and risky your character’s action is. Extreme or aggressive actions mean a high AP bid, and cautious actions require less.
+        1. Describe your action towards the desired outcome, what ability you uses, and how much risk you take. “I want to climb straight up to that outcrop, taking chances if needed.” You can specify your AP bid; if you do not, your GN determines this based on the amount of risk you are taking. The size of the bid mirrors how bold and risky your character’s action is. Extreme or aggressive actions mean a high AP bid, and cautious actions require less.
         2. The ability used can be varied, but APs are always calculated on the first ability that you use in a contest. That ability must be used in the first round.
-    2. You gamble a number of your APs in an attempt to reduce your opponent’s AP, but if you fail the attempt you lose the AP.
-    3. Roll a die to determine the your degree of success or failure, then apply any bumps. Your GM 
-does the same.
-    4. Compare the results of the two die rolls on the Extended Contest Results table to determine who loses AP; only when you have a critical can you gain AP from your opponent. The AP bid is multiplied by this number before applying the results. Thus, if you bid 3 AP and the result is “Opponent loses 2x bid,” the loser loses 3 x 2 = 6 AP. Round half points up.
-    5. Determine Contest Consequences. Each contestant’s AP total rises or falls during the contest as they gains the upper hand or are driven back. Exchanges continue until one contestant reaches 0 advantage points or fewer. At that point, the contest is over (even if it is the middle of a round). The loser’s final AP total determines the degree of success for the victor.
-    6. The GM then hazards a number of APs for the resistance, in the same way.
+        3. You gamble a number of your APs in an attempt to reduce your opponent’s AP, but if you fail the attempt you lose the AP.
+        4. Roll a die to determine the your degree of success or failure, then apply any bumps. Your GM does the same.
+        5. Compare the results of the two die rolls on the Extended Contest Results table to determine who loses AP; only when you have a critical can you gain AP from your opponent. The AP bid is multiplied by this number before applying the results. Thus, if you bid 3 AP and the result is “Opponent loses 2x bid,” the loser loses 3 x 2 = 6 AP. Round half points up.
+        6. Determine Contest Consequences. Each contestant’s AP total rises or falls during the contest as they gains the upper hand or are driven back. Exchanges continue until one contestant reaches 0 advantage points or fewer. At that point, the contest is over (even if it is the middle of a round). The loser’s final AP total determines the degree of success for the victor.
+        7. The GM then hazards a number of APs for the resistance, in the same way.
 5. Advantage points are only relevant for the length of a particular contest. Your PC does not have any until the next Extended Contest begins, when you calculate them all over again
 
 ### Extended Contest Results
 
 ||Critical|Success|Failure|Fumble|
 |:------:|:------:|:------:|:------:|:------:|
-|Critical|High roll transfers ½x bid, else tie|Loser transfers 1x bid|Loser transfers 2x bid|Loser transfers 3x bid|
-|Success|Loser transfers 1x bid|High roll loses ½x bid, else tie|Loser loses 1x bid|Loser loses 2x bid|
-|Failure|Loser transfers 2x bid|Loser loses 1x bid|High roll loses ½x bid, else tie|Loser loses 1x bid|
+|Critical|Better roll transfers ½x bid, else tie|Loser transfers 1x bid|Loser transfers 2x bid|Loser transfers 3x bid|
+|Success|Loser transfers 1x bid|Better roll loses ½x bid, else tie|Loser loses 1x bid|Loser loses 2x bid|
+|Failure|Loser transfers 2x bid|Loser loses 1x bid|Better roll loses ½x bid, else tie|Loser loses 1x bid|
 |Failure|Loser transfers 3x bid|Loser loses 2x bid|Loser loses 1x bid| Tie*|
 
 
@@ -1651,11 +1745,192 @@ You can assign his followers to someone else, although you may have to succeed a
 
 Once your opponent has won or lost advantage points during the current contest, you can ask the GM what the opposition's AP total is. This is where the element of skill comes in. When choosing how many AP to stake, you must weigh the effect they want to gain if you succeed versus the risk you face if the action fails.
 
-## 5.4 Extended vs Scored Contests
+#### 5.3.2.4 Extended Contest Results
 
-We recommend that you choose one approach only, and stick to it, within a given presentation of QuestWorlds. Scored Contests have the advantage of speed and simplicity. Extended Contests have the advantage of allowing the players to bid each round, depending on the type of action they pursue.
+At the end of the contest the AP totals of the loser determine the consequences for the winner and loser. As with all contests, we care about your result, win or lose, and the GM will narrate the consequence for the resistance, which may not be symmetrical.
 
-## 5.5 Extremely Long Contests
+#### EXTENDED CONTEST RESULTS TABLE
+
+|Final AP Total|Level of Defeat|Consequence for Loser|Benefit for Winner|
+|:------:|:------:|:------:|:------:|
+|0 to –10 AP|Marginal|Hurt|Fresh|
+|–11 to –20 AP|Minor|Impaired|Pumped|
+|–21 to –30 AP|Major|Injured|Invigorated|
+|–31 or fewer AP|Complete|Dying|Heroic|
+
+
+### 5.3.3 Group Extended Contests
+
+When an extended contest involves three or more contestants, it is a group extended contest. The conflict is often between two groups; each side wants to knock the other out of the contest by reducing all of its opponents to 0 or fewer advantage points.
+
+Sometimes a contest will be a free-for-all involving three or more groups.
+
+Rounds in a group extended contest differ in that the order of resolution is more complicated. At the start of the round, you state your action and AP bid  and single out one or more opponents. Your GM then determines the order in which the contestants act. Taking surprise, withdrawals, and similar situations into effect, she has three options:
+
+* Contestants can go in order from most daring to least daring bid: a reckless bid goes before a daring bid, as defined in “Bidding Advantage Points” on the previous page. Thus, the most heroic actions take precedence, acting in order of decreasing boldness. (In case of a tie, the contestant whose actual bid is higher goes first.)
+
+* Contestants can go in order from highest bid to lowest: a bid of 20 AP goes before a bid of 5 AP. (In case of a tie, the contestant whose bid is the
+most daring goes first.)
+
+* Contestants can go in order from highest to lowest AP total. (In case of a tie, the highest or most daring bid goes first.)
+
+During a standard extended contest an opponent immediately responds to your action with their own, but in a group extended contest this is not true—they cannot act (against you or anyone else) until their turn comes. You may want to change your declared action if another character attacks you first, and your GM will normally allow you to do so, usually to return an attack in kind.
+
+The order in which contestants act is also important because a character (whether hero, opponent, or a follower of either) can be knocked out of the contest before their turn comes. If your chosen opponent is knocked out before your PC acts, the narrator decides if you can change your declared action.
+
+You always have the option of delaying and allowing other contestants to act before you. You can jump back into the action at any time during the round, although again your GM determines if you can change your stated action. 
+
+When all characters still in the contest have completed their action, the round ends and a new one begins.
+
+### 5.3.4 Parting Shot
+
+When you defeat an opponent in an extended contest, you can act again immediately to try to make the consequences of his defeat more severe. This is called a parting shot. You once again bid AP and use an appropriate ability against your opponent. If you succeed, his AP will decrease; his level of
+defeat may or may not change, but he cannot finish the round by taking an action against you.
+
+Parting shots are risky; if you fail, an AP transfer might bring your opponent back into the contest. Your stumble can give him an opening that he can exploit in an effort to snatch victory from the jaws of defeat. 
+
+The consequences of defeat can remain after a parting shot, if the narrator chooses. Thus, an opponent might keep a penalty from a defeat even if he is handed another chance by his opponent’s failed parting shot.
+
+### 5.3.5 Final Action
+
+If your character falls to 0 or fewer advantage points in a standard extended contest, you are defeated. In a group extended contest, however, you can still try a final action to stay in the contest as long as you are not dying (which allows for no actions). A final action represents the knack to come back
+when your opponent turns away to gloat or deal with the other heroes. A character may only attempt one final action in any contest. 
+
+To attempt a final action, you must be free from attention by the opposition. You must spend a hero point. This does not provide a bump up on the roll to come; it is the cost of performing a final action. You can use a relevant ability in a simple contest against the number of advantage points your hero is below 0. Even if you succeed, the consequences of the original defeat still apply: a hurt still takes a –1 to appropriate abilities until healed. You cannot try a final action if your opponent is attempting a parting shot, since you are not free of his attention.
+
+If you win the simple contest, you rejoin the contest with a positive AP total. Your new total is a fraction of the your original AP total at the outset of the contest. If you fail the simple contest, your AP total drops even further, perhaps worsening your consequences.
+
+### FINAL ACTION RESULTS TABLE
+
+|Result|AP change|
+|:------:|:------:|
+|Marginal Victory|Rejoin contest with 1/8 of your starting APs|
+|Minor Victory|Rejoin contest with 1/4 of your starting APs|
+|Major Victory|Rejoin contest with 1/2 of your starting APs|
+|Complete Victory|Rejoin contest with full starting APs|
+|Marginal Defeat|Lose APs equal to 1/8 of your starting value|
+|Minor Defeat|Lose APs equal to 1/4 of your starting value|
+|Major Defeat|Lose APs equal to 1/2 of your starting value|
+|Complete Defeat|Lose APs equal to your full starting value|
+
+### 5.3.6 Desperation Stake
+
+YOu can stake more advantage points than you currently have, to a maximum of your starting AP total. This allows you to attempt a desperate retaliation even when you are within a single AP
+of defeat. Your GM can never stake more advantage points than they have.
+
+### 5.3.7 Unrelated Action
+
+You can forfeit your action to do something unrelated to the object of the contest. You might want to try to open a door, haul an important piece of equipment out of your saddlebags, heal yourself
+with magic, or augment an ability. Depending on the circumstances, you may have to engage in a simple contest to find out if you succeed at the unrelated action.
+
+### 5.3.8 Switching Abilities
+
+You can usually switch freely from one ability to another in the middle of an extended contest. It makes sense to do so if you think a different ability will yield a better result. You may need
+to do an unrelated action to switch abilities—for example, when changing weapons or equipment.
+
+Your AP total stays the same when you change your ability, so it makes sense to start the contest with your best ability (appropriate to your goal, of course). If this seems odd, remember that
+advantage points measure advantage—how well the character is doing in the contest at the current moment. They do not measure proficiency; that is what the target number is for.
+
+When you switch abilities, your goal does not Change, just the means by which you pursue it. When you switch your goal itself, of course, the ability you use to pursue the new goal will probably
+change as well.
+
+### 5.3.9 Disengaging
+
+To disengage from an extended contest when your opponent is actively trying to keep you in the conflict, take an unrelated action to make a simple contest roll against the adversary or opposing
+force. You use an ability relevant to your attempt to disengage; the adversary counters with an appropriate ability of his own. These abilities may or may not be those used in the main contest.
+
+On any victory, you are able to leave the contest. On any defeat, you must remain in the contest, and transfer a fraction of your current APs to your opponent.
+
+If you withdraw from a group contest and later decide to rejoin it (or are forced to), you rejoin with the advantage point total you had when you left. If you can show how your leaving
+and returning substantially changes the situation, the narrator may restore some of your AP—for example, if you leave a street fight to get your followers from a nearby tavern. Leaving a contest
+just to pick up a weapon or catch your breath is an unrelated action, and does not change your advantage points.
+
+### AP TRANSFER FRON FAILED DISENGAGEMENT
+
+|Level Of Defeat|AP transferred|
+|:------:|:------:|
+|Marginal|1/8 of your current total|
+|Minor|1/4 of your current total|
+|Major|1/2 of your current total|
+|Complete|Your current total - 1|
+
+### 5.3.10 AP Lending
+
+AP lending is a common and important option in extended contests. You can transfer some or all of your advantage points to another PC engaged in a group contest on your side. With
+more advantage points, they can stay in the contest for longer, or make larger bids without driving themselves to failure.
+
+You contestant cannot lend advantage points to yourself.
+
+If a follower’s AP are already included in your AP total, the follower cannot lend them to you. 
+
+Use an unrelated action and describe what your character is trying to do to improve the
+position of the target. For example, your PC might throw him a weapon, jeer at an opponent, or simply shout words of encouragement. Then, state the number of AP you are trying to lend. (The narrator may suggest a higher or lower bid based on the action you describe.) This determines the resistance you face in a simple contest, with results as determined below. Beware: heroes trying to aid their comrades in this
+way risk worsening their friend’s position.
+
+### AP LENDING
+
+|Result|AP Transferred|
+|:------:|:------:|
+|Complete Victory|Target gains the attempted AP; lender does not lose AP|
+|Major or Minor Victory|Target gains the attempted AP; lender loses the AP|
+|Marginal Victory|Target gains ½ the attempted AP; lender loses ½ the attempted AP|
+|Tie|No Effect|
+|Marginal Defeat|Target gains nothing; lender loses ½ the attempted AP|
+|Minor or Major Defeat|Target gains nothing; lender loses the attempted AP|
+|Complete|Target and lender each deduct the attempted AP from their totals|
+
+### 5.3.11 AP Gifting
+
+If you are uninvolved in the contest you can also increase a participant’s AP total. You bid a number of APs which may not exceed your target number. The resistance is twice the bid. Results depend on degree of result.
+
+### 5.3.12 Climax
+
+For the final, climactic confrontation that wraps up your GM's story, your GM uses the following, more punishing method of doling out consequences. This represents that at the climax you may triumph, but be laid low by the effort. Note the number of AP scored against your character in a climatic contest. Then, at the end of the contest, subtract your final AP total from the number of AP that you lost. The remainder is the 
+
+### AP GIFTING
+
+|Result|AP Transferred|
+|:------:|:------:|
+|Complete Victory|Recipient gains 2x bid|
+|Major or Minor Victory|Recipient gains bid|
+|Marginal Victory|Recipient gains 1/2 of bid|
+|Tie|No Effect|
+|Marginal Defeat|Recipient’s opponent gains 1/2 bid|
+|Minor or Major Defeat|Recipient’s opponent gains bid|
+|Complete|Recipient’s opponent gains 2x bids|
+
+## 5.3 Chained Contest
+
+Chained Contests do not defer consequences to the end of the contest, instead applying the consequences of defeat to the loser in the contest immediately following an exchange. This leads to a grittier feel to the contest, but at the price of a death spiral: once you lose the penalty from losing makes it likelier that you will lose again.
+
+To run an extended contest your GM runs a simple contest as normal, and then applies the results according to the following table, withe the consequences taking immediate effect. You decide if you wish to continue the contest, and your GM makes a similar determination for the resistance. Both you and your GM then express your intent, If your or your GM wishes to continue, play out another simple contest. If you, or your GM, wishes to disengage, then on any victory you leave the contest, without inflicting consequences on the opposition. If both you and the GM wish to leave the contest, then you both disengage, and the contest ends. If any contestant is reduced to a Complete Defeat, the contest ends automatically.
+
+Chained Contests are the simplest form of long contest, and you may prefer them for that reason. They also tend to produce the most extreme results, as participants tend to continue until Complete Defeat.
+
+### CHAINED CONTEST RESULTS TABLE
+
+|Roll|Critical|Success|Failure|Fumble|
+|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+|Critical|Worse roll is Hurt. If tied, no effect.|Opponent Hurt. If already hurt in this contest, Injured. If already injured, Dying|Opponent Injured.If already Injured in this contest, Dying|Opponent Dying: player has him at complete mercy. Contest is over.|
+|Success|Player is Hurt. If already hurt in this contest, Injured. If already injured, Dying|Worse roll is Hurt. If tied, no effect|Opponent Hurt. If already hurt in this contest, Injured. If already injured, Dying|Opponent Injured. If already Injured in this contest, Dying|
+|Failure|Player is Injured. If already Injured in this contest, Dying|Player is Hurt. If already hurt in contest, Injured. If injured, Dying|Worse roll is Hurt. If tied, no effect|Opponent Hurt. If already hurt in this contest, Injured. If already injured, Dying|
+|Fumble|Player Dying: opponent has him at complete mercy. Contest is over.|Player is Injured. If already Injured in this contest, Dying|Player is Hurt. If already hurt contest, Injured. If already injured, Dying|Both make a mistake. No effect on contest. Side effects at GM's discretion|
+
+## 5.4 No Nesting
+
+Your GM should never “nest” one long contest inside another. If an extended contest is in progress and you want to perform an action your GM should treat it as an unrelated action, or disallow it completely during the current contest.
+
+## 5.5 Extended vs Scored Contests vs Chained Contests
+
+We recommend that your GM chooses one form of long contest only, and sticks to it, within a given campaign of QuestWorlds. If in doubt, use a Scored Contest by default.
+
+Scored Contests have the advantage of speed and simplicity. Extended Contests have the advantage of each exchange allowing both parties to take turns acting, over your GM adjudicating who has the initiative; the bidding system also adds drama. Chained Contests off the benefit of grittier exchanges where the results of each round have impact, as opposed to being 'cosmetic' until the end of the contest.
+
+Scored contests require more interpretation by the GM, to determine who has the initiative and describes the nature of the next exchange. Extended contests drama comes at the cost of increased complexity, and some harder to interpret corner cases.  Chained Contests create a death spiral.
+
+Both Scored Contests and Chained Contests can be used in an Escalating Contest, see §2.8.2
+
+## 5.6 Extremely Long Contests
 
 There’s no particular time scale associated with contests. But some contests may by their very nature be a drama that can’t be resolved at one point in the narrative. Examples include political campaigns, construction projects, or seductions. These can be resolved by long contests where each round is conducted at an appropriate moment, rather than sequentially. Your GM will need to keep track of the resolution or advantage points and the resistance, though this might change as the context changes (a civil war started by the players could impede their castle-building plans). The challenges of each round will vary, and you may use a different ability or augment in the next exchange.
 
@@ -1791,13 +2066,13 @@ When you accumulate 10 XP, you can buy an advance. An advance allows you to sele
 
 In some genres you may wish to maintain a tally of the total XPs earned as a measure of your reputation.
 
-## 7.3 Catch-Ups
+### 7.1.1 Catch-Ups
 
 To encourage well-rounded characters, a package deal, called a catch-up, becomes available whenever you acquire via improvement a new mastery in one of your abilities (keyword or stand-alone). Any time you one of your ability ratings crosses a mastery threshold (i.e. 20 -> 21, 40 -> 41, etc. ) you may also improve up to three abilities or keywords of your choice increase by three points each, as long as the chosen abilities are currently rated five or more points lower than your newly adjusted rating in the raised ability that triggered the catch-up.
 
 You may not increase the bonus of breakout abilities under a keyword with a catch-up, nor does net effective value of a breakout ability crossing a mastery threshold trigger a catchup. Only a keyword's base rating is considered in this context.
 
-## 7.4 Directed Improvements
+### 7.1.2 Directed Improvements
 
 On occasion your GM may increase one of your abilities, by +3, +6 or +9, or give you a new ability, usually rated at 13. These are called directed improvements.
 
@@ -1980,11 +2255,12 @@ Your GM may decide that certain remarkable triumphs or horrifying catastrophes m
 * Dropped the negative consequences for the winner in an Extended Contest during the Rising Action. If the winner is a PC the degree of success already suggests consequences in addition to the prize on a marginal victory. So this rule is over-complication.
 * Made it clear that only a PC should use a parting shot, not the resistance.
 * Switched to addressing you the player, using your GM for the Games Master, and we for the game authors
-* Long contests include both extended contest and scored contests. Between 1 and 2 extended contests switched to scored contests, this approach restores both variants, but requires changing the generic name to a long contest. 
+* Long contests include both extended contest and scored contests. Between 1 and 2 extended contests switched to scored contests, this approach restores both variants, but requires changing the generic name to a long contest.
+* Dropped edges and handicaps from extended contests - we use a resistance not stats, so makes no sense to have edges and handicaps
 * Added alternate mechanisms for determining if resistance advances and when
 * Added story-based resistance mechanics
 * Added story-based improvements
 * Added States of Fortune to mirror States of Adversity. Overall mirrored benefits and consequences more closely
 * Added Escalating Contests
-
-
+* Added Mythic Russia's Plot Edits
+* Added Mythic Russia's Pyrrhic Victories for Extended Contests but as Climatic Contests

@@ -1,12 +1,83 @@
+# Legal Information
+
+The QuestWorlds System Reference Document 2.2 (“QSRD22”) describes the rules of Hero Wars, HeroQuest, and QuestWorlds. You may incorporate these rules, wholly or part, into a derivative work, through the use of the Open Gaming License, Version 1.0a. You should read and understand the terms of that license before creating a derivative work from this material.
+
+The text of the Open Gaming License itself is not Open Game Content.
+
+## Product Identity
+
+The following items are hereby identified as Product Identity, as defined in the Open Game License version 1.0a, Section 1(e), and are not Open Content: All trademarks, registered trademarks, runes, proper names (characters, icons, place names, deities, etc.), plots, story elements, locations, characters, artwork, trade dress, the world and mythology of Glorantha, HeroQuest, and Hero Wars. 
+
+## Open Content
+
+Except for material designated as Product Identity (see above), the game mechanics of this Moon Design game product are Open Game Content, as defined in the Open Gaming License version 1.0a Section 1(d). No portion of this work other than the material designated as Open Game Content may be reproduced in any form without written permission.
+
+## Open Game License
+
+OPEN GAME LICENSE Version 1.0a
+The following text is the property of Wizards of the Coast, Inc. and is Copyright 2000 Wizards of the Coast, Inc ("Wizards"). All Rights Reserved.
+
+1. Definitions: (a)"Contributors" means the copyright and/or trademark owners who have contributed Open Game Content; (b)"Derivative Material" means copyrighted material including derivative works and translations (including into other computer languages), potation, modification, correction, addition, extension, upgrade, improvement, compilation, abridgment or other form in which an existing work may be recast, transformed or adapted; (c) "Distribute" means to reproduce, license, rent, lease, sell, broadcast, publicly display, transmit or otherwise distribute; (d)"Open Game Content" means the game mechanic and includes the methods, procedures, processes and routines to the extent such content does not embody the Product Identity and is an enhancement over the prior art and any additional content clearly identified as Open Game Content by the Contributor, and means any work covered by this License, including translations and derivative works under copyright law, but specifically excludes Product Identity. (e) "Product Identity" means product and product line names, logos and identifying marks including trade dress; artifacts; creatures characters; stories, storylines, plots, thematic elements, dialogue, incidents, language, artwork, symbols, designs, depictions, likenesses, formats, poses, concepts, themes and graphic, photographic and other visual or audio representations; names and descriptions of characters, spells, enchantments, personalities, teams, personas, likenesses and special abilities; places, locations, environments, creatures, equipment, magical or supernatural abilities or effects, logos, symbols, or graphic designs; and any other trademark or registered trademark clearly identified as Product identity by the owner of the Product Identity, and which specifically excludes the Open Game Content; (f) "Trademark" means the logos, names, mark, sign, motto, designs that are used by a Contributor to identify itself or its products or the associated products contributed to the Open Game License by the Contributor (g) "Use", "Used" or "Using" means to use, Distribute, copy, edit, format, modify, translate and otherwise create Derivative Material of Open Game Content. (h) "You" or "Your" means the licensee in terms of this agreement.
+
+2. The License: This License applies to any Open Game Content that contains a notice indicating that the Open Game Content may only be Used under and in terms of this License. You must affix such a notice to any Open Game Content that you Use. No terms may be added to or subtracted from this License except as described by the License itself. No other terms or conditions may be applied to any Open Game Content distributed using this License.
+3.Offer and Acceptance: By Using the Open Game Content You indicate Your acceptance of the terms of this License.
+
+4. Grant and Consideration: In consideration for agreeing to use this License, the Contributors grant You a perpetual, worldwide, royalty-free, non-exclusive license with the exact terms of this License to Use, the Open Game Content.
+
+5. Representation of Authority to Contribute: If You are contributing original material as Open Game Content, You represent that Your Contributions are Your original creation and/or You have sufficient rights to grant the rights conveyed by this License.
+
+6. Notice of License Copyright: You must update the COPYRIGHT NOTICE portion of this License to include the exact text of the COPYRIGHT NOTICE of any Open Game Content You are copying, modifying or distributing, and You must add the title, the copyright date, and the copyright holder's name to the COPYRIGHT NOTICE of any original Open Game Content you Distribute.
+
+7. Use of Product Identity: You agree not to Use any Product Identity, including as an indication as to compatibility, except as expressly licensed in another, independent Agreement with the owner of each element of that Product Identity. You agree not to indicate compatibility or co-adaptability with any Trademark or Registered Trademark in conjunction with a work containing Open Game Content except as expressly licensed in another, independent Agreement with the owner of such Trademark or Registered Trademark. The use of any Product Identity in Open Game Content does not constitute a challenge to the ownership of that Product Identity. The owner of any Product Identity used in Open Game Content shall retain all rights, title and interest in and to that Product Identity.
+
+8. Identification: If you distribute Open Game Content You must clearly indicate which portions of the work that you are distributing are Open Game Content.
+
+9. Updating the License: Wizards or its designated Agents may publish updated versions of this License. You may use any authorized version of this License to copy, modify and distribute any Open Game Content originally distributed under any version of this License.
+
+10. Copy of this License: You MUST include a copy of this License with every copy of the Open Game Content You Distribute.
+
+11. Use of Contributor Credits: You may not market or advertise the Open Game Content using the name of any Contributor unless You have written permission from the Contributor to do so.
+
+12. Inability to Comply: If it is impossible for You to comply with any of the terms of this License with respect to some or all of the Open Game Content due to statute, judicial order, or governmental regulation then You may not Use any Open Game Material so affected.
+
+13. Termination: This License will terminate automatically if You fail to comply with all terms herein and fail to cure such breach within 30 days of becoming aware of the breach. All sublicenses shall survive the termination of this License.
+
+14. Reformation: If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable.
+
+15. COPYRIGHT NOTICE
+Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc.
+
+QuestWorlds. Copyright 2018, Moon Design Publications, LLC; Authors: original rules Robin Laws, developed by Greg Stafford, Jeff Richard, Ian Cooper, David Dunham, Lawrence Whitaker, Mark Galeotti, Stephen Martin, and Roderick Robinson. 
+
+Chained Contests and Plot Edits from Mythic Russia, Copyright 2006, 2010 by Mark Galeotti, developed by Graham Robinson (for "Chained Contests") and added as Open Game Content here with permission.
+
+# Credits
+
+Original Rules; Robin Laws
+
+Further Development: Greg Stafford, Jeff Richard, Ian Cooper, David Dunham, Lawrence Whitaker, Mark Galeotti, Stephen Martin, and Roderick Robinson
+
+This Version: Ian Cooper
+
+Development Assistance (This Version): Jonathan Laufersweiler
+
 # 1. Introduction
 
-QuestWorlds is a roleplaying rules engine suitable for you to play in any genre.  It features an abstract, conflict-based, resolution method and scalable, customizable, character descriptions. Designed to emulate the way characters in fiction face and overcome challenges, it is suitable for a wide variety of genres and play styles. 
+QuestWorlds is a roleplaying rules engine suitable for you to play in any genre.  
+
+It is a traditional roleplaying game in that their is a GM and players. The players play a character, guided by the internal thoughts of their character as to what decisions they make, and the GM plays the world, including non-player characters (NPCs) and abstract threats.
+
+It features an abstract, conflict-based, resolution method and scalable, customizable, character descriptions. Designed to emulate the way characters in fiction face and overcome challenges, it is suitable for a wide variety of genres and play styles.
+
+It is a rules-lite system that facilitates beginning play easily, and resolving conflicts in play quickly.
+
+We refer to a rules-lite but traditional role-playing game as a storytelling game, after Greg Stafford's definition in *Prince Valiant*.
 
 ## 1.1 Why QuestWorlds?
 
-QuestWorlds is meant to facilitate your creativity, and then to get out of your way. 
+QuestWorlds is meant to facilitate your creativity, and then to get out of your way.
 
-It is well suited to a collaborative, friendly group with a high degree of trust in each other’s creativity. Characters in QuestWorlds are described more in terms of their place in your imagination and the game setting than by game mechanics. 
+It is well suited to a collaborative, friendly group with a high degree of trust in each other’s creativity. Characters in QuestWorlds are described more in terms of their place in your imagination and the game setting than by game mechanics.
 
 If your group are often at odds and rely on their chosen rules kit as an arbiter between competing visions of how the game ought to develop, or use mechanical options to decide "what action to take," QuestWorlds is not a rules set that provides that structure. Make sure to discuss with your group whether you are collectively on board with trying a new play style dynamic, or if you would rather stick to more structured systems.
 
@@ -50,9 +121,9 @@ It is expected that the designers of games you play based on these rules will in
 
 ## 1.4 Numbering
 
-Sections within this document are numbered. This is for the benefit of game designers and reviewers. 
+Sections within this document are numbered. This is for the benefit of game designers and reviewers.
 
-This does not imply that game designers need number the rules in their own games. 
+This does not imply that game designers need number the rules in their own games.
 
 Numbering however makes it easy to refer to rules in this document when page numbers may vary by presentation format for the purposes of error trapping or tracking changes. If you need to give us feedback about this document, that will assist us.
 
@@ -60,13 +131,13 @@ Numbering however makes it easy to refer to rules in this document when page num
 
 ### 1.5.1 Players
 
-You and your fellow players each create a Player Character (PC) to be the "avatar" or "persona" whose role you will play in the game. The PCs pursue various goals in an imaginary world, using their abilities, motivations, connections, and more to solve problems and overcome obstacles that stand in their way. 
+You and your fellow players each create a Player Character (PC) to be the "avatar" or "persona" whose role you will play in the game. The PCs pursue various goals in an imaginary world, using their abilities, motivations, connections, and more to solve problems and overcome obstacles that stand in their way.
 
 When we say 'you' in this document we may mean the player or their PC. Which should be clear from context, or explicitly noted.
 
 ### 1.5.2 Game Master
 
-Your Game Master (GM) is the interface between your imagination and the game-world in which the PCs have their adventures; describing the people, places, creatures, objects, and events therein. Your GM also plays the role of any Non-Player Characters (NPCs) with whom your PC interacts in the course of your adventures. 
+Your Game Master (GM) is the interface between your imagination and the game-world in which the PCs have their adventures; describing the people, places, creatures, objects, and events therein. Your GM also plays the role of any Non-Player Characters (NPCs) with whom your PC interacts in the course of your adventures.
 
 We generally refer to the GM as 'your GM' in this document's player-facing language. However, if you are the GM for a given game, this naturally refers to you.
 
@@ -279,6 +350,8 @@ Your GM describes what happens, based on their interpretation of the results.
 
 QuestWorlds supports two options for the "better roll": the highest roll, or the lowest roll. Some groups prefer lowest roll, some higher. The preference toward "low is better", is often because because 1 is a critical and 20 a fumble, and toward "high is better" because the winner has rolled a higher number. Groups wanting higher abilities to win out slightly more often should use higher roll. 
 
+We also use the phrase "worse roll@ to indicate the losing roll.
+
 #### 2.3.5.2 Confusing Ties
 
 Your GM will describe most tied results as inconclusive standoffs, in which neither of you gets what you wanted.
@@ -355,7 +428,6 @@ It is at your GM's discretion whether to roll augments or use quick augments. Yo
 
 A plot augment occurs when your GM decides that your victory over a previous obstacle is sufficiently relevant to the contest at hand as to warrant a bonus much like a supporting ability can. The previous contest need not have been immediately prior to the current one, as long as its results remain relevant. The magnitude of a plot augment can be +3, +6, +9, or +M. The more challenging the previous contest was and the more relevant that vitory is to the current challenge, the higher the augment. 
 
-
 # 3. Character Creation
 
 The first step in creating your character is to come up with a concept that fits in with the genre of game that your GM intends to run. With that, you can assign abilities, ratings for those abilities, and if required flaws.
@@ -427,7 +499,9 @@ Your GM may decide during play that certain flaws are better expressed as penalt
 
 * Tongue-tied in large gatherings.
 * Lousy with a stick shift.
-* Can’t stand snakes.# 4. Simple Contests
+* Can’t stand snakes.
+  
+# 4. Simple Contests
 
 Simple contests are the default resolution method for all story obstacles. 
 
@@ -456,19 +530,20 @@ A Group Simple Contest may pit all of you against a single resistance, represent
 4. For each of your group, roll a d20 to determine your degree of success or failure, then apply any bumps. Your GM does the same for the resistance. Compare your rolled number with your TN to see how well you succeeded or failed with your ability. Remember to apply any bumps from masteries or hero points.
 5. Determine the number of Outcome Points (OPs) scored by the victor in the contest from the Group Simple Contest Results table. On a tie the victory goes to the Better Roll.
 6. Sum the OPs gained for each side.
-6. The side with the highest number of OPs is the victor in the contest.
-7. Describe the result based on the agreed prize.
+7. The side with the highest number of OPs is the victor in the contest.
+8. Describe the result based on the agreed prize.
 
 ### 4.2.2 Group Simple Contest Resource Points
 
 ### GROUP SIMPLE CONTEST RESULTS TABLE
 
-|Roll|Critical|Success|Failure|Fumble|
+||Critical|Success|Failure|Fumble|
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 |Critical|1|2|3|5|
 |Success|2|1|2|3|
 |Failure|3|2|1|2|
 |Fumble|5|3|2|0|
+
 # 6. Relationships
 
 Abilities may represent your relationship to NPCs.
@@ -601,13 +676,13 @@ When you accumulate 10 XP, you can buy an advance. An advance allows you to sele
 
 In some genres you may wish to maintain a tally of the total XPs earned as a measure of your reputation.
 
-## 7.3 Catch-Ups
+### 7.1.1 Catch-Ups
 
 To encourage well-rounded characters, a package deal, called a catch-up, becomes available whenever you acquire via improvement a new mastery in one of your abilities (keyword or stand-alone). Any time you one of your ability ratings crosses a mastery threshold (i.e. 20 -> 21, 40 -> 41, etc. ) you may also improve up to three abilities or keywords of your choice increase by three points each, as long as the chosen abilities are currently rated five or more points lower than your newly adjusted rating in the raised ability that triggered the catch-up.
 
 You may not increase the bonus of breakout abilities under a keyword with a catch-up, nor does net effective value of a breakout ability crossing a mastery threshold trigger a catchup. Only a keyword's base rating is considered in this context.
 
-## 7.4 Directed Improvements
+### 7.1.2 Directed Improvements
 
 On occasion your GM may increase one of your abilities, by +3, +6 or +9, or give you a new ability, usually rated at 13. These are called directed improvements.
 
@@ -631,11 +706,12 @@ Your GM will tend to use them to raise abilities that would otherwise fall behin
 * Dropped the negative consequences for the winner in an Extended Contest during the Rising Action. If the winner is a PC the degree of success already suggests consequences in addition to the prize on a marginal victory. So this rule is over-complication.
 * Made it clear that only a PC should use a parting shot, not the resistance.
 * Switched to addressing you the player, using your GM for the Games Master, and we for the game authors
-* Long contests include both extended contest and scored contests. Between 1 and 2 extended contests switched to scored contests, this approach restores both variants, but requires changing the generic name to a long contest. 
+* Long contests include both extended contest and scored contests. Between 1 and 2 extended contests switched to scored contests, this approach restores both variants, but requires changing the generic name to a long contest.
+* Dropped edges and handicaps from extended contests - we use a resistance not stats, so makes no sense to have edges and handicaps
 * Added alternate mechanisms for determining if resistance advances and when
 * Added story-based resistance mechanics
 * Added story-based improvements
 * Added States of Fortune to mirror States of Adversity. Overall mirrored benefits and consequences more closely
 * Added Escalating Contests
-
-
+* Added Mythic Russia's Plot Edits
+* Added Mythic Russia's Pyrrhic Victories for Extended Contests but as Climatic Contests
