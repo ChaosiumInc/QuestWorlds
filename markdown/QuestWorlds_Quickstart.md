@@ -813,3 +813,4 @@ Your GM will tend to use them to raise **abilities** that would otherwise fall b
 * Added Mythic Russia's Plot Edits
 * Added Mythic Russia's Pyrrhic Victories for Extended Contests but as Climatic Contests
 * Changed degree of success and failure, to degree of victory and defeat, as success and failure are for individual rolls, victory and defeat once compared.
+* Simplified how multiple opponents are handled

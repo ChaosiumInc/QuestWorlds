@@ -723,7 +723,9 @@ When you propose an action using an **ability** that seems completely inappropri
 
 In some cases, though, your proposed match-up of action and **ability** is only somewhat implausible. A successful attempt with it wouldn’t completely break the illusion of fictional reality—just stretch it a bit.
 
-Using a somewhat implausible **ability** is known as a **stretch**. If your GM deems an attempt to be a **stretch**, the PC suffers a –6 penalty to their **target number**.
+Using a somewhat implausible **ability** is known as a **stretch**. If your GM deems an attempt to be a **stretch**, the PC suffers a -3, –6, -9 **penalty**, or a **bump** down, to their **target number**, depending on how incredible the **stretch** seems to the GM and other players. Your GM should **penalize** players who try to create a 'do anything' ability that they then **stretch** to gain from raising fewer **abilities** in advancement to ensure balance with other PCs.
+
+A default **stretch penalty** should be -6.
 
 The definition of **stretch** is elastic, depending on genre.
 
@@ -731,13 +733,13 @@ Your GM should not impose **stretch penalties** on action descriptions that add 
 
 ### 2.12.2 Situational Modifiers
 
-Your GM may also impose modifiers when, given the description of the current situation, believability demands that you should face a notable advantage or disadvantage. Your GM should choose modifiers of +6, +3, –3, or –6. Modifiers of less than 3 don’t exert enough effect to be worth the bother. Those higher than 6 give the situational modifier a disproportionate role in determining **outcomes**.
+Your GM may also impose **modifiers** when, given the description of the current situation, believability demands that you should face a notable **bonus** or **penalty**. Your GM should choose **modifiers** of +6, +3, –3, or –6. **Modifiers** of less than 3 don’t exert enough effect to be worth the bother. Those higher than 6 give the situational **modifier** a disproportionate role in determining **outcomes**.
 
-During a **long contest**, they should typically last for a single exchange, and reflect clever or foolish choices.
+During a **long contest**, they should typically last for a single **round**, and reflect clever or foolish choices.
 
 ## 2.13 Combined Abilities
 
-On certain occasions your GM may rule that you can only hope to achieve your goal by using two disparate **abilities**. When this occurs, average your two **ability ratings**, then apply any modifiers, to arrive at your **TN**.
+On certain occasions your GM may rule that you can only hope to achieve the **prize** by using two disparate **abilities**. When this occurs, average your two **ability ratings**, then apply any modifiers, to arrive at your **TN**.
 
 Combining your abilities, rather than using the best one and **augmenting** it with other, is always a disadvantage. Your GM should only require combined **ability** use when story logic absolutely demands that you face a lower chance of **success**, because you have to do two things at once.
 
@@ -745,9 +747,17 @@ Combining your abilities, rather than using the best one and **augmenting** it w
 
 Sometimes you will face large numbers of opponents. Your GM can treat many as one. Your GM divides the number of opponents by the number of contesting PCs. Your GM then treats each of these sections of the crowd as a single opponent with one **rating**. Their numbers are factored into the **rating** your GM assigns to them.
 
+If in doubt, your GM should think of the **resistance** that would be dramatically appropriate for a single opponent and then adjust it with a **bonus** of +3, +6 or +9 depending on how outnumbered you are. No more than six foes can typically contend with you in a physical confrontation, or two in a social one, or they tend to get in each other's way.
+
 When the mob loses an exchange, your GM describes individuals within it as being hurt or falling away. When it wins, describe them overwhelming you, or swelling in numbers.
 
-## 2.15 Mass Effort
+## 2.15 Ganging Up
+
+Sometimes you may outnumber your opponent. For a **simple contest** this can be often be handled by having your PC on point, and the other PCs **augmenting** you, breaking the usual rule on multiple augments if more than one person should be able to support you. Your GM may only allow as many of you to augment as they feel would help, not get in each other's way. For a **group contest, long or simple** if you enjoy a numberical advantage you should seperately contest against a reduced **resistance**. Your GM should adjust the **resistance** to reflect your superior numerical advantage.
+
+As above, if in doubt, the GM should think of the **resistance** that would be dramatically appopriate for a one-on-one confrontation and then adjust it with a **penalty** of -3, -6, or -9 depending on how significantly you outnumber them. As above, note that unless your opponent is extraordinarily large, you cannot confront them physically with more than about six people (include followers) or socially with about two people (again include followers) or people just get in each other's way.
+
+## 2.16 Mass Effort
 
 Clashes of massive forces resolve like any other **contest**, **simple** or **long**. These include:
 
@@ -763,7 +773,7 @@ Otherwise, your GM will start by determining your degree of influence over the *
 * Contributors: One of the forces enjoys a clear advantage over the others, but the your efforts may tip the balance in favor of a chosen side. Your GM will tell give you a **TN** to roll against that represents the strength of your force, but you can **augment** that **TN** with an appropriate leadership **ability**.
 * Acted Upon: You have little influence over the **outcome**, but are stuck in the middle of the conflict and must struggle to prosper within it. The GM predetermines the **outcome** of the overall competition on dramatic grounds. To determine your fate in the battle, you **contest** against a **resistance** determined by the GM, derived from the overall battle **outcome**.
 
-## 2.16 Pyrrhic Victories
+## 2.17 Pyrrhic Victories
 
 In a Pyrrhic victory, you boost your chance of **success** in a **contest** by accepting negative consequence at its end, even if you succeed in overcoming the **story obstacle**. You gain a **bump** in the **ability** you are using to prosecute the **contest**, but at the **contest**’s end, you suffer a **state of adversity**, as per the Pyrrhic Victory Table.
 
@@ -779,7 +789,7 @@ As with any proposed action, you must convincingly describe the potentially suic
 |Major Victory|Injured|
 |Complete Victory|Impaired|
 
-## 2.17 Mismatched and Graduated Goals
+## 2.18 Mismatched and Graduated Goals
 
 Sometimes, the two sides in a **contest** may have goals that do not directly conflict one another. A huntsman pursues a nurse, who is trying to escape through the forest with two small children. The huntsman wants to kill the nurse. The nurse wants to save the children.
 
@@ -789,15 +799,15 @@ In a **complete mismatch**, neither side is at all interested in preventing the 
 
 In most instances, the **contest** goals are not actually mismatched, but **graduated**. You have both a **primary** and a **secondary** goal. In this case, your GM frames the **contest**, identifying which goal is which. To achieve both, you must score a **major or complete victory**. On a **minor or marginal victory**, you achieve only the **primary** goal. Your GM may present you with the choice of which objective you obtain, where that choice illuminates your PC's priorities.
 
-## 2.18 Difficult Automatic Victory
+## 2.19 Difficult Automatic Victory
 
 Two distinct methods allow your GM to create a sense of difficulty without allowing for the prospect of **failure**: the **arduous automatic victory**, and the **costly automatic victory**. Your GM will use a **costly automatic victory** where **failure** offers no entertaining plot branches, but when they still want the group to work for victory. In a **costly automatic victory**, you succeed, but at a price.
 
-### 2.18.1 Arduous Automatic Victory
+### 2.19.1 Arduous Automatic Victory
 
 Your GM will use an **arduous automatic victory** to help with pacing. They will simply allow you to succeed without a **contest**, and then describe in sweat-inducing detail your hard-won **victory**. Unlike the standard **automatic victory**, the objective here is not to make the you feel competent (though it may do that as well) but to emphasize the rigors of your grueling task, preserving suspension of disbelief.
 
-### 2.18.2 Costly Automatic Victory
+### 2.19.2 Costly Automatic Victory
 
 Your GM may use a **costly automatic victory** where **failure** offers no entertaining plot branches, but they still want you to work for **victory**. In a **costly automatic victory**, you succeed, but at a price.
 
@@ -805,15 +815,15 @@ Even if you suffer a **defeat**, you still overcome the **story obstacle**. You 
 
 The **state of adversity** might apply, as in an ordinary **contest**, to the abilities you used in that **contest**. Usually, though, they apply to some other resource-related **ability**, which may come to haunt you later on. When in doubt, ask yourself if the penalty will cripple the group in dealing with **contests**
 
-## 2.19 Advanced: Alternative Character Creation Methods
+## 2.20 Advanced: Alternative Character Creation Methods
 
 Two Advanced character creation methods are available. More detail on these methods are available in their own section.
 
-### 2.19.1 The List Method
+### 2.20.1 The List Method
 
 This is like the As-You-Go method but you spend all their points before the game begins. This is possible with the As-You-Go method as well, but the list method allows you to signal what they want the game to be about from the abilities you pick, as opposed to reacting to material once the game begins.
 
-### 2.19.2 The Prose Method
+### 2.20.2 The Prose Method
 
 This is the most different method as you write a piece of prose and the pulls **abilities** from that. It's intent is to emulate a character description in fiction, and indeed PCs can be built by copying text from a story and then identifying **keywords**. It is the least 'fair' of the character creation options.
 
@@ -1960,3 +1970,4 @@ Your GM may decide that certain remarkable triumphs or horrifying catastrophes m
 * Added Mythic Russia's Plot Edits
 * Added Mythic Russia's Pyrrhic Victories for Extended Contests but as Climatic Contests
 * Changed degree of success and failure, to degree of victory and defeat, as success and failure are for individual rolls, victory and defeat once compared.
+* Simplified how multiple opponents are handled
