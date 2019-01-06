@@ -1538,6 +1538,14 @@ If you are uninvolved in the contest you can also increase a participant’s **A
 |Marginal Defeat|Recipient’s opponent gains 1/2 bid|
 |Minor or Major Defeat|Recipient’s opponent gains bid|
 |Complete|Recipient’s opponent gains 2x bids|
+
+### 5.3.12 Edges and Handicaps
+
+Your GM may want rules to represent opponents who strike rarely but with great effect or who strike often but with little impact per blow. The first quality can be represented with an **edge**; the second, with a **handicap**. **Edges** and **handicaps** are designated using ^ (^5, for example), **handicaps** with a minus sign (–^5). 
+
+**Edges** and **handicaps** affect only the **advantage points bid** in an **extended contest**. Your **edge** is added to your **AP bid** when your opponent must **lose** or **transfer APs**. Your **handicap** is subtracted from your bid when your opponent **loses** or **transfers APs**. A contestant’s **edge** or **handicap** never affects his **AP** when he defends, only when he is attacking.
+
+Most GMs find **edges** and **handicaps** more trouble than they’re worth, and depict these phenomena with description alone. Earlier books made more extensive use of **edges** and **handicaps** to represent the quality of equipment carried by the PCs. For example, your suit for chainmail might be ^4 and your sword ^3. In games where restricted access to equipment is a significant part of the setting and your GM wants to use extended contests it may make sense to use them, otherwise we recommend ignoring them,
   
 ## 5.4 Chained Contest
 
@@ -2014,6 +2022,8 @@ Your GM may decide that certain remarkable triumphs or horrifying catastrophes m
 
 **Dying** A **state of adversity**, where the character's **defeat** will end their participation.
 
+**Edge** In an **extended contest** adds to the **APs** lost or transferred when you win an **exchange**.
+
 **Exchange** In an **extended contest** a round is divided into two **exchanges** where both aggressor and defender act. In a **group extended contest** a round consists of a sequence of **exchanges** where everyone acts in turn. The GM determines the order of action.
 
 **Extended Contest** A type of **long contest** in which you track the relative advantage one opponent has over another using **advantage points**
@@ -2043,6 +2053,8 @@ Your GM may decide that certain remarkable triumphs or horrifying catastrophes m
 **Group Simple Contest** A **simple contest** where one side has multiple participants.
 
 **Graduated Goals** When a contestant has a **primary** and **secondary** goal, and may have to choose between them if their **outcome** is not a **major** or **complete** victory.
+
+**Handicap** In an **extended contest** subtracts from the **APs** lost or transferred when you win an **exchange**.
 
 **Hero Point** Allows you to alter fate for a player character, either by a **bump** to their **result** or a **plot edit**. If unused, becomes an **experience point** at the end of the session.
 
