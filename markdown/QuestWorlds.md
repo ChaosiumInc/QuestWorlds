@@ -75,7 +75,7 @@ It features an abstract, conflict-based, resolution method and scalable, customi
 
 It is a rules-light system that facilitates beginning play easily, and resolving conflicts in play quickly.
 
-We refer to a rules-light but traditional role-playing game as a storytelling game, after Greg Stafford's definition in *Prince Valiant*.
+We refer to a rules-light but traditional roleplaying game as a storytelling game, after Greg Stafford's definition in *Prince Valiant*.
 
 ## 1.1 Why QuestWorlds?
 
@@ -93,9 +93,9 @@ The second version *HeroQuest* was published in 2003 (ISBN 978-1-929052-12-7). W
 
 The third version *HeroQuest*: Core Rules was published in 2009 (ISBN 978-0-977785-32-2). We refer to this as *HeroQuest* 2e.
 
-*HeroQuest* Glorantha was published in 2015 (ISBN 978-1-943223-01-5). It is the version of the rules in *HeroQuest* 2e, presented for playing in Glorantha. We refer to this as *HeroQuest* 2.1e.
+*HeroQuest Glorantha* was published in 2015 (ISBN 978-1-943223-01-5). It is the version of the rules in *HeroQuest* 2e, presented for playing in Glorantha. We refer to this as *HeroQuest* 2.1e.
 
-*QuestWorlds* was published as a System Reference Document (SRD) (this document) in 2018. The version of the rules here is slightly updated, mainly to clarify ambiguities, from the version presented in *HeroQuest* 2e and *HeroQuest* 2.1e. This makes this ruleset *HeroQuest* 2.2e, despite the name change. However, to simplify we identify this version as *QuestWorlds* 1e.
+*QuestWorlds* was published as a System Reference Document (SRD) (this document) in 2019. The version of the rules here is slightly updated, mainly to clarify ambiguities, from the version presented in *HeroQuest* 2e and *HeroQuest* 2.1e. This makes this ruleset *HeroQuest* 2.2e, despite the name change. However, to simplify we identify this version as *QuestWorlds* 1e.
 
 An Appendix lists changes in this version. As the SRD is updated we will continue to track version changes there.
 
@@ -147,7 +147,7 @@ We generally refer to the GM as 'your GM' in this document's player-facing langu
 
 # 2. Mechanics
 
-In a *QuestWorlds* game, stories develop dynamically as you and your GM work together to role-play the dramatic conflict between your group's PCs using in pursuit of their goals and the challenges, or threats that your GM presents to stand in your way. Stories advance by two methods: conflict, where your PC is prevented from achieving their goals because there is something that must be overcome, a **story obstacle**, to gain a desired person, thing, or even status: the **prize**; or revelation, where something must be overcome, a **story obstacle**, to learn a secret, uncover the past, or reach understanding: the **prize**.
+In a *QuestWorlds* game, stories develop dynamically as you and your GM work together to role-play the dramatic conflict between your group's PCs in pursuit of their goals and the challenges, or threats that your GM presents to stand in your way. Stories advance by two methods: conflict, where your PC is prevented from achieving their goals because there is something that must be overcome, a **story obstacle**, to gain a desired person, thing, or even status: the **prize**; or revelation, where something must be overcome, a **story obstacle**, to learn a secret, uncover the past, or reach understanding: the **prize**.
 
 Over the course of play, your GM will present various **story obstacles** as conflicts to the PCs, resulting in either **victory** or **defeat** for your character, which determines whether or not you gain the **prize** you sought. These conflicts can represent any sort of challenge you might face: fighting, a trial or debate, survival in a harsh environment, out-wooing rival suitors, and so on.
 
@@ -155,7 +155,7 @@ Rather than mechanically addressing the individual tasks that make up these conf
 
 Whenever the GM presents a **story obstacle** for you to overcome, you should **frame the contest** by describing what you are trying to accomplish, the **prize**, and which of your **abilities** (see below) you want to use to achieve that **prize**, and how.
 
-Based on that **framing** and other factors, your GM will asses what **resistance** the characters face.
+Based on that **framing** and other factors, your GM will assess what **resistance** the characters face.
 
 You roll a twenty-sided die (D20) against your PC's **ability**, and your GM rolls a D20 against the **resistance**. Your GM will assess your overall **victory** or **defeat** in the contest based on the **success** or **failure** of both rolls, and narrates the results of your attempt to overcome the **story obstacle** and gain the **prize** accordingly. The direction of the story changes, in either a big or small way, depending on whether you gain the **prize** or not.
 
@@ -171,7 +171,7 @@ Ultimately, **abilities** are just names for the interesting things your charact
 
 ### 2.1.2 Ratings and Masteries
 
-*QuestWorlds* **abilities** are **rated** on a range of 1–20, representing the **target number** you need to roll or less to succeed on your roll during a **contest** (see §2.3 for more details). **Ratings** are also scalable beyond that range using tiers of capability we refer to as **Mastery**. When you raise a **rating** of 20 by one point, either permanently through character advancement or a temporarily with **modifier** to a contest roll, the **rating** increases not to 21, but to 1M.
+*QuestWorlds* **abilities** are **rated** on a range of 1–20, representing the **target number (TN)** you need to roll or less to succeed on your roll during a **contest** (see §2.3 for more details). **Ratings** are also scalable beyond that range using tiers of capability we refer to as **Mastery**. When you raise a **rating** of 20 by one point, either permanently through character advancement or a temporarily with **modifier** to a contest roll, the **rating** increases not to 21, but to 1M.
 
 The "M" after the **rating** signifies **mastery**. You have now reached a new order of excellence in that **ability**, such that your die rolls will almost always succeed. Unless opposed by similarly exalted **resistance** (see §2.3.5.2 for more details) the number in front of the M is now the **target number** you seek to roll or less to achieve a **critical**!
 
@@ -206,12 +206,6 @@ Conversely, if in the course of play you find your character in a situation with
 In *QuestWorlds*, wealth is treated as just another way to overcome **story obstacles**. Many characters may not even have an explicit wealth **ability**, with their wealth or assets instead implied by **abilities** representing their background, profession, or status. Whether explicit or implied, the relevant **rating** is not an objective measure of the size of your fortune, but instead indicates how well you solve problems with money and resources. 
 
 Similarly, treasures and other windfalls that arise during play may be represented in the rules via **plot augments** (see § 2.4.3) in **contests** where using the resource is relevant.
-
-## 2.2 Hero Points
-
-You start the game with a pool of three **hero points**, and gain three more of them at the beginning of every subsequent session. These are a precious resource, as they are used both to **boost** your **contest results**, and to improve your **abilities** over the long term. 
-
-Any **hero points** not spent on **boosting contest results** or improving your character do not carry over to the next session.
 
 ## 2.3 Contest Procedure
 
@@ -256,11 +250,11 @@ This process is called **framing the contest**.
 
 #### 2.3.2.2 Conflict: Goals vs Obstacles
 
-**Contests** in *QuestWorlds* don’t simply tell you how well you performed at a particular task: they tell you whether or not you overcame a **story obstacle**, which moves the story in a new direction. Unlike some other role-playing games, a **contest** in *QuestWorlds* does not resolve a task, it resolves the whole **story obstacle**.
+**Contests** in *QuestWorlds* don’t simply tell you how well you performed at a particular task: they tell you whether or not you overcame a **story obstacle**, which moves the story in a new direction. Unlike some other roleplaying games, a **contest** in *QuestWorlds* does not resolve a task, it resolves the whole **story obstacle**.
 
 If you need secret records which are stored in a vault within a government compound, your goal is to get the information - while the fact that it is secured against your access is a **story obstacle** you must overcome to attain that goal. Overcoming that **story obstacle** may involve many possible tasks, evading guards, lock-picking, forging credentials, etc. - but the **contest** doesn't address those individually. The **contest** is framed around the entire conflict against the **story obstacle** as a whole.
 
-In a fight, your **story obstacle** may be the opponents themselves, who you are fighting to capture or kill. Just as often you are seeking another goal and you might just as easily attain it by incapacitating or evading your foes. In this case, beating the enemy is a task, not the **story obstacle**. For example, if an **ally** has been accused of treason by the King, your goal could be to prove the **ally**'s innocence. The power of the King threatening your **ally** is an **story obstacle** to be overcome, and a trial by combat could be a **contest** to resolve the conflict with an **ability** like "Knight Errant."
+In a fight, your **story obstacle** may be the opponents themselves, who you are fighting to capture or kill. Just as often you are seeking another goal and you might just as easily attain it by incapacitating or evading your foes. In this case, beating the enemy is a task, not the **story obstacle**. For example, if an **ally** has been accused of treason by the King, your goal could be to prove the **ally's** innocence. The power of the King threatening your **ally** is a **story obstacle** to be overcome, and a trial by combat could be a **contest** to resolve the conflict with an **ability** like "Knight Errant."
 
 In a court trial, your goal is likely a particular verdict, while the **story obstacle** might be the opposing lawyer, an unjust law, or even the justice system itself.  In this case, jury selection, a closing argument, revelatory evidence, or legal procedural challenges are tasks, not the entire **story obstacle**. The overall conflict encompasses all those things.
 
@@ -278,7 +272,7 @@ Your **tactic** might describe your using an **ability** that helps you overcome
 
 When deciding on your **tactic**, focus on how your unique abilities would help you overcome the **story obstacle**. This as the "key moment" where we focus on your PC. Use this moment to reveal your PC's strengths to the group.
 
-Your GM will determine if your **tactic** passes a **credibility test**. If you try to jump a 100 meters or run faster than a speeding car, your action is not credible and your GM will ask you to choose a different **tactic**.
+Your GM will determine if your **tactic** passes a **credibility test**. If you try to jump a 100 meters gap or run faster than a speeding car, your action is not credible and your GM will ask you to choose a different **tactic**.
 
 Credibility depends on the genre, as what is not credible in a gritty police procedural might be in pulp where you might be able to leap from a bridge onto a speeding train. If in dispute, your GM should discuss with the group whether they consider your **tactic** credible for the genre.
 
@@ -288,7 +282,7 @@ The GM can narrate the remaining tasks that make sense of the story depending on
 
 #### 2.3.2.4 No Repeat Attempts
 
-A **contest** represents all of your attempts to overcome a **story obstacle**. If your lose it means that no matter how many times you tried to solve the problem, you finally had to give up. You can try again only if you use a new **tactic** to overcome the **story obstacle**.
+A **contest** represents all of your attempts to overcome a **story obstacle**. If you lose it means that no matter how many times you tried to solve the problem, you finally had to give up. You can try again only if you use a new **tactic** to overcome the **story obstacle**.
 
 ### 2.3.3 Resistance
 
@@ -327,7 +321,7 @@ All **contests** use the base number + **resistance class**, except for **contes
 
 ### 2.3.4 Die Rolls
 
-To determine how well you use an **ability**, roll a 20-sided die (d20). At the same time, your GM rolls for the **resistance**.
+To determine how well you use an **ability**, roll a 20-sided die (D20). At the same time, your GM rolls for the **resistance**.
 
 Compare your rolled number with the **TN** to determine the **result**, a level of **success** or **failure** for the roll (not the **contest** as a whole).
 
@@ -378,7 +372,7 @@ A **bump** affects the degree of **success** or **failure** of your die roll. A 
 
 If you’re engaged in a **contest** against a **resistance**, and you have an **ability** of 10M versus a **resistance** of 10, you enjoy an advantage. You get a **bump** to your die roll from that **mastery**.
 
-You get one **bump** up for each level of **mastery** your PC has greater than your opponent’s. So against a **resistance** of 14 a PC's **ability** of 7M is treated as 7 vs. 14 but we **bump** the **result** one step in the the favor of the PC; a PC's **ability** of 3M2 is treated as 3 vs. 14 but we **bump** the **result** two steps in favor of the the PC.
+You get one **bump** up for each level of **mastery** your PC has greater than your opponent’s. So against a **resistance** of 14 a PC's **ability** of 7M is treated as 7 vs. 14 but we **bump** the **result** one step in the favor of the PC; a PC's **ability** of 3M2 is treated as 3 vs. 14 but we **bump** the **result** two steps in favor of the PC.
 
 This reflects the fact that an **ability** above 20 would always succeed on a D20. Because each **mastery** represents **automatic success** (apart from a **fumble**) on a D20, you roll against the remainder, and treat the **mastery** as a **bump**. So on an **ability** of 27 is 7M, which means a **target number** of 7 and **bump** the **result**; an **ability** of 43 means 3M2 or a **target number** of 3 and **bump** the **result** twice.
 
@@ -408,7 +402,7 @@ If you GM accepts your **augment** proposal, it will be resolved by one of the m
 
 ### 2.4.1 Rolled Augments
 
-To grant an **augment** to yourself, or another PC, in an upcoming **contest**, you engage in a **simple contest** against a **moderate resistance** before the main contest begins to determine whether the **augment** attempt results in and advantage. Frame this **augment contest** with your GM, making it clear how your supporting **ability** will achieve the goal of making your **ability** in the main **contest** more effective. **Augment contests** may not themselves be **augmented**, and if your **augment** attempt ends in **defeat**, you may not make another attempt at an **augment** for the main **contest**. 
+To grant an **augment** to yourself, or another PC, in an upcoming **contest**, you engage in a **simple contest** against a **moderate resistance** before the main contest begins to determine whether the **augment** attempt results in an advantage. Frame this **augment contest** with your GM, making it clear how your supporting **ability** will achieve the goal of making your **ability** in the main **contest** more effective. **Augment contests** may not themselves be **augmented**, and if your **augment** attempt ends in **defeat**, you may not make another attempt at an **augment** for the main **contest**. 
 
 If you are victorious in the **augment contest**, your GM will award a bonus of +3 to the **ability** used in the main **contest**. If your description of how you were using the **augmenting ability** was particularly entertaining, your GM may increase the bonus to +6.
 
@@ -439,7 +433,7 @@ A plot **augment** occurs when your GM decides that your **victory** over a prev
 
 ## 2.7 Advanced Mechanics
 
-You can play *QuestWorlds* with just the basic mechanics, and we recommend start with this simpler set of rules whilst your GM masters the less-familiar ideas like **story obstacles** instead of task resolution, that make *QuestWorlds* different from traditional RPGs.
+You can play *QuestWorlds* with just the basic mechanics and we recommend you start with this simpler set of rules whilst your GM masters the less-familiar ideas like **story obstacles** instead of task resolution, that make *QuestWorlds* different from traditional RPGs.
 
 The advanced mechanics add detail to the Basic mechanics, which add detail, or generate in-game story developments, at the cost of more complexity.
 
@@ -477,7 +471,7 @@ If you wish to use **escalating contests**, you need to choose **scored contests
 
 Your GM may decide that **resistance** to your actions gets harder, as the campaign progresses. This reflects the trope of the type of challenges you face getting tougher as you improve.
 
-Your GM should adopt a strategy that mimics a TV show more where the **resistance** does not increase during a season of the show, allowing our protagonists to get more competent as the show progresses towards its climax. In the next season though the **resistance** usually goes up, and the writers reflect this with more challenging opposition in the new season of the show. At the same time, the opposition that was tough in the first season, now become mooks that can be easily dispatched to show the increased competence of the protagonists.
+Your GM should adopt a strategy that mimics a TV show where the **resistance** does not increase during a season of the show, allowing our protagonists to get more competent as the show progresses towards its climax. In the next season though the **resistance** usually goes up, and the writers reflect this with more challenging opposition in the new season of the show. At the same time, the opposition that was tough in the first season, now become mooks that can be easily dispatched to show the increased competence of the protagonists.
 
 In that case your GM should increment the **resistance** by +3, +6 or +9 for the next campaign you play with the same characters. The size of the change should reflect the increase in your previous **abilities** in the last campaign. For example, if in the last season you increased your **occupation keyword** by +6, your GM may decide to increase the **resistance** by +3 or +6 to reflect the more challenging opposition in the new campaign. Your GM should also take into account that the opposition you were improving with respect to in the previous season should now be considered more-easily defeated mooks, and use lower **ratings** for them when they appear in the story.
 
@@ -493,7 +487,7 @@ Sometimes, you’ll want to know how great a **victory** you won, or how bad a *
 
 All of the resolution methods have an option to yield the **Degree of Victor or Defeat** for the PC. The possible **Degree of Victory or Defeat**, from least to greatest, are: **marginal**, **minor**, **major**, **complete**. **Ties** are also possible.
 
-If you struggle against NPCs or abstract forces, the interpretation of the **outcome** reveals whether you overcome the **story obstacle**, and any **consequences or benefits**; your GM narrate the fate of the NPCS or other forces depending on what makes sense. However, when you and another PC engage in a **contest** then a **victory** for one contestant means a corresponding **defeat** for the loser.
+If you struggle against NPCs or abstract forces, the interpretation of the **outcome** reveals whether you overcome the **story obstacle**, and any **consequences or benefits**; your GM narrates the fate of the NPCs or other forces depending on what makes sense. However, when you and another PC engage in a **contest** then a **victory** for one contestant means a corresponding **defeat** for the loser.
 
 So whilst in a PC vs. PC duel the PC would only be killed on a **complete defeat**, an NPC, described as a **resistance**, might be killed on any **victory**, depending on how the **contest** was framed.
 
@@ -587,7 +581,7 @@ Even only metaphorically dead, your GM may declare that you have undergone chang
 
 ### CONSEQUENCES OF DEFEAT TABLE
 
-|**defeat** Level|State of Adversity|Penalty|
+|Defeat Level|State of Adversity|Penalty|
 |:-------------:|:-------------:|:-------------:|
 |Marginal|Hurt|–3 penalty to appropriate abilities|
 |Minor|Impaired|–6 penalty to appropriate abilities|
@@ -702,7 +696,7 @@ At the end of a storyline, especially when a significant period of game-world ti
 
 Because it is confusing to track both **benefits and consequences** against the same **ability** your GM may simply rule that one cancels the other out. This is particularly true of social **contest**s where a moment of shame can erase your previous triumphs, or your confidence eroded by a **failure**. Physical benefits may cancel out, flushed with victory you may be able to ignore pain, but it may defy credibility for wounds to be healed by an athletic performance.
 
-Your GM may simply rule that **benefits and consequences** cancel out, or they may take the difference between the two benefits and create a new one. For example if you are **invigorated** by your previous performance in the dance **contest**, but then suffer a **hurt**, your GM may rule that your twisted ankle cancels out your energy from the last performance, or your GM might rule that your success sees you through the pain, but you are now only **pumped**.
+Your GM may simply rule that **benefits** and **consequences** cancel out, or they may take the difference between the two benefits and create a new one. For example if you are **invigorated** by your previous performance in the dance **contest**, but then suffer a **hurt**, your GM may rule that your twisted ankle cancels out your energy from the last performance, or your GM might rule that your success sees you through the pain, but you are now only **pumped**.
 
 ## 2.12 Modifiers
 
@@ -771,7 +765,7 @@ If you are not participating in the **contest** and have no stake in its **outco
 Otherwise, your GM will start by determining your degree of influence over the **outcome**. They are either:
 
 * Determining factors: The success of the effort depends mostly on your choices and successes. For example, you might be a military leader facing a force of roughly equal potency. As all else is equal, the better general will win the day. In this instance, your **tactic** should be a relevant leadership **ability**.
-* Contributors: One of the forces enjoys a clear advantage over the others, but your efforts may tip the balance in favor of a chosen side. Your GM will tell give you a **TN** to roll against that represents the strength of your force, but you can **augment** that **TN** with an appropriate leadership **ability**.
+* Contributors: One of the forces enjoys a clear advantage over the others, but your efforts may tip the balance in favor of a chosen side. Your GM will give you a **TN** to roll against that represents the strength of your force, but you can **augment** that **TN** with an appropriate leadership **ability**.
 * Acted Upon: You have little influence over the **outcome**, but are stuck in the middle of the conflict and must struggle to prosper within it. The GM predetermines the **outcome** of the overall competition on dramatic grounds. To determine your fate in the battle, you **contest** against a **resistance** determined by the GM, derived from the overall battle **outcome**.
 
 ## 2.17 Pyrrhic Victories
@@ -814,19 +808,7 @@ Your GM may use a **costly automatic victory** where **failure** offers no enter
 
 Even if you suffer a **defeat**, you still overcome the **story obstacle**. You also, however, suffer a **state of adversity** to one or more **abilities**, in keeping with the **defeat** level, as per the **consequences of defeat** table.
 
-The **state of adversity** might apply, as in an ordinary **contest**, to the abilities you used in that **contest**. Usually, though, they apply to some other resource-related **ability**, which may come to haunt you later on. When in doubt, ask yourself if the **penalty** will cripple the group in dealing with **contests**
-
-## 2.20 Advanced: Alternative Character Creation Methods
-
-Two Advanced character creation methods are available. More detail on these methods are available in their own section.
-
-### 2.20.1 The List Method
-
-This is like the As-You-Go method but you spend all their points before the game begins. This is possible with the As-You-Go method as well, but the list method allows you to signal what they want the game to be about from the abilities you pick, as opposed to reacting to material once the game begins.
-
-### 2.20.2 The Prose Method
-
-This is the most different method as you write a piece of prose and the pulls **abilities** from that. Its intent is to emulate a character description in fiction, and indeed PCs can be built by copying text from a story and then identifying **keywords**. It is the least 'fair' of the character creation options.
+The **state of adversity** might apply, as in an ordinary **contest**, to the abilities you used in that **contest**. Usually, though, they apply to some other resource-related **ability**, which may come to haunt you later on. When in doubt, ask yourself if the **penalty** will cripple the group in dealing with **contests**.
 
 # 3. Character Creation
 
@@ -838,7 +820,7 @@ In addition, you will want to give your character a name, and provide a physical
 
 1. Concept
 
-The concept is a brief phrase, often just a couple of words that tells the GM and other players what you do and how you act. Start with a noun or phrase indicating your **occupation** or area of expertise, and modify it with an adjective suggesting a **distinguishing characteristic**, a personality trait that defines you in broad strokes:
+The concept is a brief phrase, often just a couple of words that tells the GM and other players what you do and how you act. Start with a noun or phrase indicating your **occupation keyword** or area of expertise, and modify it with an adjective suggesting a **distinguishing characteristic**, a personality trait that defines you in broad strokes:
 
 * haughty priestess
 * hotshot lawyer
@@ -850,7 +832,7 @@ The concept is a brief phrase, often just a couple of words that tells the GM an
 
 2. Now provide your character with a name.
 3. If the series uses other **keywords**, such as those for culture or religion, you may gain one for free.
-4. When events in the story put you in a situation where you want to overcome a **story obstacle**, make up an applicable **ability** on the spot. The first time you use an **ability** (including the two you start play with), assign a **rating** to it. This may be a **breakout ability** from a **keyword**. You are restricted to only one **sidekick**.
+4. When events in the story put you in a situation where you want to overcome a **story obstacle**, make up an applicable **ability** on the spot. The first time you use an **ability** (including the two you start play with: **distinguishing characteristic** and **occupational keyword**), assign a **rating** to it. This may be a **breakout ability** from a **keyword**. You are restricted to only one **sidekick**.
 5. If you want, describe **flaws**.
 6. Once you have 12 **abilities** (including the two for character concept), and up to three **flaws** you are done creating your character.
 
@@ -858,13 +840,13 @@ The concept is a brief phrase, often just a couple of words that tells the GM an
 
 You have now defined your **abilities**. These tell everyone what you can do. Now assign numbers to each **ability**, called **ratings**, which determine how well you can do these things.
 
- Assign a starting **rating** of 17 to the **ability** you find most important or defining. Although most players consider it wisest to assign this **rating** to their **occupation**, which is usually a **keyword**, you don’t have to do this. Assign a **rating** of 17 to your **distinguishing characteristic**. In some cases, you may treat your **distinguishing characteristic** as a **breakout ability** from a **keyword** in this case, treat it as a +4.
+ Assign a starting **rating** of 17 to the **ability** you find most important or defining. Although most players consider it wisest to assign this **rating** to their **occupational keyword**, you don’t have to do this. Assign a **rating** of 17 to your **distinguishing characteristic**. In some cases, you may treat your **distinguishing characteristic** as a **breakout ability** from a **keyword** in this case, treat it as a +4.
 
  All other **abilities** start at a **rating** of 13.
 
 Now spend up to 20 points to increase any of your various **ratings**, including **keywords**. Each point spent increases a **rating** by 1 point. You can’t spend more than 10 points on any one **ability**.
 
-Some genre packs may require you to have additional **keywords** that reflect the setting. These additional **keywords** come from the 12 **ability** allowance, so in many genres you will have fewer wildcard **abilities** but better fit the setting.
+Some genre packs may require you to have additional **keywords** that reflect the setting. These additional **keywords** come from the 12 **abilites** allowance, so in many genres you will have fewer wildcard **abilities** but better fit the setting.
 
 ## 3.3 Keywords
 
@@ -908,7 +890,16 @@ Your GM may decide during play that certain **flaws** are better expressed as **
   
 ## 3.4 Advanced Character Creation
 
-QuestWorlds offers two advanced methods of character creation: prose and list.
+*QuestWorlds* offers two advanced methods of character creation: prose and list.
+
+### 3.4.1 The List Method
+
+This is like the As-You-Go method (see §3.1) but you spend all their points before the game begins. This is possible with the As-You-Go method as well, but the list method allows you to signal what they want the game to be about from the abilities you pick, as opposed to reacting to material once the game begins.
+
+### 3.4.2 The Prose Method
+
+This is the most different method as you write a piece of prose and then pull **abilities** from that. Its intent is to emulate a character description in fiction, and indeed PCs can be built by copying text from a story and then identifying **keywords**. It is the least 'fair' of the character creation options.
+
 
 ## 3.5 List Method
 
@@ -932,7 +923,7 @@ The concept is a brief phrase, often just a couple of words that tells the GM an
 
 ## 3.6 Prose Method
 
-You writes a paragraph of text like you would see in a story outline, describing the most essential elements of your character. Include **keywords**, personality traits, important possessions, relationships, and anything else that suggests what you can do and why. The paragraph should be about 100 words long.
+You write a paragraph of text like you would see in a story outline, describing the most essential elements of your character. Include **keywords**, personality traits, important possessions, relationships, and anything else that suggests what you can do and why. The paragraph should be about 100 words long.
 
 Compose the description in complete, grammatical sentences. No lists of **abilities**; no sentence fragments. Your GM may choose to allow sentences like the previous one for emphasis or rhythmic effect, but not simply to squeeze in more cool things you can do.
 
@@ -951,7 +942,7 @@ There is no limit to the number of **abilities** you can gain from a single sent
 1. Your GM **frames the contest**.
 2. You choose a **tactic**, and figure your PC's **target number** (**TN**) using the **rating** and any **modifiers**. The PCs **TN** is the **rating** of their **ability**, plus or minus **modifiers** the GM may give you.
 3. Your GM determines the **resistance**.  If two PCs contend, your opponent figures their **TN** as described in step 2.
-4. Roll a d20 to determine your **success or failure**, then apply any **bumps**. Your GM does the same for the **resistance**. Compare your rolled number with your **TN** to see how well you succeeded or failed with your **ability**. Remember to apply any **bumps** from **masteries** or **hero points**.
+4. Roll a D20 to determine your **success or failure**, then apply any **bumps**. Your GM does the same for the **resistance**. Compare your rolled number with your **TN** to see how well you succeeded or failed with your **ability**. Remember to apply any **bumps** from **masteries** or **hero points**.
 5. Determine **victory** or **defeat**
 6. Describe the **outcome** based on the **story obstacle**.
 
@@ -966,7 +957,7 @@ A **group simple contest** may pit all of you against a single **resistance**, r
 1. Your GM **frames the contest**.
 2. You choose a **tactic**, and figure your PC's **target number** (**TN**) using the **rating** and any **modifiers**. Your **TN** is the **rating** of their **ability**, plus or minus **modifiers** the GM may give you.
 3. Your GM determines the **resistance**.  If two PCs contend, your opponent figures their **TN** as described in step 2.
-4. For each of your group, roll a d20 to determine your **success or failure**, then apply any **bumps**. Your GM does the same for the **resistance**. Compare your rolled number with your **TN** to see how well you succeeded or failed with your **ability**. Remember to apply any **bumps** from **masteries** or **hero points**.
+4. For each of your group, roll a D20 to determine your **success or failure**, then apply any **bumps**. Your GM does the same for the **resistance**. Compare your rolled number with your **TN** to see how well you succeeded or failed with your **ability**. Remember to apply any **bumps** from **masteries** or **hero points**.
 5. Determine the number of **Outcome Points (OPs)** scored by the victor in the **contest** from the **group simple contest** table. On a tie the **victory** goes to the **better roll**.
 6. Sum the **OPs** gained for each side.
 7. The side with the highest number of **OPs** is the victor in the **contest**.
@@ -1023,7 +1014,7 @@ Advanced options for a simple contest allow greater granularity of the **outcome
 1. Your GM **frames the contest**.
 2. You choose a **tactic**, and figure your PC's **target number** (**TN**) using the **rating** of your **ability**, plus or minus **modifiers** the GM may give you. 
 3. Your GM determines the **resistance**.  If two PCs contend, your opponent figures their **TN** as described in step 2.
-4. For each of your group, roll a d20 to determine your **degree of victory or defeat**, then apply any bumps. Your GM does the same for the **resistance**. Compare your rolled number with your **TN** to see how well you succeeded or failed with your **ability**. Remember to apply any **bumps** from **masteries** or **hero points**.
+4. For each of your group, roll a D20 to determine your **degree of victory or defeat**, then apply any bumps. Your GM does the same for the **resistance**. Compare your rolled number with your **TN** to see how well you succeeded or failed with your **ability**. Remember to apply any **bumps** from **masteries** or **hero points**.
 5. Determine the number of **OPs** scored by the victor in the **contest** from the **group simple contest table**. On a tie the **victory** goes to the **better roll**.
 6. Sum the **OPs** gained for each side.
 7. The side with the highest number of **OPs** is the victor in the **contest**.
@@ -1074,13 +1065,13 @@ Think of the different ways a film director can choose to portray a given moment
 
 For example, there are two ways to shoot a scene in which a thief breaks into the bank to steal the contents of the safe.
 
-The action can be portrayed quickly, cutting to a moment with the thief with their ear pressed against the safe trying to get the tumblers fall into place. Then they sigh with relief, opens the safe, and gets whatever is inside. In this instance, the story is about what happens after the thief gets what’s in the safe, not about what might happen to them if they fails.
+The action can be portrayed quickly, cutting to a moment with the thief, their ear pressed against the safe trying to get the tumblers to fall into place. Then they sigh with relief, open the safe, and get whatever is inside. In this instance, the story is about what happens after the thief gets what’s in the safe, not about what might happen to them if they fail.
 
 Another film might instead choose to make the bank robbery a pivotal turning point in the story, if not its climactic moment. It would spend many scenes building up to the safe-cracking sequence: obtaining the plans of the bank, learning the movements of the guards, crawling through the air conditioning ducts, sliding past the motion sensors and pressure plates, and finally cracking the safe itself. All of these scenes would be **rounds** of a **long contest**.
 
 Remember that *QuestWorlds* uses conflict resolution. If you want to describe how you overcome a sequence of **story obstacles** to overcome the **resistance** then your GM should use a **long contest**, if you just want to move on to the next scene, use a **simple contest**.
 
-Even a movie driven by action and suspense will typically include only a handful of these set-piece sequences. They need the rest of their running times to build up to their big moments, to make us care about the characters, and to give us quiet moments to contrast with the white-knuckle parts.
+Even a movie driven by action and suspense will typically include only a handful of these set-piece sequences. They need the rest of their running time to build up to their big moments, to make us care about the characters, and to give us quiet moments to contrast with the white-knuckle parts.
 
 So pacing may always trump your desire to work through the sequence of events, as your GM may wish to resolve this conflict quickly. This is especially true if only one player is involved.
 
@@ -1127,7 +1118,7 @@ In a debate, a 1 **RP** might occasion mild head nodding from spectators, or a f
 
 On 3 **RPs**, your opponent might be thrown completely off-track, as audience members wince at the force of your devastating verbal jab.
 
-In interpreting the individual **simple contests** within an **scored contest**, your GM is guided by two principles:
+In interpreting the individual **simple contests** within a **scored contest**, your GM is guided by two principles:
 
 1. No consequence is certain until the entire **scored contest** is over.
 2. When a character scores points, it can reflect any positive change in fortunes, not just the most obvious one.
@@ -1204,7 +1195,7 @@ Your GM should not use a **parting shot**.
 
 If you succeed in your **parting shot** roll, you add the result from your roll to the final number of **resolution points** scored against your opponent in the round that removed them from the **contest**.
 
-However, if your opponent succeeds, they take the number of **resolution points** they would, in a standard **round**, score against you, and instead subtracts them from the number of **resolution points** scored against them in the **round** that removed them from the **contest**. If the revised total is now less than 5 **RPs**, they returns to the **contest**, and may re-engage you. Your GM describes this as a dramatic turnaround, in which your overreaching has somehow granted them an advantage allowing them to recover from their previous misfortune. The provisional consequences they suffered now go away, and are treated as a momentary or seeming disadvantage.
+However, if your opponent succeeds, they take the number of **resolution points** they would, in a standard **round**, score against you, and instead subtracts them from the number of **resolution points** scored against them in the **round** that removed them from the **contest**. If the revised total is now less than 5 **RPs**, they return to the **contest**, and may re-engage you. Your GM describes this as a dramatic turnaround, in which your overreaching has somehow granted them an advantage allowing them to recover from their previous misfortune. The provisional consequences they suffered now go away, and are treated as a momentary or seeming disadvantage.
 
 The **ability** you use must relate to the consequences the opposition will suffer, but needn’t be the same one you used to win the **contest**. If the loser is a PC they use a suitable **ability** to resist; otherwise the GM rolls a suitable **resistance** value.
 
@@ -1224,7 +1215,7 @@ You can always abandon a **contest**, but, in addition to failing at the **story
 
 To disengage, you make an **asymmetrical round**, using the **ability** relevant to the **contest** you’re trying to wriggle out of.
 
-If you fail, your effort is wasted and the score against you increases, as it would have during a normal **round**. If you succeed, they escape the clutches, literal or metaphorical, of your opponent, without further harm from a **contest** during the **rising action**. In a **climactic** scene, however, **RPs** scored during **contests** you disengaged from are still taken into account when determining **consequences**. In the case of a **group contest**, **consequences** against you are determined as soon as you disengage.
+If you fail, your effort is wasted and the score against you increases, as it would have during a normal **round**. If you succeed, you escape the clutches, literal or metaphorical, of your opponent, without further harm from a **contest** during the **rising action**. In a **climactic** scene, however, **RPs** scored during **contests** you disengaged from are still taken into account when determining **consequences**. In the case of a **group contest**, **consequences** against you are determined as soon as you disengage.
 
 ## 5.2 Group Scored Contest
 
@@ -1271,7 +1262,7 @@ To determine individual **consequences** or **benefits**, in **rising action**, 
 
 ### 5.2.3 Unrelated Actions
 
-If you are not currently enmeshed in a **round**, either after a successful disengagement, or after winning a **round**, you may take actions within the scene that do not directly contribute to the **defeat** of the other side. These **unrelated actions** may grant an **augment** to yourself or to a teammate. You may achieve a secondary story objective. This resembles an **asymmetrical round**, except that; as you are not targeted by any opponents, there is no additional risk.
+If you are not currently enmeshed in a **round**, either after a successful disengagement, or after winning a **round**, you may take actions within the scene that do not directly contribute to the **defeat** of the other side. These **unrelated actions** may grant an **augment** to yourself or to a teammate. You may achieve a secondary story objective. This resembles an **asymmetrical round**, except that, as you are not targeted by any opponents, there is no additional risk.
 
 ### 5.2.4 Assists
 
@@ -1308,7 +1299,7 @@ You may choose to have your **followers** take part in **group scored contests**
 
 **Supporter**: Your **follower** is present in the scene, but does not directly engage your opponents. Instead they may perform **assists** and other **unrelated actions**.
 
-**Followers** acting in any of these three capacities may be removed from the **contest** by otherwise unengaged opponents. To remove a **follower** from a scene, an opponent engages your **follower** in a **simple contest**. Your GM sets the **resistance**, or if it is another PC's **follower** they determines the relevant **ability** of the **follower** engaging yours. On any failure, your **follower** is taken out of the **contest**. For **consequence** determination purposes, the follower has X+2 **resolution points** lodged against them, where X is the usual number levied by the **resolution point** table.
+**Followers** acting in any of these three capacities may be removed from the **contest** by otherwise unengaged opponents. To remove a **follower** from a scene, an opponent engages your **follower** in a **simple contest**. Your GM sets the **resistance**, or if it is another PC's **follower** they determine the relevant **ability** of the **follower** engaging yours. On any failure, your **follower** is taken out of the **contest**. For **consequence** determination purposes, the follower has X+2 **resolution points** lodged against them, where X is the usual number levied by the **resolution point** table.
 
 ### 5.2.5 Risky Gambits
 
@@ -1322,7 +1313,7 @@ In a **scored contest**, you can make a **defensive response**, lowering the num
 
 ### 5.2.7 Joining Scored Contests in Progress
 
-When you wish to join a **scored contest** in progress, you and your GM should discuss whether you accept the current framing. If so, you can participate. In a **scored contest**, you simply select an opponent and enters into a new **round**. If you want to achieve something other than the goal established during framing, you may instead perform **unrelated actions**, including **assists** and **augments**.
+When you wish to join a **scored contest** in progress, you and your GM should discuss whether you accept the current framing. If so, you can participate. In a **scored contest**, you simply select an opponent and enter into a new **round**. If you want to achieve something other than the goal established during framing, you may instead perform **unrelated actions**, including **assists** and **augments**.
 
 ### 5.2.8 Switching Abilities
 
@@ -1341,12 +1332,12 @@ An **extended contest** consists of one or more **rounds**, in which you perform
 3. The GM determines the **resistance**. The GM opposes the PC with a **resistance**—the harder the task or tougher the opponent, the higher the **resistance**. The GM figures starting **APs** for the **resistance** from the **resistance** **TN**.
 4. Carry out one or more **rounds**, repeating as necessary.
     1. Each **round** consists of two **exchanges**: an action and immediate response.
-        1. Describe your action towards the desired **prize**, what **ability** you uses, and how much risk you take. “I want to climb straight up to that outcrop, taking chances if needed.” You can specify your **AP bid**; if you do not, your GM determines this based on the amount of risk you are taking. The size of the **bid** mirrors how bold and risky your character’s action is. Extreme or aggressive actions mean a high **AP bid**, and cautious actions require less.
+        1. Describe your action towards the desired **prize**, what **ability** you use, and how much risk you take. “I want to climb straight up to that outcrop, taking chances if needed.” You can specify your **AP bid**; if you do not, your GM determines this based on the amount of risk you are taking. The size of the **bid** mirrors how bold and risky your character’s action is. Extreme or aggressive actions mean a high **AP bid**, and cautious actions require less.
         2. The **ability** used can be varied, but **APs** are always calculated on the first **ability** that you use in a contest. That **ability** must be used in the first **round**.
         3. You gamble a number of your **APs** in an attempt to reduce your opponent’s **AP**, but if you fail the attempt you lose the **AP**.
         4. Roll a die to determine your **degree of victory or defeat**, then apply any **bumps**. Your GM does the same.
         5. Compare the results of the two die rolls on the Extended Contest Table to determine who loses **AP**; only when you have a **critical** can you gain **AP** from your opponent. The **AP bid** is multiplied by this number before applying the results. Thus, if you **bid** 3 **AP** and the result is “Opponent loses 2x **bid**,” the loser loses 3 x 2 = 6 **AP**. Round half points up.
-        6. Determine **outcome**. Each contestant’s **AP** total rises or falls during the contest as they gains the upper hand or are driven back. **Exchanges** continue until one contestant reaches 0 **advantage points** or fewer. At that point, the contest is over (even if it is the middle of a **round**). The loser’s final **AP** total determines the **outcome** for the victor.
+        6. Determine **outcome**. Each contestant’s **AP** total rises or falls during the contest as they gain the upper hand or are driven back. **Exchanges** continue until one contestant reaches 0 **advantage points** or fewer. At that point, the contest is over (even if it is the middle of a **round**). The loser’s final **AP** total determines the **outcome** for the victor.
         7. The GM then hazards a number of **APs** for the **resistance**, in the same way.
 5. **Advantage points** are only relevant for the length of a particular **contest**. Your PC does not have any until the next **extended contest** begins, when you calculate them all over again
 
@@ -1494,7 +1485,7 @@ If you withdraw from a **group extended contest** and later decide to rejoin it 
 
 ### AP TRANSFER FRON FAILED DISENGAGEMENT
 
-|Level Of Defeat|AP transferred|
+|Level of Defeat|AP transferred|
 |:------:|:------:|
 |Marginal|1/8 of your current total|
 |Minor|1/4 of your current total|
@@ -1568,7 +1559,7 @@ If you, or your GM, wishes to **disengage**, then on any **victory** you leave t
 |Critical|Worse roll is **hurt**. If tied, no effect.|Opponent **hurt**. If already **hurt** in this contest, Injured. If already injured, Dying|Opponent Injured. If already Injured in this contest, Dying|Opponent Dying: player has them at complete mercy. Contest is over.|
 |Success|PC is **hurt**. If already **hurt** in this contest, Injured. If already injured, Dying|Worse roll is **hurt**. If tied, no effect|Opponent **hurt**. If already **hurt** in this contest, Injured. If already injured, Dying|Opponent Injured. If already Injured in this contest, Dying|
 |Failure|PC is Injured. If already Injured in this contest, Dying|PC is **hurt**. If already **hurt** in contest, Injured. If injured, Dying|Worse roll is **hurt**. If tied, no effect|Opponent **hurt**. If already **hurt** in this contest, Injured. If already injured, Dying|
-|Fumble|PC Dying: opponent has him at complete mercy. Contest is over.|PC is Injured. If already Injured in this contest, Dying|PC is **hurt**. If already **hurt** contest, Injured. If already injured, Dying|Both make a mistake. No effect on contest. Side effects at GM's discretion|
+|Fumble|PC Dying: opponent has them at complete mercy. Contest is over.|PC is Injured. If already Injured in this contest, Dying|PC is **hurt**. If already **hurt** contest, Injured. If already injured, Dying|Both make a mistake. No effect on contest. Side effects at GM's discretion|
 
 ### 5.4.1 Group Chained Contest
 
@@ -1600,7 +1591,7 @@ Your GM should never “nest” one **long contest** inside another. If a **long
 
 ## 5.6 Extended vs Scored Contests vs Chained Contests
 
-We recommend that your GM chooses one form of **long contest** only, and sticks to it, within a given campaign of *QuestWorlds*. If in doubt, use a **scored contests** by default.
+We recommend that your GM chooses one form of **long contest** only, and sticks to it, within a given campaign of *QuestWorlds*. If in doubt, use a **scored contest** by default.
 
 **Scored contests** have the advantage of speed and simplicity. **Extended contests** have the advantage of each **exchange** allowing both parties to take turns acting, over your GM adjudicating who has the initiative; the bidding system also adds drama. **Chained contests** offer the benefit of grittier exchanges where the **outcomes** of each **round** have impact, as opposed to being 'cosmetic' until the end of the **contest**.
 
@@ -1622,7 +1613,7 @@ Many relationships connect you to NPCs controlled by the GM.
 
 When you try to use one of these relationships to solve a problem, your **tactic** is your relationship **ability**. You can’t simply go to the **supporting character** you have a relationship with, stick them with the problem, and expect to see it solved.
 
-If you succeeds, the **supporting character** helps you solve the problem. If you fail, they don’t. As with any **ability**, you must still specify how the NPC goes about overcoming the **story obstacle**. Calls on relationships are almost always **simple contests**.
+If you succeed, the **supporting character** helps you solve the problem. If you fail, they don’t. As with any **ability**, you must still specify how the NPC goes about overcoming the **story obstacle**. Calls on relationships are almost always **simple contests**.
 
 In crucial situations, it may seem dramatically inappropriate for you to solve a problem indirectly, by working through others. Your GM can expose the **supporting character** to serious risk. If the character dies or otherwise suffers a change of status that renders them useless to you, you permanently lose the relationship **ability**.
 
@@ -1636,7 +1627,7 @@ An **ally** is a character of roughly the same level of accomplishment as you, o
 
 ## 6.3 Patrons
 
-**Patrons** enjoy greater access to assets than you, either through personal ownership (as in a Merchant Prince) or authority (as in the governor of a province). They may lend you advice or provide them with assets but are too busy and important to personally perform tasks for you. They may hire you to do jobs, or issue orders within a command structure to which you both belong.  
+**Patrons** enjoy greater access to assets than you, either through personal ownership (as in a Merchant Prince) or authority (as in the governor of a province). They may lend you advice or provide you with assets but are too busy and important to personally perform tasks for you. They may hire you to do jobs, or issue orders within a command structure to which you both belong.  
 
 When you roll your **patron** relationship, your GM adjusts the resistance class depending on what you have done for them lately.
 
@@ -1660,7 +1651,7 @@ There are two types of followers: **sidekicks** and **retainers**.
 
 ### 6.5.1 Sidekick
 
-A **sidekick** is a **supporting character** under your control. Most of the time they stays at your side to render assistance, but they can also go off and perform errands or missions on their own.
+A **sidekick** is a **supporting character** under your control. Most of the time they stay at your side to render assistance, but they can also go off and perform errands or missions on their own.
 
 You should give your **sidekick** a name. You should, when asked, explain how the **sidekick** came to be your **follower**, and why they continue in that role.
 
@@ -1680,7 +1671,7 @@ As a **consequence of defeats** in which they participated, **sidekicks** can be
 
 Defeat in physical **contests** can lead to literal death. Metaphorical deaths from non-violent **contests** indicate a break you. The **sidekick** may angrily withdraw from your service, but is more likely to sorrowfully retire. You may be able to bring a **sidekick** back from metaphorical death by overcoming **story obstacles**.
 
-If you lose a **sidekick**, they may create a new one without needing to spend a **hero point**. You must explain how the new **sidekick** has come to be your new **follower**.
+If you lose a **sidekick**, you may create a new one without needing to spend a **hero point**. You must explain how the new **sidekick** has come to be your new **follower**.
 
 You may find it convenient to promote **retainers** to **sidekick** status, giving them names and personalities, with a sudden improvement in **abilities** and **ratings** to match.
 
@@ -1728,10 +1719,10 @@ Unspent **HPs** at the end of the session become **experience points (XPs)** and
 
 When you accumulate 10 **XPs**, you can buy an advance. An advance allows you to select two of the following. You cannot choose an element more than once.
 
-- [] +9 to a standalone **ability** or breakout **ability**; or +6 to a **keyword**
-- [] +6 to a standalone **ability** or breakout **ability**; or +3 to a **keyword**
-- [] a new standalone **ability** at 13; or a new breakout **ability** at + 1
-- [] a new standalone **ability** at 13
+- [] +9 to a standalone **ability** or breakout **ability**; or +6 to a **keyword**.
+- [] +6 to a standalone **ability** or breakout **ability**; or +3 to a **keyword**.
+- [] a new standalone **ability** at 13; or a new breakout **ability** at + 1.
+- [] a new standalone **ability** at 13.
 - [] Turn a stand-alone **ability** into a **keyword** by adding a new +1 breakout **ability** to it.
 
 In some genres you may wish to maintain a tally of the total **XPs** earned as a measure of your reputation.
@@ -1798,13 +1789,13 @@ Communities can have a type of **ability** called a **resource** that your GM de
 
 Most communities have variants of the following **resources**, perhaps with more colorful names:
 
-* Wealth — the **ability** of the community’s to provide financial help, whether counted primarily in dollars, credits, or cattle
+* Wealth — the **ability** of the community to provide financial help, whether counted primarily in dollars, credits, or cattle
 * Diplomacy — the **ability** to extract favors from other communities, while minimizing the cost of its reciprocal obligations
 * Morale — the community’s **ability** to believe in its capacity to achieve its goals, and willingness to follow the directives of its leaders
 
 The following abilities might appear, depending on setting:
 
-* Military — its **ability** to defend itself from outside threats, and to aggressively achieve its own aims through force of arms (for settings where communities of the size you’re tracking  eld their own armed units)
+* Military — its **ability** to defend itself from outside threats, and to aggressively achieve its own aims through force of arms (for settings where communities of the size you’re tracking field their own armed units)
 * Magic — the collective **ability** of its people to perform supernatural acts (for fantasy worlds)
 * Technology — its access to specialized, rare or secret devices or scientific knowledge not shared by its rivals (for post- apocalyptic or SF worlds)
 
@@ -1852,7 +1843,7 @@ On a **defeat**, you lose the **prize** and an even more severe **penalty** is a
 
 Like other **modifiers** to **resources**, depletion **penalties** end at the end of the current interval. These include **depletion penalties** applied to character **abilities**. However, a **depletion penalty** left unattended at the end of the interval can result in a permanent drop in the relevant **resource**.
 
-If your GM wants resource depletion to lead to longer-lasting social **penalties** can, at the cost of some extra bookkeeping, they can have the characters shed a 3-point **penalty** at the end of each interval.
+If your GM wants resource depletion to lead to longer-lasting social **penalties**, at the cost of some extra bookkeeping, they can have the characters shed a 3-point **penalty** at the end of each interval.
 
 ### RESOURCE DEPLETION TABLE
 
@@ -1887,7 +1878,7 @@ You can add **bonuses** to **bolster** community **resources** by seeking out an
 
 Your changes to **resources** take center stage in a series, but in the background all sorts of other events periodically alter the community’s prosperity. These include the actions of other community members, who are **depleting and bolstering resources** all the time, as well as the unexpected intrusion of outside forces.
 
-At the beginning of each interval, one of the your group should perform a **simple contest** of each **resource** against a **resistance** equal to the average value of all **resources**. These **contests** simulate **background events** outside of your control or influence; they can’t be **augmented** or **bumped** up with **hero points**.
+At the beginning of each interval, one of your group should perform a **simple contest** of each **resource** against a **resistance** equal to the average value of all **resources**. These **contests** simulate **background events** outside of your control or influence; they can’t be **augmented** or **bumped** up with **hero points**.
 
 The **outcome** of the **contest** may apply a **modifier** to a **resource**, as per the following table:
 
@@ -1970,7 +1961,7 @@ Your GM may decide that certain remarkable triumphs or horrifying catastrophes m
 
 **Background Event** An off-stage **bonus** or **penalty** applied to a **resource**.
 
-**Base resistance** The TN for a **moderate resistance class**, from which all other **resistance classes** are figured as a **bonus** or **penalty**.
+**Base resistance** The **TN** for a **moderate resistance class**, from which all other **resistance classes** are figured as a **bonus** or **penalty**.
 
 **Benefit of Victory** Long term positive modifier, because you won a **contest**, against a challenging opponent (not -6 or less than your **ability**). Usually a **state of fortune**.
 
@@ -2026,7 +2017,7 @@ Your GM may decide that certain remarkable triumphs or horrifying catastrophes m
 
 **Exchange** In an **extended contest** a round is divided into two **exchanges** where both aggressor and defender act. In a **group extended contest** a round consists of a sequence of **exchanges** where everyone acts in turn. The GM determines the order of action.
 
-**Extended Contest** A type of **long contest** in which you track the relative advantage one opponent has over another using **advantage points**
+**Extended Contest** A type of **long contest** in which you track the relative advantage one opponent has over another using **advantage points**.
 
 **Experience Points (XP)** When you do not spend a **hero point** in a session it becomes an **experience point**, which can accumulate between sessions.
 
@@ -2088,7 +2079,7 @@ Your GM may decide that certain remarkable triumphs or horrifying catastrophes m
 
 **Outcome Point** A point scored in favor one side in a **group simple contest**
 
-**Parting Shot** An attempt to make your opponent's **defeat** worse in an **long contest** (**scored** or **extended**), by 'finishing them off'.
+**Parting Shot** An attempt to make your opponent's **defeat** worse in a **long contest** (**scored** or **extended**), by 'finishing them off'.
 
 **Patron** A **supporting character** with superior assets.
 
@@ -2126,7 +2117,7 @@ Your GM may decide that certain remarkable triumphs or horrifying catastrophes m
 
 **Stand Alone Ability** An **ability** raised separately to a **keyword**. It may have been added to the character as part of a **package keyword**, or on its own.
 
-**State of Adversity** How 'banged up' a PC is, physically or metaphorically, following a **defeat**: : **Hurt**, **Injured**, **Impaired**, **Dying** and **Dead**
+**State of Adversity** How 'banged up' a PC is, physically or metaphorically, following a **defeat**: **Hurt**, **Injured**, **Impaired**, **Dying** and **Dead**
 
 **State of Fortune** A 'boost' to the PC which may be physical or metaphorical.
 
