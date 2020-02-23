@@ -205,7 +205,7 @@ Some **abilities** might be broad descriptions of your background or expertise, 
 
 Ultimately, **abilities** are just names for the interesting things your character can do.
 
-### 2.1.2 Ratings and Masteries
+### 2.1.1 Ratings and Masteries
 
 *QuestWorlds* **abilities** are **rated** on a range of 1–20, representing the **target number (TN)** you need to roll or less to succeed on your roll during a **contest** (see §2.3 for more details). **Ratings** are also scalable beyond that range using tiers of capability we refer to as **Mastery**. When you raise a **rating** of 20 by one point, either permanently through character advancement or a temporarily with **modifier** to a contest roll, the **rating** increases not to 21, but to 1M.
 
@@ -217,11 +217,11 @@ Specific *QuestWorlds* games or genre packs may use other symbols relevant to th
 
 In summary, to reflect abilities (or **resistance**s), higher than 20, you divide the **ability** by 20, noting a **mastery** for each multiple of 20 the **ability** exceeds, and treating the remainder as the **target number**. So, for an **ability** of 27, 27 ÷ 20 = 1 remainder 7, which translates into a **rating** of seven with one **mastery** written as "7M"; while for an **ability** of 43, 43 ÷ 20 = 2 remainder 3, which translates into a **rating** of three with two **masteries**, written as "3M2" on the character sheet.
 
-#### 2.1.2.1 No Relevant **ability**
+#### 2.1.1.1 No Relevant **ability**
 
 You may sometimes be faced with a **story obstacle** for which you have no relevant **ability** whatsoever. In such cases, you may still enter into conflict with the **story obstacle** using a minimum base **target number** of 6 for your **contest** roll. Like **ratings**, it may also be subject to **modifiers**.
 
-#### 2.1.2.2 Making Ratings Quantitative
+#### 2.1.1.2 Making Ratings Quantitative
 
 While *QuestWorlds* generally treats **ratings** as abstract measures of problem solving power rather than quantitive measures of in-fiction traits, some games may also depart from this practice in order to more closely couple key fictional elements to the mechanics. For example, a magic system might classify certain supernatural effects as Apprentice, Journeyman, or Master level, and require **ratings** of 15, 5M, or 1M2 (respectively) in a relevant **ability** to even attempt them. 
 
@@ -338,7 +338,7 @@ In other words, in *QuestWorlds* your GM will pick a **resistance** based on dra
 
 **Resistance** numbers are derived from a **base resistance**, which is modified according to the **resistance class**, as per the following table:
 
-### RESISTANCE CLASS TABLE
+#### 2.3.3.1 RESISTANCE CLASS TABLE
 
 | Class           | Value                                 |
 |:---------------:|:-------------------------------------:|
@@ -450,7 +450,7 @@ If you are victorious in the **augment contest**, your GM will award a bonus of 
 
 If you are using the advanced mechanic for **degrees of victory or defeat**, use the table below to interpret the **outcome** of the **simple contest**. Note that **penalties** for **defeat** when attempting an **augment** are much lessened compared to a regular **contest**.
 
-### AUGMENT TABLE
+#### 2.4.1.1 AUGMENT TABLE
 
 |Contest Outcome|Modifier       |
 |:-------------:|:-------------:|
@@ -621,7 +621,7 @@ Death from a non-physical **contest** will likely be metaphorical. If you die in
 
 Even only metaphorically dead, your GM may declare that you have undergone changes so dire as to make your PC unplayable. You may be incurably insane, or be so socially shamed that you retire to a life of obscurity or religious meditation. You may be shunned by all around you, sent into permanent exile, or sentenced to long-term imprisonment with no hope of escape.
 
-### CONSEQUENCES OF DEFEAT TABLE
+#### 2.9.1.7 CONSEQUENCES OF DEFEAT TABLE
 
 |Defeat Level|State of Adversity|Penalty                                                                                           |
 |:----------:|:----------------:|:------------------------------------------------------------------------------------------------:|
@@ -680,7 +680,7 @@ If you are **heroic**, you have become unstoppable, physically at peak performan
 
 Being **heroic** goes away after a season's idleness, or an in-game event, as above.
 
-### BENEFITS OF VICTORY TABLE
+#### 2.9.1.6 BENEFITS OF VICTORY TABLE
 
 |Victory Level  |State of Fortune|Benefit|
 |:-------------:|:--------------:|:------------------------------------------------------------------------:|
@@ -689,7 +689,7 @@ Being **heroic** goes away after a season's idleness, or an in-game event, as ab
 |Major          |Invigorated     |+9                                                                        |
 |Complete       |Heroic          |You receive an automatic **bump** up on uses of an appropriate **ability**|
 
-#### 2.9.2.1 Clearly Inferior Opponents
+### 2.9.2 Clearly Inferior Opponents
 
 Defeating clearly inferior opponents neither teaches you anything nor significantly enhances your reputation; you are ineligible for a **benefit of victory** if the **resistance** you used in the **contest** exceeded the **resistance** by 6 or more. If, in the case of a **long contest**, you or your opponent used multiple **abilities**, compare the best **ability** you used to their worst.
 
@@ -715,7 +715,7 @@ Your GM should almost always resolve healing attempts as **simple contests**. An
 
 Default **resistances** to remove states of adversity are as follows:
 
-### HEALING RESISTANCES TABLE
+#### 2.9.3.3 HEALING RESISTANCES TABLE
 
 |Consequence of Defeat|Difficulty|
 |:-------------------:|:--------------:|
@@ -724,7 +724,7 @@ Default **resistances** to remove states of adversity are as follows:
 |Injured              |High            |
 |Dying                |Very High       |
 
-#### 2.9.3.3 Outcomes of Healing
+#### 2.9.3.4 Outcomes of Healing
 
 When you make a successful healing attempt, you remove one level of **adversity** for each level of **victory**. A **major defeat** increases the subject’s **consequences of defeat** by 1; a **complete defeat** adds an additional 2 levels to the **state of adversity**.
 
@@ -816,7 +816,7 @@ In a Pyrrhic victory, you **boost** your chance of **success** in a **contest** 
 
 As with any proposed action, you must convincingly describe the potentially suicidal risks you are taking to achieve their objective. You must also show how these risks can bring you the **victory** they seek.
 
-### PYRRHIC VICTORY TABLE
+### 2.15.1 PYRRHIC VICTORY TABLE
 
 |Outcome         |State of Adversity|
 |:--------------:|:----------------:|
@@ -942,18 +942,6 @@ This is like the As-You-Go method (see §3.1) but you spend all their points bef
 
 This is the most different method as you write a piece of prose and then pull **abilities** from that. Its intent is to emulate a character description in fiction, and indeed PCs can be built by copying text from a story and then identifying **keywords**. It is the least 'fair' of the character creation options.
 
-## 3.5 Advanced Character Creation
-
-*QuestWorlds* offers two advanced methods of character creation: prose and list.
-
-### 3.5.1 The List Method
-
-This is like the As-You-Go method (see §3.1) but you spend all their points before the game begins. This is possible with the As-You-Go method as well, but the list method allows you to signal what they want the game to be about from the abilities you pick, as opposed to reacting to material once the game begins.
-
-### 3.5.2 The Prose Method
-
-This is the most different method as you write a piece of prose and then pull **abilities** from that. Its intent is to emulate a character description in fiction, and indeed PCs can be built by copying text from a story and then identifying **keywords**. It is the least 'fair' of the character creation options.
-
 ## 3.6 List Method
 
 1. Concept
@@ -1018,7 +1006,7 @@ A **group simple contest** may pit all of you against a single **resistance**, r
 
 ### 4.2.2 Group Simple Contest Resource Points
 
-### GROUP SIMPLE CONTEST TABLE
+#### 4.2.2.1 GROUP SIMPLE CONTEST TABLE
 
 |               |Critical       |Success        |Failure        |Fumble         |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
@@ -1049,7 +1037,7 @@ Advanced options for a simple contest allow greater granularity of the **outcome
 
 ### 4.4.2 Degree of Victory
 
-### SIMPLE CONTEST TABLE
+#### 4.4.2.1 SIMPLE CONTEST TABLE
 
 |Roll    |Critical      |Success        |Failure        |Fumble         |
 |:------:|:------------:|:-------------:|:-------------:|:-------------:|
@@ -1078,7 +1066,7 @@ Advanced options for a simple contest allow greater granularity of the **outcome
 
 8. Describe the **outcome** based on the agreed **prize**.
 
-### DEGREE OF VICTORY TABLE
+#### 4.5.1.1 DEGREE OF VICTORY TABLE
 
 |Difference Between OPs|Winning Group's Degree of Victory|
 |:--------------------:|:-------------------------------:|
@@ -1176,7 +1164,7 @@ In interpreting the individual **simple contests** within a **scored contest**, 
 1. No consequence is certain until the entire **scored contest** is over.
 2. When a character scores points, it can reflect any positive change in fortunes, not just the most obvious one.
 
-### Resource Point Table
+#### 5.1.1.1 Resource Point Table
 
 |               |Critical       |Success        |Failure        |Fumble         |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
@@ -1191,7 +1179,7 @@ As with all **contests**, if the contest involved a resistance we care about you
 
 In a PC vs. PC contest however, your GM should treat the results as symmetrical when determining the **outcome**.
 
-### 5.1.2.1 Rising Action
+#### 5.1.2.1 Rising Action
 
 **Rising action** refers to all of the many plot events and complications that occur between the beginning and the climax of a story. During this phase of your GM's story, they will use the **rising action** consequence table to assess **outcomes**.
 
@@ -1199,7 +1187,7 @@ Find the difference between you and your opponent's **resolution point** scores 
 
 Note, you may suffer a **state of adversity**, even if you win the **prize**.
 
-### RISING ACTION CONTEST TABLE
+#### 5.1.2.1 RISING ACTION CONTEST TABLE
 
 |Difference Between RPs|Negative Consequences for Loser|Consequences/Benefit for Winner|Victory/Defeat Level|
 |:--------------------:|:-----------------------------:|:-----------------------------:|:------------------:|
@@ -1213,13 +1201,13 @@ Note, you may suffer a **state of adversity**, even if you win the **prize**.
 |8                     |Dead                           |Heroic                         |Complete            |
 |9                     |Dead                           |Heroic                         |Complete            |
 
-### 5.1.2.2 Climax
+#### 5.1.2.3 Climax
 
 For the final, climactic confrontation that wraps up your GM's story, you may suffer a **state of adversity**, even if the **outcome** shows that you won the **prize**. This represents that at the **climax** you may triumph, but be laid low by the effort.
 
 First, determine your **outcome** for the **contest** as for rising action, but in addition, if the outcome show that you gained the **prize** your GM now cross-references the **resolution points** scored against you by your opponent on the **climactic state of adversity** table to determine the **state of adversity** you suffered in winning that **victory**. If you lost the **prize** use the **RPs** scored against you to determine your **outcome** as per the **rising action** table above.
 
-### CLIMACTIC STATE OF ADVERSITY TABLE
+#### 5.1.2.4 CLIMACTIC STATE OF ADVERSITY TABLE
 
 |Total Resolution Points Scored Against PC|State of Adversity|
 |:---------------------------------------:|:----------------:|
@@ -1327,7 +1315,7 @@ Your GM may adjust the starting **resistance** up or down by one step to account
 
 The **assist** alters the score against your teammate according to the **outcome** of a **simple contest**
 
-### ASSIST TABLE
+#### 5.2.4.1 ASSIST TABLE
 
 |Contest Outcome |Change to Score Against Recipient|
 |:--------------:|:-------------------------------:|
@@ -1394,7 +1382,7 @@ An **extended contest** consists of one or more **rounds**, in which you perform
         7. The GM then hazards a number of **APs** for the **resistance**, in the same way.
 5. **Advantage points** are only relevant for the length of a particular **contest**. Your PC does not have any until the next **extended contest** begins, when you calculate them all over again
 
-### EXTENDED CONTEST TABLE
+#### 5.3.1.1 EXTENDED CONTEST TABLE
 
 |                    |Critical           |Success             |Failure            |Fumble              |
 |:------------------:|:-----------------:|:------------------:|:------------------|:------------------:|
@@ -1430,7 +1418,7 @@ Once your opponent has won or lost **APs** during the current contest, you can a
 
 At the end of the contest the **APs** of the loser determine the **benefits** for the winner or **consequences** for the loser. As with all **contests**, if the contest involved a **resistance**, and not another PC, we care about your **outcome**, win or lose, and the GM should feel free to narrate the **outcome** for the **resistance** depending on their interpretation of your **outcome**, which may not be symmetrical. For example, if the **benefit of victory** for your PC is **pumped** the GM should feel free to interpret what this means for the **resistance**: in a melee they might be dead, in a social contest they might be exiled, or they might surrender in the melee or cede ground in a social contest. Your GM should focus on the **prize** that was agreed when deciding how to narrate the resolution of the contest.
 
-#### EXTENDED CONTEST TABLE
+#### 5.3.3.1 EXTENDED CONTEST TABLE
 
 |Final AP Total |Level of Defeat|Consequence for Loser|Benefit for Winner|
 |:-------------:|:-------------:|:-------------------:|:----------------:|
@@ -1491,7 +1479,7 @@ If you win the **simple contest**, you rejoin the contest with a positive **AP**
 
 Your GM should not use a **final action** for the **resistance** (and has no **hero points** which are required for this).
 
-### FINAL ACTION RESULTS TABLE
+#### 5.3.5.1 FINAL ACTION RESULTS TABLE
 
 |Result          |AP change                                   |
 |:--------------:|:------------------------------------------:|
@@ -1512,7 +1500,7 @@ You can stake more **advantage points** than you currently have, to a maximum of
 
 If you are unengaged, you can forfeit your action to do something unrelated to the object of the contest. You might want to try to open a door, haul an important piece of equipment out of your saddlebags, heal yourself with magic, or **augment** an **ability**. Depending on the circumstances, you may have to engage in a **simple contest** to find out if you succeed at the **unrelated action**.
 
-## 5.3.8 Asymmetrical Exchange
+### 5.3.8 Asymmetrical Exchange
 
 If you are engaged, you may choose to briefly suspend your attempt to best your opponent in an **extended contest**, in order to do something else. An instance where you are trying to do something else and your opponent is trying to win the **contest** is called an **asymmetrical exchange**.
 
@@ -1605,7 +1593,7 @@ If you, or your GM, wishes to **disengage**, then on any **victory** you leave t
 
 **Chained contests** are symmetric, in that they indicate the **outcome** for the loser, and as this is applied in steps, give the GM no freedom to interpret the **outcome** for the loser when narrating.
 
-### CHAINED CONTEST TABLE
+### 5.4.1 CHAINED CONTEST TABLE
 
 |Roll           |Critical       |Success        |Failure        |Fumble                       |
 |:-------------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
@@ -1812,7 +1800,7 @@ Your GM is the arbitrator of whether a **plot edit** is allowed. It should not s
 
 The cost, in **hero points**, of a **plot edit**, is given by the following table.
 
-### PLOT EDIT TABLE
+### 7.3.1 PLOT EDIT TABLE
 
 |Level                    |Cost |Impact                   |Example                  |
 |:-----------------------:|:---:|:-----------------------:|:-----------------------:|
@@ -1873,7 +1861,7 @@ Your GM lists the names and **ratings** of your chosen **resources** in the firs
 
 When PC activity reduces a **penalty** but does not eliminate it, your GM will alter the entry under the Total column to reflect the reduction, but leave the PC column blank.
 
-### RESOURCE NOTATION TABLE
+#### 8.1.4.1 RESOURCE NOTATION TABLE
 
 |Total  |PC    |Total |PC     |Total |PC     |Total |PC     |Total |PC    |
 |------|-------|------|-------|------|-------|------|-------|------|-------|
@@ -1897,7 +1885,7 @@ Like other **modifiers** to **resources**, depletion **penalties** end at the en
 
 If your GM wants resource depletion to lead to longer-lasting social **penalties**, at the cost of some extra bookkeeping, they can have the characters shed a 3-point **penalty** at the end of each interval.
 
-### RESOURCE DEPLETION TABLE
+### 8.2.1 RESOURCE DEPLETION TABLE
 
 |Contest Outcome|Depletion Penalty    |
 |:---------------:|:-----------------:|
@@ -1910,11 +1898,11 @@ If your GM wants resource depletion to lead to longer-lasting social **penalties
 |Major Defeat     |-6                 |
 |Complete Defeat  |-9                 |
   
-### 8.2.1 Required Resource Use
+### 8.2.2 Required Resource Use
 
 As part of your GM's setting design, they may specify that certain actions in a setting always require the use of a community **resource**. Because the **resource** use is obligatory, it need not meet the usual criteria for entertainment value. Also, when the resource is used as an **augment**, you can also add a second **augment** from some other **ability**, adjudicated according to the standard rules, including entertainment value criteria. (This way, the required **resource** use doesn’t penalize you by forcing you to **augment** with a low-rated **resource** when you could otherwise use a higher-rated **ability**.)
 
-### 8.2.2 Penalties to Resources
+### 8.2.3 Penalties to Resources
 
 Threats to community **resources** act as a spur to PC action. Your GM may rule that the **penalty** from any **outcome** may be applied to a **resource**. (It might at the same time be applied to one or more PC **abilities**.)
 
@@ -1922,11 +1910,11 @@ When choosing a **penalty** arising from a player **defeat** in a **simple conte
 
 If your group voluntarily concede a **contest** by withdrawing, your community suffers **resource depletion** equivalent to a **major defeat**.
 
-### 8.2.3 Bolstering Resources
+### 8.2.4 Bolstering Resources
 
 You can add **bonuses** to **bolster** community **resources** by seeking out and overcoming relevant **story obstacles**, specifying in the **contest framing** that the proceeds of **victory** go the community. If you succeed, **bonuses** from the **benefits of victory** table are applied to a resource instead of one or more character abilities. (Your GM may rule that the bonus also applies to you in social situations that involve community members, reflecting gratitude for their efforts on behalf of the community.)
 
-### 8.2.4 Background Events
+### 8.2.5 Background Events
 
 Your changes to **resources** take center stage in a series, but in the background all sorts of other events periodically alter the community’s prosperity. These include the actions of other community members, who are **depleting and bolstering resources** all the time, as well as the unexpected intrusion of outside forces.
 
@@ -1934,7 +1922,7 @@ At the beginning of each interval, one of your group should perform a **simple c
 
 The **outcome** of the **contest** may apply a **modifier** to a **resource**, as per the following table:
 
-### RESOURCE FLUCTUATION TABLE
+### 8.2.6 RESOURCE FLUCTUATION TABLE
 
 |Outcome          |Depletion Penalty  |
 |:---------------:|:-----------------:|
@@ -1949,7 +1937,7 @@ The **outcome** of the **contest** may apply a **modifier** to a **resource**, a
 
 Except where your group is exceptionally keen on tracking **resources**, your GM should skip the **background events** process when the PCs are long absent from home. Your GM should rejigger them to serve their plot purposes when they return. The GM may also want to shuffle this process offstage when the PCs are occupied by epic events. This prevents them from having to flee from a climactic plot development to go home and tend to the beet crop.
 
-### 8.2.5 Crisis Tests
+### 8.2.7 Crisis Tests
 
 When **resources** endure **penalties**, you conduct a **crisis test** at the beginning of each game session to see if trouble strikes the community. A high but **penalized rating** can still lead to crisis, because people have adjusted to the equilibrium it offers and feel squeezed when it shifts on them.
 
@@ -1961,7 +1949,7 @@ Your GM invents the specific reasons for each fluctuation and narrates them to y
 
 Your GM will call for **crisis tests** only as needed, as a tool to generate story. If your group already has enough story on its hands, your GM will suspend them until you next need a new plot hook.
 
-### 8.2.6 Cementing Benefits of Background Events
+### 8.2.8 Cementing Benefits of Background Events
 
 **Bonuses** from **background events** are temporary, unless you take steps to **cement your benefits**. Doing so requires you to overcome a major **story obstacle**, perhaps taking focus for an evening’s worth of play. If you succeed, the **background event bonus** may, as per the next section, later solidify into a permanent increase in the **resource’s rating**.
 
