@@ -3,7 +3,6 @@ pandoc -f markdown -s -t rtf markdown/QuestWorlds.md -o docs/QuestWorlds.rtf
 # We need to do this as we generate tex that won't convert to PDF without manually accepting errors 
 pandoc -s --toc markdown/QuestWorlds.md -o docs/QuestWorlds.tex
 pdflatex -output-directory=docs docs/QuestWorlds.tex
-# pandoc -f markdown-raw_tex --pdf-engine=xelatex --toc markdown/QuestWorlds.md -o docs/QuestWorlds.pdf 
 
 
 
