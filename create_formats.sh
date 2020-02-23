@@ -1,9 +1,9 @@
 pandoc -f markdown -t html markdown/QuestWorlds.md -o docs/QuestWorlds.html 
-# pandoc -f markdown -t html markdown/QuestWorlds_Quickstart.md -o docs/QuestWorlds_Quickstart.html
 pandoc -f markdown -s -t rtf markdown/QuestWorlds.md -o docs/QuestWorlds.rtf 
-# pandoc -f markdown -s -t rtf markdown/QuestWorlds_Quickstart.md  -o docs/QuestWorlds_Quickstart.rtf
-pandoc markdown/QuestWorlds.md -o docs/QuestWorlds.pdf --pdf-engine=xelatex --toc
-# pandoc markdown/QuestWorlds_Quickstart.md -o docs/QuestWorlds_Quickstart.pdf --pdf-engine=xelatex --toc
+# We need to do this as we generate tex that won't convert to PDF without manually accepting errors 
+pandoc -s --toc markdown/QuestWorlds.md -o docs/QuestWorlds.tex
+pdflatex -output-directory=docs docs/QuestWorlds.tex
+# pandoc -f markdown-raw_tex --pdf-engine=xelatex --toc markdown/QuestWorlds.md -o docs/QuestWorlds.pdf 
 
 
 

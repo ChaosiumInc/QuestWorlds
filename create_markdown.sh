@@ -3,7 +3,8 @@ VAR1=$(CAT << EOF
 0.0_Credits_&_Legal_Information.md \
 0.1_Legal_Information.md \
 0.2_Credits.md \
-1.1_Why_QuestWorlds?.md \
+1.0_Introduction.md \
+1.1_Why_QuestWorlds.md \
 1.2_Version.md \
 1.3_Basic_&_Advanced_Mechanics.md \
 1.4_Numbering.md \
@@ -31,7 +32,6 @@ VAR1=$(CAT << EOF
 3.2_Assigning_Ability_Ratings.md \
 3.3_Keywords.md \
 3.4_Flaws.md \
-3.5_Advanced_Character_Creation.md \
 3.5_Advanced_Character_Creation.md \
 3.6_List_Method.md \
 3.7_Prose_Method.md \

@@ -1,65 +1,93 @@
 # 0.0 Credits & Legal Information
 
-# 0.1 Legal Information
+## 0.1 Legal Information
 
-The *QuestWorlds* System Reference Document 0.1 (“QWSRD0.1”) describes the rules of *QuestWorlds*. You may incorporate the rules as they appear in QWSRD0.1, wholly or in part, into a derivative work, through the use of the *QuestWorlds* Open Game License, Version 1.0. You should read and understand the terms of that license before creating a derivative work from QWSRD0.1.
+The *QuestWorlds* System Reference Document 0.1 (“QWSRD0.1”) describes the rules of *QuestWorlds*. You may incorporate the rules as they appear in QWSRD0.1, wholly or in part, into a derivative work, through
+the use of the *QuestWorlds* Open Game License, Version 1.0. You should read and understand the terms of that License before creating a derivative work from QWSRD0.1.
 
-Thanks to Wizards of the Coast, the Open Source Initiative, and Creative Commons for their work in creating the framework behind Open Source (and in this case Open Game) licenses. You should be aware that the *QuestWorlds* Open Game License for use of the *QuestWorlds* system differs from the Wizards Open Game License and has different terms and conditions.
+Thanks to Wizards of the Coast, the Open Source Initiative, and Creative Commons for their work in creating the framework behind Open Source (and in this case Open Game) licenses. You should be aware that the *QuestWorlds* Open Game License for use of the *QuestWorlds* system differs from the Wizards Open Game License and has 
+different terms and conditions.
 
-## Using This License
+### 0.1.1 Using This License
 
-You should note that this is version of 0.1 of the *QuestWorlds* System Reference Document. We expect to release revised versions of this SRD, especially after development of Chaosium’s upcoming *QuestWorlds Core Book*. When we release the *QuestWorlds Core Book* we will update the version designation to 1.0, indicating that the SRD reflects the text published in that book. If you are developing materials for *QuestWorlds* projects you may want to bear this in mind. We will track any changes to the SRD at *https://github.com/ChaosiumInc/QuestWorlds*.
+You should note that this is version of 0.1 of the *QuestWorlds* System Reference Document. We expect to release revised versions of this SRD, especially after development of Chaosium’s upcoming *QuestWorlds Core Book*. When we release the *QuestWorlds Core Book* we will update the version designation to 1.0, indicating that the SRD
+reflects the text published in that book. If you are developing materials for *QuestWorlds* projects you may want to bear this in mind. We will track any changes to the SRD at *https://github.com/ChaosiumInc/QuestWorlds*.
+
 Once we release SRD version 1.0 we expect that to be stable for some time.
 
-If aspects of this license concern you, please reach out to Chaosium at licensing@chaosium.com for advice.
+If you have questions about this license, please reach out to Moon Design at licensing@chaosium.com.
 
-## *QuestWorlds* Open Game License, Version 1.0
+### 0.1.2 *QuestWorlds* Open Game License, Version 1.0
 
 All Rights Reserved.
 
 1. Definitions:
 
-   (a) “Contributors” means the copyright and/or trademark owners who have contributed Open Game Content;  
-   (b) “Derivative Material” means copyrighted material, including derivative works and translations (including into computer languages), potation, modification, correction, addition, extension, upgrade, improvement, compilation, abridgment, or other forms in which an existing work may be recast, transformed, or adapted;  
-   (c) “Distribute” means to reproduce, license, rent, lease, sell, broadcast, publicly display, transmit, or otherwise distribute;  
-   (d) “Open Game Content” means the game mechanic and includes the methods, procedures, processes, and routines to the extent such content does not embody Prohibited Content and is an enhancement over the prior art and any additional content clearly identified as Open Game Content by the Contributor, and means any work covered by this License, including translations and derivative works under copyright law, but specifically excludes Prohibited Content;  
-   (e) The following items are hereby identified as “Prohibited Content”: All trademarks, registered trademarks, proper names (characters, deities, place names, etc.), plots, story elements, locations, characters, artwork, or trade dress from any of the following: any releases from the product lines of *Call of Cthulhu*, *ElfQuest*, *Elric!*, *Hawkmoon*, *HeroQuest*, *Hero Wars*, *King Arthur Pendragon*, *Prince Valiant*, *Nephilim*, *Ringworld*, *RuneQuest*, *7th Sea*, *Stormbringer*, *Superworld*, *Thieves’ World*, *Worlds of Wonder*, and any related sublines; the world and mythology of Glorantha; all public domain works related to the Cthulhu Mythos; the public domain work *Le Morte d’Arthur* and translations thereof; and all Third Party licensed material and intellectual property unless otherwise stated.  
-   (f) “Trademark” means the logos, names, marks, signs, mottos, and designs that are used by a Contributor to identify itself or its products or the associated products contributed to the Open Game Content by the Contributor;  
-   (g) “Use,” “Used,” or “Using” means to use, distribute, copy, edit, format, modify, translate, and otherwise create Derivative Material of Open Game Content;  
-   (h) “You” or “Your” means the licensee in terms of this agreement.
+(a) “Contributors” means the copyright and/or trademark owners who have contributed Open Game Content;
 
-2. Grant: Except for material designated as Prohibited Content (see Section 1(e) above), the *QuestWorlds* System Reference Document is Open Game Content, as defined in the *QuestWorlds* Open Game License version 1.0, Section 1(d). No portion of this work other than the material designated as Open Game Content may be reproduced in any form without permission from Chaosium.
-3. The License: This License applies to any work Using Open Game Content published by Chaosium. You must affix a complete copy of this License to any Open Game Content that You Use and include the Copyright Notice detailed in section 7 in all appropriate locations. No terms may be added to or subtracted from this License except as described by the License itself. No other terms or conditions may be applied to any Open Game Content distributed using this License.
-4. Offer and Acceptance: By Using the Open Game Content You indicate Your acceptance of the terms of the *QuestWorlds* Open Game License.
+(b) “Derivative Material” means copyrighted material including derivative works and translations (including into computer languages), potation, modification, correction, addition, extension, upgrade, improvement, compilation, abridgment, or other forms in which an existing work may be recast, transformed, or adapted;
+
+(c) “Distribute” means to reproduce, license, rent, lease, sell, broadcast, publicly display, transmit, or otherwise distribute;
+
+(d) “Open Game Content” means the *QuestWorlds* game, including the game mechanics and the methods, procedures, processes, and routines to the extent such content does not embody Prohibited Content and is an enhancement over the prior art and any additional content clearly identified as Open Game Content by the Contributor, and means any work covered by this License, including translations and derivative works under copyright law, but specifically excludes Prohibited Content;
+
+(e) The following items are hereby identified as “Prohibited Content”: All trademarks, registered trademarks, proper names (characters, deities, place names, etc.), plots, story elements, locations, characters, artwork, or trade dress from any of the following: any releases from the product lines of *Call of Cthulhu*, *Dragon Lords of Melniboné*, *ElfQuest*, *Elric\!*, *Hawkmoon*, *HeroQuest*, *Hero Wars*, *King Arthur Pendragon*, *Magic World*, *Nephilim*, *Prince Valiant*, *Ringworld*, *RuneQuest*, *7th Sea*, *Stormbringer*, *Superworld*, *Thieves’ World*, *Worlds of Wonder*, and any related sublines; the world and mythology of Glorantha; all works related to the Cthulhu Mythos, including those that are otherwise public domain; and all works related to *Le Morte d’Arthur*. This list may be updated
+in future versions of the License.
+
+(f) “Trademark” means the logos, names, marks, signs, mottos, and designs that are used by a Contributor to identify itself or its products or the associated products contributed to the *QuestWorlds* Open Game License by the Contributor;
+
+(g) “Use,” “Used,” or “Using” means to use, distribute, copy, edit, format, modify, translate, and otherwise create Derivative Material of Open Game Content;
+
+(h) “You” or “Your” means the licensee in terms of this agreement.
+
+2. Grant: Except for material designated as Prohibited Content (see Section 1(e) above), the *QuestWorlds* System Reference Document is Open Game Content, as defined in the *QuestWorlds* Open Game License version 1.0, Section 1(d). No portion of this work other than the material designated as Open Game Content may be reproduced in any form without permission from Moon Design.
+
+3. The License: This License applies to any work Using *QuestWorlds* Open Game Content published by Moon Design. You must affix a complete copy of this License to any *QuestWorlds* Open Game Content that You Use and include the Copyright Notice detailed in Section 7 in all appropriate locations. No terms may be added to or subtracted from this License except as described by the License itself. No other terms or conditions may be applied to any *QuestWorlds* Open Game Content distributed Using this License.
+
+4. Offer and Acceptance: By Using the *QuestWorlds* Open Game Content You indicate Your acceptance of the terms of the *QuestWorlds Open Game License*.
+
 5. Grant of License: Subject to the terms and conditions of this License, the Contributors grant You a perpetual, worldwide, royalty-free, non-exclusive license to Use the Open Game Content.
+
 6. Representation of Authority to Contribute: If You are contributing original material as Open Game Content, You represent that Your contributions are Your original creation and/or You have sufficient rights to grant the rights conveyed by this License.
-7. Copyright Notice: You must update the Copyright Notice portion of this License to include the current version of the text of the Copyright Notice of any Open Game Content You are copying, modifying, or distributing:
 
-   This work created using the *QuestWorlds* Open Game License.
-*QuestWorlds* Open Game License v 1.0 © copyright 2019 Moon Design Publications LLC.
+7. Copyright Notice: You must update the Copyright Notice portion of this License to include the current version of the text of the Copyright Notice of any *QuestWorlds* Open Game Content You are copying, modifying, or distributing.
 
-   *QuestWorlds* © copyright 2019 Moon Design Publications LLC; Author, original rules: Robin D. Laws; developed by Greg Stafford, Ian Cooper, David Dunham, Mark Galeotti, Stephen Martin, Jeff Richard, Roderick Robinson, and Lawrence Whitaker.
+This work created using the *QuestWorlds* Open Game License.
 
-   Chained Contests and Plot Edits from *Mythic Russia* © copyright 2006, 2010 Mark Galeotti; developed by Graham Robinson (for “Chained Contests”) and added as Open Game Content here with permission.
+*QuestWorlds* Open Game License v 1.0 © copyright 2020 Moon Design Publications LLC.
 
-   *QuestWorlds* and the *QuestWorlds* logo are trademarks of Moon Design Publications LLC. Used with permission.  
+*QuestWorlds* © copyright xxxx–2020 Moon Design Publications LLC; Author, original rules: Robin D. Laws; developed by Greg Stafford, Ian Cooper, David Dunham, Mark Galeotti, Stephen Martin, Jeff Richard, Neil Robinson, Roderick Robinson, David Scott, and Lawrence Whitaker.
 
-8. Limitations on Grant: You agree not to Use any Prohibited Content, including as an indication as to compatibility, except as expressly licensed in another, independent Agreement with the owner of each element of the Prohibited Content, including Chaosium. You agree not to indicate compatibility or co-adaptability with any Trademark or Registered Trademark in conjunction with a work containing Open Game Content except as expressly licensed in another, independent Agreement with the owner of such Trademark or Registered Trademark.
-9. Identification: If You distribute Open Game Content You must clearly indicate which portions of the work that You are distributing are Open Game Content.
-10. Updating the License: Chaosium or its designated Agents may publish updated versions of the *QuestWorlds* Open Game License. You agree to use the most recent authorized version of this License to copy, modify, and distribute any Open Game Content originally distributed under any other version of this License.
+Chained Contests and Plot Edits from *Mythic Russia* © copyright 2006, 2010 Mark Galeotti; developed by Graham Robinson (for “Chained Contests”) and added as Open Game Content here with permission.
+
+QuestWorlds and the QuestWorlds logo are trademarks of Moon Design Publications LLC. Used with permission.
+
+8. Limitations on Grant: You agree not to Use any Prohibited Content, except as expressly licensed in another, independent Agreement with Moon Design. You agree not to indicate compatibility or co-adaptability with any Trademark or Registered Trademark in conjunction with a work containing *QuestWorlds* Open Game Content
+except as expressly licensed in another, independent Agreement with the owner of such Trademark or Registered Trademark.
+
+9. Identification: If you distribute Open Game Content You must clearly indicate which portions of the work that you are distributing are Open Game Content.
+
+10. Updating the License: Moon Design or its designated Agents may publish updated versions of the *QuestWorlds* Open Game License, including updates to the Prohibited Content list. Material published under any version of the License can continue to be published Using the terms of that version, but You agree to Use the most recent authorized version of this License for any new Open Game Content You publish or for revised or updated works with thirty percent (30%) or more revised or new content.
+
 11. Use of Contributor Credits: You may not market or advertise the Open Game Content using the name of any Contributor unless You have written permission from the Contributor to do so.
-12. Inability to Comply: If it is impossible for You to comply with any of the terms of this License with respect to some or all of the Open Game Content due to statute, judicial order, or governmental regulation then You may not Use any Open Game Material so affected.
-13. Termination: This License will terminate automatically if You fail to comply with all terms herein and fail to cure such breach within thirty (30) days of becoming aware of the breach.
-14. Labeling: You must prominently display one of the following *QuestWorlds* logos on the front and back exterior and in the interior package, on the title page or its equivalent, of Your Use of the Open Content.
+
+12. Reputation: You must not copy, modify, or distribute Open Game Content connected to this License in a way that would be prejudicial or harmful to the honor or reputation of the Contributors.
+
+13. Inability to Comply: If it is impossible for You to comply with any of the terms of this License with respect to some or all of the *QuestWorlds* Open Game Content due to statute, judicial order, or governmental regulation then You may not Use any Open Game Material so affected.
+
+14\. Termination: This License will terminate automatically if You fail to comply with all terms herein and fail to cure such breach within thirty (30) days of becoming aware of the breach.
+
+15. Labeling: You must prominently display one of the following *QuestWorlds* logos on the front and back exterior and in the interior package, on the title page or its equivalent, of your Use of the Open Content. You are granted permission to reproduce the logo only for that purpose.
 
 ![BW QuestWorlds Logo](Logos/QuestWorlds-Logo-TM-black.png)
+
 ![Color QuestWorlds Logo](Logos/QuestWorlds-Logo-TM.png)
 
-15. Severability: If any provision of this License is held to be unenforceable, such provision shall be severed only to the extent necessary to make it enforceable.
+16. Severability: If any provision of this License is held to be unenforceable, such provision shall be severed only to the extent necessary to make it enforceable.
 
-16. Governing Law and Venue: The governing law for any disputes arising under this License shall be the laws of the State of Michigan, without reference to its choice of laws provisions. Venue is exclusively vested in the United States Federal District Court for the Eastern District of Michigan.
+17. Governing Law and Venue: The governing law for any disputes arising under this License shall be the laws of the State of Michigan, without reference to its choice of laws provisions. Venue is exclusively vested in the United States Federal District Court for the Eastern District of Michigan.
 
-# 0.2 Credits
+## 0.2 Credits
 
 Original Rules: Robin D. Laws
 
@@ -73,13 +101,27 @@ Development Assistance for this version: Jonathan Laufersweiler, James Lowder, M
 
 Proofreading of this version: Martin Helsdon
 
+# 1.0 Introduction
+
+*QuestWorlds* is a roleplaying rules engine suitable for you to play in any genre.  
+
+It is a traditional roleplaying game in that there is a GM and players. The players play characters, each guided by the internal thoughts of their character as to what decisions they make, and the GM plays the world, including non-player characters (NPCs) and abstract threats.
+
+It features an abstract, conflict-based, resolution method and scalable, customizable, character descriptions. Designed to emulate the way characters in fiction face and overcome challenges, it is suitable for a wide variety of genres and play styles.
+
+It is a rules-light system that facilitates beginning play easily, and resolving conflicts in play quickly.
+
+We refer to a rules-light but traditional roleplaying game as a storytelling game, after Greg Stafford's definition in *Prince Valiant*.
+
 ## 1.1 Why QuestWorlds?
 
 *QuestWorlds* is meant to facilitate your creativity, and then to get out of your way.
 
 It is well suited to a collaborative, friendly group with a high degree of trust in each other’s creativity. Characters in *QuestWorlds* are described more in terms of their place in your imagination and the game setting than by game mechanics.
 
-If your group are often at odds and rely on their chosen rules kit as an arbiter between competing visions of how the game ought to develop, or use mechanical options to decide "what action to take," *QuestWorlds* is not a rules set that provides that structure. Make sure to discuss with your group whether you are collectively on board with trying a new play style dynamic, or if you would rather stick to more structured systems.## 1.2 Version
+If your group are often at odds and rely on their chosen rules kit as an arbiter between competing visions of how the game ought to develop, or use mechanical options to decide "what action to take," *QuestWorlds* is not a rules set that provides that structure. Make sure to discuss with your group whether you are collectively on board with trying a new play style dynamic, or if you would rather stick to more structured systems.
+
+## 1.2 Version
 
 The first version of these rules *Hero Wars* was published in 2000 (ISBN 978-1-929052-01-1)
 
@@ -91,7 +133,9 @@ The third version *HeroQuest*: Core Rules was published in 2009 (ISBN 978-0-9777
 
 *QuestWorlds* was published as a System Reference Document (SRD) (this document) in 2019. The version of the rules here is slightly updated, mainly to clarify ambiguities, from the version presented in *HeroQuest* 2e and *HeroQuest* 2.1e. This makes this ruleset *HeroQuest* 2.2e, despite the name change. However, to simplify we identify this version as *QuestWorlds* 1e.
 
-An Appendix lists changes in this version. As the SRD is updated we will continue to track version changes there.## 1.3 Basic & Advanced Mechanics
+An Appendix lists changes in this version. As the SRD is updated we will continue to track version changes there.
+
+## 1.3 Basic & Advanced Mechanics
 
 As the *QuestWorlds* engine is oriented towards rules-light play, we designate some mechanics as "Basic" and others as "Advanced."
 
@@ -103,7 +147,7 @@ The advanced mechanics can be added to play individually; you do not have to bri
 
 If this is your first time reading these rules, you may wish to skip over these sections. Return to them once you understand the basic mechanics. Similarly, if this is your first time playing these rules, you may wish to omit the advanced rules at first, getting a feel for the game in its simplest form, and then add them in as you want more depth. Your GM may even decide to employ certain advanced rules on a case by case basis, providing more detail or nuance to particularly interesting conflicts where beneficial, while otherwise taking a lighter approach.
 
-## Who Is This Document For?
+### 1.3.1 Who Is This Document For
 
 The primary audience for this document is game-designers who wish to utilize the *QuestWorlds* rules framework to implement their own game.
 
@@ -113,13 +157,17 @@ For that latter reason, we address the rules here to a player.
 
 However, this remains a technical document with few examples, advice, or other non-rules text to help you play your game, as such are beyond the scope of this System Reference Document.
 
-It is expected that the designers of games you play based on these rules will include such guidance and context as is relevant to their game's particular genre or setting, presented in a format better suited for learning how to play.## 1.4 Numbering
+It is expected that the designers of games you play based on these rules will include such guidance and context as is relevant to their game's particular genre or setting, presented in a format better suited for learning how to play.
+
+## 1.4 Numbering
 
 Sections within this document are numbered. This is for the benefit of game designers and reviewers.
 
 This does not imply that game designers need number the rules in their own games.
 
-Numbering however makes it easy to refer to rules in this document when page numbers may vary by presentation format for the purposes of error trapping or tracking changes. If you need to give us feedback about this document, that will assist us.## 1.5 Participants
+Numbering however makes it easy to refer to rules in this document when page numbers may vary by presentation format for the purposes of error trapping or tracking changes. If you need to give us feedback about this document, that will assist us.
+
+## 1.5 Participants
 
 ### 1.5.1 Players
 
@@ -131,7 +179,9 @@ When we say 'you' in this document we may mean the player or their PC. Which sho
 
 Your Game Master (GM) is the interface between your imagination and the game-world in which the PCs have their adventures; describing the people, places, creatures, objects, and events therein. Your GM also plays the role of any Non-Player Characters (NPCs) with whom your PC interacts in the course of your adventures.
 
-We generally refer to the GM as 'your GM' in this document's player-facing language. However, if you are the GM for a given game, this naturally refers to you.# 2.0 Mechanics
+We generally refer to the GM as 'your GM' in this document's player-facing language. However, if you are the GM for a given game, this naturally refers to you.
+
+# 2.0 Mechanics
 
 In a *QuestWorlds* game, stories develop dynamically as you and your GM work together to role-play the dramatic conflict between your group's PCs in pursuit of their goals and the challenges, or threats that your GM presents to stand in your way. Stories advance by two methods: conflict, where your PC is prevented from achieving their goals because there is something that must be overcome, a **story obstacle**, to gain a desired person, thing, or even status: the **prize**; or revelation, where something must be overcome, a **story obstacle**, to learn a secret, uncover the past, or reach understanding: the **prize**.
 
@@ -191,7 +241,9 @@ Conversely, if in the course of play you find your character in a situation with
 
 In *QuestWorlds*, wealth is treated as just another way to overcome **story obstacles**. Many characters may not even have an explicit wealth **ability**, with their wealth or assets instead implied by **abilities** representing their background, profession, or status. Whether explicit or implied, the relevant **rating** is not an objective measure of the size of your fortune, but instead indicates how well you solve problems with money and resources. 
 
-Similarly, treasures and other windfalls that arise during play may be represented in the rules via **plot augments** (see § 2.4.3) in **contests** where using the resource is relevant.## 2.3 Contest Procedure
+Similarly, treasures and other windfalls that arise during play may be represented in the rules via **plot augments** (see § 2.4.3) in **contests** where using the resource is relevant.
+
+## 2.3 Contest Procedure
 
 You choose an **ability** relevant to the conflict at hand, describe exactly what you are trying to accomplish, and how. Your GM may modify these suggested actions to better fit the fictional circumstances, and describe the actions of the NPCs or forces on the other side of the conflict.
 
@@ -288,20 +340,22 @@ In other words, in *QuestWorlds* your GM will pick a **resistance** based on dra
 
 ### RESISTANCE CLASS TABLE
 
-|Class|Value|
-|:-------------:|:-------------:|
-|Nearly Impossible|Base +M2|
-|Very High|Base +M|
-|Elevated|Base +9|
-|High|Base +6|
-|Raised|Base +3|
-|Moderate|Base|
-|Little|Base -3|
-|Low|Base -6|
-|Small|Base -9|
-|Very Low|Base -M or 6, whichever is lower|
+| Class           | Value                                 |
+|:---------------:|:-------------------------------------:|
+|Extreme          |Base +M2                               |
+|Huge             |Base +M                                |
+|Very High        |Base +9                                |
+|High             |Base +6                                |
+|Raised           |Base +3                                |
+|Moderate         |Base                                   |
+|Low              |Base -3                                |
+|Very Low         |Base -6                                |
+|Tiny             |Base -9 or 6, whichever is lower       |
+|Rock-bottom      |Base -M or 6, whichever is lower       |
   
-By default, the **base resistance** starts at 14. Resistances follow the usual range of +3, +6, +9 etc.
+By default, the **base resistance** starts at 14.
+
+It is often easier to remember that resistances follow the usual range of incrementing by 3: +3, +6, +9, and then incrementing by masteries etc. Similarly resistances decrement by 3: -3, -6, -9 and then decrement by masteries with a floor of -6.
 
 All **contests** use the base number + **resistance class**, except for **contests** to determine **augments**.
 
@@ -372,7 +426,9 @@ This allows *QuestWorlds* to represent large differences in ability or **resista
 
 You can spend a **hero point** to **bump** up any **result** by one step. You may only **bump** your own rolls, not those of other PCs or **supporting characters**—with the exception of **sidekicks** and **retainers**, which, as extensions of your character, you may spend **hero points** on. You can decide to use a **hero point** for a **bump** after the die roll **results** are calculated (including any **bump** ups from **masteries**).
 
-You can only spend one **hero point** per roll.## 2.4 Augments
+You can only spend one **hero point** per roll.
+
+## 2.4 Augments
 
 You may sometimes face **contests** where more than one **ability** may be applicable to the conflict at hand. In such cases, you may attempt to use one **ability** to give a supporting bonus to the main ability you are using to frame the **contest**. This is called an **augment**. For example, if your character has the **abilities** "The Queen's Intelligencer" and "Master of Disguise", you might use the latter to **augment** the former when infiltrating a rival nation's capitol. Similarly, a character with "Knight Errant" and "My Word is my Bond" **abilities** might use one to **augment** the other when in conflict with a **story obstacle** the character has sworn to overcome.
 
@@ -396,16 +452,16 @@ If you are using the advanced mechanic for **degrees of victory or defeat**, use
 
 ### AUGMENT TABLE
 
-|Contest Outcome|Modifier|
+|Contest Outcome|Modifier       |
 |:-------------:|:-------------:|
-|Complete Victory|+M|
-|Major Victory|+9|
-|Minor Victory|+6|
-|Marginal Victory|+3|
-|Marginal Defeat|0|
-|Minor Defeat|+0|
-|Major Defeat|+0|
-|Complete Defeat|-3|
+|Complete Victory|+M            |
+|Major Victory   |+9            |
+|Minor Victory   |+6            |
+|Marginal Victory|+3            |
+|Marginal Defeat |0             |
+|Minor Defeat    |0             |
+|Major Defeat    |0             |
+|Complete Defeat |-3            |
 
 ### 2.4.2 Quick Augments
 
@@ -421,7 +477,9 @@ A plot **augment** occurs when your GM decides that your **victory** over a prev
 
 You can play *QuestWorlds* with just the basic mechanics and we recommend you start with this simpler set of rules whilst your GM masters the less-familiar ideas like **story obstacles** instead of task resolution, that make *QuestWorlds* different from traditional RPGs.
 
-The advanced mechanics add detail to the Basic mechanics, which add detail, or generate in-game story developments, at the cost of more complexity.## 2.6 Resolution Methods
+The advanced mechanics add detail to the Basic mechanics, which add detail, or generate in-game story developments, at the cost of more complexity.
+
+## 2.6 Resolution Methods
 
 ### 2.6.1 Long Contest
 
@@ -449,7 +507,9 @@ If your GM chooses either the **scored contests** or **chained contests** form o
 * If you take part in a **contest** but the degree of **success** was not emotionally satisfying, an escalating **contest** gives you another chance to achieve the **outcome** you want.
 * If your GM is unsure if a **simple or long contest** is appropriate then they can default to a **simple contest** and switch to **escalating** if required.
 
-If you wish to use **escalating contests**, you need to choose **scored contests** as your **long contest** option.## 2.7 Resistance Progression
+If you wish to use **escalating contests**, you need to choose **scored contests** as your **long contest** option.
+
+## 2.7 Resistance Progression
 
 Your GM may decide that **resistance** to your actions gets harder, as the campaign progresses. This reflects the trope of the type of challenges you face getting tougher as you improve.
 
@@ -459,7 +519,9 @@ In that case your GM should increment the **resistance** by +3, +6 or +9 for the
 
 ### 2.7.1 No Progression
 
-Your GM may also decide that the **resistances** do not get harder as the campaign progresses, reflecting the PCs **ability** to disregard minor challenges, and simply choose harder **resistances** to challenge the players.## 2.8 Degree of Victory or Defeat
+Your GM may also decide that the **resistances** do not get harder as the campaign progresses, reflecting the PCs **ability** to disregard minor challenges, and simply choose harder **resistances** to challenge the players.
+
+## 2.8 Degree of Victory or Defeat
 
 Often all you need to know to interpret the **outcome** of a resolution is whether you gained **victory** or suffered a **defeat**.
 
@@ -561,12 +623,12 @@ Even only metaphorically dead, your GM may declare that you have undergone chang
 
 ### CONSEQUENCES OF DEFEAT TABLE
 
-|Defeat Level|State of Adversity|Penalty|
-|:-------------:|:-------------:|:-------------:|
-|Marginal|Hurt|–3 penalty to appropriate abilities|
-|Minor|Impaired|–6 penalty to appropriate abilities|
-|Major|injured|–9 penalty to appropriate abilities|
-|Complete|Dying| No actions allowed. If 'final action', automatic **bump** down on uses of appropriate **ability**|
+|Defeat Level|State of Adversity|Penalty                                                                                           |
+|:----------:|:----------------:|:------------------------------------------------------------------------------------------------:|
+|Marginal    |Hurt              |–3 penalty to appropriate abilities                                                               |
+|Minor       |Impaired          |–6 penalty to appropriate abilities                                                               |
+|Major       |injured           |–9 penalty to appropriate abilities                                                               |
+|Complete    |Dying             | No actions allowed. If 'final action', automatic **bump** down on uses of appropriate **ability**|
 
 ### 2.9.2 Benefits of Victory
 
@@ -620,12 +682,12 @@ Being **heroic** goes away after a season's idleness, or an in-game event, as ab
 
 ### BENEFITS OF VICTORY TABLE
 
-|Victory Level|State of Fortune|Benefit|
-|:-------------:|:-------------:|:-------------:|
-|Marginal|Fresh|+3|
-|Minor|Pumped|+6|
-|Major|Invigorated|+9|
-|Complete|Heroic|You receive an automatic **bump** up on uses of an appropriate **ability**|
+|Victory Level  |State of Fortune|Benefit|
+|:-------------:|:--------------:|:------------------------------------------------------------------------:|
+|Marginal       |Fresh           |+3                                                                        |
+|Minor          |Pumped          |+6                                                                        |
+|Major          |Invigorated     |+9                                                                        |
+|Complete       |Heroic          |You receive an automatic **bump** up on uses of an appropriate **ability**|
 
 #### 2.9.2.1 Clearly Inferior Opponents
 
@@ -656,11 +718,11 @@ Default **resistances** to remove states of adversity are as follows:
 ### HEALING RESISTANCES TABLE
 
 |Consequence of Defeat|Difficulty|
-|:-------------:|:-------------:|
-|Hurt|Low|
-|Impaired|Moderate|
-|Injured|High|
-|Dying|Very High|
+|:-------------------:|:--------------:|
+|Hurt                 |Low             |
+|Impaired             |Moderate        |
+|Injured              |High            |
+|Dying                |Very High       |
 
 #### 2.9.3.3 Outcomes of Healing
 
@@ -676,7 +738,9 @@ At the end of a storyline, especially when a significant period of game-world ti
 
 Because it is confusing to track both **benefits and consequences** against the same **ability** your GM may simply rule that one cancels the other out. This is particularly true of social **contest**s where a moment of shame can erase your previous triumphs, or your confidence eroded by a **failure**. Physical benefits may cancel out, flushed with victory you may be able to ignore pain, but it may defy credibility for wounds to be healed by an athletic performance.
 
-Your GM may simply rule that **benefits** and **consequences** cancel out, or they may take the difference between the two benefits and create a new one. For example if you are **invigorated** by your previous performance in the dance **contest**, but then suffer a **hurt**, your GM may rule that your twisted ankle cancels out your energy from the last performance, or your GM might rule that your success sees you through the pain, but you are now only **pumped**.## 2.10 Modifiers
+Your GM may simply rule that **benefits** and **consequences** cancel out, or they may take the difference between the two benefits and create a new one. For example if you are **invigorated** by your previous performance in the dance **contest**, but then suffer a **hurt**, your GM may rule that your twisted ankle cancels out your energy from the last performance, or your GM might rule that your success sees you through the pain, but you are now only **pumped**.
+
+## 2.10 Modifiers
 
 Your **rating** represents a general **ability** to succeed in the narrative, but modifiers reflect specific conditions that may make it easier or harder to overcome particular **story obstacles**. They are applied to your **ability** to get a final **target number** (**TN**).
 
@@ -714,17 +778,23 @@ During a **long contest**, they should typically last for a single **round**, an
 
 On certain occasions your GM may rule that you can only hope to achieve the **prize** by using two disparate **abilities**. When this occurs, average your two **ability ratings**, then apply any modifiers, to arrive at your **TN**.
 
-Combining your abilities, rather than using the best one and **augmenting** it with other, is always a disadvantage. Your GM should only require combined **ability** use when story logic absolutely demands that you face a lower chance of **success**, because you have to do two things at once.## 2.12 Mobs, Gangs, and Hordes
+Combining your abilities, rather than using the best one and **augmenting** it with other, is always a disadvantage. Your GM should only require combined **ability** use when story logic absolutely demands that you face a lower chance of **success**, because you have to do two things at once.
+
+## 2.12 Mobs, Gangs, and Hordes
 
 Sometimes you will face large numbers of opponents. Your GM can treat many as one. Your GM divides the number of opponents by the number of contesting PCs. Your GM then treats each of these sections of the crowd as a single opponent with one **rating**. Their numbers are factored into the **rating** your GM assigns to them.
 
 If in doubt, your GM should think of the **resistance** that would be dramatically appropriate for a single opponent and then adjust it with a **bonus** of +3, +6 or +9 depending on how outnumbered you are. No more than six foes can typically contend with you in a physical confrontation, or two in a social one, or they tend to get in each other's way.
 
-When the mob loses an exchange, your GM describes individuals within it as being hurt or falling away. When it wins, describe them overwhelming you, or swelling in numbers.## 2.13 Ganging Up
+When the mob loses an exchange, your GM describes individuals within it as being hurt or falling away. When it wins, describe them overwhelming you, or swelling in numbers.
+
+## 2.13 Ganging Up
 
 Sometimes you may outnumber your opponent. For a **simple contest** this can be often be handled by having your PC on point, and the other PCs **augmenting** you, breaking the usual rule on multiple **augments** if more than one person should be able to support you. Your GM may only allow as many of you to **augment** as they feel would help, not get in each other's way. For a **group contest, long or simple** if you enjoy a numerical advantage you should separately contest against a reduced **resistance**. Your GM should adjust the **resistance** to reflect your superior numerical advantage.
 
-As above, if in doubt, the GM should think of the **resistance** that would be dramatically appropriate for a one-on-one confrontation and then adjust it with a **penalty** of -3, -6, or -9 depending on how significantly you outnumber them. As above, note that unless your opponent is extraordinarily large, you cannot confront them physically with more than about six people (include **followers**) or socially with about two people (again include **followers**) or people just get in each other's way.## 2.14 Mass Effort
+As above, if in doubt, the GM should think of the **resistance** that would be dramatically appropriate for a one-on-one confrontation and then adjust it with a **penalty** of -3, -6, or -9 depending on how significantly you outnumber them. As above, note that unless your opponent is extraordinarily large, you cannot confront them physically with more than about six people (include **followers**) or socially with about two people (again include **followers**) or people just get in each other's way.
+
+## 2.14 Mass Effort
 
 Clashes of massive forces resolve like any other **contest**, **simple** or **long**. These include:
 
@@ -738,7 +808,9 @@ Otherwise, your GM will start by determining your degree of influence over the *
 
 * Determining factors: The success of the effort depends mostly on your choices and successes. For example, you might be a military leader facing a force of roughly equal potency. As all else is equal, the better general will win the day. In this instance, your **tactic** should be a relevant leadership **ability**.
 * Contributors: One of the forces enjoys a clear advantage over the others, but your efforts may tip the balance in favor of a chosen side. Your GM will give you a **TN** to roll against that represents the strength of your force, but you can **augment** that **TN** with an appropriate leadership **ability**.
-* Acted Upon: You have little influence over the **outcome**, but are stuck in the middle of the conflict and must struggle to prosper within it. The GM predetermines the **outcome** of the overall competition on dramatic grounds. To determine your fate in the battle, you **contest** against a **resistance** determined by the GM, derived from the overall battle **outcome**.## 2.15 Pyrrhic Victories
+* Acted Upon: You have little influence over the **outcome**, but are stuck in the middle of the conflict and must struggle to prosper within it. The GM predetermines the **outcome** of the overall competition on dramatic grounds. To determine your fate in the battle, you **contest** against a **resistance** determined by the GM, derived from the overall battle **outcome**.
+
+## 2.15 Pyrrhic Victories
 
 In a Pyrrhic victory, you **boost** your chance of **success** in a **contest** by accepting negative consequence at its end, even if you succeed in overcoming the **story obstacle**. You gain a **bump** in the **ability** you are using to prosecute the **contest**, but at the **contest**’s end, you suffer a **state of adversity**, as per the Pyrrhic Victory Table.
 
@@ -746,13 +818,15 @@ As with any proposed action, you must convincingly describe the potentially suic
 
 ### PYRRHIC VICTORY TABLE
 
-|Outcome|State of Adversity|
-|:-------------:|:-------------:|
-|Any Defeat|Dead|
-|Marginal Victory|Dead|
-|Minor Victory|Dying|
-|Major Victory|Injured|
-|Complete Victory|Impaired|## 2.16 Mismatched and Graduated Goals
+|Outcome         |State of Adversity|
+|:--------------:|:----------------:|
+|Any Defeat      |Dead              |
+|Marginal Victory|Dead              |
+|Minor Victory   |Dying             |
+|Major Victory   |Injured           |
+|Complete Victory|Impaired          |
+
+## 2.16 Mismatched and Graduated Goals
 
 Sometimes, the two sides in a **contest** may have goals that do not directly conflict one another. A huntsman pursues a nurse, who is trying to escape through the forest with two small children. The huntsman wants to kill the nurse. The nurse wants to save the children.
 
@@ -760,7 +834,9 @@ When encountering **mismatched goals**, your GM should determine whether the mis
 
 In a **complete mismatch**, neither side is at all interested in preventing the other’s goal. A **complete mismatch** does not end in a **contest**; your GM asks what you are doing, and then describes each participant succeeding at their goals.
 
-In most instances, the **contest** goals are not actually **mismatched**, but **graduated**. You have both a **primary** and a **secondary** goal. In this case, your GM frames the **contest**, identifying which goal is which. To achieve both, you must score a **major or complete victory**. On a **minor or marginal victory**, you achieve only the **primary** goal. Your GM may present you with the choice of which objective you obtain, where that choice illuminates your PC's priorities.## 2.17 Difficult Automatic Victory
+In most instances, the **contest** goals are not actually **mismatched**, but **graduated**. You have both a **primary** and a **secondary** goal. In this case, your GM frames the **contest**, identifying which goal is which. To achieve both, you must score a **major or complete victory**. On a **minor or marginal victory**, you achieve only the **primary** goal. Your GM may present you with the choice of which objective you obtain, where that choice illuminates your PC's priorities.
+
+## 2.17 Difficult Automatic Victory
 
 Two distinct methods allow your GM to create a sense of difficulty without allowing for the prospect of **failure**: the **arduous automatic victory**, and the **costly automatic victory**. Your GM will use a **costly automatic victory** where **failure** offers no entertaining plot branches, but when they still want the group to work for victory. In a **costly automatic victory**, you succeed, but at a price.
 
@@ -774,14 +850,14 @@ Your GM may use a **costly automatic victory** where **failure** offers no enter
 
 Even if you suffer a **defeat**, you still overcome the **story obstacle**. You also, however, suffer a **state of adversity** to one or more **abilities**, in keeping with the **defeat** level, as per the **consequences of defeat** table.
 
-The **state of adversity** might apply, as in an ordinary **contest**, to the abilities you used in that **contest**. Usually, though, they apply to some other resource-related **ability**, which may come to haunt you later on. When in doubt, ask yourself if the **penalty** will cripple the group in dealing with **contests**.# 3.0 Character Creation
+The **state of adversity** might apply, as in an ordinary **contest**, to the abilities you used in that **contest**. Usually, though, they apply to some other resource-related **ability**, which may come to haunt you later on. When in doubt, ask yourself if the **penalty** will cripple the group in dealing with **contests**.
+
+# 3.0 Character Creation
 
 The first step in creating your character is to come up with a concept that fits in with the genre of game that your GM intends to run. With that, you can assign **abilities**, **ratings** for those **abilities**, and if required **flaws**.
 
 In addition, you will want to give your character a name, and provide a physical description. We recommend focusing on three physical things about your PC that others would immediately notice, over anything more detailed.
 
-
-  
 ## 3.1 As-You-Go Method
 
 1. Concept
@@ -790,17 +866,19 @@ The concept is a brief phrase, often just a couple of words that tells the GM an
 
 * haughty priestess
 * hotshot lawyer
-* naïve warrior
 * noble samurai
 * remorseful assassin
 * sardonic ex-mercenary
 * slothful vampire
+* naive warrior
 
 2. Now provide your character with a name.
 3. If the series uses other **keywords**, such as those for culture or religion, you may gain one for free.
 4. When events in the story put you in a situation where you want to overcome a **story obstacle**, make up an applicable **ability** on the spot. The first time you use an **ability** (including the two you start play with: **distinguishing characteristic** and **occupational keyword**), assign a **rating** to it. This may be a **breakout ability** from a **keyword**. You are restricted to only one **sidekick**.
 5. If you want, describe **flaws**.
-6. Once you have 12 **abilities** (including the two for character concept), and up to three **flaws** you are done creating your character.## 3.2 Assigning Ability Ratings
+6. Once you have 12 **abilities** (including the two for character concept), and up to three **flaws** you are done creating your character.
+
+## 3.2 Assigning Ability Ratings
 
 You have now defined your **abilities**. These tell everyone what you can do. Now assign numbers to each **ability**, called **ratings**, which determine how well you can do these things.
 
@@ -810,7 +888,9 @@ You have now defined your **abilities**. These tell everyone what you can do. No
 
 Now spend up to 20 points to increase any of your various **ratings**, including **keywords**. Each point spent increases a **rating** by 1 point. You can’t spend more than 10 points on any one **ability**.
 
-Some genre packs may require you to have additional **keywords** that reflect the setting. These additional **keywords** come from the 12 **abilites** allowance, so in many genres you will have fewer wildcard **abilities** but better fit the setting.## 3.3 Keywords
+Some genre packs may require you to have additional **keywords** that reflect the setting. These additional **keywords** come from the 12 **abilites** allowance, so in many genres you will have fewer wildcard **abilities** but better fit the setting.
+
+## 3.3 Keywords
 
 You may build your PC around one or more **keywords**. A **keyword** gives you a package deal: you get a number of **abilities** by selecting a pre-existing character concept, which the player then modifies.
 
@@ -830,7 +910,9 @@ Detective 17
 
 In this example, whilst the **rating** for most **contests** in which Detective was an appropriate **tactic** would be 17, for contests involving Forensics it would be 19, and for those involving firing a handgun it would be 18.
 
-In some settings, an **ability** may be listed in more than one of a PC’s **keywords**. Choose only one to detail it under.## 3.4 Flaws
+In some settings, an **ability** may be listed in more than one of a PC’s **keywords**. Choose only one to detail it under.
+
+## 3.4 Flaws
 
 You may assign up to three **flaws** to their PC. Common flaws include:
 
@@ -846,17 +928,8 @@ Your GM may decide during play that certain **flaws** are better expressed as **
 
 * Tongue-tied in large gatherings.
 * Lousy with a stick shift.
-* Can’t stand snakes.## 3.5 Advanced Character Creation
+* Can’t stand snakes.
 
-*QuestWorlds* offers two advanced methods of character creation: prose and list.
-
-### 3.5.1 The List Method
-
-This is like the As-You-Go method (see §3.1) but you spend all their points before the game begins. This is possible with the As-You-Go method as well, but the list method allows you to signal what they want the game to be about from the abilities you pick, as opposed to reacting to material once the game begins.
-
-### 3.5.2 The Prose Method
-
-This is the most different method as you write a piece of prose and then pull **abilities** from that. Its intent is to emulate a character description in fiction, and indeed PCs can be built by copying text from a story and then identifying **keywords**. It is the least 'fair' of the character creation options.
 ## 3.5 Advanced Character Creation
 
 *QuestWorlds* offers two advanced methods of character creation: prose and list.
@@ -868,6 +941,19 @@ This is like the As-You-Go method (see §3.1) but you spend all their points bef
 ### 3.5.2 The Prose Method
 
 This is the most different method as you write a piece of prose and then pull **abilities** from that. Its intent is to emulate a character description in fiction, and indeed PCs can be built by copying text from a story and then identifying **keywords**. It is the least 'fair' of the character creation options.
+
+## 3.5 Advanced Character Creation
+
+*QuestWorlds* offers two advanced methods of character creation: prose and list.
+
+### 3.5.1 The List Method
+
+This is like the As-You-Go method (see §3.1) but you spend all their points before the game begins. This is possible with the As-You-Go method as well, but the list method allows you to signal what they want the game to be about from the abilities you pick, as opposed to reacting to material once the game begins.
+
+### 3.5.2 The Prose Method
+
+This is the most different method as you write a piece of prose and then pull **abilities** from that. Its intent is to emulate a character description in fiction, and indeed PCs can be built by copying text from a story and then identifying **keywords**. It is the least 'fair' of the character creation options.
+
 ## 3.6 List Method
 
 1. Concept
@@ -876,17 +962,19 @@ The concept is a brief phrase, often just a couple of words that tells the GM an
 
 * haughty priestess
 * hotshot lawyer
-* naïve warrior
 * noble samurai
 * remorseful assassin
 * sardonic ex-mercenary
 * slothful vampire
+* naive warrior
 
 2. Now provide the character with a name.
 3. Note their **occupation**, which is usually a **keyword**. You probably already picked this when you came up with your character concept.
 4. If the series uses other **keywords**, such as those for culture or religion, you may have one of them for free.
 5. Pick 10 additional **abilities**, describing them however the player wants. Only one of these **abilities** may be a **sidekick**.
-6. If you want, describe up to 3 **flaws**.## 3.7 Prose Method
+6. If you want, describe up to 3 **flaws**.
+
+## 3.7 Prose Method
 
 You write a paragraph of text like you would see in a story outline, describing the most essential elements of your character. Include **keywords**, personality traits, important possessions, relationships, and anything else that suggests what you can do and why. The paragraph should be about 100 words long.
 
@@ -894,7 +982,9 @@ Compose the description in complete, grammatical sentences. No lists of **abilit
 
 Once your narrative is finished, convert the description into a set of **abilities**. Mark any **keywords** with double underlines. Mark any other word or phrase that could be an **ability** with a single underline. Then write these **keywords** and **abilities** on your character sheet.
 
-There is no limit to the number of **abilities** you can gain from a single sentence, as long as the sentence is not just a list of **abilities**. If your GM decides a sentence is just a list, they may allow the first two **abilities**, or they may tell the player to rewrite the sentence. Note, however, that you cannot specify more than one **sidekick** in your prose description.# 4.0 Simple Contests
+There is no limit to the number of **abilities** you can gain from a single sentence, as long as the sentence is not just a list of **abilities**. If your GM decides a sentence is just a list, they may allow the first two **abilities**, or they may tell the player to rewrite the sentence. Note, however, that you cannot specify more than one **sidekick** in your prose description.
+
+# 4.0 Simple Contests
 
 **Simple contest**s are the default resolution method for all **story obstacles**.
 
@@ -907,7 +997,9 @@ There is no limit to the number of **abilities** you can gain from a single sent
 3. Your GM determines the **resistance**.  If two PCs contend, your opponent figures their **TN** as described in step 2.
 4. Roll a D20 to determine your **success or failure**, then apply any **bumps**. Your GM does the same for the **resistance**. Compare your rolled number with your **TN** to see how well you succeeded or failed with your **ability**. Remember to apply any **bumps** from **masteries** or **hero points**.
 5. Determine **victory** or **defeat**
-6. Describe the **outcome** based on the **story obstacle**.## 4.2 Group Simple Contest
+6. Describe the **outcome** based on the **story obstacle**.
+
+## 4.2 Group Simple Contest
 
 In the **group simple contest**, multiple participants take part in a **simple contest**. Each of you in your group conducts an individual **simple contest** against the GM, and the **outcomes** for each side are collated to determine the victor.
 
@@ -928,14 +1020,18 @@ A **group simple contest** may pit all of you against a single **resistance**, r
 
 ### GROUP SIMPLE CONTEST TABLE
 
-||Critical|Success|Failure|Fumble|
+|               |Critical       |Success        |Failure        |Fumble         |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-|Critical|1|2|3|5|
-|Success|2|1|2|3|
-|Failure|3|2|1|2|
-|Fumble|5|3|2|0|## 4.3 Advanced Simple Contests
+|Critical       |1              |2              |3              |5              |
+|Success        |2              |1              |2              |3              |
+|Failure        |3              |2              |1              |2              |
+|Fumble         |5              |3              |2              |0              |
 
-Advanced options for a simple contest allow greater granularity of the **outcome**, through **benefits of victory** and **consequences of defeat**.## 4.4 Simple Contest
+## 4.3 Advanced Simple Contests
+
+Advanced options for a simple contest allow greater granularity of the **outcome**, through **benefits of victory** and **consequences of defeat**.
+
+## 4.4 Simple Contest
 
 ### 4.4.1 Advanced Procedure
 
@@ -955,14 +1051,16 @@ Advanced options for a simple contest allow greater granularity of the **outcome
 
 ### SIMPLE CONTEST TABLE
 
-|Roll|Critical|Success|Failure|Fumble|
-|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+|Roll    |Critical      |Success        |Failure        |Fumble         |
+|:------:|:------------:|:-------------:|:-------------:|:-------------:|
 |Critical|Better roll = Marginal Victory, else tie|Minor Victory|Major Victory|Complete Victory|
-|Success|Minor Victory|Better roll = Marginal Victory, else tie|Minor Victory|Major Victory|
-|Failure|Major Victory|Minor Victory|Better roll = Marginal Victory, else tie|Minor Victory|
-|Fumble|Complete Victory|Major Victory|Minor Victory|Tie*|
+|Success |Minor Victory|Better roll = Marginal Victory, else tie|Minor Victory|Major Victory|
+|Failure |Major Victory|Minor Victory|Better roll = Marginal Victory, else tie|Minor Victory|
+|Fumble  |Complete Victory|Major Victory|Minor Victory|Tie*|
 
-* In a **group simple contest** (see below), your GM may declare that both contestants suffer a ***marginal defeat** to indicate that, although their **results** cancel out with respect to each other, their situation worsens compared to other contestants.## 4.5 Advanced Group Simple Contest
+* In a **group simple contest** (see below), your GM may declare that both contestants suffer a ***marginal defeat** to indicate that, although their **results** cancel out with respect to each other, their situation worsens compared to other contestants.
+
+## 4.5 Advanced Group Simple Contest
 
 ### 4.5.1 Procedure
 
@@ -983,11 +1081,11 @@ Advanced options for a simple contest allow greater granularity of the **outcome
 ### DEGREE OF VICTORY TABLE
 
 |Difference Between OPs|Winning Group's Degree of Victory|
-|:-------------:|:-------------:|
-|1|Marginal|
-|2|Minor|
-|3-4|Major|
-|5+|Complete|
+|:--------------------:|:-------------------------------:|
+|1                     |Marginal                         |
+|2                     |Minor                            |
+|3-4                   |Major                            |
+|5+                    |Complete                         |
 
 ### 4.5.2 Consequences and Benefits
 
@@ -1008,7 +1106,9 @@ The cost varies by the number of PCs participating:
 
 You may spend twice as many **hero points** as required to gain a **double boost**. The points may be spent by any combination of players. They remain spent no matter how the **contest** resolves.
 
-On a **tie** or a **victory**, the **boost** increases the collective **victory** level by one step. A **double boost** increases it by two steps.# 5.0 (Advanced) Long Contests
+On a **tie** or a **victory**, the **boost** increases the collective **victory** level by one step. A **double boost** increases it by two steps.
+
+# 5.0 (Advanced) Long Contests
 
 Most conflicts should be resolved simply and quickly, using the **simple contest** rules.
 
@@ -1030,7 +1130,9 @@ So pacing may always trump your desire to work through the sequence of events, a
 
 Your GM may be tempted, to adjudicate every fight with a **long contest**, because fights seem like they should be played out blow-by-blow. They should resist this temptation, as fights are often repetitive trading of blows that can drag when everyone repeats actions from **round** to **round**. Only use **long contests** for fights where the PCs want to do more than slug it out toe-to-toe with their opponents until only one is left standing.
 
-There are three types of **long contest**. Your GM should choose one to use with their campaign: **scored contest**, **extended contest**, or **chained contest**.## 5.1 Scored Contest
+There are three types of **long contest**. Your GM should choose one to use with their campaign: **scored contest**, **extended contest**, or **chained contest**.
+
+## 5.1 Scored Contest
 
 **Scored contests** are longer and more dramatic than **simple contests**. Your GM uses **scored contests** when the **outcome** of the struggle is important, to generate suspense for you, or when your GM want a back-and-forth struggle. It is something you and your GM should visualize and describe. 
 
@@ -1076,12 +1178,12 @@ In interpreting the individual **simple contests** within a **scored contest**, 
 
 ### Resource Point Table
 
-||Critical|Success|Failure|Fumble|
+|               |Critical       |Success        |Failure        |Fumble         |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-|Critical|1|2|3|5|
-|Success|2|1|2|3|
-|Failure|3|2|1|2|
-|Fumble|5|3|2|n/a|
+|Critical       |1              |2              |3              |5              |
+|Success        |2              |1              |2              |3              |
+|Failure        |3              |2              |1              |2              |
+|Fumble         |5              |3              |2              |n/a            |
 
 ### 5.1.2 Scored Contest Outcomes
 
@@ -1100,16 +1202,16 @@ Note, you may suffer a **state of adversity**, even if you win the **prize**.
 ### RISING ACTION CONTEST TABLE
 
 |Difference Between RPs|Negative Consequences for Loser|Consequences/Benefit for Winner|Victory/Defeat Level|
-|:-------------:|:-------------:|:-------------:|:-------------:|
-|1|Hurt|Hurt|Marginal|
-|2|Hurt|Fresh|Marginal|
-|3|Impaired|Pumped|Minor|
-|4|Impaired|Pumped|Minor|
-|5|Injured|Invigorated|Major|
-|6|Injured|Invigorated|Major|
-|7|Dying|Heroic|Complete|
-|8|Dead|Heroic|Complete|
-|9|Dead|Heroic|Complete|
+|:--------------------:|:-----------------------------:|:-----------------------------:|:------------------:|
+|1                     |Hurt                           |Hurt                           |Marginal            |
+|2                     |Hurt                           |Fresh                          |Marginal            |
+|3                     |Impaired                       |Pumped                         |Minor               |
+|4                     |Impaired                       |Pumped                         |Minor               |
+|5                     |Injured                        |Invigorated                    |Major               |
+|6                     |Injured                        |Invigorated                    |Major               |
+|7                     |Dying                          |Heroic                         |Complete            |
+|8                     |Dead                           |Heroic                         |Complete            |
+|9                     |Dead                           |Heroic                         |Complete            |
 
 ### 5.1.2.2 Climax
 
@@ -1120,17 +1222,17 @@ First, determine your **outcome** for the **contest** as for rising action, but 
 ### CLIMACTIC STATE OF ADVERSITY TABLE
 
 |Total Resolution Points Scored Against PC|State of Adversity|
-|:-------------:|:-------------:|
-|0|Unharmed|
-|1|Dazed|
-|2|Hurt|
-|3|Hurt|
-|4|Impaired|
-|5|Impaired|
-|6|Injured|
-|7|Injured|
-|8|Dying|
-|9|Dead|
+|:---------------------------------------:|:----------------:|
+|0                                        |Unharmed          |
+|1                                        |Dazed             |
+|2                                        |Hurt              |
+|3                                        |Hurt              |
+|4                                        |Impaired          |
+|5                                        |Impaired          |
+|6                                        |Injured           |
+|7                                        |Injured           |
+|8                                        |Dying             |
+|9                                        |Dead              |
 
 ### 5.1.3 Parting Shot
 
@@ -1166,7 +1268,9 @@ You can always abandon a **contest**, but, in addition to failing at the **story
 
 To disengage, you make an **asymmetrical round**, using the **ability** relevant to the **contest** you’re trying to wriggle out of.
 
-If you fail, your effort is wasted and the score against you increases, as it would have during a normal **round**. If you succeed, you escape the clutches, literal or metaphorical, of your opponent, without further harm from a **contest** during the **rising action**. In a **climactic** scene, however, **RPs** scored during **contests** you disengaged from are still taken into account when determining **consequences**. In the case of a **group contest**, **consequences** against you are determined as soon as you disengage.## 5.2 Group Scored Contest
+If you fail, your effort is wasted and the score against you increases, as it would have during a normal **round**. If you succeed, you escape the clutches, literal or metaphorical, of your opponent, without further harm from a **contest** during the **rising action**. In a **climactic** scene, however, **RPs** scored during **contests** you disengaged from are still taken into account when determining **consequences**. In the case of a **group contest**, **consequences** against you are determined as soon as you disengage.
+
+## 5.2 Group Scored Contest
 
 **Group scored contests** proceed as a series of **scored contests** between pairs of PC and opponents, interwoven so that they happen nearly simultaneously.
 
@@ -1225,16 +1329,16 @@ The **assist** alters the score against your teammate according to the **outcome
 
 ### ASSIST TABLE
 
-|Contest Outcome|Change to Score Against Recipient|
-|:-------------:|:-------------:|
-|Complete Victory|-4|
-|Major Victory|-3|
-|Minor Victory|-2|
-|Marginal Victory|-1|
-|Marginal Defeat|0|
-|Minor Defeat|+1|
-|Major Defeat|+2|
-|Complete Defeat|+3|
+|Contest Outcome |Change to Score Against Recipient|
+|:--------------:|:-------------------------------:|
+|Complete Victory|-4                               |
+|Major Victory   |-3                               |
+|Minor Victory   |-2                               |
+|Marginal Victory|-1                               |
+|Marginal Defeat |0                                |
+|Minor Defeat    |+1                               |
+|Major Defeat    |+2                               |
+|Complete Defeat |+3                               |
 
 Scores can never be reduced below 0.
 
@@ -1266,7 +1370,9 @@ When you wish to join a **scored contest** in progress, you and your GM should d
 
 ### 5.2.8 Switching Abilities
 
-You may describe an action in a **scored contest** that is not covered by the **ability** that you started the contest with. There are two possibilities here: either you are trying to provide color to your actions in the **round**, without seeking to gain advantage, or you are seeking to gain advantage over your opponent with a novel **tactic**. In the former case, you can continue to use the **ability** you started the contest with, as you should not be penalized for wanting to enhance the contest with colorful or entertaining descriptions. In the latter case you should switch **abilities**, and your GM must decide if the **resistance** changes because of your new **ability**. Your GM is encouraged to reward **tactics** that exploit weaknesses that have been identified in the story so far with a lower **resistance**. Sometimes your GM may respond with a higher **resistance** because your **tactic** looks less likely to succeed due to conditions already established in the story. ## 5.3 Extended Contest
+You may describe an action in a **scored contest** that is not covered by the **ability** that you started the contest with. There are two possibilities here: either you are trying to provide color to your actions in the **round**, without seeking to gain advantage, or you are seeking to gain advantage over your opponent with a novel **tactic**. In the former case, you can continue to use the **ability** you started the contest with, as you should not be penalized for wanting to enhance the contest with colorful or entertaining descriptions. In the latter case you should switch **abilities**, and your GM must decide if the **resistance** changes because of your new **ability**. Your GM is encouraged to reward **tactics** that exploit weaknesses that have been identified in the story so far with a lower **resistance**. Sometimes your GM may respond with a higher **resistance** because your **tactic** looks less likely to succeed due to conditions already established in the story. 
+
+## 5.3 Extended Contest
 
 **Extended contests** are longer and more dramatic than **simple contests**. Your GM uses **extended contests** when the **outcome** of the struggle is important, to generate suspense for the players, or when they want a back-and-forth struggle. It is something you and your GM should visualize and describe.
 
@@ -1290,12 +1396,12 @@ An **extended contest** consists of one or more **rounds**, in which you perform
 
 ### EXTENDED CONTEST TABLE
 
-||Critical|Success|Failure|Fumble|
-|:------:|:------:|:------:|:------:|:------:|
-|Critical|Worse roll transfers ½x bid, else tie**|Loser transfers 1x bid**|Loser transfers 2x bid**|Loser transfers 3x bid**|
-|Success|Loser transfers 1x bid**|Worse roll loses ½x bid, else tie|Loser loses 1x bid|Loser loses 2x bid**|
-|Failure|Loser transfers 2x bid**|Loser loses 1x bid|Worse roll loses ½x bid, else tie|Loser loses 1x bid**|
-|Failure|Loser transfers 3x bid**|Loser loses 2x bid|Loser loses 1x bid**| Tie*|
+|                    |Critical           |Success             |Failure            |Fumble              |
+|:------------------:|:-----------------:|:------------------:|:------------------|:------------------:|
+|Critical            |Worse roll transfers ½x bid, else tie**|Loser transfers 1x bid**|Loser transfers 2x bid**|Loser transfers 3x bid**|
+|Success             |Loser transfers 1x bid**|Worse roll loses ½x bid, else tie|Loser loses 1x bid|Loser loses 2x bid**|
+|Failure             |Loser transfers 2x bid**|Loser loses 1x bid|Worse roll loses ½x bid, else tie|Loser loses 1x bid**|
+|Failure             |Loser transfers 3x bid**|Loser loses 2x bid|Loser loses 1x bid**| Tie*|
   
 * In a **group extended contest**, the GM may declare that both contestants lose 1⁄2x **bid** to indicate that, although their results cancel out with respect to each other, their situation worsens compared to other contestants.
 ** If the loser has **ability** 6 less than their opponent or worse, do not transfer, loser just loses AP instead.
@@ -1326,12 +1432,12 @@ At the end of the contest the **APs** of the loser determine the **benefits** fo
 
 #### EXTENDED CONTEST TABLE
 
-|Final AP Total|Level of Defeat|Consequence for Loser|Benefit for Winner|
-|:------:|:------:|:------:|:------:|
-|0 to –10 AP|Marginal|Hurt|Fresh|
-|–11 to –20 AP|Minor|Impaired|Pumped|
-|–21 to –30 AP|Major|Injured|Invigorated|
-|–31 or fewer AP|Complete|Dying|Heroic|
+|Final AP Total |Level of Defeat|Consequence for Loser|Benefit for Winner|
+|:-------------:|:-------------:|:-------------------:|:----------------:|
+|0 to –10 AP    |Marginal       |Hurt                 |Fresh             |
+|–11 to –20 AP  |Minor          |Impaired             |Pumped            |
+|–21 to –30 AP  |Major          |Injured              |Invigorated       |
+|–31 or fewer AP|Complete       |Dying                |Heroic            |
   
 ### 5.3.3 Group Extended Contests
 
@@ -1387,16 +1493,16 @@ Your GM should not use a **final action** for the **resistance** (and has no **h
 
 ### FINAL ACTION RESULTS TABLE
 
-|Result|AP change|
-|:------:|:------:|
+|Result          |AP change                                   |
+|:--------------:|:------------------------------------------:|
 |Marginal Victory|Rejoin contest with 1/8 of your starting APs|
-|Minor Victory|Rejoin contest with 1/4 of your starting APs|
-|Major Victory|Rejoin contest with 1/2 of your starting APs|
-|Complete Victory|Rejoin contest with full starting APs|
-|Marginal Defeat|Lose APs equal to 1/8 of your starting value|
-|Minor Defeat|Lose APs equal to 1/4 of your starting value|
-|Major Defeat|Lose APs equal to 1/2 of your starting value|
-|Complete Defeat|Lose APs equal to your full starting value|
+|Minor Victory   |Rejoin contest with 1/4 of your starting APs|
+|Major Victory   |Rejoin contest with 1/2 of your starting APs|
+|Complete Victory|Rejoin contest with full starting APs       |
+|Marginal Defeat |Lose APs equal to 1/8 of your starting value|
+|Minor Defeat    |Lose APs equal to 1/4 of your starting value|
+|Major Defeat    |Lose APs equal to 1/2 of your starting value|
+|Complete Defeat |Lose APs equal to your full starting value  |
 
 ### 5.3.6 Desperation Stake
 
@@ -1432,12 +1538,12 @@ If you withdraw from a **group extended contest** and later decide to rejoin it 
 
 ### AP TRANSFER FRON FAILED DISENGAGEMENT
 
-|Level of Defeat|AP transferred|
-|:------:|:------:|
-|Marginal|1/8 of your current total|
-|Minor|1/4 of your current total|
-|Major|1/2 of your current total|
-|Complete|Your current total - 1|
+|Level of Defeat|AP transferred           |
+|:-------------:|:-----------------------:|
+|Marginal       |1/8 of your current total|
+|Minor          |1/4 of your current total|
+|Major          |1/2 of your current total|
+|Complete       |Your current total - 1   |
 
 ### 5.3.10 AP Lending
 
@@ -1451,15 +1557,15 @@ Use an **unrelated action** and describe what your character is trying to do to 
 
 ### AP LENDING
 
-|Outcome|AP Transferred|
-|:------:|:------:|
-|Complete Victory|Target gains the attempted AP; lender does not lose AP|
-|Major or Minor Victory|Target gains the attempted AP; lender loses the AP|
-|Marginal Victory|Target gains ½ the attempted AP; lender loses ½ the attempted AP|
-|Tie|No Effect|
-|Marginal Defeat|Target gains nothing; lender loses ½ the attempted AP|
-|Minor or Major Defeat|Target gains nothing; lender loses the attempted AP|
-|Complete|Target and lender each deduct the attempted AP from their totals|
+|Outcome               |AP Transferred                                                  |
+|:--------------------:|:--------------------------------------------------------------:|
+|Complete Victory      |Target gains the attempted AP; lender does not lose AP          |
+|Major or Minor Victory|Target gains the attempted AP; lender loses the AP              |
+|Marginal Victory      |Target gains ½ the attempted AP; lender loses ½ the attempted AP|
+|Tie                   |No Effect                                                       |
+|Marginal Defeat       |Target gains nothing; lender loses ½ the attempted AP           |
+|Minor or Major Defeat |Target gains nothing; lender loses the attempted AP             |
+|Complete              |Target and lender each deduct the attempted AP from their totals|
 
 ### 5.3.11 AP Gifting
 
@@ -1467,15 +1573,15 @@ If you are uninvolved in the contest you can also increase a participant’s **A
 
 ### AP GIFTING
 
-|Outcome|AP Transferred|
-|:------:|:------:|
-|Complete Victory|Recipient gains 2x bid|
-|Major or Minor Victory|Recipient gains bid|
-|Marginal Victory|Recipient gains 1/2 of bid|
-|Tie|No Effect|
-|Marginal Defeat|Recipient’s opponent gains 1/2 bid|
-|Minor or Major Defeat|Recipient’s opponent gains bid|
-|Complete|Recipient’s opponent gains 2x bids|
+|Outcome               |AP Transferred                    |
+|:--------------------:|:--------------------------------:|
+|Complete Victory      |Recipient gains 2x bid            |
+|Major or Minor Victory|Recipient gains bid               |
+|Marginal Victory      |Recipient gains 1/2 of bid        |
+|Tie                   |No Effect                         |
+|Marginal Defeat       |Recipient’s opponent gains 1/2 bid|
+|Minor or Major Defeat |Recipient’s opponent gains bid    |
+|Complete              |Recipient’s opponent gains 2x bids|
 
 ### 5.3.12 Edges and Handicaps
 
@@ -1483,7 +1589,8 @@ Your GM may want rules to represent opponents who strike rarely but with great e
 
 **Edges** and **handicaps** affect only the **advantage points bid** in an **extended contest**. Your **edge** is added to your **AP bid** when your opponent must **lose** or **transfer APs**. Your **handicap** is subtracted from your bid when your opponent **loses** or **transfers APs**. A contestant’s **edge** or **handicap** never affects his **AP** when he defends, only when he is attacking.
 
-Most GMs find **edges** and **handicaps** more trouble than they’re worth, and depict these phenomena with description alone. Earlier books made more extensive use of **edges** and **handicaps** to represent the quality of equipment carried by the PCs. For example, your suit for chainmail might be ^4 and your sword ^3. In games where restricted access to equipment is a significant part of the setting and your GM wants to use extended contests it may make sense to use them, otherwise we recommend ignoring them
+Most GMs find **edges** and **handicaps** more trouble than they’re worth, and depict these phenomena with description alone. Earlier books made more extensive use of **edges** and **handicaps** to represent the quality of equipment carried by the PCs. For example, your suit for chainmail might be ^4 and your sword ^3. In games where restricted access to equipment is a significant part of the setting and your GM wants to use extended contests it may make sense to use them, otherwise we recommend ignoring them.
+
 ## 5.4 Chained Contest
 
 **Chained contests** do not defer **consequences** to the end of the **contest**, instead your GM applies the **consequences of defeat** to the loser in the **contest** immediately following a **round**. This leads to a grittier feel to the **contest**, but at the price of a death spiral: once you lose the **consequences of defeat** make it likelier that you will lose again.
@@ -1500,12 +1607,12 @@ If you, or your GM, wishes to **disengage**, then on any **victory** you leave t
 
 ### CHAINED CONTEST TABLE
 
-|Roll|Critical|Success|Failure|Fumble|
-|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-|Critical|Worse roll is **hurt**. If tied, no effect.|Opponent **hurt**. If already **hurt** in this contest, Injured. If already injured, Dying|Opponent Injured. If already Injured in this contest, Dying|Opponent Dying: player has them at complete mercy. Contest is over.|
-|Success|PC is **hurt**. If already **hurt** in this contest, Injured. If already injured, Dying|Worse roll is **hurt**. If tied, no effect|Opponent **hurt**. If already **hurt** in this contest, Injured. If already injured, Dying|Opponent Injured. If already Injured in this contest, Dying|
-|Failure|PC is Injured. If already Injured in this contest, Dying|PC is **hurt**. If already **hurt** in contest, Injured. If injured, Dying|Worse roll is **hurt**. If tied, no effect|Opponent **hurt**. If already **hurt** in this contest, Injured. If already injured, Dying|
-|Fumble|PC Dying: opponent has them at complete mercy. Contest is over.|PC is Injured. If already Injured in this contest, Dying|PC is **hurt**. If already **hurt** contest, Injured. If already injured, Dying|Both make a mistake. No effect on contest. Side effects at GM's discretion|
+|Roll           |Critical       |Success        |Failure        |Fumble                       |
+|:-------------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+|Critical       |Worse roll is **hurt**. If tied, no effect.|Opponent **hurt**. If already **hurt** in this contest, Injured. If already injured, Dying|Opponent Injured. If already Injured in this contest, Dying|Opponent Dying: player has them at complete mercy. Contest is over.|
+|Success        |PC is **hurt**. If already **hurt** in this contest, Injured. If already injured, Dying|Worse roll is **hurt**. If tied, no effect|Opponent **hurt**. If already **hurt** in this contest, Injured. If already injured, Dying|Opponent Injured. If already Injured in this contest, Dying|
+|Failure        |PC is Injured. If already Injured in this contest, Dying|PC is **hurt**. If already **hurt** in contest, Injured. If injured, Dying|Worse roll is **hurt**. If tied, no effect|Opponent **hurt**. If already **hurt** in this contest, Injured. If already injured, Dying|
+|Fumble         |PC Dying: opponent has them at complete mercy. Contest is over.|PC is Injured. If already Injured in this contest, Dying|PC is **hurt**. If already **hurt** contest, Injured. If already injured, Dying|Both make a mistake. No effect on contest. Side effects at GM's discretion|
 
 ### 5.4.1 Group Chained Contest
 
@@ -1529,9 +1636,13 @@ Individual **consequences** or **benefits** will have already been determined by
 
 **Followers** may augment your character in a **chained contest**. 
 
-In addition, if you suffer a defeat in a round of a **chained contest** you may transfer that **outcome** to a follower, but they suffer a **state of adversity** one level worse than you would do, so marginal becomes minor etc., and the **follower** is removed from the **contest**.## 5.5 No Nesting
+In addition, if you suffer a defeat in a round of a **chained contest** you may transfer that **outcome** to a follower, but they suffer a **state of adversity** one level worse than you would do, so marginal becomes minor etc., and the **follower** is removed from the **contest**.
 
-Your GM should never “nest” one **long contest** inside another. If a **long contest** is in progress and you want to perform an action your GM should treat it as an **unrelated action**, or disallow it completely during the current **contest**.## 5.6 Extended vs Scored Contests vs Chained Contests
+## 5.5 No Nesting
+
+Your GM should never “nest” one **long contest** inside another. If a **long contest** is in progress and you want to perform an action your GM should treat it as an **unrelated action**, or disallow it completely during the current **contest**.
+
+## 5.6 Extended vs Scored Contests vs Chained Contests
 
 We recommend that your GM chooses one form of **long contest** only, and sticks to it, within a given campaign of *QuestWorlds*. If in doubt, use a **scored contest** by default.
 
@@ -1543,9 +1654,13 @@ Both **scored contests** and **chained contests** can be used as an **escalating
 
 ## 5.7 Extremely Long Contests
 
-There’s no particular time scale associated with **contests**. But some **contests** may by their very nature be a drama that can’t be resolved at one point in the narrative. Examples include political campaigns, construction projects, or seductions. These can be resolved by **long contests** where each **round** is conducted at an appropriate moment, rather than sequentially. Your GM will need to keep track of the **resolution or advantage points** and the **resistance**, though this might change as the context changes (a civil war started by the players could impede their castle-building plans). The challenges of each round will vary, and you may use a different **ability** or **augment** in the next exchange.# 6.0 Relationships
+There’s no particular time scale associated with **contests**. But some **contests** may by their very nature be a drama that can’t be resolved at one point in the narrative. Examples include political campaigns, construction projects, or seductions. These can be resolved by **long contests** where each **round** is conducted at an appropriate moment, rather than sequentially. Your GM will need to keep track of the **resolution or advantage points** and the **resistance**, though this might change as the context changes (a civil war started by the players could impede their castle-building plans). The challenges of each round will vary, and you may use a different **ability** or **augment** in the next exchange.
 
-Abilities may represent your relationship to NPCs.## 6.1 Supporting Characters
+# 6.0 Relationships
+
+Abilities may represent your relationship to NPCs.
+
+## 6.1 Supporting Characters
 
 Many relationships connect you to NPCs controlled by the GM.
 
@@ -1557,13 +1672,19 @@ In crucial situations, it may seem dramatically inappropriate for you to solve a
 
 Before putting **supporting characters** at serious risk, your GM should make sure the players understand the magnitude of the possible consequences.
 
-When **supporting characters** undertake significant risk, the **supporting character** may suffer a **consequence of defeat** commensurate with the level of the **defeat** in the **contest**. Or it may simply be your relationship that is damaged or destroyed.## 6.2 Allies
+When **supporting characters** undertake significant risk, the **supporting character** may suffer a **consequence of defeat** commensurate with the level of the **defeat** in the **contest**. Or it may simply be your relationship that is damaged or destroyed.
 
-An **ally** is a character of roughly the same level of accomplishment as you, often in the same or a similar line of work. For every favor you ask of them they’ll ask one of you. These reciprocal favors will be roughly equivalent in terms of risk, time commitment, resistance class, and inconvenience.## 6.3 Patrons
+## 6.2 Allies
+
+An **ally** is a character of roughly the same level of accomplishment as you, often in the same or a similar line of work. For every favor you ask of them they’ll ask one of you. These reciprocal favors will be roughly equivalent in terms of risk, time commitment, resistance class, and inconvenience.
+
+## 6.3 Patrons
 
 **Patrons** enjoy greater access to assets than you, either through personal ownership (as in a Merchant Prince) or authority (as in the governor of a province). They may lend you advice or provide you with assets but are too busy and important to personally perform tasks for you. They may hire you to do jobs, or issue orders within a command structure to which you both belong.  
 
-When you roll your **patron** relationship, your GM adjusts the resistance class depending on what you have done for them lately.## 6.4 Contacts
+When you roll your **patron** relationship, your GM adjusts the resistance class depending on what you have done for them lately.
+
+## 6.4 Contacts
 
 A **contact** is a specialist in an **occupation**, skill, or area of expertise. **Contacts** provide your information and perform minor favors, but will expect information or small favors from you in return.
 
@@ -1571,7 +1692,9 @@ You can describe a **contact** as being a particular individual, or as a group o
 
 ### 6.4.1 Occupational Contacts
 
-Any **occupational keyword** can be treated as a source of **contacts**. However, using an **occupational keyword** as a source of **contacts** will always be a **stretch**. To more reliably draw on particular **contacts** associated with your occupation, you should take an explicit ability. Use a **breakout ability** if you are using **umbrella keywords**.## 6.5 Followers
+Any **occupational keyword** can be treated as a source of **contacts**. However, using an **occupational keyword** as a source of **contacts** will always be a **stretch**. To more reliably draw on particular **contacts** associated with your occupation, you should take an explicit ability. Use a **breakout ability** if you are using **umbrella keywords**.
+
+## 6.5 Followers
 
 A **follower** is a **supporting character** that travels with you and contributes on a regular basis to your success.
 
@@ -1613,7 +1736,9 @@ Like any other **ability**, a **retainer** **ability** allows you to overcome re
 
 **Retainers** generally regard you with all the affection and loyalty due to an employer or master. If you treat them more poorly than is expected for their culture, your GM should increase the **resistance class** of attempts to make use of their talents.
 
-If you lose **retainers** for any reason, you can replace them simply by providing a convincing explanation of how you go about it.## 6.6 Relationships as Flaws
+If you lose **retainers** for any reason, you can replace them simply by providing a convincing explanation of how you go about it.
+
+## 6.6 Relationships as Flaws
 
 Certain relationships with **supporting characters** act as **flaws**. They impose obligations on you, prompting your GM to present you with **story obstacles** you have no choice but to overcome.
 
@@ -1629,9 +1754,13 @@ An **adversary** is a rival, enemy or other individual who can be relied upon to
 
 The **adversary’s** goals are probably the opposite of yours, although they could be a bitter rival within the same community, organization, or movement.
 
-To treat an **adversary** as an **ability**, rather than a **flaw**, describe your emotional response to them. Examples: *Hates Leonard Crisp*, *Fears the Electronaut*, *Sworn Vengeance Against Heimdall*. That way, you still inspire your GM to add the plot elements you desire, but can use your antipathy toward the enemy to **augment** your **target number**s against them.# 7.0 Hero Points
+To treat an **adversary** as an **ability**, rather than a **flaw**, describe your emotional response to them. Examples: *Hates Leonard Crisp*, *Fears the Electronaut*, *Sworn Vengeance Against Heimdall*. That way, you still inspire your GM to add the plot elements you desire, but can use your antipathy toward the enemy to **augment** your **target number**s against them.
 
-**Hero points (HP)** are a resource that you must carefully allocate. They allow you to heighten your **victories** and dull your **defeats**. They are the currency you pay to improve your **abilities** over time.## 7.1 Improving Your Character
+# 7.0 Hero Points
+
+**Hero points (HP)** are a resource that you must carefully allocate. They allow you to heighten your **victories** and dull your **defeats**. They are the currency you pay to improve your **abilities** over time.
+
+## 7.1 Improving Your Character
 
 You start each session with one **HP**. Any time that you take a significant action the GM can award you another **hero point**. The action should involve a **contest** but need not be successful. An action should be heroic or villainous in order to earn a **hero point**, not dull. Are the other players interested in what just happened? Don't trigger **contests** just to win **hero points**, your actions should drive story or character development forward.
 
@@ -1667,7 +1796,9 @@ Your GM will tend to use them to raise **abilities** that would otherwise fall b
 
 ## 7.2 Advanced Hero Points
 
-An advanced option for **hero points** allow greater player authorship in the game.## 7.3 Plot Edits
+An advanced option for **hero points** allow greater player authorship in the game.
+
+## 7.3 Plot Edits
 
 *QuestWorlds* is a co-operative game, and you may create details about the setting as the normal part of narration. Your GM should allow this, as long as they do not break credibility. So, you may describe your PC walking over to the pot of soup bubbling on the fire, swiping a drink from the tray the waiter is carrying at the governor's ball, or taking the monorail to the next city to continue your investigation. Your GM should allow these additions without interruption, providing it does not confer significant advantage to your PC. Mostly this will be using elements that have already been established as part of the setting.
 
@@ -1683,12 +1814,13 @@ The cost, in **hero points**, of a **plot edit**, is given by the following tabl
 
 ### PLOT EDIT TABLE
 
-|Level|Cost|Impact|Example|
-|:-------------:|:-------------:|:-------------:|:-------------:|
-|Minor|1|A credible change that does not alter the situation but offers an edge that could be exploited|The space suit your PC grabbed from the rack during the escape was a belter's suit with powerful headlamps|
-|Moderate|2|A substantive change that does not alter the situation but offers an alternate avenue for resolution|The gate guard at the secret government facility tonight is an old war buddy established by the PC in a prior scene and cemented as a relationship|
+|Level                    |Cost |Impact                   |Example                  |
+|:-----------------------:|:---:|:-----------------------:|:-----------------------:|
+|Minor        |1|A credible change that does not alter the situation but offers an edge that could be exploited|The space suit your PC grabbed from the rack during the escape was a belter's suit with powerful headlamps|
+|Moderate     |2|A substantive change that does not alter the situation but offers an alternate avenue for resolution|The gate guard at the secret government facility tonight is an old war buddy established by the PC in a prior scene and cemented as a relationship|
 |Major|3|A substantive change that does not flow from previously established facts in the story. A *deus ex machina* change|The XO of the Patrol ship is an old drinking buddy of your PC, a fact not previously established in play|
 |Extreme|5|A stroke of good fortune that is unrelated to prior events and resolves a conflict or reveals a secret|The vampire has failed to notice the approaching sun rise, which disintegrates them just as they are about to drain the incapacitated PC|
+
 # 8.0 (Advanced) Community Resources and Support
 
 Some series revolve around the relationship between a band of influential figures and the community they protect. In defense of the community, they can **bolster**, expend, and juggle its various **resources**.
@@ -1699,7 +1831,9 @@ If your GM intend to play a game centered around a community, you should have a 
 
 It is possible that you have relationships with other communities that are not the focus of play. Treat these relationships as **abilities** that you can call on, but your GM should not track these communities with these rules. Your GM should pick the level of community that provides the greatest dramatic potential from its competition for **resources**, friendly or otherwise, with its rivals.
 
-Some campaigns do not center on a community, with the adventurers being footloose wanderers. In that case, even if you have community **abilities**, your GM will not track any community. Before you decide this though, consider where your PCs might turn for help, succor, or aid. Is there somewhere in the campaign defined as a place of refuge and safety for you. It may well be that there is a community, the bar where other footloose adventurers all meet, who will help each other out in a tight spot for example, that your GM can model.## 8.1 Community Design
+Some campaigns do not center on a community, with the adventurers being footloose wanderers. In that case, even if you have community **abilities**, your GM will not track any community. Before you decide this though, consider where your PCs might turn for help, succor, or aid. Is there somewhere in the campaign defined as a place of refuge and safety for you. It may well be that there is a community, the bar where other footloose adventurers all meet, who will help each other out in a tight spot for example, that your GM can model.
+
+## 8.1 Community Design
 
 ### 8.1.1 Defining Resources
 
@@ -1741,9 +1875,10 @@ When PC activity reduces a **penalty** but does not eliminate it, your GM will a
 
 ### RESOURCE NOTATION TABLE
 
-|Total|PC|Total|PC|Total|PC|Total|PC|Total|PC|
-| ------|------- | ------|------- | ------|------- | ------|------- | ------|------- |
-| | | | | | | | | | |
+|Total  |PC    |Total |PC     |Total |PC     |Total |PC     |Total |PC    |
+|------|-------|------|-------|------|-------|------|-------|------|-------|
+|      |       |      |       |      |       |      |       |      |       |
+
 ## 8.2 Drawing on Resources
 
 You can use community **resources** as **abilities** after convincing the community to let you expend precious assets. This requires a preliminary **contest** using a social **ability**, most likely your community relationship. Your GM will use a **moderate resistance** as the baseline, with higher **resistance**s when your proposals seem selfish or likely to fail, and lower ones when everyone but the dullest dolt would readily see their collective benefits. Your GM may increase **resistance**s if your group draws constantly on community **resources** without replenishing them.
@@ -1764,16 +1899,16 @@ If your GM wants resource depletion to lead to longer-lasting social **penalties
 
 ### RESOURCE DEPLETION TABLE
 
-|Contest Outcome|Depletion Penalty|
+|Contest Outcome|Depletion Penalty    |
 |:---------------:|:-----------------:|
-|Complete Victory|0|
-|Major Victory|-3|
-|Minor Victory|-3|
-|Marginal Victory|-3|
-|Marginal Defeat|-6|
-|Minor Defeat|-6|
-|Major Defeat|-6|
-|Complete Defeat|-9|
+|Complete Victory |0                  |
+|Major Victory    |-3                 |
+|Minor Victory    |-3                 |
+|Marginal Victory |-3                 |
+|Marginal Defeat  |-6                 |
+|Minor Defeat     |-6                 |
+|Major Defeat     |-6                 |
+|Complete Defeat  |-9                 |
   
 ### 8.2.1 Required Resource Use
 
@@ -1801,16 +1936,16 @@ The **outcome** of the **contest** may apply a **modifier** to a **resource**, a
 
 ### RESOURCE FLUCTUATION TABLE
 
-|Outcome|Depletion Penalty|
+|Outcome          |Depletion Penalty  |
 |:---------------:|:-----------------:|
-|Complete Victory|+9|
-|Major Victory|+6|
-|Minor Victory|+3|
-|Marginal Victory|0|
-|Marginal Defeat|0|
-|Minor Defeat|-3|
-|Major Defeat|-6|
-|Complete Defeat|-9|  
+|Complete Victory |+9                 |
+|Major Victory    |+6                 |
+|Minor Victory    |+3                 |
+|Marginal Victory |0                  |
+|Marginal Defeat  |0                  |
+|Minor Defeat     |-3                 |
+|Major Defeat     |-6                 |
+|Complete Defeat  |-9                 |  
 
 Except where your group is exceptionally keen on tracking **resources**, your GM should skip the **background events** process when the PCs are long absent from home. Your GM should rejigger them to serve their plot purposes when they return. The GM may also want to shuffle this process offstage when the PCs are occupied by epic events. This prevents them from having to flee from a climactic plot development to go home and tend to the beet crop.
 
@@ -1830,7 +1965,9 @@ Your GM will call for **crisis tests** only as needed, as a tool to generate sto
 
 **Bonuses** from **background events** are temporary, unless you take steps to **cement your benefits**. Doing so requires you to overcome a major **story obstacle**, perhaps taking focus for an evening’s worth of play. If you succeed, the **background event bonus** may, as per the next section, later solidify into a permanent increase in the **resource’s rating**.
 
-When you **cement a background bonus**, your GM changes their notation of that **bonus**.## 8.3 Changes to Resource Ratings
+When you **cement a background bonus**, your GM changes their notation of that **bonus**.
+
+## 8.3 Changes to Resource Ratings
 
 At the end of your GM's chosen interval, they review the Resource Notation Table.
 
@@ -1842,9 +1979,15 @@ Any remaining **modifiers** are now reduced to 0.
 
 The GM now start a new Resource Notation Table, with **resource ratings** altered to reflect any changes from the above process.
 
-Having made permanent changes to the community’s **resource ratings**, your GM then restarts the cycle by again testing for a new set of **background events**.## 8.4 Changes from Plot Events
+Having made permanent changes to the community’s **resource ratings**, your GM then restarts the cycle by again testing for a new set of **background events**.
 
-Your GM may decide that certain remarkable triumphs or horrifying catastrophes may directly alter a **resource rating**, independent of the resource tracking system given here. The possibility of a dramatic swing in community fortunes should be made clear by your GM during **contest framing**, so that you know the **prize** and can pull out all the stops to secure **victory** or stave off **defeat**.# 9.0 Appendix## 9.1 Glossary of Terms
+## 8.4 Changes from Plot Events
+
+Your GM may decide that certain remarkable triumphs or horrifying catastrophes may directly alter a **resource rating**, independent of the resource tracking system given here. The possibility of a dramatic swing in community fortunes should be made clear by your GM during **contest framing**, so that you know the **prize** and can pull out all the stops to secure **victory** or stave off **defeat**.
+
+# 9.0 Appendix
+
+## 9.1 Glossary of Terms
 
 **Ability** Anything you can apply to solve a problem or overcome an obstacle
 
@@ -2042,7 +2185,9 @@ Your GM may decide that certain remarkable triumphs or horrifying catastrophes m
 
 **Unrelated Action** An action when you are disengaged in a **long contest** that does not relate to your attempt to win the **prize**.
 
-**Victory** Your **result** is a better roll than the **resistance**.## 9.2 Version Changes
+**Victory** Your **result** is a better roll than the **resistance**.
+
+## 9.2 Version Changes
 
 ### Version 2.2
 
@@ -2069,3 +2214,5 @@ Your GM may decide that certain remarkable triumphs or horrifying catastrophes m
 * Simplified how multiple opponents are handled
 * Clarified contest outcomes for long contests, and how to determine the overall winner in a long contest
 * Do not allow transfers in an extended contest where the abilities differ by 6 or more. Consistent with benefits of victory and prevents 'loading up on mooks' as a strategy.
+* Added new resistance classes to preserve the +3, +6, +9 model used elsewhere. Some classes will now have a different value from those that appeared in prior versions.
+
