@@ -4,6 +4,16 @@
 %
 \documentclass[
 ]{article}
+% options for title colors
+\usepackage{titlesec}
+\titleformat*{\section}{\Large\bfseries\sffamily\color{red}}
+\titleformat*{\subsection}{\large\bfseries\sffamily\color{red}}
+\titleformat*{\subsubsection}{\large\bfseries\sffamily\color{red}}
+\titleformat*{\paragraph}{\normalsize\bfseries\sffamily\color{red}}
+%
+% Turn off hyphenation
+\usepackage[none]{hyphenat}
+%
 \usepackage{lmodern}
 \usepackage{amssymb,amsmath}
 \usepackage{ifxetex,ifluatex}
@@ -15,7 +25,7 @@
   \usepackage{unicode-math}
   \defaultfontfeatures{Scale=MatchLowercase}
   \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
-  \setmainfont[]{Garamond.otf}
+  \setmainfont[]{Garamond}
 \fi
 % Use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
@@ -40,6 +50,7 @@
   hidelinks,
   pdfcreator={LaTeX via pandoc}}
 \urlstyle{same} % disable monospaced font for URLs
+\usepackage[margin=1.25in]{geometry}
 \usepackage{longtable,booktabs}
 % Correct order of tables after \paragraph or \subparagraph
 \usepackage{etoolbox}
@@ -66,13 +77,6 @@
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 \setcounter{secnumdepth}{-\maxdimen} % remove section numbering
-\usepackage{fancyhdr}
-\pagestyle{fancy}
-\fancyfoot[C]{QuestWorlds System Reference Documenth}
-\fancyfoot[R]{\thepage}
-\renewcommand{\headrulewidth}{0.4pt}
-\renewcommand{\footrulewidth}{0.4pt}
-\exhyphenpenalty=10000 \hyphenpenalty=10000
 
 \author{}
 \date{}
@@ -300,17 +304,11 @@ thirty (30) days of becoming aware of the breach.
   only for that purpose.
 \end{enumerate}
 
-\begin{figure}
-\centering
-\includegraphics{Logos/QuestWorlds-Logo-TM-black.png}
-\caption{BW QuestWorlds Logo}
-\end{figure}
+\includegraphics{Logos/QuestWorlds-Logo-TM-black.png} \{ width=50\%
+height=50\% \}
 
-\begin{figure}
-\centering
-\includegraphics{Logos/QuestWorlds-Logo-TM.png}
-\caption{Color QuestWorlds Logo}
-\end{figure}
+\includegraphics{Logos/QuestWorlds-Logo-TM.png} \{ width=50\%
+height=50\% \}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
