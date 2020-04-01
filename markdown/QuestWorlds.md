@@ -5,7 +5,7 @@
 The *QuestWorlds* System Reference Document 0.1 (“QWSRD0.1”) describes the rules of *QuestWorlds*. You may incorporate the rules as they appear in QWSRD0.1, wholly or in part, into a derivative work, through
 the use of the *QuestWorlds* Open Game License, Version 1.0. You should read and understand the terms of that License before creating a derivative work from QWSRD0.1.
 
-Thanks to Wizards of the Coast, the Open Source Initiative, and Creative Commons for their work in creating the framework behind Open Source (and in this case Open Game) licenses. You should be aware that the *QuestWorlds* Open Game License for use of the *QuestWorlds* system differs from the Wizards Open Game License and has 
+Thanks to Wizards of the Coast, the Open Source Initiative, and Creative Commons for their work in creating the framework behind Open Source (and in this case Open Game) licenses. You should be aware that the *QuestWorlds* Open Game License for use of the *QuestWorlds* system differs from the Wizards Open Game License and has
 different terms and conditions.
 
 ### 0.1.1 Using This License
@@ -31,8 +31,7 @@ All Rights Reserved.
 
 (d) “Open Game Content” means the *QuestWorlds* game, including the game mechanics and the methods, procedures, processes, and routines to the extent such content does not embody Prohibited Content and is an enhancement over the prior art and any additional content clearly identified as Open Game Content by the Contributor, and means any work covered by this License, including translations and derivative works under copyright law, but specifically excludes Prohibited Content;
 
-(e) The following items are hereby identified as “Prohibited Content”: All trademarks, registered trademarks, proper names (characters, deities, place names, etc.), plots, story elements, locations, characters, artwork, or trade dress from any of the following: any releases from the product lines of *Call of Cthulhu*, *Dragon Lords of Melniboné*, *ElfQuest*, *Elric\!*, *Hawkmoon*, *HeroQuest*, *Hero Wars*, *King Arthur Pendragon*, *Magic World*, *Nephilim*, *Prince Valiant*, *Ringworld*, *RuneQuest*, *7th Sea*, *Stormbringer*, *Superworld*, *Thieves’ World*, *Worlds of Wonder*, and any related sublines; the world and mythology of Glorantha; all works related to the Cthulhu Mythos, including those that are otherwise public domain; and all works related to *Le Morte d’Arthur*. This list may be updated
-in future versions of the License.
+(e) The following items are hereby identified as “Prohibited Content”: All trademarks, registered trademarks, proper names (characters, deities, place names, etc.), plots, story elements, locations, characters, artwork, or trade dress from any of the following: any releases from the product lines of *Call of Cthulhu*, *Dragon Lords of Melniboné*, *ElfQuest*, *Elric\!*, *Hawkmoon*, *HeroQuest*, *Hero Wars*, *King Arthur Pendragon*, *Magic World*, *Nephilim*, *Prince Valiant*, *Ringworld*, *RuneQuest*, *7th Sea*, *Stormbringer*, *Superworld*, *Thieves’ World*, *Worlds of Wonder*, and any related sublines; the world and mythology of Glorantha; all works related to the Cthulhu Mythos, including those that are otherwise public domain; and all works related to *Le Morte d’Arthur*. This list may be updated in future versions of the License.
 
 (f) “Trademark” means the logos, names, marks, signs, mottos, and designs that are used by a Contributor to identify itself or its products or the associated products contributed to the *QuestWorlds* Open Game License by the Contributor;
 
@@ -56,9 +55,7 @@ This work created using the *QuestWorlds* Open Game License.
 
 *QuestWorlds* Open Game License v 1.0 © copyright 2020 Moon Design Publications LLC.
 
-*QuestWorlds* © copyright xxxx–2020 Moon Design Publications LLC; Author, original rules: Robin D. Laws; developed by Greg Stafford, Ian Cooper, David Dunham, Mark Galeotti, Stephen Martin, Jeff Richard, Neil Robinson, Roderick Robinson, David Scott, and Lawrence Whitaker.
-
-Chained Contests and Plot Edits from *Mythic Russia* © copyright 2006, 2010 Mark Galeotti; developed by Graham Robinson (for “Chained Contests”) and added as Open Game Content here with permission.
+*QuestWorlds* © copyright 2019–2020 Moon Design Publications LLC; Author, original rules: Robin D. Laws; developed by Greg Stafford, Ian Cooper, David Dunham, Mark Galeotti, Stephen Martin, Jeff Richard, Neil Robinson, Roderick Robinson, David Scott, and Lawrence Whitaker.
 
 QuestWorlds and the QuestWorlds logo are trademarks of Moon Design Publications LLC. Used with permission.
 
@@ -75,7 +72,7 @@ except as expressly licensed in another, independent Agreement with the owner of
 
 13. Inability to Comply: If it is impossible for You to comply with any of the terms of this License with respect to some or all of the *QuestWorlds* Open Game Content due to statute, judicial order, or governmental regulation then You may not Use any Open Game Material so affected.
 
-14\. Termination: This License will terminate automatically if You fail to comply with all terms herein and fail to cure such breach within thirty (30) days of becoming aware of the breach.
+14. Termination: This License will terminate automatically if You fail to comply with all terms herein and fail to cure such breach within thirty (30) days of becoming aware of the breach.
 
 15. Labeling: You must prominently display one of the following *QuestWorlds* logos on the front and back exterior and in the interior package, on the title page or its equivalent, of your Use of the Open Content. You are granted permission to reproduce the logo only for that purpose.
 
@@ -85,6 +82,7 @@ except as expressly licensed in another, independent Agreement with the owner of
 
 17. Governing Law and Venue: The governing law for any disputes arising under this License shall be the laws of the State of Michigan, without reference to its choice of laws provisions. Venue is exclusively vested in the United States Federal District Court for the Eastern District of Michigan.
 
+
 ## 0.2 Credits
 
 Original Rules: Robin D. Laws
@@ -93,9 +91,13 @@ Further Development: Greg Stafford, Ian Cooper, David Dunham, Mark Galeotti, Ste
 
 Additional Contributions: Shannon Appelcline, Simon Bray, David Cake, Dave Camoirano, Melissa Camoirano, John Carnahan, Charles Corrigan, David Dunham, Alex Ferguson, James Frusetta, Phil Hibbs, Simon D. Hibbs, Jeff Kyer, Martin Laurie, Mark Leymaster, Julian Lord, Rick Meints, Peter Metcalfe, Peter Nordstrand, Wesley Quadros, Mikael Raaterova, Jamie Revell, Graham Robinson, Jonas Schiött, Gary Sturgess, Ian Thomson, Nils Weinander
 
+Chained Contests and Plot Edits from *Mythic Russia* © copyright 2006, 2010 Mark Galeotti; developed by Graham Robinson (for “Chained Contests”) and added as Open Game Content here with permission.
+
+Some material in *Section 1, Introduction* and *Section 2, Basic Mechanics* © copyright 2018 Jonathan Laufersweiler and added as Open Game Content here with permission.
+
 Development of this version: Ian Cooper
 
-Development Assistance for this version: Jonathan Laufersweiler, James Lowder, Michael O’Brien, Jeff Richard
+Development Assistance for this version: Jonathan Laufersweiler, James Lowder, Michael O’Brien, Jeff Richard, David Scott
 
 Proofreading of this version: Martin Helsdon
 
@@ -129,10 +131,9 @@ The third version *HeroQuest*: Core Rules was published in 2009 (ISBN 978-0-9777
 
 *HeroQuest Glorantha* was published in 2015 (ISBN 978-1-943223-01-5). It is the version of the rules in *HeroQuest* 2e, presented for playing in Glorantha. We refer to this as *HeroQuest* 2.1e.
 
-*QuestWorlds* was published as a System Reference Document (SRD) (this document) in 2019. The version of the rules here is slightly updated, mainly to clarify ambiguities, from the version presented in *HeroQuest* 2e and *HeroQuest* 2.1e. This makes this ruleset *HeroQuest* 2.2e, despite the name change. However, to simplify we identify this version as *QuestWorlds* 1e.
+*QuestWorlds* was published as a System Reference Document (SRD) (this document) in 2020. The version of the rules here is slightly updated, mainly to clarify ambiguities, from the version presented in *HeroQuest* 2e and *HeroQuest* 2.1e. This makes this ruleset *HeroQuest* 2.2e, despite the name change. However, to simplify we identify this version as *QuestWorlds* 1e.
 
 An Appendix lists changes in this version. As the SRD is updated we will continue to track version changes there.
-
 ## 1.3 Basic & Advanced Mechanics
 
 As the *QuestWorlds* engine is oriented towards rules-light play, we designate some mechanics as "Basic" and others as "Advanced."
@@ -353,7 +354,7 @@ In other words, in *QuestWorlds* your GM will pick a **resistance** based on dra
   
 By default, the **base resistance** starts at 14.
 
-It is often easier to remember that resistances follow the usual range of incrementing by 3: +3, +6, +9, and then incrementing by masteries etc. Similarly resistances decrement by 3: -3, -6, -9 and then decrement by masteries with a floor of -6.
+It is often easier to remember that resistances follow the usual range of incrementing by 3: +3, +6, +9, and then incrementing by masteries etc. than remember the resistance names. Similarly resistances decrement by 3: -3, -6, -9 and then decrement by masteries with a floor of -6.
 
 All **contests** use the base number + **resistance class**, except for **contests** to determine **augments**.
 
@@ -1120,7 +1121,7 @@ There are three types of **long contest**. Your GM should choose one to use with
 
 ## 5.1 Scored Contest
 
-**Scored contests** are longer and more dramatic than **simple contests**. Your GM uses **scored contests** when the **outcome** of the struggle is important, to generate suspense for you, or when your GM want a back-and-forth struggle. It is something you and your GM should visualize and describe. 
+**Scored contests** are longer and more dramatic than **simple contests**. Your GM uses **scored contests** when the **outcome** of the struggle is important, to generate suspense for you, or when your GM want a back-and-forth struggle. It is something you and your GM should visualize and describe.
 
 A **scored contest** consists of one or more **rounds**, in which you perform actions that are similar to **simple contests**. However, actions and **rounds** do not decide the **outcome** of the whole **contest**, only who gains or loses **resolution points** at that time. In a **scored contest** there is no distinction between aggressor and defender, each **round** represents attempts by both parties to overcome their opponent. Your GM should determine who has the initiative to describe what they are doing for any **exchange**, based on their interpretation of the flow of events. If in doubt your GM should defer to you over your opponent to describe what you do in the **round**, and describe the NPC reacting to that.
 
@@ -1132,7 +1133,7 @@ A **scored contest** consists of one or more **rounds**, in which you perform ac
 4. Carry out one or more **rounds**, repeating as necessary.
     1. A **scored contest** unfolds as a series of **simple contests**. At the end of each **simple contest**, the winner scores a number of **resolution points (RPs)** to their tally, which varies between 1 and 5, depending on the **result**. Tied **results** leave the score unchanged.
     2. Your GM decides which opponent has the initiative and describes what they are trying to do to achieve the **prize**, the 'aggressor'. The 'defender' describes how they counter the aggressor's attempt to seize the **prize**. If it is not obvious from the unfolding narrative, your GM should choose your PC as the 'aggressor'.
-    3. Conduct a **simple contest** as normal, but once the **outcome** has been determined, it becomes a number of **resolution points** scored by the winning side. 
+    3. Conduct a **simple contest** as normal, but once the **outcome** has been determined, it becomes a number of **resolution points** scored by the winning side.
     4. The number of **resolution points** the winner garners at the end of each **round** depends on the **degree of victory** they scored. They get 1 point for a **marginal victory**, 2 for a **minor victory**, 3 for a **major victory**, and 5 for a **complete victory**.
     5. The first to accumulate a total of 5 points wins; their opponent is knocked out of the **contest** and loses the **prize**.
 5. Determine the **scored contest outcome** based on **rising action** or **climax** (below).
@@ -1162,7 +1163,7 @@ In interpreting the individual **simple contests** within a **scored contest**, 
 1. No consequence is certain until the entire **scored contest** is over.
 2. When a character scores points, it can reflect any positive change in fortunes, not just the most obvious one.
 
-#### 5.1.1.1 Resource Point Table
+#### 5.1.1.1 RESOURCE POINT TABLE
 
 |               |Critical       |Success        |Failure        |Fumble         |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
@@ -1255,7 +1256,6 @@ You can always abandon a **contest**, but, in addition to failing at the **story
 To disengage, you make an **asymmetrical round**, using the **ability** relevant to the **contest** you’re trying to wriggle out of.
 
 If you fail, your effort is wasted and the score against you increases, as it would have during a normal **round**. If you succeed, you escape the clutches, literal or metaphorical, of your opponent, without further harm from a **contest** during the **rising action**. In a **climactic** scene, however, **RPs** scored during **contests** you disengaged from are still taken into account when determining **consequences**. In the case of a **group contest**, **consequences** against you are determined as soon as you disengage.
-
 ## 5.2 Group Scored Contest
 
 **Group scored contests** proceed as a series of **scored contests** between pairs of PC and opponents, interwoven so that they happen nearly simultaneously.
@@ -1388,7 +1388,7 @@ An **extended contest** consists of one or more **rounds**, in which you perform
 |Success             |Loser transfers 1x bid**|Worse roll loses ½x bid, else tie|Loser loses 1x bid|Loser loses 2x bid**|
 |Failure             |Loser transfers 2x bid**|Loser loses 1x bid|Worse roll loses ½x bid, else tie|Loser loses 1x bid**|
 |Failure             |Loser transfers 3x bid**|Loser loses 2x bid|Loser loses 1x bid**| Tie*|
-  
+
 * In a **group extended contest**, the GM may declare that both contestants lose 1⁄2x **bid** to indicate that, although their results cancel out with respect to each other, their situation worsens compared to other contestants.
 ** If the loser has **ability** 6 less than their opponent or worse, do not transfer, loser just loses AP instead.
 
@@ -1424,7 +1424,7 @@ At the end of the contest the **APs** of the loser determine the **benefits** fo
 |–11 to –20 AP  |Minor          |Impaired             |Pumped            |
 |–21 to –30 AP  |Major          |Injured              |Invigorated       |
 |–31 or fewer AP|Complete       |Dying                |Heroic            |
-  
+
 ### 5.3.3 Group Extended Contests
 
 When an **extended contest** involves three or more contestants, it is a **group extended contest**. The conflict is often between two groups; each side wants to knock the other out of the contest by reducing all of its opponents to 0 or fewer **APs**.
@@ -1457,7 +1457,7 @@ If the PCs won, determine the group's overall **outcome** by using the second-be
 
 *Later you lead your men in a spirited defense against a French boarding action of your ship. However, the French win the day, with Lieutenant Jackson and the other PCs suffering **defeat** **outcomes** at the end of the **contest**. Looking at your PCs **outcomes** there is a **major defeat**, two **minor defeats** and a **marginal defeat**. The French win the day with a **minor defeat** for your Royal Navy crew.*
 
-To determine individual **consequences** or **benefits**, use the **AP** of last opponent you engaged to determine your individual **outcome**. 
+To determine individual **consequences** or **benefits**, use the **AP** of last opponent you engaged to determine your individual **outcome**.
 
 ### 5.3.4 Parting Shot
 
@@ -1522,7 +1522,7 @@ On any **victory**, you are able to leave the **contest**. On any **defeat**, yo
 
 If you withdraw from a **group extended contest** and later decide to rejoin it (or are forced to), you rejoin with the **advantage point** total you had when you left. If you can show how your leaving and returning substantially changes the situation, the GM may restore some of your **AP**—for example, if you leave a street fight to get your **followers** from a nearby tavern. Leaving a **contest** just to pick up a weapon or catch your breath is an **unrelated action**, and does not change your **advantage points**.
 
-### AP TRANSFER FRON FAILED DISENGAGEMENT
+#### 5.3.10.1 AP TRANSFER FROM FAILED DISENGAGEMENT TABLE
 
 |Level of Defeat|AP transferred           |
 |:-------------:|:-----------------------:|
@@ -1531,7 +1531,7 @@ If you withdraw from a **group extended contest** and later decide to rejoin it 
 |Major          |1/2 of your current total|
 |Complete       |Your current total - 1   |
 
-### 5.3.10 AP Lending
+### 5.3.11 AP Lending
 
 **AP lending** is a common and important option in **extended contests**. You can transfer some or all of your **advantage points** to another PC engaged in a **group extended contest** on your side. With more **advantage points**, they can stay in the **contest** for longer, or make larger **bids** without driving themselves to **defeat**.
 
@@ -1541,7 +1541,7 @@ If a **follower’s AP** are already included in your **AP** total, the **follow
 
 Use an **unrelated action** and describe what your character is trying to do to improve the position of the target. For example, your PC might throw them a weapon, jeer at an opponent, or simply shout words of encouragement. Then, state the number of **AP** you are trying to **lend**. (The GM may suggest a higher or lower **bid** based on the action you describe.) This determines the **resistance** you face in a **simple contest**, with **outcomes** as determined below. Beware: PCs trying to aid their comrades in this way risk worsening their friend’s position.
 
-### AP LENDING
+#### 5.3.11.1 AP LENDING TABLE
 
 |Outcome               |AP Transferred                                                  |
 |:--------------------:|:--------------------------------------------------------------:|
@@ -1553,11 +1553,11 @@ Use an **unrelated action** and describe what your character is trying to do to 
 |Minor or Major Defeat |Target gains nothing; lender loses the attempted AP             |
 |Complete              |Target and lender each deduct the attempted AP from their totals|
 
-### 5.3.11 AP Gifting
+### 5.3.12 AP Gifting
 
 If you are uninvolved in the contest you can also increase a participant’s **AP** total. You **bid** a number of **APs** which may not exceed your **target number**. The **resistance** is twice the **bid**. The amount transferred depend on the **outcome**.
 
-### AP GIFTING
+#### 5.3.12.1 AP GIFTING TABLE
 
 |Outcome               |AP Transferred                    |
 |:--------------------:|:--------------------------------:|
@@ -1569,14 +1569,13 @@ If you are uninvolved in the contest you can also increase a participant’s **A
 |Minor or Major Defeat |Recipient’s opponent gains bid    |
 |Complete              |Recipient’s opponent gains 2x bids|
 
-### 5.3.12 Edges and Handicaps
+### 5.3.13 Edges and Handicaps
 
-Your GM may want rules to represent opponents who strike rarely but with great effect or who strike often but with little impact per blow. The first quality can be represented with an **edge**; the second, with a **handicap**. **Edges** and **handicaps** are designated using ^ (^5, for example), **handicaps** with a minus sign (–^5). 
+Your GM may want rules to represent opponents who strike rarely but with great effect or who strike often but with little impact per blow. The first quality can be represented with an **edge**; the second, with a **handicap**. **Edges** and **handicaps** are designated using ^ (^5, for example), **handicaps** with a minus sign (–^5).
 
 **Edges** and **handicaps** affect only the **advantage points bid** in an **extended contest**. Your **edge** is added to your **AP bid** when your opponent must **lose** or **transfer APs**. Your **handicap** is subtracted from your bid when your opponent **loses** or **transfers APs**. A contestant’s **edge** or **handicap** never affects his **AP** when he defends, only when he is attacking.
 
 Most GMs find **edges** and **handicaps** more trouble than they’re worth, and depict these phenomena with description alone. Earlier books made more extensive use of **edges** and **handicaps** to represent the quality of equipment carried by the PCs. For example, your suit for chainmail might be ^4 and your sword ^3. In games where restricted access to equipment is a significant part of the setting and your GM wants to use extended contests it may make sense to use them, otherwise we recommend ignoring them.
-
 ## 5.4 Chained Contest
 
 **Chained contests** do not defer **consequences** to the end of the **contest**, instead your GM applies the **consequences of defeat** to the loser in the **contest** immediately following a **round**. This leads to a grittier feel to the **contest**, but at the price of a death spiral: once you lose the **consequences of defeat** make it likelier that you will lose again.
@@ -1591,7 +1590,7 @@ If you, or your GM, wishes to **disengage**, then on any **victory** you leave t
 
 **Chained contests** are symmetric, in that they indicate the **outcome** for the loser, and as this is applied in steps, give the GM no freedom to interpret the **outcome** for the loser when narrating.
 
-### 5.4.1 CHAINED CONTEST TABLE
+#### 5.4.1 CHAINED CONTEST TABLE
 
 |Roll           |Critical       |Success        |Failure        |Fumble                       |
 |:-------------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
@@ -1602,7 +1601,7 @@ If you, or your GM, wishes to **disengage**, then on any **victory** you leave t
 
 ### 5.4.1 Group Chained Contest
 
-In a **group chained contest** opponents pair off and fight a series of **chained contest** **rounds** with each other. 
+In a **group chained contest** opponents pair off and fight a series of **chained contest** **rounds** with each other.
 
 Your GM should determine the order of action, but as all rounds represent actions by both aggressor and defender there is no advantage to be obtained by going first. If there are surplus characters on your side, you may engage an already engaged opponent in a second **contest**; your GM may choose to apply a **penalty** to them as they are already engaged with one opponent. Alternatively you may choose to **augment** an existing player character, reflecting aiding them in their fight instead.
 
@@ -1620,10 +1619,9 @@ Individual **consequences** or **benefits** will have already been determined by
 
 ### 5.4.3 Followers in a Chained Contest
 
-**Followers** may augment your character in a **chained contest**. 
+**Followers** may augment your character in a **chained contest**.
 
 In addition, if you suffer a defeat in a round of a **chained contest** you may transfer that **outcome** to a follower, but they suffer a **state of adversity** one level worse than you would do, so marginal becomes minor etc., and the **follower** is removed from the **contest**.
-
 ## 5.5 No Nesting
 
 Your GM should never “nest” one **long contest** inside another. If a **long contest** is in progress and you want to perform an action your GM should treat it as an **unrelated action**, or disallow it completely during the current **contest**.
@@ -1758,11 +1756,11 @@ Unspent **HPs** at the end of the session become **experience points (XPs)** and
 
 When you accumulate 10 **XPs**, you can buy an advance. An advance allows you to select two of the following. You cannot choose an element more than once.
 
-- [] +9 to a standalone **ability** or breakout **ability**; or +6 to a **keyword**.
-- [] +6 to a standalone **ability** or breakout **ability**; or +3 to a **keyword**.
-- [] a new standalone **ability** at 13; or a new breakout **ability** at + 1.
-- [] a new standalone **ability** at 13.
-- [] Turn a stand-alone **ability** into a **keyword** by adding a new +1 breakout **ability** to it.
+- +9 to a standalone **ability** or breakout **ability**; or +6 to a **keyword**.
+- +6 to a standalone **ability** or breakout **ability**; or +3 to a **keyword**.
+- a new standalone **ability** at 13; or a new breakout **ability** at + 1.
+- a new standalone **ability** at 13.
+- Turn a stand-alone **ability** into a **keyword** by adding a new +1 breakout **ability** to it.
 
 In some genres you may wish to maintain a tally of the total **XPs** earned as a measure of your reputation.
 
@@ -1779,12 +1777,11 @@ On occasion your GM may increase one of your **abilities**, by +3, +6 or +9, or 
 **Directed improvements** are usually rewards for overcoming particularly important or dramatic **story obstacles**. They happen immediately, rather than at session’s end.
 
 Your GM will tend to use them to raise **abilities** that would otherwise fall behind, but should increase due to story logic, or introduce new **abilities** for the same reason.
-
 ## 7.2 Advanced Hero Points
 
 An advanced option for **hero points** allow greater player authorship in the game.
 
-## 7.3 Plot Edits
+### 7.2.1 Plot Edits
 
 *QuestWorlds* is a co-operative game, and you may create details about the setting as the normal part of narration. Your GM should allow this, as long as they do not break credibility. So, you may describe your PC walking over to the pot of soup bubbling on the fire, swiping a drink from the tray the waiter is carrying at the governor's ball, or taking the monorail to the next city to continue your investigation. Your GM should allow these additions without interruption, providing it does not confer significant advantage to your PC. Mostly this will be using elements that have already been established as part of the setting.
 
@@ -1798,7 +1795,7 @@ Your GM is the arbitrator of whether a **plot edit** is allowed. It should not s
 
 The cost, in **hero points**, of a **plot edit**, is given by the following table.
 
-### 7.3.1 PLOT EDIT TABLE
+#### 7.2.1.1 PLOT EDIT TABLE
 
 |Level                    |Cost |Impact                   |Example                  |
 |:-----------------------:|:---:|:-----------------------:|:-----------------------:|
@@ -1806,7 +1803,6 @@ The cost, in **hero points**, of a **plot edit**, is given by the following tabl
 |Moderate     |2|A substantive change that does not alter the situation but offers an alternate avenue for resolution|The gate guard at the secret government facility tonight is an old war buddy established by the PC in a prior scene and cemented as a relationship|
 |Major|3|A substantive change that does not flow from previously established facts in the story. A *deus ex machina* change|The XO of the Patrol ship is an old drinking buddy of your PC, a fact not previously established in play|
 |Extreme|5|A stroke of good fortune that is unrelated to prior events and resolves a conflict or reveals a secret|The vampire has failed to notice the approaching sun rise, which disintegrates them just as they are about to drain the incapacitated PC|
-
 # 8.0 (Advanced) Community Resources and Support
 
 Some series revolve around the relationship between a band of influential figures and the community they protect. In defense of the community, they can **bolster**, expend, and juggle its various **resources**.
@@ -1861,7 +1857,7 @@ When PC activity reduces a **penalty** but does not eliminate it, your GM will a
 
 #### 8.1.4.1 RESOURCE NOTATION TABLE
 
-|Total  |PC    |Total |PC     |Total |PC     |Total |PC     |Total |PC    |
+|Total  |PC    |Total |PC     |Total |PC     |Total |PC     |Total |PC     |
 |------|-------|------|-------|------|-------|------|-------|------|-------|
 |      |       |      |       |      |       |      |       |      |       |
 
@@ -1883,7 +1879,7 @@ Like other **modifiers** to **resources**, depletion **penalties** end at the en
 
 If your GM wants resource depletion to lead to longer-lasting social **penalties**, at the cost of some extra bookkeeping, they can have the characters shed a 3-point **penalty** at the end of each interval.
 
-### 8.2.1 RESOURCE DEPLETION TABLE
+#### 8.2.1 RESOURCE DEPLETION TABLE
 
 |Contest Outcome|Depletion Penalty    |
 |:---------------:|:-----------------:|
@@ -1895,7 +1891,7 @@ If your GM wants resource depletion to lead to longer-lasting social **penalties
 |Minor Defeat     |-6                 |
 |Major Defeat     |-6                 |
 |Complete Defeat  |-9                 |
-  
+
 ### 8.2.2 Required Resource Use
 
 As part of your GM's setting design, they may specify that certain actions in a setting always require the use of a community **resource**. Because the **resource** use is obligatory, it need not meet the usual criteria for entertainment value. Also, when the resource is used as an **augment**, you can also add a second **augment** from some other **ability**, adjudicated according to the standard rules, including entertainment value criteria. (This way, the required **resource** use doesn’t penalize you by forcing you to **augment** with a low-rated **resource** when you could otherwise use a higher-rated **ability**.)
@@ -1920,7 +1916,7 @@ At the beginning of each interval, one of your group should perform a **simple c
 
 The **outcome** of the **contest** may apply a **modifier** to a **resource**, as per the following table:
 
-### 8.2.6 RESOURCE FLUCTUATION TABLE
+#### 8.2.6 RESOURCE FLUCTUATION TABLE
 
 |Outcome          |Depletion Penalty  |
 |:---------------:|:-----------------:|
@@ -1952,7 +1948,6 @@ Your GM will call for **crisis tests** only as needed, as a tool to generate sto
 **Bonuses** from **background events** are temporary, unless you take steps to **cement your benefits**. Doing so requires you to overcome a major **story obstacle**, perhaps taking focus for an evening’s worth of play. If you succeed, the **background event bonus** may, as per the next section, later solidify into a permanent increase in the **resource’s rating**.
 
 When you **cement a background bonus**, your GM changes their notation of that **bonus**.
-
 ## 8.3 Changes to Resource Ratings
 
 At the end of your GM's chosen interval, they review the Resource Notation Table.
@@ -2177,17 +2172,16 @@ Your GM may decide that certain remarkable triumphs or horrifying catastrophes m
 
 ### Version 2.2
 
-* Uses of he/she changed to they/their
-* Flagged some rules that are not required, as optional to allow those using the SRD to safely omit them if not required.
+These are the major changes in this version of the rules
+
 * Clarified that contest results are only reciprocal between PCs. When the contest is against a resistance set by the GM, the results indicate whether the PC gains the prize, and the GM narrates the result for the resistance based on this.
 * Rephrased the contest results to emphasize: Yes, No, And..., But..., This change is designed to dissuade GMs from misunderstanding that the prize is obtained on a marginal victory, one of the most common result types, and instead encourage GMs to allow PCs to fail forward on such a result by introducing downstream complications.
 * Provided clarity that consequences of defeat and benefit of victory are optional and the GM should focus on using the prize to narrate the outcome of a contest, only applying mechanical benefits if they make sense. 
 * Specific Ability Bonuses are dropped. They were hard for the GM to adjudicate and the same intent is better served by using a stretch on a broad ability when contesting against a PC with a more specific ability.
 * A winning group in a Group Simple Contest does not suffer a Consequence of Defeat as a result of a low RP difference victory any more, the GM should narrate consequences from the level of victory, if appropriate.
-* Dropped the negative consequences for the winner in an Extended Contest during the Rising Action. If the winner is a PC the degree of success already suggests consequences in addition to the prize on a marginal victory. So this rule is over-complication.
+* Dropped the negative consequences for the winner in an Extended Contest during the Rising Action. If the winner is a PC the degree of success already suggests consequences in addition to the prize on a marginal victory. So this rule is an over-complication.
 * Made it clear that only a PC should use a parting shot, not the resistance.
-* Switched to addressing you the player, using your GM for the Games Master, and we for the game authors
-* Long contests include both extended contest and scored contests. Between 1 and 2 extended contests switched to scored contests, this approach restores both variants, but requires changing the generic name to a long contest.
+* Long contests include both extended contest and scored contests. Between version 1 and version 2 extended contests switched to scored contests, this approach restores both variants, but requires changing the generic name to a long contest.
 * Dropped edges and handicaps from extended contests - we use a resistance not stats, so makes no sense to have edges and handicaps
 * Added alternate mechanisms for determining if resistance advances and when
 * Added story-based resistance mechanics
@@ -2200,5 +2194,5 @@ Your GM may decide that certain remarkable triumphs or horrifying catastrophes m
 * Simplified how multiple opponents are handled
 * Clarified contest outcomes for long contests, and how to determine the overall winner in a long contest
 * Do not allow transfers in an extended contest where the abilities differ by 6 or more. Consistent with benefits of victory and prevents 'loading up on mooks' as a strategy.
-* Added new resistance classes to preserve the +3, +6, +9 model used elsewhere. Some classes will now have a different value from those that appeared in prior versions.
+* Added new resistance classes to preserve the +3, +6, +9 model used elsewhere. Some classes will now have a different value from those that appeared in prior versions. You should be aware of this when interpreting resistance suggestions in older texts.
 
