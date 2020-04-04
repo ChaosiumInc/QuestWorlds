@@ -10,6 +10,10 @@ Internally, we use [PanDoc](https://pandoc.org/index.html) for conversion betwee
 
 For the Markdown files, we use a convention that everything under a 2nd level heading (##) is a new file. This level of granularity makes it easy for us to see differences when new versions are submitted via a Pull Request.
 
+### Significant Whitespace
+
+Because we use separate files, but when producing the System Reference Document, join them together, the whitespace at the end of a file is significant. There should be two blank lines at the end of each file. Deleting this whitespace will mean that when the files are merged, headings will be lost.
+
 ## PanDoc and LaTeX
 
 To generate output formats from the Markdown, you would want to install [PanDoc](https://pandoc.org/installing.html). To create PDFs you will need to follow the instructions to install LaTeX on your computer as well.

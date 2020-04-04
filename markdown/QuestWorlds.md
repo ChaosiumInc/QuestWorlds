@@ -1576,6 +1576,7 @@ Your GM may want rules to represent opponents who strike rarely but with great e
 **Edges** and **handicaps** affect only the **advantage points bid** in an **extended contest**. Your **edge** is added to your **AP bid** when your opponent must **lose** or **transfer APs**. Your **handicap** is subtracted from your bid when your opponent **loses** or **transfers APs**. A contestant’s **edge** or **handicap** never affects his **AP** when he defends, only when he is attacking.
 
 Most GMs find **edges** and **handicaps** more trouble than they’re worth, and depict these phenomena with description alone. Earlier books made more extensive use of **edges** and **handicaps** to represent the quality of equipment carried by the PCs. For example, your suit for chainmail might be ^4 and your sword ^3. In games where restricted access to equipment is a significant part of the setting and your GM wants to use extended contests it may make sense to use them, otherwise we recommend ignoring them.
+
 ## 5.4 Chained Contest
 
 **Chained contests** do not defer **consequences** to the end of the **contest**, instead your GM applies the **consequences of defeat** to the loser in the **contest** immediately following a **round**. This leads to a grittier feel to the **contest**, but at the price of a death spiral: once you lose the **consequences of defeat** make it likelier that you will lose again.
@@ -1622,6 +1623,7 @@ Individual **consequences** or **benefits** will have already been determined by
 **Followers** may augment your character in a **chained contest**.
 
 In addition, if you suffer a defeat in a round of a **chained contest** you may transfer that **outcome** to a follower, but they suffer a **state of adversity** one level worse than you would do, so marginal becomes minor etc., and the **follower** is removed from the **contest**.
+
 ## 5.5 No Nesting
 
 Your GM should never “nest” one **long contest** inside another. If a **long contest** is in progress and you want to perform an action your GM should treat it as an **unrelated action**, or disallow it completely during the current **contest**.
@@ -1948,6 +1950,7 @@ Your GM will call for **crisis tests** only as needed, as a tool to generate sto
 **Bonuses** from **background events** are temporary, unless you take steps to **cement your benefits**. Doing so requires you to overcome a major **story obstacle**, perhaps taking focus for an evening’s worth of play. If you succeed, the **background event bonus** may, as per the next section, later solidify into a permanent increase in the **resource’s rating**.
 
 When you **cement a background bonus**, your GM changes their notation of that **bonus**.
+
 ## 8.3 Changes to Resource Ratings
 
 At the end of your GM's chosen interval, they review the Resource Notation Table.
