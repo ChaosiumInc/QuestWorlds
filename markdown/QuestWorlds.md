@@ -43,7 +43,7 @@ All Rights Reserved.
 
 3. The License: This License applies to any work Using *QuestWorlds* Open Game Content published by Moon Design. You must affix a complete copy of this License to any *QuestWorlds* Open Game Content that You Use and include the Copyright Notice detailed in Section 7 in all appropriate locations. No terms may be added to or subtracted from this License except as described by the License itself. No other terms or conditions may be applied to any *QuestWorlds* Open Game Content distributed Using this License.
 
-4. Offer and Acceptance: By Using the *QuestWorlds* Open Game Content You indicate Your acceptance of the terms of the *QuestWorlds Open Game License*.
+4. Offer and Acceptance: By Using the *QuestWorlds* Open Game Content You indicate Your acceptance of the terms of the *QuestWorlds* Open Game License.
 
 5. Grant of License: Subject to the terms and conditions of this License, the Contributors grant You a perpetual, worldwide, royalty-free, non-exclusive license to Use the Open Game Content.
 
