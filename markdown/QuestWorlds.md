@@ -57,7 +57,7 @@ This work created using the *QuestWorlds* Open Game License.
 
 *QuestWorlds* © copyright 2019–2020 Moon Design Publications LLC; Author, original rules: Robin D. Laws; developed by Greg Stafford, Ian Cooper, David Dunham, Mark Galeotti, Stephen Martin, Jeff Richard, Neil Robinson, Roderick Robinson, David Scott, and Lawrence Whitaker.
 
-QuestWorlds and the QuestWorlds logo are trademarks of Moon Design Publications LLC. Used with permission.
+QuestWorlds is a trademark of Moon Design Publications LLC. Used with permission.
 
 8. Limitations on Grant: You agree not to Use any Prohibited Content, except as expressly licensed in another, independent Agreement with Moon Design. You agree not to indicate compatibility or co-adaptability with any Trademark or Registered Trademark in conjunction with a work containing *QuestWorlds* Open Game Content
 except as expressly licensed in another, independent Agreement with the owner of such Trademark or Registered Trademark.
