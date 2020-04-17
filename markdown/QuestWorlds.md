@@ -1258,6 +1258,7 @@ You can always abandon a **contest**, but, in addition to failing at the **story
 To disengage, you make an **asymmetrical round**, using the **ability** relevant to the **contest** you’re trying to wriggle out of.
 
 If you fail, your effort is wasted and the score against you increases, as it would have during a normal **round**. If you succeed, you escape the clutches, literal or metaphorical, of your opponent, without further harm from a **contest** during the **rising action**. In a **climactic** scene, however, **RPs** scored during **contests** you disengaged from are still taken into account when determining **consequences**. In the case of a **group contest**, **consequences** against you are determined as soon as you disengage.
+
 ## 5.2 Group Scored Contest
 
 **Group scored contests** proceed as a series of **scored contests** between pairs of PC and opponents, interwoven so that they happen nearly simultaneously.
