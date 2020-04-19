@@ -43,7 +43,7 @@ All Rights Reserved.
 
 3. The License: This License applies to any work Using *QuestWorlds* Open Game Content published by Moon Design. You must affix a complete copy of this License to any *QuestWorlds* Open Game Content that You Use and include the Copyright Notice detailed in Section 7 in all appropriate locations. No terms may be added to or subtracted from this License except as described by the License itself. No other terms or conditions may be applied to any *QuestWorlds* Open Game Content distributed Using this License.
 
-4. Offer and Acceptance: By Using the *QuestWorlds* Open Game Content You indicate Your acceptance of the terms of the *QuestWorlds Open Game License*.
+4. Offer and Acceptance: By Using the *QuestWorlds* Open Game Content You indicate Your acceptance of the terms of the *QuestWorlds* Open Game License.
 
 5. Grant of License: Subject to the terms and conditions of this License, the Contributors grant You a perpetual, worldwide, royalty-free, non-exclusive license to Use the Open Game Content.
 
@@ -57,7 +57,7 @@ This work created using the *QuestWorlds* Open Game License.
 
 *QuestWorlds* © copyright 2019–2020 Moon Design Publications LLC; Author, original rules: Robin D. Laws; developed by Greg Stafford, Ian Cooper, David Dunham, Mark Galeotti, Stephen Martin, Jeff Richard, Neil Robinson, Roderick Robinson, David Scott, and Lawrence Whitaker.
 
-QuestWorlds and the QuestWorlds logo are trademarks of Moon Design Publications LLC. Used with permission.
+QuestWorlds is a trademark of Moon Design Publications LLC. Used with permission.
 
 8. Limitations on Grant: You agree not to Use any Prohibited Content, except as expressly licensed in another, independent Agreement with Moon Design. You agree not to indicate compatibility or co-adaptability with any Trademark or Registered Trademark in conjunction with a work containing *QuestWorlds* Open Game Content
 except as expressly licensed in another, independent Agreement with the owner of such Trademark or Registered Trademark.
@@ -1258,6 +1258,7 @@ You can always abandon a **contest**, but, in addition to failing at the **story
 To disengage, you make an **asymmetrical round**, using the **ability** relevant to the **contest** you’re trying to wriggle out of.
 
 If you fail, your effort is wasted and the score against you increases, as it would have during a normal **round**. If you succeed, you escape the clutches, literal or metaphorical, of your opponent, without further harm from a **contest** during the **rising action**. In a **climactic** scene, however, **RPs** scored during **contests** you disengaged from are still taken into account when determining **consequences**. In the case of a **group contest**, **consequences** against you are determined as soon as you disengage.
+
 ## 5.2 Group Scored Contest
 
 **Group scored contests** proceed as a series of **scored contests** between pairs of PC and opponents, interwoven so that they happen nearly simultaneously.
