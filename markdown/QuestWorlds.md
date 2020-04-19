@@ -76,7 +76,7 @@ except as expressly licensed in another, independent Agreement with the owner of
 
 15. Labeling: You must prominently display one of the following *QuestWorlds* logos on the front and back exterior and in the interior package, on the title page or its equivalent, of your Use of the Open Content. You are granted permission to reproduce the logo only for that purpose.
 
-![BW QuestWorlds Logo](Logos/QW-Stamp-Red.png) { width=25% } ![Color QuestWorlds Logo](Logos/QW-Stamp-Black.png) { width=25% }
+![BW QuestWorlds Logo](Logos/QW-Stamp-Red.png) ![Color QuestWorlds Logo](Logos/QW-Stamp-Black.png)
 
 16. Severability: If any provision of this License is held to be unenforceable, such provision shall be severed only to the extent necessary to make it enforceable.
 
@@ -93,7 +93,7 @@ Chained Contests and Plot Edits from *Mythic Russia* © copyright 2006, 2010 Mar
 
 Material in *Section 1, Introduction* and *Section 2, Basic Mechanics* © copyright 2018 Jonathan Laufersweiler and added as Open Game Content here with permission.
 
-QuestWorlds SRD with annotations for individual contributions can be found at GitHub: [https://github.com/iancooper/QuestWorlds/pulls](https://github.com/iancooper/QuestWorlds/pulls).
+QuestWorlds SRD with annotations for individual contributions can be found at GitHub: [https://github.com/ChaosiumInc/QuestWorlds/pulls](https://github.com/ChaosiumInc/QuestWorlds/pulls).
 
 Development of this version: Ian Cooper
 
