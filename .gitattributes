@@ -1,3 +1,4 @@
-/docs/*.pdf binary
-/docs/*.rtf binary
-/docs/*.png binary
+*.rtf binary
+*.RTF binary
+*.rtf	 diff=astextplain
+*.RTF	 diff=astextplain
