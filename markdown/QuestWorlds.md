@@ -76,7 +76,7 @@ except as expressly licensed in another, independent Agreement with the owner of
 
 15. Labeling: You must prominently display one of the following *QuestWorlds* logos on the front and back exterior and in the interior package, on the title page or its equivalent, of your Use of the Open Content. You are granted permission to reproduce the logo only for that purpose.
 
-![BW QuestWorlds Logo](Logos/QW-Stamp-Red.png) ![Color QuestWorlds Logo](Logos/QW-Stamp-Black.png)
+![BW QuestWorlds Logo](Logos/QW-Stamp-Red.png){ width=1inch height=1inch} ![Color QuestWorlds Logo](Logos/QW-Stamp-Black.png){ width=1inch height=1inch}
 
 16. Severability: If any provision of this License is held to be unenforceable, such provision shall be severed only to the extent necessary to make it enforceable.
 
@@ -87,7 +87,7 @@ Original Rules: Robin D. Laws
 
 Further Development: Greg Stafford, Ian Cooper, David Dunham, Mark Galeotti, Jeff Richard, Neil Robinson, Roderick Robinson, David Scott, Lawrence Whitaker
 
-Additional Contributions: Shannon Appelcline, Simon Bray, David Cake, Dave Camoirano, Melissa Camoirano, John Carnahan, Charles Corrigan, David Dunham, Alex Ferguson, James Frusetta, Phil Hibbs, Simon D. Hibbs, Jeff Kyer, Martin Laurie, Mark Leymaster, Julian Lord, Stephen Martin, Rick Meints, Peter Metcalfe, Peter Nordstrand, Wesley Quadros, Mikael Raaterova, Jamie Revell, Graham Robinson, Jonas Schiött, Gary Sturgess, Ian Thomson, Nils Weinander
+Additional Contributions: Shannon Appelcline, Simon Bray, David Cake, Dave Camoirano, Melissa Camoirano, John Carnahan, Charles Corrigan, David Dunham, Alex Ferguson, James Frusetta, Phil Hibbs, Simon D. Hibbs, Jeff Kyer, Martin Laurie, Mark Leymaster, Julian Lord, Rick Meints, Peter Metcalfe, Peter Nordstrand, Wesley Quadros, Mikael Raaterova, Jamie Revell, Graham Robinson, Jonas Schiött, Gary Sturgess, Ian Thomson, Nils Weinander
 
 Chained Contests and Plot Edits from *Mythic Russia* © copyright 2006, 2010 Mark Galeotti; developed by Graham Robinson (for “Chained Contests”) and added as Open Game Content here with permission.
 
