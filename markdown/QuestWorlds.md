@@ -1082,7 +1082,7 @@ Depending on which approach seems to grow from the story, your GM may assign **c
 
 Because they average together the **outcomes** of multiple participants, **group simple contests** tend to flatten **outcomes**, making **victories** more likely to be **marginal** or **minor** than **major** or **complete**.
 
-To overcome this flattening effect, you can, at the beginning of a **group simple contest**, spend one or more **hero points** to purchase a **boost**. A **boost** assures a clearer **victory**, should you prevail.
+To overcome this flattening effect, if the outcome of a **group simple contest** is a **tie** or **victory**, you may spend one or more **hero points** to purchase a **boost**; a **boost** assures a clearer victory.
 
 The cost varies by the number of PCs participating:
 
@@ -1093,7 +1093,7 @@ The cost varies by the number of PCs participating:
 
 You may spend twice as many **hero points** as required to gain a **double boost**. The points may be spent by any combination of players. They remain spent no matter how the **contest** resolves.
 
-On a **tie** or a **victory**, the **boost** increases the collective **victory** level by one step. A **double boost** increases it by two steps.
+The **boost** increases the collective **victory** level by one step. A **double boost** increases it by two steps.
 
 # 5.0 (Advanced) Long Contests
 
