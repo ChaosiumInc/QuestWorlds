@@ -1,6 +1,12 @@
 # QuestWorlds System Reference Document
 
-This is the text version of the content found at: https://questworlds.chaosium.com/ 
+This Git repository is dedicated to the System Reference Document (SRD) for [QuestWorlds](https://questworlds.chaosium.com/), a role-playing game designed to emulate the way characters in fiction face and overcome challenges. Published by [Chaosium](https://www.chaosium.com), QuestWorlds features an abstract, conflict-based, resolution method and scalable, customizable, character abilities.
+
+The QuestWorlds SRD is geared toward enabling both designers and enthusiasts to develop their own games, genre packs, adventures, and other content using QuestWorlds as a base. This is permitted subject to the license terms and conditions detailed in [§ 0.1 Legal Information](0.1_Legal_Information.md)
+
+Formatted and browsable versions of the SRD content along with news and other useful reources may by found at: https://questworlds.chaosium.com/ 
+
+If you wish to give feedaback or suggestions about the rules, point out errors in the text, or are otherwise interested in contributing to the SRD's development, please review [the contribution guidelines](CONTRIBUTING.MD) to learn how to get involved.
 
 ## Markdown
 
