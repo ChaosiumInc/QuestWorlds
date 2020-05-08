@@ -7,6 +7,7 @@ An useful issue is usually one of three types:
 * An error - there is a problem with the text, such as a typo, mis-numbered header, table missing a column, incorrect bolding of a game term etc.
 * A fix - there is a problem with the rules, and you are offering a correction. Normally, a change request should relate to internal inconsistency in the rules.
 * An enhancement - the rules could be improved with a change or addition.
+* Housekeeping - an issue related to the repository itself
 
 ## How to raise a PR
 
@@ -34,7 +35,7 @@ Please don't re-submit issues that have been closed previously, and re-open them
 
 We will tend to scan through open issues to prioritize those that we need to deal with. You can help us by making the issue as clear as possible in the title. Include the section of the rules and a pithy summary of the issue, not the detail.
 
-To be really helpful, you could indicate which type of issue you believe this is [Error, Fix, or Enhancement].
+To be really helpful, you could indicate which type of issue you believe this is [Error, Fix, Enhancement or Housekeeping].
 
 ### Provide detail in the description
 
