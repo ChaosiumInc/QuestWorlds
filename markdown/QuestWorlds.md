@@ -134,6 +134,7 @@ The third version *HeroQuest*: Core Rules was published in 2009 (ISBN 978-0-9777
 *QuestWorlds* was published as a System Reference Document (SRD) (this document) in 2020. The version of the rules here is slightly updated, mainly to clarify ambiguities, from the version presented in *HeroQuest* 2e and *HeroQuest* 2.1e. This makes this ruleset *HeroQuest* 2.2e, despite the name change. However, to simplify we identify this version as *QuestWorlds* 1e.
 
 An Appendix lists changes in this version. As the SRD is updated we will continue to track version changes there.
+
 ## 1.3 Basic & Advanced Mechanics
 
 As the *QuestWorlds* engine is oriented towards rules-light play, we designate some mechanics as "Basic" and others as "Advanced."
@@ -391,9 +392,18 @@ Your GM describes what happens, based on their interpretation of the **outcome**
 
 #### 2.3.5.1 Better Roll
 
-*QuestWorlds* supports two options for the "better roll": the highest roll, or the lowest roll. Some groups prefer lowest roll, some higher. The preference toward "low is better", is often because 1 is a **critical** and 20 a **fumble**, and toward "high is better" because the winner has rolled a higher number. Groups wanting higher abilities to win out slightly more often should use higher roll.
+*QuestWorlds* supports two options for the "better roll": the highest roll, or the lowest roll.
 
 We also use the phrase "worse roll" to indicate the losing roll.
+
+Groups wanting higher abilities to win out slightly more often should use higher roll.
+
+Some groups prefer lowest roll, some higher. The preference toward "low is better", is often because 1 is a **critical** and 20 a **fumble**, and toward "high is better" because the winner has rolled a higher number. One solution to this is the make the following adjustments when using a higher roll approach, as well:
+
+* **Critical**: If the die roll is equal to the **TN** (even when the **TN** is 20), you succeed brilliantly. This is the best **result** possible.
+* **Success**: If the die roll is less than the **TN** and not a **fumble**, you succeed, but there is nothing remarkable about the success.
+* **Failure**: If the die roll is greater than the **TN** but not a **fumble**, you fail. Things do not happen as hoped.
+* **Fumble**: If the die roll is 20, you fumble (except when the **TN** is 20, when it is a **critical**). You fail miserably. This is the worst **result** possible.
 
 #### 2.3.5.2 Confusing Ties
 
