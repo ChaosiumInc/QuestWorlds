@@ -869,9 +869,7 @@ In addition, you will want to give your character a name, and provide a physical
 
 ## 3.1 As-You-Go Method
 
-1. Concept
-
-The concept is a brief phrase, often just a couple of words that tells the GM and other players what you do and how you act. Start with a noun or phrase indicating your **occupation keyword** or area of expertise, and modify it with an adjective suggesting a **distinguishing characteristic**, a personality trait that defines you in broad strokes:
+1. Choose a **concept**. Your **concept** is a brief phrase, often just a couple of words that tells the GM and other players what you do and how you act. Start with a noun or phrase indicating your **occupation keyword** or area of expertise, and modify it with an adjective suggesting a **distinguishing characteristic**, a personality trait that defines you in broad strokes:
 
 * haughty priestess
 * hotshot lawyer
@@ -953,9 +951,7 @@ This is the most different method as you write a piece of prose and then pull **
 
 ## 3.6 List Method
 
-1. Concept
-
-The concept is a brief phrase, often just a couple of words that tells the GM and other players what you do and how you act. When in doubt, start with a noun or phrase indicating your **occupation**, and modify it with an adjective suggesting a **distinguishing characteristic**:
+1. Choose a **concept**. Your **concept** is a brief phrase, often just a couple of words that tells the GM and other players what you do and how you act. Start with a noun or phrase indicating your **occupation keyword** or area of expertise, and modify it with an adjective suggesting a **distinguishing characteristic**, a personality trait that defines you in broad strokes:
 
 * haughty priestess
 * hotshot lawyer
