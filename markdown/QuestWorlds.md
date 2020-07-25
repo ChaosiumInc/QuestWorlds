@@ -502,15 +502,15 @@ If you are victorious in the **augment contest**, your GM will award a **bonus**
 
 ## 2.6 Benefits and Consequences
 
-**Contests**, in addition to deciding whether you overcome a **story obstacle**, carry additional **consequences**. These are negative if you lose, and positive if you win.
+**Contests**, in addition to deciding whether you overcome a **story obstacle**, carry additional **consequences**. 
 
 Your GM may simply determine these from what makes fictional sense, given the agreed **prize** for the **contest**, as described above. Optionally your GM may impose **consequences** or provide **benefits** if they desire ongoing **penalties** or **bonuses**. Your GM should always respond to the flow of the story, if narrative consequences are enough, they should not reach for additional mechanical **bonuses** or **penalties**. Your GM should use mechanical **bonuses** or **penalties** where it strains credibility that there is no ongoing consequence or benefit from the outcome of the contest.
 
 In a fight, it may strain credibility that a defeat does not leave you impaired for further physical activity. In a display or oratory before the assembled townsfolk, it may strain credibility if they would not later act according to your rousing words. In a romance, it may strain credibility of the wonderful date night, does not improve your chances of taking your relationship to the next level.
 
-### 2.6.1 The Consequences of Defeat
+### 2.6.1 Consequences
 
-When you lose a **contest**, you may suffer **consequences**: literal or metaphorical injuries which make it harder for you to use related **abilities**.
+After a **contest**, you may suffer **consequences**: literal or metaphorical injuries.
 
 * In a fight or test of physical mettle, you wind up literally wounded.
 * In a social contest, you suffer damage to your reputation.
@@ -518,23 +518,25 @@ When you lose a **contest**, you may suffer **consequences**: literal or metapho
 * In an economic struggle, you lose money, other resources, or opportunities.
 * In a morale crisis, you may suffer bouts of crippling self-doubt.
 
-Your GM will assign a penalty depending on how severe they feel the consequences are. Your GM should assign a penalty that corresponds to a **rank**: -3, -6, -9, -M, or -M2.
+The GM is the arbiter of when a **consequence** should be applied.
 
-Optionally, your GM may use the difference between your **result** and their result to determine the **rank**. If your opponent had a **better success** it is one **rank** or -3. If you were one level of result different, such as you **failed** and they **succeeded**, or you **succeeded** and they rolled a **critical**, then it is two **ranks** or -6, and so on, with your rolling a **fumble** and the GM rolling a **critical** the largest **rank** at 4 for a -M penalty.
+Your GM may assign a penalty to reflect this **consequence**. The **rank** will depend on how severe they feel the **consequences** are. Your GM should assign a **penalty** that corresponds to a **rank**: -3, -6, -9, -M, or -M2.
+
+If your opponent defeats you, your GM may use the difference between your **result** and the **resistance's** result to determine the **rank**. If your opponent had a **better success** it is one **rank** or -3. If you were one level of result different, such as you **failed** and they **succeeded**, or you **succeeded** and they rolled a **critical**, then it is two **ranks** or -6, and so on, with your rolling a **fumble** and the GM rolling a **critical** the largest **rank** at 4 for a -M penalty.
+
+If you **defeat** your opponent, your GM may still decide that you suffer a **consequence**, representing fatigue, exhaustion, disapproval or other expenditure of resources on earning the **prize**. On a **better roll** you might suffer a **consequence** of **rank** 2 or -6, and on a better **result** you might suffer a **consequence** of **rank** 1 or -3.
 
 #### 2.6.1.2 Ending a PC's story
 
-Your GM should not impose a narrative consequence on your PC that takes them permanently out of the game, such as by death, without discussion. Some games allow characters to be taken out of the story by the result of a dice roll, but QuestWorlds is a co-operative storytelling game where a failed dice roll should not automatically remove a character from play. However, you, or the GM, might feel that your PC's story has come to an end with this failure, and you can consent to that outcome. Usually, your GM should refrain from suggesting this option unless the story itself suggests it.
+Your GM should not impose a narrative **consequence** on your PC that takes them permanently out of the game, such as by death, without discussion. Some games allow characters to be taken out of the story by the result of a dice roll, but QuestWorlds is a co-operative storytelling game where a failed dice roll should not automatically remove a character from play. However, you, or the GM, might feel that your PC's story has come to an end with this failure, and you can consent to that outcome. Usually, your GM should refrain from suggesting this option unless the story itself suggests it.
 
-A story-ending outcome may not just be death. It can include anything that takes the PC out of play, such as exile, dismissal from the secret agency, a broken heart. In some cases the ending to your PCs story could be ambiguous, allowing the PC to return at a future point when the story makes their salvation possible.
+A story-ending **outcome** may not just be death. It can include anything that takes the PC out of play, such as exile, dismissal from the secret agency, a broken heart. In some cases the ending to your PCs story could be ambiguous, allowing the PC to return at a future point when the story makes their salvation possible.
 
-Your GM might declare that the stakes of a particular contest place a PC at risk of this being a story ending moment, before the dice are rolled. This may be important for credibility in the story that the group is telling, In this case there should be an option for the PC to avoid, or backdown from a contest, that has a risk of ending their story.
+Your GM might declare that the stakes of a particular **contest** place a PC at risk of this being a story ending moment, before the dice are rolled. This may be important for credibility in the story that the group is telling, In this case there should be an option for the PC to avoid, or backdown from a **contest**, that has a risk of ending their story.
 
-### 2.6.2 Benefits of Victory
+### 2.6.2 Benefits
 
-Just as when you experience **defeat** you can suffer ongoing ill effects in addition to the loss of the **prize** at hand, when you win you can gain benefits from that **victory**.
-
-A **benefit of victory** gives you a bonus on the selected **abilities**, or in the specified situation, as determined by your **victory** level.
+Just as when you can experience ongoing ill effects from a **contest**, you can gain ongoing benefits from a **contest**.
 
 * In a fight or test of physical mettle, your workout leaves you sharp for the next encounter.
 * In a social contest, you gain confidence and admiration from your triumph.
@@ -550,11 +552,15 @@ Remember that the **benefit** does not have to be directly related to the **abil
 * In an economic struggle, you gain status as one of the wealthy elite.
 * In a morale crisis, your rallied troops strengthen your army.
 
-A PC may apply **bonuses** from multiple **benefits** to a single **contest**.
+The GM is the arbiter of when a **benefits** should be applied.
+
+Your GM may assign a penalty to reflect this **benefit**. The **rank** will depend on how great they feel the **benefits** are. Your GM should assign a **bonus** that corresponds to a **rank**: +3, +6, +9, +M, or +M2.
 
 Your GM will assign a penalty depending on how good they feel the benefits are. Your GM should assign a bonus that corresponds to a **rank**: +3, +6, +9, +M, or +M2.
 
-Your GM may choose to use the difference between your **result** and their result to determine the **rank**. If you had a **better success** than your opponent it is one **rank** or +3. If you were one level of result different, such as you **succeeded** and they **failed**, or you rolled a **critical** and they **succeeded**, then it is two **ranks** or +6, and so on, with your rolling a **critical** and the GM rolling a **fumble** the largest **rank** at 4 for a +M bonus.
+If you win the **prize**, your GM may choose to use the difference between your **result** and their result to determine the **rank**. If you had a **better success** than your opponent it is one **rank** or +3. If you were one level of result different, such as you **succeeded** and they **failed**, or you rolled a **critical** and they **succeeded**, then it is two **ranks** or +6, and so on, with your rolling a **critical** and the GM rolling a **fumble** the largest **rank** at 4 for a +M bonus.
+
+If you lost the **prize**, your GM may still decide that you gain a **benefit**, representing learning, gratitude, or resolve developed from losing the **prize**. On a **worse roll** you gain a **benefit** of **rank** 2 or +6, and on a worse **result** you might gain a **benefit** of **rank** 1 or +3.
 
 ### 2.6.3 Recovery and Healing
 
@@ -588,7 +594,9 @@ Just as you recover from **consequences** with time, or through healing, so **be
 
 At the beginning of a session, especially when a significant period of game-world time passes between the conclusion of one session and the beginning of the next, the GM may declare that all **benefits** have expired or waned. A waning benefit may reduce its **rank** with time, as the effect fades. You are no longer charged with the confidence of your recent victory, the fans have forgotten your last concert, or the people of the village have started to think once again about the day-to-day struggle of their lives not how the stranger helped them. An expired benefit no longer gives you a **bonus**, your past victories no longer bring you solace, your fickle fans have moved on to the latest sensation.
 
-### 2.6.5 Benefits Meet Consequences
+### 2.6.5 Multiple Benefits And Consequences
+
+A PC may apply **bonuses** from multiple **benefits** to a single **contest**, or apply **penalties** from multiple **consequences** to a single **contest**. **Benefits and consequences** may cancel each other out.
 
 Because it is confusing to track both **benefits and consequences** against the same **ability** your GM may simply rule that one cancels the other out. This is particularly true of social **contest**s where a moment of shame can erase your previous triumphs, or your confidence eroded by a **failure**. Physical benefits may cancel out, flushed with victory you may be able to ignore pain, but it may defy credibility for wounds to be healed by an athletic performance.
 
