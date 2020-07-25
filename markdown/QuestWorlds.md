@@ -492,7 +492,7 @@ Abilities that represent special items, weapons, armor, or other noteworthy equi
 
 If you have a good idea for an **augment**, propose it to your GM while the **contest** is being framed. When making your proposal, describe how the **augmenting ability** supports the main one in a way that is both *entertaining* and *memorable*. Don't just hunt for mechanical advantage, show your group more about your PC when you **augment**, their attitudes, passions, or lesser known **abilities**. If you are **augmenting** with a **broad ability** like "Fool's Luck", be prepared to describe the unlikely events that tilt the scales in your favor. Your GM will decide whether the **augment** is justified and can refuse boring and uninspired attempts to **augment**, where you are just looking for a bonus to your roll and not adding to the story.
 
-You may only use one of your own **abilities** to **augment** the **ability** you are using in the **contest**, and you may not use an **ability** to **augment** itself. You may not use a **breakout** to augment a **keyword**, or another **breakout** from the same **keyword**. However, **augments** from other players supporting you can add together with your own, along with other **modifiers**, including those from **benefits of victory** and from **plot augments**.
+You may only use one of your own **abilities** to **augment** the **ability** you are using in the **contest**, and you may not use an **ability** to **augment** itself. You may not use a **breakout** to augment a **keyword**, or another **breakout** from the same **keyword**. However, **augments** from other players supporting you can add together with your own, along with other **modifiers**, including those from **benefits** and from **plot augments**.
 
 If your GM accepts your **augment** proposal, it will be resolved by one of the methods below. The main **contest** then proceeds as normal, with any bonus from the **augment** added onto the **score** of the **ability** chosen when **framing the contest**. The **augment** remains in effect for the duration of the **contest**.
 
@@ -504,7 +504,7 @@ If you are victorious in the **augment contest**, your GM will award a **bonus**
 
 **Contests**, in addition to deciding whether you overcome a **story obstacle**, carry additional **consequences**. These are negative if you lose, and positive if you win.
 
-Your GM may simply determine these from what makes fictional sense, given the agreed **prize** for the **contest**, as described above. Optionally your GM may impose **consequences of defeat** or provide **benefits of victory** if they desire ongoing **penalties** or **bonuses**. Your GM should always respond to the flow of the story, if narrative consequences are enough, they should not reach for additional mechanical **bonuses** or **penalties**. Your GM should use mechanical **bonuses** or **penalties** where it strains credibility that there is no ongoing consequence or benefit from the outcome of the contest.
+Your GM may simply determine these from what makes fictional sense, given the agreed **prize** for the **contest**, as described above. Optionally your GM may impose **consequences** or provide **benefits** if they desire ongoing **penalties** or **bonuses**. Your GM should always respond to the flow of the story, if narrative consequences are enough, they should not reach for additional mechanical **bonuses** or **penalties**. Your GM should use mechanical **bonuses** or **penalties** where it strains credibility that there is no ongoing consequence or benefit from the outcome of the contest.
 
 In a fight, it may strain credibility that a defeat does not leave you impaired for further physical activity. In a display or oratory before the assembled townsfolk, it may strain credibility if they would not later act according to your rousing words. In a romance, it may strain credibility of the wonderful date night, does not improve your chances of taking your relationship to the next level.
 
@@ -862,7 +862,7 @@ A **scored contest** consists of one or more **rounds**, in which you perform ac
     4. The number of **resolution points** the winner garners at the end of each **round** depends on the difference in their **results**, (see below).
     5. The first to accumulate a total of 5 **resolution points** wins; their opponent is knocked out of the **contest** and loses the **prize**.
 5. Determine the **scored contest outcome** based on **rising action** or **climax** (below).
-6. Determine **benefits of victory** or **consequences of defeat**.
+6. Determine **benefits** or **consequences**.
 7. Describe the **outcome** based on the **story obstacle**.
 
 Unlike in an **extended contest** (see below), where you usually take part in two **exchanges** with your opponent per **round** (one in which you choose the **AP bid**, and one in which your opponent does), here you and your opponent engage in a single **exchange** per **round** (in which whoever the GM determines has initiative describes an action to seize the **prize** and their opponent how they intend to stop them).
@@ -1111,7 +1111,7 @@ Your GM may apply **consequences** and **benefits** as they see fit. The **scale
 
 ### 5.3.4 Parting Shot
 
-When you **defeat** an opponent in an **extended contest**, you can act again immediately to try to make their **consequences of defeat** more severe. This is called a **parting shot**. 
+When you **defeat** an opponent in an **extended contest**, you can act again immediately to try to make their **consequences** more severe. This is called a **parting shot**. 
 
 In the **round** immediately after you take an opponent out of the **contest**, you may attempt to gain another **prize** from your opponent suffers by engaging in a **parting shot**. This is an attempt (metaphoric or otherwise) to kick your opponent while he’s down:
 
@@ -1207,7 +1207,7 @@ See §5.3.3 for a discussion of **consequences** and **benefits** in **scored co
 
 If your PC falls to 0 or fewer **advantage points** in a standard **extended contest**, you are **defeated**. In a **group extended contest**, however, you can try a **second chance** to stay in the **contest**. A **second chance** represents the knack to come back when your opponent turns away to gloat or deal with the other player characters. A character may only attempt one **second chance** in any **contest**.
 
-To attempt a **second chance**, you must be free from attention by the opposition. You must spend a **hero point**. This does not provide a **bump** up on the roll to come; it is the cost of performing a **second chance**. You can use a relevant **ability** in a **simple contest** against the number of **APs** your PC is below 0. Even if you succeed, a **consequences of defeat** applies: take a –6 to further actions in this contest.
+To attempt a **second chance**, you must be free from attention by the opposition. You must spend a **hero point**. This does not provide a **bump** up on the roll to come; it is the cost of performing a **second chance**. You can use a relevant **ability** in a **simple contest** against the number of **APs** your PC is below 0. Even if you succeed, a **consequences** applies: take a –6 to further actions in this contest.
 
 If you win the **simple contest**, you rejoin the contest with a positive **AP** total. Your new total is a 1/4 of your original **AP** total at the outset of the **contest**, round up.
 
@@ -1227,7 +1227,7 @@ Use an **unrelated action** and describe what your character is trying to do to 
 
 ## 5.5 Chained Contest
 
-**Chained contests** do not defer **consequences** to the end of the **contest**, instead your GM applies the **consequences of defeat** to the loser in the **contest** immediately following a **round**. This leads to a grittier feel to the **contest**, but at the price of a death spiral: once you lose the **consequences of defeat** make it likelier that you will lose again. **Chained contests** tend to produce the most extreme **outcomes**, as participants tend to accumulate significant **consequences**.
+**Chained contests** do not defer **consequences** to the end of the **contest**, instead your GM applies the **consequences** to the loser in the **contest** immediately following a **round**. This leads to a grittier feel to the **contest**, but at the price of a death spiral: once you lose the **consequences** make it likelier that you will lose again. **Chained contests** tend to produce the most extreme **outcomes**, as participants tend to accumulate significant **consequences**.
 
 To run an **chained contest** your GM runs a **simple contest** as normal, and then applies **consequences** (see §2.6) with immediate effect.
 
@@ -1348,7 +1348,7 @@ You may find it convenient to promote **retainers** to **sidekick** status, givi
 
 A **retainer** is a more or less anonymous servant or helper. You may specify a single **retainer**, or, where appropriate to your character concept, an entire staff of them.
 
-Like any other **ability**, a **retainer** **ability** allows you to overcome relevant **story obstacles** by engaging in a **contest**. To model the contribution of **retainers**, when you are acting, you can use them to **augment** your **ability**. Your GM can rule that **consequences of defeat** apply to **retainers**.
+Like any other **ability**, a **retainer** **ability** allows you to overcome relevant **story obstacles** by engaging in a **contest**. To model the contribution of **retainers**, when you are acting, you can use them to **augment** your **ability**. Your GM can rule that **consequences** apply to **retainers**.
 
 **Retainers** generally regard you with all the affection and loyalty due to an employer or master. If you treat them more poorly than is expected for their culture, your GM should increase the **resistance class** of attempts to make use of their talents.
 
@@ -1514,7 +1514,7 @@ If your group voluntarily concede a **contest** by withdrawing, your community s
 
 ### 8.2.4 Bolstering Resources
 
-You can add **bonuses** to **bolster** community **resources** by seeking out and overcoming relevant **story obstacles**, specifying in the **contest framing** that the proceeds of **victory** go the community. If you succeed, **bonuses** from the **benefits of victory** are applied to a resource instead of one or more character **abilities**. (Your GM may rule that the **bonus** also applies to you in social situations that involve community members, reflecting gratitude for their efforts on behalf of the community.)
+You can add **bonuses** to **bolster** community **resources** by seeking out and overcoming relevant **story obstacles**, specifying in the **contest framing** that the proceeds of **victory** go the community. If you succeed, **bonuses** from the **benefits** are applied to a resource instead of one or more character **abilities**. (Your GM may rule that the **bonus** also applies to you in social situations that involve community members, reflecting gratitude for their efforts on behalf of the community.)
 
 ### 8.2.5 Background Events
 
@@ -1612,7 +1612,7 @@ Your GM may decide that certain remarkable triumphs or horrifying catastrophes m
 
 **Contest** Where there is uncertainty as to whether a PC can overcome a **story obstacle** or discover a secret, then your GM can call for a contest to determine if the PC succeeds or fails. A contest may be **simple** (one roll) of **long** (a series of rolls).
 
-**Consequences of Defeat** Long term negative modifier, because you lost a contest. Usually a **state of adversity**.
+**consequences** Long term negative modifier, because you lost a contest. Usually a **state of adversity**.
 
 **Contest Framing** Setting the stakes of the **contest**, what is this conflict about. Often not the immediate aftermath of victory.
 
@@ -1825,7 +1825,7 @@ In a **simple contest**, using the table below (§9.2.1.2) to determine the **de
 
 In a **group simple contest** rather than overall **victory** going to the side with the plurality of **victories**, each side scores a number of **outcome points** (OPs) for their side on a **victory**. The number of **RPs** is determined by the table below (see §9.2.3.1). After all the exchange have been concluded, your GM uses the the difference in **outcome points** between the two groups and table §9.2.3.2 to determine the **degree of victory or defeat**
 
-Depending on which approach seems to grow from the story, your GM may assign **consequences of defeat** or **benefits of victory** from **group simple contests** to the entire group, or to individual members who performed either especially well, or especially poorly. Your GM should default to rewarding or penalizing everyone. Your GM should resort to individualized repercussions or benefits only when a group reward defies dramatic credibility, or when competition within the group is a pivotal dramatic issue.
+Depending on which approach seems to grow from the story, your GM may assign **consequences** or **benefits** from **group simple contests** to the entire group, or to individual members who performed either especially well, or especially poorly. Your GM should default to rewarding or penalizing everyone. Your GM should resort to individualized repercussions or benefits only when a group reward defies dramatic credibility, or when competition within the group is a pivotal dramatic issue.
 
 #### 9.3.3.1 GROUP SIMPLE CONTEST TABLE
 
@@ -1872,7 +1872,7 @@ In a **scored contest** you compare the difference between the winner's **resolu
 
 **Rising action** refers to all of the many plot events and complications that occur between the beginning and the climax of a story. During this phase of your GM's story, they will use the **rising action** consequence table to assess **outcomes**.
 
-Find the difference between you and your opponent's **resolution point** scores at the **contest**’s conclusion. Your GM then determines your **outcome** by cross-referencing with the following table to find your **benefits of victory** or **consequences of defeat**.
+Find the difference between you and your opponent's **resolution point** scores at the **contest**’s conclusion. Your GM then determines your **outcome** by cross-referencing with the following table to find your **benefits** or **consequences**.
 
 Note, you may suffer a **state of adversity**, even if you win the **prize**.
 
@@ -2128,7 +2128,7 @@ Default **resistances** to remove states of adversity are as follows:
 
 #### 0.4.3.4 Outcomes of Healing
 
-When you make a successful healing attempt, you remove one level of **adversity** for each level of **victory**. A **major defeat** increases the subject’s **consequences of defeat** by 1; a **complete defeat** adds an additional 2 levels to the **state of adversity**.
+When you make a successful healing attempt, you remove one level of **adversity** for each level of **victory**. A **major defeat** increases the subject’s **consequences** by 1; a **complete defeat** adds an additional 2 levels to the **state of adversity**.
 
 ## 9.5.0 Augments
 
