@@ -93,11 +93,13 @@ Chained Contests and Plot Edits from *Mythic Russia* © copyright 2006, 2010 Mar
 
 Material in *Section 1, Introduction* and *Section 2, Basic Mechanics* © copyright 2018 Jonathan Laufersweiler and added as Open Game Content here with permission.
 
+Material in *Section 2, Basic Mechanics* © copyright 2020 Shawn Carpenter and added as Open Game Content here with permission.
+
 QuestWorlds SRD with annotations for individual contributions can be found at GitHub: [https://github.com/ChaosiumInc/QuestWorlds/pulls](https://github.com/ChaosiumInc/QuestWorlds/pulls).
 
 Development of this version: Ian Cooper
 
-Development Assistance for this version: Jonathan Laufersweiler, James Lowder, Michael O’Brien, Jeff Richard, David Scott
+Development Assistance for this version: Shawn Carpenter, Jonathan Laufersweiler, James Lowder, Michael O’Brien, Jeff Richard, David Scott
 
 Proofreading of this version: Martin Helsdon
 
@@ -247,17 +249,38 @@ You choose an **ability** relevant to the conflict at hand, describe exactly wha
 
 ### 2.3.1 Resolution Methods
 
-The Basic resolution methods are as follows:
+The basic resolution methods are as follows:
 
-#### 2.3.1.1 Automatic Victory
+#### 2.3.1.1 Assured Contest
 
-Sometimes, your GM may not call for a **contest** at all, in which case you are simply victorious in overcoming the **story obstacle** at hand. This may be because **defeat** in the conflict to overcome the **story obstacle** would lead to uninteresting results or a narrative dead-end, such as when finding an important clue is essential to the progress of an adventure.
+Some **obstacles** don't require a roll to overcome. You’ll just do it and keep going, much as you get dressed in the morning or drive your car to work. We call these kinds or contests **assured** contests because your **victory** is assured. Your GM may want to describe your **victory** as a sweat inducing challenge for you, even though there is no risk of **defeat**, to highlight the heroic struggle of your PC to beat the obstacle, nonetheless.
 
-Your GM might also do this in cases where, within the fictional context, the particular **ability** you have brought to bear on the **story obstacle** is such that overcoming the **story obstacle** should be a trivial matter under normal circumstances (e.g. - a professional hunter bringing in the evening meal in a forest filled with game animals). In such cases, **defeat** would simply not be credible unless your GM wanted to introduce some further complications to the story. Generally, your GM will only use **automatic victory** when you have a relevant **ability** to justify its application.
+As your character advances, the challenges that qualify for assured contests will become more complex. If you face a driving challenge, the bar for assured will be much lower for a champion Formula 1 racer than a typical commuter.
+
+**Assured contests** are the GM’s primary tool to establish your character’s competence. This makes them one of the most powerful and frequently used tools in a GM’s tool chest. Remember, your GM doesn’t have to, and usually shouldn’t advise you you’re involved in an **assured contest**, so it's best to treat all **contests** as if your skin is on the line.
+
+Your GM may also use an **assured contest** when there is no interesting story branch from **defeat**. If failing to open the derelict spaceship's hatch means that the story of your exploration of the ancient space hulk would end abruptly, your GM may choose to make it an **assured contest**. **Assured contests** may be used to find clues when your GM is running a mystery and correct application of one of your **abilities** should reveal the information and allow the story to continue, over becoming mired due to a missed roll and missing clue.
+
+Sometimes your GM will decide potential complications could arise in overcoming an **story obstacle**. Or they may want to give you a **bonus** if you do particularly well. If so, they will call for you to make a die roll even though your **victory** is not in question. Your GM will use your die roll **result** to decide if any unforeseen **consequences** or **benefits** arose from your actions.
+
+If you roll a **failure**, you still beat the obstacle, but you also suffer an adverse **consequence** (see §2.6). The nature of this adversity is up to the GM. It will probably be **penalty** involving the same tactic you used in this one (because you exhausted yourself, sprained an ankle, embarrassed yourself in front of your peers, etc.) or to the value of one of your relationships.
+
+If you achieve a high **result**, you’ll receive a **benefit** from your effort (see §2.6). Again, this is up to the GM to define. It could be a **bonus** to the **tactic** used in the **contest**, or to of one of your relationships, etc.
+
+**Fumbles** and **criticals** always result in an unexpected difficulty or reward!
+
+At is most basic, a **assured contest** can be summarized as follows:
+
+1. You and your GM agree upon the terms of the **contest**.
+2. The GM may decide that you simply gain the **victory** and there are no **consequences** or **benefits** beyond that.
+3. If not the GM conducts a contest.
+4. You roll a D20 vs your relevant **ability**, while your GM rolls a D20 vs the **resistance**.
+5. Your GM compares the **success** or **failure** of the two rolls, and assesses any **consequences** or **benefits**.
+6. Your GM then narrates how you obtained your **victory** and any **benefits** or **consequences** that arose.
 
 #### 2.3.1.2 Simple Contest
 
-The **simple contest** *QuestWorlds*' primary resolution mechanic for overcoming **story obstacles**, and is used the most often. It also provides the foundation for other types of **contest**, including several **long** ones. As such, it receives both an overview of key concepts here as well as a more detailed treatment in §4.
+The **simple contest** *QuestWorlds*' primary resolution mechanic for overcoming **story obstacles**, and is used the most often where the outcome is uncertain. It also provides the foundation for other types of uncertain **contest**, including several **long** ones. As such, it receives both an overview of key concepts here as well as a more detailed treatment in §4.
 
 At is most basic, a **simple contest** can be summarized as follows:
 
@@ -446,7 +469,7 @@ If the **resistance** has unspent **bumps** then the GM can **bump** you down if
 
 #### 2.3.7.4 Bump Up with Negative Mastery
 
-If you are facing a **resistance** that has negative **mastery** then your GM should treat is as an **automatic victory** unless they want to know how well you triumphed. In that case, your roll is **bumped** up by the **resistance**.
+If you are facing a **resistance** that has negative **mastery** then your GM should treat is as an **assured contest**. If the GM wants you to roll, to find out how well you did, your roll is **bumped** up by the **resistance**.
 
 ## 2.4 Modifiers
 
@@ -675,20 +698,6 @@ When encountering **mismatched goals**, your GM should determine whether the mis
 In a **complete mismatch**, neither side is at all interested in preventing the other’s goal. A **complete mismatch** does not end in a **contest**; your GM asks what you are doing, and then describes each participant succeeding at their goals.
 
 In most instances, the **contest** goals are not actually **mismatched**, but **graduated**. You have both a **primary** and a **secondary** goal. In this case, your GM frames the **contest**, identifying which goal is which. To achieve both, you must get a higher **result** than your opponent, such as **success** vs. **failure** or a **critical** vs **success**. On a better roll alone, such as **success** vs. **success** or **failure** vs **failure**, your GM may present you with the choice of which objective you obtain, where that choice illuminates your PC's priorities.
-
-## 2.13 Difficult Automatic Victory
-
-Two distinct methods allow your GM to create a sense of difficulty without allowing for the prospect of **failure**: the **arduous automatic victory**, and the **costly automatic victory**. Your GM will use a **costly automatic victory** where **failure** offers no entertaining plot branches, but when they still want the group to work for victory. In a **costly automatic victory**, you succeed, but at a price.
-
-### 2.17.1 Arduous Automatic Victory
-
-Your GM will use an **arduous automatic victory** to help with pacing. They will simply allow you to succeed without a **contest**, and then describe in sweat-inducing detail your hard-won **victory**. Unlike the standard **automatic victory**, the objective here is not to make you feel competent (though it may do that as well) but to emphasize the rigors of your grueling task, preserving suspension of disbelief.
-
-### 2.17.2 Costly Automatic Victory
-
-Your GM may use a **costly automatic victory** where **failure** offers no entertaining plot branches, but they still want you to work for **victory**. In a **costly automatic victory**, you succeed, but at a price.
-
-Even if you suffer a **defeat**, you still overcome the **story obstacle**. You also, however, suffer in your triumph. This may be a wholly narrative cost, described by your GM as part of the story. It may also be a **consequence of defeat**.  The **consequence of defeat** might apply to the abilities you used in that **contest**. Alternatively the **consequence of defeat** may apply to some other resource-related **ability**, which may come to haunt you later on. When in doubt, ask yourself if the **penalty** will cripple the group in dealing with **contests**.
 
 # 3.0 Character Creation
 
@@ -1610,7 +1619,7 @@ Your GM may decide that certain remarkable triumphs or horrifying catastrophes m
 
 **Augment** Using one **ability** to help another **ability**
 
-**Automatic Victory** You have an appropriate **ability** and the GM feels **failure** is not interesting, or makes the PC looks un-heroic.
+**Assured Contest** You have an appropriate **ability** and the GM feels **failure** is not interesting, or makes the PC looks un-heroic.
 
 **Background Event** An off-stage **bonus** or **penalty** applied to a **resource**.
 

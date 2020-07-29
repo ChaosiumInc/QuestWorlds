@@ -22,7 +22,6 @@ VAR1=$(CAT << EOF
 2.10_Ganging_Up.md \
 2.11_Mass_Effort.md \
 2.12_Mismatched_and_Graduated_Goals.md \
-2.13_Difficult_Automatic_Victory.md \
 3.0_Basic_Character_Creation.md \
 3.1_As-You-Go_Method.md \
 3.2_Assigning_Ability_Ratings.md \
