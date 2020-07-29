@@ -649,7 +649,7 @@ Your GM may decide that **resistance** to your actions gets harder, as the campa
 
 Your GM should adopt a strategy that mimics a TV show where the **resistance** does not increase during a season of the show, allowing our protagonists to get more competent as the show progresses towards its climax. In the next season though the **resistance** usually goes up, and the writers reflect this with more challenging opposition in the new season of the show. At the same time, the opposition that was tough in the first season, now become mooks that can be easily dispatched to show the increased competence of the protagonists.
 
-In that case your GM should increment the **resistance** by +3, +6 or +9 for the next campaign you play with the same characters. The size of the change should reflect the increase in your previous **abilities** in the last campaign. For example, if in the last season you increased your **occupation keyword** by +6, your GM may decide to increase the **resistance** by +3 or +6 to reflect the more challenging opposition in the new campaign. Your GM should also take into account that the opposition you were improving with respect to the previous season should now be considered more-easily defeated mooks, and use lower **scores** for them when they appear in the story.
+In that case your GM should increment the **base resistance** by +3, +6 or +9 for the next campaign you play with the same characters. The size of the change should reflect the increase in your previous **abilities** in the last campaign. For example, if in the last season you increased your **occupation keyword** by +6, your GM may decide to increase the **resistance** by +3 or +6 to reflect the more challenging opposition in the new campaign. Your GM should also take into account that the opposition you were improving with respect to the previous season should now be considered more-easily defeated mooks, and use lower **scores** for them when they appear in the story.
 
 ### 2.7.1 No Progression
 
@@ -771,11 +771,9 @@ You may assign up to three **flaws** to their PC. Common flaws include:
 
 Certain **keywords** include **flaws**. **Flaws** gained through **keywords** do not count against the limit of three chosen  **flaws**. All **flaws** after the third are given the same **score** as the third **ability**. You may designate **flaws** from **keywords** as your first or second-ranked **flaw**. When **flaws** manifest during play, your GM places you in a **contest** against them, and rolls their associated **scores** as **resistances** to your efforts. This method applies to **flaws** that primarily present you with additional **story obstacles** to overcome.
 
-Your GM may decide during play that certain **flaws** are better expressed as **penalties** to your attempts to overcome other **resistances**. Divide the value by 5 and round (a **flaw** of 19 imposes a –4 **penalty**). This is appropriate where the player specifies that your **ability** to solve problems drops under certain specific conditions. Examples might include:
+During play your GM may decide that your **flaw** has been triggered. If you chose to act according to your **flaw** it is treated as an **assured contest** that you lose. As with other **assured contests** your GM may still call for you to roll to determine how badly the **flaw** impacts you. If you wish to act against your **flaw** you must obtain a **victory** in a **contest** against your **flaw**. You should describe your heroic attempts to overcome your instincts. If you do not contest your **flaw** or you lose a **contest** with your flaw, your GM determines any **consequences** you suffer from acting out your flaw (see §2.6). Your GM may impose a **penalty** if you gain the **victory** against your **flaw** representing your struggle against your inner nature or letting down dependents. Similarly, your GM might give you a **bonus** for acting according to your **flaw**. representing the sacrifices you have made for dependents or a temporary boost from satisfying your inner demons.
 
-* Tongue-tied in large gatherings.
-* Lousy with a stick shift.
-* Can’t stand snakes.
+When your GM exercises your flaw, you gain **hero points** (see §7.1).
 
 ## 3.5 Advanced Character Creation
 
@@ -1405,19 +1403,46 @@ The **adversary’s** goals are probably the opposite of yours, although they co
 
 To treat an **adversary** as an **ability**, rather than a **flaw**, describe your emotional response to them. Examples: *Hates Leonard Crisp*, *Fears the Electronaut*, *Sworn Vengeance Against Heimdall*. That way, you still inspire your GM to add the plot elements you desire, but can use your antipathy toward the enemy to **augment** your **target number**s against them.
 
-# 7.0 Hero Points
+# 7.0 Hero Points and Experience Points
 
-**Hero points (HP)** are a resource that you must carefully allocate. They allow you to improve your **result** by exchanging them for a **bump**. They are also the currency you pay to improve your **abilities** over time.
+During play your PC will earn **experience points (XP)**. **XPs** can be used to improve your character. But during a session, before you add your **XPs** to an **experience point pool** with which you can purchase an **improvement package** you can also **burn** them for a boost in a contest. Burning an **XP** gains you a **bump**. You can also **burn** an **XP** on a **plot edit**. Because only **XPs** gained within the session can be used for a **bump** within that session, we call them **hero points (HP)** . At the end of the session of play, unspent **HP** become **XP**
 
-## 7.1 Improving Your Character
+To summarize:
 
-You start each session with one **HP**. Any time that you take a significant action the GM can award you another **hero point**. The action should involve a **contest** but need not be successful. An action should be heroic or villainous in order to earn a **hero point**, not dull. Are the other players interested in what just happened? Don't trigger **contests** just to win **hero points**, your actions should drive story or character development forward.
+* At the beginning of a session you have 0 **hero points**.
+* During the session you may be awarded **hero points** (see §7.1.1).
+* During the session you may **burn** one **hero point** to **bump** your own roll, or on a **plot edit**.
+* At the end of a session, unspent **hero points** become **experience points** on a one-for-one basis and are added to your **experience point pool** (see §7.1.2)
+* When your **experience point pool** has sufficient points, you may use them to purchase an improvement (see §7.2)
+* When you spend **experience points** to purchase an **improvement package** they are subtracted from your pool.
 
-During a session you can spend those **HPs** as normal.
+## 7.1 Gaining Experience
 
-Your GM should award a maximum of 5 **HPs** in a session to you.
+During a session of play your character will have the chance to learn from experience or overcoming personal obstacles. When your character learns, they gain a **HP**. At the end of the session **HP** that were not **burned** on a **bump** or a **plot edit** become **XP** and are added to your **XP Pool**.
 
-Unspent **HPs** at the end of the session become **experience points (XPs)** and accumulate between sessions.
+### 7.1.1 Earning Hero Points
+
+You gain an **HP** for any of the following:
+
+* When your **result** for using an ability is a **failure** in a **simple contest**. You only gain an **HP** the first time your **result** is a **failure** to use that ability in a session; repeated **failures** to use the same ability teach you nothing else and you gain no further **HP** for that **ability** until the next session. You do not learn from a **fumble** and so you do not gain an **HP** when you **fumble**. If you **bump** your **result**, either through burning a **hero point** or a **mastery**, you do not gain an **HP** for that **contest**.
+* When you suffer a **defeat** in a **long contest**. You do not gain any **HPs** for a **failure** on an **exchange** in a **long contest**, only if you suffer a **defeat** in the **long contest**. You do not gain any **HPs** for a defeat in a **long contest** in which you burned **HPs** or used a **mastery** to **bump** your **result** in any **exchange**.
+* You gain an **XP** when your GM uses any of your **abilities** in a contest with you. This happens when the story forced you to confront a **flaw**, although your GM might use any **ability** this way, if the circumstances fit (see §3.4). If you accept acting according to your **flaw**, or the behavior proposed by the GM for that **ability**, you still gain the **HP**. You can only gain a **HP** from an individual **ability** being used against you once per session. Repeated confrontations with the same **flaw** or **ability** in the same session do not teach you anything else.
+
+You do NOT gain **HPs** from an **Assured Contest**, even if you roll to determine **benefits** or **consequences**. **Flaws** or **abilities** used as the **resistance** are an exception to this (see above).
+
+You can gain a maximum of five **hero points** in any one session. Once you have earned five **hero points**, including ones that were burned in a session, you cannot gain further **hero points** in that session. You should usually expect to earn less, and may earn none.
+
+Note that if you have a **mastery** in your **ability**, you will need to contend against a **resistance** that also has a **mastery** to learn by a **failure**. When **masteries** 'cancel out', you can once again roll a **failure** result giving you the opportunity to learn. You may also choose to use **abilities** that do not have a **mastery** even if an **ability** with a **mastery** could apply, as **failure** with them will lead to your gaining a **hero point**.
+ 
+As your **ability** ratings improve, you will gain fewer **HPs**, and thus be able to **bump** less often, and improve your **abilities** less frequently, unless you take on greater challenges. This is by design. Your GM should craft stories that provide greater challenges to experienced PCs to allow them the opportunity to earn **HPs**. Burning an **HP** to gain a **bump** prevents you from gaining a **HP** from that **contest**. Sometimes you may need to trade-off between a **defeat** from which you can learn, and a **victory** which brings you closer to your goal.
+
+### 7.1.2 Gaining Experience Points
+
+At the end of a session of play, any **HP** that you have not **burned** become **XP** on a one-for-one basis. Your **HP** reset to zero at the beginning of the next session of play.
+
+You accumulate **XP** in your **XP Pool** between sessions. You can use them to purchase an **improvement package** (see §7.2) at which point spent **XP** are subtracted from the pool.
+
+## 7.2 Improving Your Character
 
 When you accumulate 10 **XPs**, you can buy an advance. An advance allows you to select two of the following. You cannot choose an element more than once.
 
@@ -1429,20 +1454,20 @@ When you accumulate 10 **XPs**, you can buy an advance. An advance allows you to
 
 In some genres you may wish to maintain a tally of the total **XPs** earned as a measure of your reputation.
 
-### 7.1.1 Catch-Ups
+### 7.2.1 Catch-Ups
 
 To encourage well-rounded characters, a package deal, called a **catch-up**, becomes available whenever you acquire via improvement a new **mastery** in one of your **abilities** (**keyword** or stand-alone). Any time one of your **scores** crosses a **mastery** threshold (i.e. 20 -> 21, 40 -> 41, etc). you may also improve up to three **abilities** or **keywords** of your choice by three points each, as long as the chosen **abilities** are currently rated five or more points lower than your newly adjusted **scores** in the raised **ability** that triggered the **catch-up**.
 
 You may not increase the bonus of **breakout abilities** under a **keyword** with a **catch-up**, nor does net effective value of a breakout **ability** crossing a **mastery** threshold trigger a **catch-up**. Only a **keyword**'s base **scores** is considered in this context.
 
-### 7.1.2 Directed Improvements
+### 7.2.2 Directed Improvements
 
 On occasion your GM may increase one of your **abilities**, by +3, +6 or +9, or give you a new **ability**, usually rated at 13. These are called **directed improvements**.
 
 **Directed improvements** are usually rewards for overcoming particularly important or dramatic **story obstacles**. They happen immediately, rather than at session’s end.
 
 Your GM will tend to use them to raise **abilities** that would otherwise fall behind, but should increase due to story logic, or introduce new **abilities** for the same reason.
-## 7.2 Plot Edits
+## 7.3 Plot Edits
 
 *QuestWorlds* is a co-operative game, and you may create details about the setting as the normal part of narration. Your GM should allow this, as long as they do not break credibility. So, you may describe your PC walking over to the pot of soup bubbling on the fire, swiping a drink from the tray the waiter is carrying at the governor's ball, or taking the monorail to the next city to continue your investigation. Your GM should allow these additions without interruption, providing it does not confer significant advantage to your PC. Mostly this will be using elements that have already been established as part of the setting.
 
@@ -1450,19 +1475,20 @@ A **plot edit** is a more significant moment of good fortune that you wish to na
 
 A **plot edit** might be thought of as 'fate' or 'luck.'
 
-Spending **hero points** for a **plot edit** allows you to modify the setting or environment in your PC's favor. The chance encounter in the street with an NPC, favorable weather, car keys in the sun visor, the forthcoming eclipse, the wind that fills the sails.
+Spending **HPs** for a **plot edit** allows you to modify the setting or environment in your PC's favor. The chance encounter in the street with an NPC, favorable weather, car keys in the sun visor, the forthcoming eclipse, the wind that fills the sails.
 
 Your GM is the arbitrator of whether a **plot edit** is allowed. It should not suspend the disbelief of the other players in the game or setting or hamper their enjoyment. It should not derail or short-circuit the game's entertainment. The **plot edit** should, by contrast, be something that enhances the story for all the players.
 
-The cost, in **hero points**, of a **plot edit**, is given by the following table.
+The cost, in **HPs**, of a **plot edit**, is given by the following table. You may pool **HPs** with other PCs to buy a **plot edit**. The other PCs do not need to be present with your character for this.
 
-#### 7.2.1.1 PLOT EDIT TABLE
+#### 7.3.1.1 PLOT EDIT TABLE
 
 |Level                    |Cost |Impact                   |Example                  |
 |:-----------------------:|:---:|:-----------------------:|:-----------------------:|
 |Marginal     |1|A substantive change that does not alter the situation but offers an alternate avenue for resolution|The gate guard at the secret government facility tonight is an old war buddy established by the PC in a prior scene and cemented as a relationship|
 |Minor|2|A substantive change that does not flow from previously established facts in the story. A *deus ex machina* change|The XO of the Patrol ship is an old drinking buddy of your PC, a fact not previously established in play|
 |Major|3|A stroke of good fortune that is unrelated to prior events and resolves a conflict or reveals a secret|The vampire has failed to notice the approaching sun rise, which disintegrates them just as they are about to drain the incapacitated PC|
+
 # 8.0 Community Resources and Support
 
 Some series revolve around the relationship between a band of influential figures and the community they protect. In defense of the community, they can **bolster**, expend, and juggle its various **resources**.
@@ -1637,6 +1663,8 @@ Your GM may decide that certain remarkable triumphs or horrifying catastrophes m
 
 **Bump** An increment of the **result** of a roll, up or down. So a bump up moves a **fumble**, to a **failure**, to a **success** to a **critical**, a bump down moves a **critical**, to a **success**, to a **failure** to a **fumble**. One step is moved per **bump**. It is usually the impact of a **hero point** or **mastery**.
 
+**Burn** Using a **hero point** as a bump. The **hero point** is lost after burning.
+
 **Catch-Up** When you cross a **mastery** threshold you can increase lesser used **abilities** to ensure they keep pace.
 
 **Climax** A **long contest** **story obstacle** that provides the conclusion to a story.
@@ -1673,7 +1701,9 @@ Your GM may decide that certain remarkable triumphs or horrifying catastrophes m
 
 **Extended Contest** A type of **long contest** in which you track the relative advantage one opponent has over another using **advantage points**.
 
-**Experience Points (XP)** When you do not spend a **hero point** in a session it becomes an **experience point**, which can accumulate between sessions.
+**Experience Points (XP)** When you do not spend a **hero point** in a session it becomes an **experience point**, which can accumulate between sessions in an **Experience Point Pool**.
+
+**Experience Point Pool (XP Pool)** Accumulated hero points that can be used to buy an **improvement package**.
 
 **Extraordinary ability** Certain genres allow player characters to have **abilities** that exceed human norms, these are **extraordinary abilities**. A genre pack normally outlines what is possible as part of its extraordinary powers framework.
 
