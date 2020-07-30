@@ -1405,7 +1405,7 @@ To treat an **adversary** as an **ability**, rather than a **flaw**, describe yo
 
 # 7.0 Hero Points and Experience Points
 
-During play your PC will earn **experience points (XP)**. **XPs** can be used to improve your character. But during a session, before you add your **XPs** to an **experience point pool** with which you can purchase an **improvement package** you can also **burn** them for a boost in a contest. Burning an **XP** gains you a **bump**. You can also **burn** an **XP** on a **plot edit**. Because only **XPs** gained within the session can be used for a **bump** within that session, we call them **hero points (HP)** . At the end of the session of play, unspent **HP** become **XP**
+During play your PC will earn **experience points**. **Experience Points** can be used to improve your character. But during a session, before you add your **experience points** to an **experience point pool** with which you can purchase an **improvement package** you can also **burn** them for a boost in a contest. Burning a **experience point** earned in that session gains you a **bump** (see §2.3.7). You can also **burn** an **experience point** gained that session for a **plot edit** (see §7.3). Because only **experience points** gained within the session can be used for a **bump** or **plot edit** within that session, we call them **hero points (HP)** to make them easy to track. At the end of the session of play, unspent **hero points** become **experience points**.
 
 To summarize:
 
@@ -1413,38 +1413,38 @@ To summarize:
 * During the session you may be awarded **hero points** (see §7.1.1).
 * During the session you may **burn** one **hero point** to **bump** your own roll, or on a **plot edit**.
 * At the end of a session, unspent **hero points** become **experience points** on a one-for-one basis and are added to your **experience point pool** (see §7.1.2)
-* When your **experience point pool** has sufficient points, you may use them to purchase an improvement (see §7.2)
+* When your **experience point pool** has sufficient points, you may use them to purchase an **improvement package** (see §7.2)
 * When you spend **experience points** to purchase an **improvement package** they are subtracted from your pool.
 
 ## 7.1 Gaining Experience
 
-During a session of play your character will have the chance to learn from experience or overcoming personal obstacles. When your character learns, they gain a **HP**. At the end of the session **HP** that were not **burned** on a **bump** or a **plot edit** become **XP** and are added to your **XP Pool**.
+During a session of play your character will have the chance to learn from experience or overcoming personal obstacles. When your character learns, they gain a **hero points**. At the end of the session **hero points** that were not **burned** on a **bump** or a **plot edit** become **experience points** and are added to your **experience point pool**.
 
 ### 7.1.1 Earning Hero Points
 
-You gain an **HP** for any of the following:
+You gain one **hero points** for any of the following:
 
-* When your **result** for using an ability is a **failure** in a **simple contest**. You only gain an **HP** the first time your **result** is a **failure** to use that ability in a session; repeated **failures** to use the same ability teach you nothing else and you gain no further **HP** for that **ability** until the next session. You do not learn from a **fumble** and so you do not gain an **HP** when you **fumble**. If you **bump** your **result**, either through burning a **hero point** or a **mastery**, you do not gain an **HP** for that **contest**.
-* When you suffer a **defeat** in a **long contest**. You do not gain any **HPs** for a **failure** on an **exchange** in a **long contest**, only if you suffer a **defeat** in the **long contest**. You do not gain any **HPs** for a defeat in a **long contest** in which you burned **HPs** or used a **mastery** to **bump** your **result** in any **exchange**.
-* You gain an **XP** when your GM uses any of your **abilities** in a contest with you. This happens when the story forced you to confront a **flaw**, although your GM might use any **ability** this way, if the circumstances fit (see §3.4). If you accept acting according to your **flaw**, or the behavior proposed by the GM for that **ability**, you still gain the **HP**. You can only gain a **HP** from an individual **ability** being used against you once per session. Repeated confrontations with the same **flaw** or **ability** in the same session do not teach you anything else.
+* When your **result** for using an ability is a **failure** in a **simple contest**. You only gain one **hero point** the first time your **result** is a **failure** to use that ability in a session; repeated **failures** to use the same ability teach you nothing else and you gain no further **hero points** for that **ability** until the next session. You do not learn from a **fumble** and so you do not gain a **hero points** when you **fumble**. If you **bump** your **result**, either through burning a **hero point** or a **mastery**, you do not gain a **hero point** for that **contest**.
+* When you suffer a **defeat** in a **long contest**. You do not gain any **hero points** for a **failure** on an **exchange** in a **long contest**, only if you suffer a **defeat** in the **long contest**. You do not gain any **hero points** for a defeat in a **long contest** in which you burned **hero points** or used a **mastery** to **bump** your **result** in any **exchange**.
+* You gain a **hero point** when your GM uses any of your **abilities** in a contest with you. This happens when the story forced you to confront a **flaw**, although your GM might use any **ability** this way, if the circumstances fit (see §3.4). If you accept acting according to your **flaw**, or the behavior proposed by the GM for that **ability**, you still gain the **hero point**. You can only gain a **hero point** from an individual **ability** being used against you once per session. Repeated confrontations with the same **flaw** or **ability** in the same session do not teach you anything else.
 
-You do NOT gain **HPs** from an **Assured Contest**, even if you roll to determine **benefits** or **consequences**. **Flaws** or **abilities** used as the **resistance** are an exception to this (see above).
+You do NOT gain **hero points** from an **Assured Contest**, even if you roll to determine **benefits** or **consequences**. **Flaws** or **abilities** used as the **resistance** are an exception to this (see above).
 
 You can gain a maximum of five **hero points** in any one session. Once you have earned five **hero points**, including ones that were burned in a session, you cannot gain further **hero points** in that session. You should usually expect to earn less, and may earn none.
 
 Note that if you have a **mastery** in your **ability**, you will need to contend against a **resistance** that also has a **mastery** to learn by a **failure**. When **masteries** 'cancel out', you can once again roll a **failure** result giving you the opportunity to learn. You may also choose to use **abilities** that do not have a **mastery** even if an **ability** with a **mastery** could apply, as **failure** with them will lead to your gaining a **hero point**.
  
-As your **ability** ratings improve, you will gain fewer **HPs**, and thus be able to **bump** less often, and improve your **abilities** less frequently, unless you take on greater challenges. This is by design. Your GM should craft stories that provide greater challenges to experienced PCs to allow them the opportunity to earn **HPs**. Burning an **HP** to gain a **bump** prevents you from gaining a **HP** from that **contest**. Sometimes you may need to trade-off between a **defeat** from which you can learn, and a **victory** which brings you closer to your goal.
+As your **ability** ratings improve, you will gain fewer **hero points**, and thus be able to **bump** less often, and improve your **abilities** less frequently, unless you take on greater challenges. This is by design. Your GM should craft stories that provide greater challenges to experienced PCs to allow them the opportunity to earn **hero points**. Burning a **hero point** to gain a **bump** prevents you from gaining a **hero point** from that **contest**. Sometimes you may need to trade-off between a **defeat** from which you can learn, and a **victory** which brings you closer to your goal.
 
 ### 7.1.2 Gaining Experience Points
 
-At the end of a session of play, any **HP** that you have not **burned** become **XP** on a one-for-one basis. Your **HP** reset to zero at the beginning of the next session of play.
+At the end of a session of play, any **hero points** that you have not **burned** become **experience points** on a one-for-one basis. Your **hero points** reset to zero at the beginning of the next session of play.
 
-You accumulate **XP** in your **XP Pool** between sessions. You can use them to purchase an **improvement package** (see §7.2) at which point spent **XP** are subtracted from the pool.
+You accumulate **experience points** in your **experience point pool** between sessions. You can use them to purchase an **improvement package** (see §7.2) at which point spent **experience points** are subtracted from the pool.
 
 ## 7.2 Improving Your Character
 
-When you accumulate 10 **XPs**, you can buy an advance. An advance allows you to select two of the following. You cannot choose an element more than once.
+When you accumulate 10 **experience points**, you can buy an advance. An advance allows you to select two of the following. You cannot choose an element more than once.
 
 - +9 to a standalone **ability** or breakout **ability**; or +6 to a **keyword**.
 - +6 to a standalone **ability** or breakout **ability**; or +3 to a **keyword**.
@@ -1452,7 +1452,7 @@ When you accumulate 10 **XPs**, you can buy an advance. An advance allows you to
 - a new standalone **ability** at 13.
 - Turn a stand-alone **ability** into a **keyword** by adding a new +1 breakout **ability** to it.
 
-In some genres you may wish to maintain a tally of the total **XPs** earned as a measure of your reputation.
+In some genres you may wish to maintain a tally of the total **experience points** earned as a measure of your reputation.
 
 ### 7.2.1 Catch-Ups
 
@@ -1475,11 +1475,11 @@ A **plot edit** is a more significant moment of good fortune that you wish to na
 
 A **plot edit** might be thought of as 'fate' or 'luck.'
 
-Spending **HPs** for a **plot edit** allows you to modify the setting or environment in your PC's favor. The chance encounter in the street with an NPC, favorable weather, car keys in the sun visor, the forthcoming eclipse, the wind that fills the sails.
+Burning **hero points** for a **plot edit** allows you to modify the setting or environment in your PC's favor. The chance encounter in the street with an NPC, favorable weather, car keys in the sun visor, the forthcoming eclipse, the wind that fills the sails.
 
 Your GM is the arbitrator of whether a **plot edit** is allowed. It should not suspend the disbelief of the other players in the game or setting or hamper their enjoyment. It should not derail or short-circuit the game's entertainment. The **plot edit** should, by contrast, be something that enhances the story for all the players.
 
-The cost, in **HPs**, of a **plot edit**, is given by the following table. You may pool **HPs** with other PCs to buy a **plot edit**. The other PCs do not need to be present with your character for this.
+The cost, in **hero points**, of a **plot edit**, is given by the following table. You may pool **hero points** with other PCs to buy a **plot edit**. The other PCs do not need to be present with your character for this.
 
 #### 7.3.1.1 PLOT EDIT TABLE
 
@@ -1813,6 +1813,7 @@ Your GM may decide that certain remarkable triumphs or horrifying catastrophes m
 
 These are the major changes in this version of the rules
 
+* You gain hero points not from showing up, or roleplaying, but from failed rolls or flaws - learning by experience.
 * Moved the Degree of Victory to an Appendix. We now recommend that the GM just uses victory and defeat and adjudicates a suitable bonus or penalty if needed.
 * Added ranks to codify the +3, +6, +9, ... progression used throughout.
 * For Degree of Victory, clarified that contest results are only reciprocal between PCs. When the contest is against a resistance set by the GM, the results indicate whether the PC gains the prize, and the GM narrates the result for the resistance based on this.
