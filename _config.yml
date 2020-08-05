@@ -7,7 +7,7 @@ relative_links:
 include:
 0.0_Credits_&_Legal_Information.md
 0.1_Legal_Information.md
-  - 0.2_Credits.md
+0.2_Credits.md
   - 1.0_Introduction.md
   - 1.1_Why_QuestWorlds.md
   - 1.2_Version.md
