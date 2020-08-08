@@ -48,23 +48,24 @@ VAR1=$(CAT << EOF
 6.4_Contacts.md \
 6.5_Followers.md \
 6.6_Relationships_as_Flaws.md \
-7.0_Hero_Points.md \
-7.1_Gaining_Experience.md \
-7.2_Improving_Your_Character.md \
-7.3_Plot_Edits.md \
-8.0_Community_Resources_and_Support.md \
-8.1_Community_Design.md \
-8.2_Drawing_on_Resources.md \
-8.3_Changes_to_Resource_Ratings.md \
-8.4_Changes_from_Plot_Events.md \
-9.0_Appendix.md \
-9.1_Glossary_of_Terms.md \
-9.2_Version_Changes.md  \
-9.3_Outcomes.md  \
-9.4_Benefits_and_Consequences.md \
-9.5_Augments.md \
-9.6_Drawing_On_Resources.md \
-9.7_Additional_Terms.md 
+7.0_Story_Points.md \
+7.1_Bump_with_Story_Points.md \
+7.2_Plot_Edits.md \
+8.0_Experience.md \
+8.1_Improving_Your_Character.md \
+9.0_Community_Resources_and_Support.md \
+9.1_Community_Design.md \
+9.2_Drawing_on_Resources.md \
+9.3_Changes_to_Resource_Ratings.md \
+9.4_Changes_from_Plot_Events.md \
+10.0_Appendix.md \
+10.1_Glossary_of_Terms.md \
+10.2_Version_Changes.md  \
+10.3_Outcomes.md  \
+10.4_Benefits_and_Consequences.md \
+10.5_Augments.md \
+10.6_Drawing_On_Resources.md \
+10.7_Additional_Terms.md 
 EOF
 )
 
