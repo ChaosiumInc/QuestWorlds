@@ -273,7 +273,7 @@ Your GM may also use an **assured contest** when there is no interesting story b
 
 Sometimes your GM will decide potential complications could arise in overcoming an **story obstacle**. Or they may want to give you a **bonus** if you do particularly well. If so, they will call for you to make a die roll even though your **victory** is not in question. Your GM will use your die roll **result** to decide if any unforeseen **consequences** or **benefits** arose from your actions.
 
-If you roll a **failure**, you still beat the obstacle, but you also suffer an adverse **consequence** (see §2.6). The nature of this adversity is up to the GM. It will probably be **penalty** involving the same tactic you used in this one (because you exhausted yourself, sprained an ankle, embarrassed yourself in front of your peers, etc.) or to the value of one of your relationships.
+If you roll a **failure**, you still beat the obstacle, but you also suffer an adverse **consequence** (see §2.7). The nature of this adversity is up to the GM. It will probably be **penalty** involving the same tactic you used in this one (because you exhausted yourself, sprained an ankle, embarrassed yourself in front of your peers, etc.) or to the value of one of your relationships.
 
 If you achieve a high **result**, you’ll receive a **benefit** from your effort (see §2.6). Again, this is up to the GM to define. It could be a **bonus** to the **tactic** used in the **contest**, or to of one of your relationships, etc.
 
@@ -353,7 +353,7 @@ A **contest** represents all of your attempts to overcome a **story obstacle**. 
 
 ### 2.3.3 Rank
 
-Your GM uses a **rank** when choosing to adjust a **target number**. That adjustment may come from an **augment** (see §2.5), **modifier** (see §2.4), **benefits** or **consequences** (see §2.6). Your GM also uses the same **rank** when determining the **resistance**.
+Your GM uses a **rank** when choosing to adjust a **target number**. That adjustment may come from an **augment** (see §2.5), **modifier** (see §2.4), **benefits** or **consequences** (see §2.7). Your GM also uses the same **rank** when determining the **resistance**.
 
 Bonuses to the dice roll use the scale of values: +3, +6. +9, +M, +M2
 Penalties to the dice roll use the scale of values: -3, -6, -9, -M, -M2
@@ -537,13 +537,13 @@ If your GM decides it is uncertain whether your **ability** can **augment** this
 
 If you are victorious in the **augment contest**, your GM will award a **bonus** of +3 to the **ability** used in the main **contest**. If your description of how you were using the **augmenting ability** was particularly entertaining, your GM may increase the **bonus** to +6.
 
-# 2.6 Flaws
+## 2.6 Flaws
 
-During play your GM may decide that your **flaw** has been triggered. A **flaw** might apply to the **tactic** you are using in upcoming **contest**, when it is called a **hindrance** (see §3.4.1). Alternatively a **flaw** might simply come into play when you want to describe your PC acting in a certain way, and your GM feels that one of your **flaws** could prevent this, or your GM feels that a situation raises a challenge that means one of your **flaw** means would lead to you responding in a certain way. (see 3.4.2).
+During play your GM may decide that your **flaw** has been triggered. A **flaw** might apply to the **tactic** you are using in upcoming **contest**, when it is called a **hindrance** (see §2.6.1). Alternatively a **flaw** might simply come into play when you want to describe your PC acting in a certain way, and your GM feels that one of your **flaws** could prevent this, or your GM feels that a situation raises a challenge that means one of your **flaw** means would lead to you responding in a certain way. (see §2.6.2).
 
-When you experience a **penalty** due to a flaw, you gain an **experience point** (see §7.1).
+When you experience a **penalty** due to a flaw, you gain an **experience point** (see §8.1).
 
-## 2.6.1 Hindrance
+### 2.6.1 Hindrance
 
 if you describe a **tactic** for a **contest** that is in conflict with a **flaw**, your GM may decide to impose a **penalty** called a **hindrance** against you in the upcoming **contest**. Your GM may also use an **ability** on your character sheet against you in this way too, if appropriate. This may be the case for relationships you have, philosophies you espouse, or groups you belong to. Your GM should trigger a **hindrance** from a **keyword** more frequently than from a stand-alone **ability** that is not a **flaw**. Your GM may treat their use of an **keyword** as a **flaw** as a **stretch** when invoking it.
 
@@ -553,21 +553,21 @@ If your GM feels that there is no uncertainty as to whether the **flaw** applies
 
 If your GM feels that it is uncertain as to whether the **flaw** hinders you, or you are able to overcome it, and you agree that you wish to try, treat it as a **simple contest**. Roll the rating of your **flaw** against the **base resistance**. On a **victory**, you receive a **penalty** of -3 or -6 depending on how significant a **hindrance** your GM feels the flaw is to your **tactic**. On a **defeat**, you overcome the **flaw**. You may want to describe how you overcome your **flaw** to use your **tactic**.
 
-## 2.6.2 Act according to your flaw
+### 2.6.2 Act according to your flaw
 
 At times the direction of the story you are all telling may place your PC in situations when it seems likely they would act according to their **flaw**. The addict may reach for drink or drugs following an emotional setback, a lust for vengeance may come between your PC and showing mercy, prejudices or bigotry may prevent your from seeing others positively.  
 
-If you chose to act according to your **flaw** there is no contest, simply describe your character behaving as the **flaw** dictates. This might result in a **hindrance** to further actions (see §3.4.1)
+If you chose to act according to your **flaw** there is no contest, simply describe your character behaving as the **flaw** dictates. This might result in a **hindrance** to further actions (see §2.6.1)
 
 If you wish to act against your **flaw**, your **tactic** must pass a **credibility test** as to how you try overcome your **flaw** in this instance. Then you must obtain a **victory** in a **simple contest** against your **flaw**. On a **victory** you may act in a way that contradicts your **flaw**.
 
-If you submit to your **flaw**, your GM might impose a **hindrance** on further actions (see §3.4.1). You should not resist this **hindrance** unless the situation is not related to the one which triggered your **flaw** in this instance, or significant time has now passed.
+If you submit to your **flaw**, your GM might impose a **hindrance** on further actions (see §2.6.1). You should not resist this **hindrance** unless the situation is not related to the one which triggered your **flaw** in this instance, or significant time has now passed.
 
 Your GM may impose a **penalty** even if you gain the **victory** against your **flaw** representing your struggle against your inner nature or letting down dependents.
  
 Similarly, your GM might give you a **bonus** for acting according to your **flaw**. representing the sacrifices you have made for dependents or a temporary boost from satisfying your inner demons.
 
-If your GM compels you to act according to your **flaw**, you gain an **experience point** (see §7.1).
+If your GM compels you to act according to your **flaw**, you gain an **experience point** (see §8.1).
 
 ## 2.7 Benefits and Consequences
 
@@ -707,7 +707,7 @@ On certain occasions your GM may rule that you can only hope to achieve the **pr
 
 Combining your abilities, rather than using the best one and **augmenting** it with other, is always a disadvantage. Your GM should only require combined **ability** use when story logic absolutely demands that you face a lower chance of **success**, because you have to do two things at once.
 
-## 2.13 Mismatched and Graduated Goals
+## 2.10 Mismatched and Graduated Goals
 
 Sometimes, the two sides in a **contest** may have goals that do not directly conflict one another. A huntsman pursues a nurse, who is trying to escape through the forest with two small children. The huntsman wants to kill the nurse. The nurse wants to save the children.
 
@@ -716,6 +716,34 @@ When encountering **mismatched goals**, your GM should determine whether the mis
 In a **complete mismatch**, neither side is at all interested in preventing the other’s goal. A **complete mismatch** does not end in a **contest**; your GM asks what you are doing, and then describes each participant succeeding at their goals.
 
 In most instances, the **contest** goals are not actually **mismatched**, but **graduated**. You have both a **primary** and a **secondary** goal. In this case, your GM frames the **contest**, identifying which goal is which. To achieve both, you must get a higher **result** than your opponent, such as **success** vs. **failure** or a **critical** vs **success**. On a better roll alone, such as **success** vs. **success** or **failure** vs **failure**, your GM may present you with the choice of which objective you obtain, where that choice illuminates your PC's priorities.
+
+## 2.11 Mobs, Gangs, and Hordes
+
+Sometimes you will face large numbers of opponents. Your GM can treat many as one. Your GM divides the number of opponents by the number of contesting PCs. Your GM then treats each of these sections of the crowd as a single opponent with one **score**. Their numbers are factored into the **score** your GM assigns to them.
+
+If in doubt, your GM should think of the **resistance** that would be dramatically appropriate for a single opponent and then adjust it with a **bonus** of +3, +6 or +9 depending on how outnumbered you are. No more than six foes can typically contend with you in a physical confrontation, or two in a social one, or they tend to get in each other's way.
+
+When the mob loses an exchange, your GM describes individuals within it as being hurt or falling away. When it wins, describe them overwhelming you, or swelling in numbers.
+
+## 2.12 Ganging Up
+
+Sometimes you may outnumber your opponent. As above, if in doubt, the GM should think of the **resistance** that would be dramatically appropriate for a one-on-one confrontation and then adjust it with a **penalty** of -3, -6, or -9 depending on how significantly you outnumber them. As above, note that unless your opponent is extraordinarily large, you cannot confront them physically with more than about six people (include **followers**) or socially with about two people (again include **followers**) or people just get in each other's way.
+
+## 2.13 Mass Effort
+
+Clashes of massive forces resolve like any other **contest**, **simple** or **long**. These include:
+
+* Military engagements
+* Corporate struggles for market share • Building competitions
+* Efforts to spread a faith or ideology • Dance competitions
+
+If you are not participating in the **contest** and have no stake in its **outcome**, then your GM doesn’t bother to run a **contest**. The GM just chooses an **outcome** for dramatic purposes.
+
+Otherwise, your GM will start by determining your degree of influence over the **outcome**. They are either:
+
+* Determining factors: The success of the effort depends mostly on your choices and successes. For example, you might be a military leader facing a force of roughly equal potency. As all else is equal, the better general will win the day. In this instance, your **tactic** should be a relevant leadership **ability**.
+* Contributors: One of the forces enjoys a clear advantage over the others, but your efforts may tip the balance in favor of a chosen side. Your GM will give you a **TN** to roll against that represents the strength of your force, but you can **augment** that **TN** with an appropriate leadership **ability**.
+* Acted Upon: You have little influence over the **outcome**, but are stuck in the middle of the conflict and must struggle to prosper within it. The GM predetermines the **outcome** of the overall competition on dramatic grounds. To determine your fate in the battle, you **contest** against a **resistance** determined by the GM, derived from the overall battle **outcome**.
 
 # 3.0 Character Creation
 
@@ -840,7 +868,7 @@ There is no limit to the number of **abilities** you can gain from a single sent
 1. Your GM **frames the contest**.
 2. You choose a **tactic**, and figure your PC's **target number** (**TN**) using the **score** and any **modifiers**. The PCs **TN** is the **score** of their **ability**, plus or minus **modifiers** the GM may give you.
 3. Your GM determines the **resistance**.  If two PCs contend, your opponent figures their **TN** as described in step 2.
-4. Roll a D20 to determine your **success or failure**, then apply any **bumps**. Your GM does the same for the **resistance**. Compare your rolled number with your **TN** to see how well you succeeded or failed with your **ability**. Remember to apply any **bumps** from **masteries** or **story points**.
+4. Roll a D20 to determine your **success or failure**, then apply any **bumps**. Your GM does the same for the **resistance**. Compare your rolled number with your **TN** to see how well you succeeded or failed with your **ability**. Remember to apply any **bumps** from **masteries** or **story points**. Award **experience points** if appropriate (see §8.1).
 5. Determine **victory** or **defeat**
 6. Describe the **outcome** based on the **story obstacle**.
 
@@ -855,11 +883,11 @@ A **group simple contest** may pit all of you against a single **resistance**, r
 1. Your GM **frames the contest**.
 2. You choose a **tactic**, and figure your PC's **target number** (**TN**) using the **score** and any **modifiers**. Your **TN** is the **score** of their **ability**, plus or minus **modifiers** the GM may give you.
 3. Your GM determines the **resistance**.  If two PCs contend, your opponent figures their **TN** as described in step 2.
-4. For each of your group, roll a D20 to determine your **success or failure**, then apply any **bumps**. Your GM does the same for the **resistance**. Compare your rolled number with your **TN** to see how well you succeeded or failed with your **ability**. Remember to apply any **bumps** from **masteries** or **story points**.
+4. For each of your group, roll a D20 to determine your **success or failure**, then apply any **bumps**. Your GM does the same for the **resistance**. Compare your rolled number with your **TN** to see how well you succeeded or failed with your **ability**. Remember to apply any **bumps** from **masteries** or **story points**. Aware **experience points** if appropriate (see §8.1).
 5. The side with the highest number of **victories** is the overall victor in the **contest**.
 6. Describe the **outcome** based on the agreed **prize**.
 
-It is possible that you suffer a **defeat**, even though your side gains the **victory**. It is possible that, as a result, that your GM will suffer a **consequence of defeat** (see §2.6) related to your **defeat**, even though your side won. If your side loses, then you may suffer both a **consequence of defeat** for your own individual **contest**, and a **consequence of defeat** for the overall **contest**. That may simply be a worsening of the **consequence of defeat**.
+It is possible that you suffer a **defeat**, even though your side gains the **victory**. It is possible that, as a result, that your GM will suffer a **consequence of defeat** (see §2.7) related to your **defeat**, even though your side won. If your side loses, then you may suffer both a **consequence of defeat** for your own individual **contest**, and a **consequence of defeat** for the overall **contest**. That may simply be a worsening of the **consequence of defeat**.
 
 # 5.0 Long Contests
 
@@ -903,7 +931,7 @@ A **scored contest** consists of one or more **rounds**, in which you perform ac
 4. Carry out one or more **rounds**, repeating as necessary.
     1. A **scored contest** unfolds as a series of **simple contests**. At the end of each **simple contest**, the winner scores a number of **resolution points (RPs)** to their tally, which varies between 1 and 5, depending on the **result**. Tied **results** leave the score unchanged.
     2. Your GM decides which opponent has the initiative and describes what they are trying to do to achieve the **prize**, the 'aggressor'. The 'defender' describes how they counter the aggressor's attempt to seize the **prize**. If it is not obvious from the unfolding narrative, your GM should choose your PC as the 'aggressor'.
-    3. Conduct a **simple contest** as normal, but once the **outcome** has been determined, it becomes a number of **resolution points** scored by the winning side.
+    3. Conduct a **simple contest** as normal, but once the **outcome** has been determined, it becomes a number of **resolution points** scored by the winning side. Award **experience points** if appropriate (see §8.1).
     4. The number of **resolution points** the winner garners at the end of each **round** depends on the difference in their **results**, (see below).
     5. The first to accumulate a total of 5 **resolution points** wins; their opponent is knocked out of the **contest** and loses the **prize**.
 5. Determine the **scored contest outcome** based on **rising action** or **climax** (below).
@@ -1008,7 +1036,7 @@ You may lose some pairings amongst the PCs, but still win if the last participan
 6. For each pairing your GM carries out one **round**. Then they repeat by carrying out more **rounds** in order, as necessary. The **group scored contest** ends as soon as there are no active participants on one side of the conflict. The side with one or more participants left standing wins.
     1. A **group scored contest** unfolds as a series of **simple contests**. At the end of each **simple contest**, the winner scores a number of **resolution points (RPs)** to their tally, which varies between 1 and 5, depending on the result. Tied results leave the score unchanged.
     3. Your GM decides which opponent in a pair has the initiative and describes what they are trying to do to achieve the **prize**, the 'aggressor'. The 'defender' describes how they counter the aggressor's attempt to seize the **prize**. If it is not obvious from the unfolding narrative, your GM should choose your PC as a the 'aggressor'.
-    4. Conduct a **simple contest** as normal, but once the **outcome** has been determined, it becomes a number of **resolution points** scored by the winning side.
+    4. Conduct a **simple contest** as normal, but once the **outcome** has been determined, it becomes a number of **resolution points** scored by the winning side. Award **experience points** if appropriate (see §8.1).
     5. The number of **resolution points** the winner garners at the end of each **round** depends on the difference between their **results**, (see §5.1.2).
     6. The first to accumulate a total of 5 points wins; their opponent is knocked out of the **contest**.
         1. As one of a pair is eliminated from the **group scored contest**, their victorious opponents may then move on to engage new targets, starting new **contests**, which are then added to the end of the existing sequence.
@@ -1098,7 +1126,7 @@ An **extended contest** consists of one or more **rounds**, in which you perform
         4. If either contestant reaches 0 **advantage points** or fewer, the contest is over.
         5. The GM then hazards a number of **APs** for the **resistance**. 
         6. Roll a die to determine your **result**, then apply any **bumps**. Your GM does the same.
-        7. Compare the results of the two **results** to determine who loses **AP**; only when you have a **critical** can you gain **AP** from your opponent. (see §5.3.2.3)
+        7. Compare the results of the two **results** to determine who loses **AP**; only when you have a **critical** can you gain **AP** from your opponent. (see §5.3.2.3). Award **experience points** if appropriate (see §8.1).
         8. If either contestant reaches 0 **advantage points** or fewer, the contest is over.
 
 ### 5.3.2 Advantage Points
@@ -1274,7 +1302,7 @@ Use an **unrelated action** and describe what your character is trying to do to 
 
 **Chained contests** do not defer **consequences** to the end of the **contest**, instead your GM applies the **consequences** to the loser in the **contest** immediately following a **round**. This leads to a grittier feel to the **contest**, but at the price of a death spiral: once you lose the **consequences** make it likelier that you will lose again. **Chained contests** tend to produce the most extreme **outcomes**, as participants tend to accumulate significant **consequences**.
 
-To run an **chained contest** your GM runs a **simple contest** as normal, and then applies **consequences** (see §2.6) with immediate effect.
+To run an **chained contest** your GM runs a **simple contest** as normal, and then applies **consequences** (see §2.6) with immediate effect. Award **experience points** if appropriate (see §8.1).
 
 You decide if you wish to continue the **chained contest**, and your GM makes a similar determination for the **resistance**. Both you and your GM then express your intent. If your or your GM wishes to continue, play out another **simple contest**. If you, or your GM, wishes to **disengage**, then on a **victory** you leave the contest, without inflicting consequences on the opposition. If both you and the GM wish to leave the contest, then you both **disengage**, and the contest ends.
 
@@ -1282,7 +1310,7 @@ You can switch **abilities** within the contest, provided your GM agrees that th
 
 If the **penalties** suffered by one contestant reduce their **ability** below 0, they must concede the contest, If it makes sense, your GM may allow you to continue by switching **abilities**. The GM may decide that accumulated **penalties** apply to the new ability used in the contest - this may still force you to concede.
 
-A **chained contest** can benefit from using the difference between **results** as a **rank** when your GM assesses the **benefits and consequence** (see §2.6.2).
+A **chained contest** can benefit from using the difference between **results** as a **rank** when your GM assesses the **benefits and consequence** (see §2.7.2).
 
 **Chained contests** are asymmetric, in that they accumulate **consequences** for the loser, and not **benefits** for the winner. Your GM may decide to award **benefits** to a victorious PC after the **contest** ends (see §2.6).
 
@@ -1425,13 +1453,13 @@ You can decide to spend one of your group's **story points** from the **pool** a
 
 ## 7.0.1 Refreshing Story Points
 
-Because you burn a **story point** to use it, your **story point pool** may become exhausted. The GM has three alternative strategies for refreshing your **pool:**
+Because you burn a **story point** to use it, your **story point pool** may become exhausted. The GM has three alternative strategies for **refreshing** your **story point pool:**
 
-* The **story point pool** refreshes at the beginning of every session of play.
-* The **story point pool** refreshes whenever your PCs engage in genre-appropriate downtime. Usually the GM plays this out as a montage, asking your character to describe genre appropriate activities in this time period.
-* The **story point pool** refreshes whenever the GM deems it necessary, based on their desire to allow you to edit the upcoming story.
+* The **story point pool refreshes** at the beginning of every session of play.
+* The **story point pool refreshes** whenever your PCs engage in genre-appropriate downtime. Usually the GM plays this out as a montage, asking your character to describe genre appropriate activities in this time period.
+* The **story point pool refreshes** whenever the GM deems it necessary, based on their desire to allow you to edit the upcoming story.
 
-Ultimately your GM is always the arbiter of how the **story point pool** refreshes. You may never have more **story points** in the pool, than a total of one **story point** per PC.
+Ultimately your GM is always the arbiter of how the **story point pool refreshes**. On a refresh your **story points** pool resets to one **story point** per PC.
 
 ## 7.0.2 Player vs. Player
 
@@ -1446,8 +1474,7 @@ To summarize:
 * During the session you may **burn** one or more **story points**  on a **plot edit**.
 * **Story points** that are burned are lost from the **story point pool**.
 * The GM decides on the conditions to a refresh a **story point pool**.
-* The **story point pool** never refreshes beyond the maximum of 1 **story points** per PC in the pool. 
-
+* The **story point pool** refreshes to 1 **story point** per PC in the pool.
 
 ## 7.1 Bump with Story Points
 
@@ -1486,11 +1513,11 @@ During a session of play your character will have the chance to learn from exper
 You gain one **experience points** for any of the following:
 
 * When your **result** for using an ability is a **failure** in a **contest**.
-* You gain a **experience point** when your GM uses a **flaw** or other **ability** against you in a contest with you as per the chapter Flaws (see §3.4). This happens either when the story forced you to confront a **flaw**, or the GM gave you a **hindrance** (see §3.4), if the **hindrance** results in a **penalty**.
+* Your GM uses a **flaw** or other **ability** against you in a contest with you (see §2.6). This happens either when the story forced you to confront a **flaw**, or the GM gave you a **hindrance** (see §3.4), if the **hindrance** results in a **penalty**.
 
 You do not gain **experience points** if any of the following apply:
 
-* You can only gain one **experience point** from any source for a **contest** be that **hindrance** or **failure**.
+* You can only gain one **experience point** in total from any source for a single **contest** be that **hindrance** or **failure**.
 * You only gain one **experience point** the first time your **result** is a **failure** to use that ability in a session; repeated **failures** to use the same ability teach you nothing else and you gain no further **experience points** for that **ability** until the next session.
 * You can only gain an **experience point** from an individual **flaw** or **ability** being used against you once per session. repeated invocations of a **flaw** or use of an **ability** against you teach you nothing else and you gain no further **experience points** for that **flaw** or **ability** until the next session.
 * You do not learn from a **fumble** and so you do not gain an **experience points** when you **fumble**.
