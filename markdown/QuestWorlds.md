@@ -211,11 +211,11 @@ Ultimately, **abilities** are just names for the interesting things your charact
 
 Your character may have one or more **flaws**. A **flaw** is an **ability** that you do not use to accomplish something, but instead the GM uses to hinder you from accomplishing something, or invokes to force you to act a certain way.
 
-**Flaws** maybe psychological weaknesses such as "Alcoholic" or "Heroin Addict", or physical weaknesses such as "One-Eye," "Wheelchair-Bound" or "Asthmatic." A **flaw** might also be a moral philosophy such as "Code Against Killing," "Pacifist," or "Devout Mormon" that limit your behavior in some way. A **flaw** also might be a relationship such as a "Frail Aunt," "Single Dad," or "Blackmailed".
+**Flaws** maybe psychological weaknesses such as "Alcoholic" or "Heroin Addict", or physical weaknesses such as "One-Eye," "Wheelchair-Bound" or "Asthmatic." A **flaw** might also be a moral philosophy such as "Code Against Killing," "Pacifist," or "Radical Candor" that limit your behavior in some way. A **flaw** also might be a relationship such as a "Frail Aunt," "Single Dad," or "Blackmailed".
 
-Some **flaws** can be viewed positively as well as negatively. By making a **flaw** not an **ability** you are inviting your GM to use it to make your life more difficult, not easier.
+Many **flaws** describe attributes that can be viewed positively. By making it a **flaw** and not an **ability** you are inviting your GM to use it to make your life more difficult, not easier. In some cases, you may choose to record both an **ability** that your GM may interpret as a **flaw** if circumstances suggest. You should not use your **flaw** to accomplish something; if you feel that is likely, make it an **ability** and discuss with the GM whether you want them to draw on it as a **flaw** at appropriate moments.
 
-Ultimately, in *QuestWorlds* a **flaw** is simply something that could hinder or prevent your character doing something.
+Ultimately, in *QuestWorlds* a **flaw** is simply something that you invite the GM to use to hinder or prevent your character doing something.
 
 ### 2.1.2 Scores, Ratings and Masteries
 
@@ -541,8 +541,6 @@ If you are victorious in the **augment contest**, your GM will award a **bonus**
 
 During play your GM may decide that your **flaw** has been triggered. A **flaw** might apply to the **tactic** you are using in upcoming **contest**, when it is called a **hindrance** (see §2.6.1). Alternatively a **flaw** might simply come into play when you want to describe your PC acting in a certain way, and your GM feels that one of your **flaws** could prevent this, or your GM feels that a situation raises a challenge that means one of your **flaw** means would lead to you responding in a certain way. (see §2.6.2).
 
-When you experience a **penalty** due to a flaw, you gain an **experience point** (see §8.1).
-
 ### 2.6.1 Hindrance
 
 if you describe a **tactic** for a **contest** that is in conflict with a **flaw**, your GM may decide to impose a **penalty** called a **hindrance** against you in the upcoming **contest**. Your GM may also use an **ability** on your character sheet against you in this way too, if appropriate. This may be the case for relationships you have, philosophies you espouse, or groups you belong to. Your GM should trigger a **hindrance** from a **keyword** more frequently than from a stand-alone **ability** that is not a **flaw**. Your GM may treat their use of an **keyword** as a **flaw** as a **stretch** when invoking it.
@@ -553,19 +551,21 @@ If your GM feels that there is no uncertainty as to whether the **flaw** applies
 
 If your GM feels that it is uncertain as to whether the **flaw** hinders you, or you are able to overcome it, and you agree that you wish to try, treat it as a **simple contest**. Roll the rating of your **flaw** against the **base resistance**. On a **victory**, you receive a **penalty** of -3 or -6 depending on how significant a **hindrance** your GM feels the flaw is to your **tactic**. On a **defeat**, you overcome the **flaw**. You may want to describe how you overcome your **flaw** to use your **tactic**.
 
+When you experience a **penalty** due to a flaw, you gain an **experience point** (see §8.1).
+
 ### 2.6.2 Act according to your flaw
 
 At times the direction of the story you are all telling may place your PC in situations when it seems likely they would act according to their **flaw**. The addict may reach for drink or drugs following an emotional setback, a lust for vengeance may come between your PC and showing mercy, prejudices or bigotry may prevent your from seeing others positively.  
 
 If you chose to act according to your **flaw** there is no contest, simply describe your character behaving as the **flaw** dictates. This might result in a **hindrance** to further actions (see §2.6.1)
 
-If you wish to act against your **flaw**, your **tactic** must pass a **credibility test** as to how you try overcome your **flaw** in this instance. Then you must obtain a **victory** in a **simple contest** against your **flaw**. On a **victory** you may act in a way that contradicts your **flaw**.
+If you wish to act against your **flaw**, your **tactic** must pass a **credibility test** as to how you try overcome your **flaw** in this instance. In effect, pick an **ability** to resist the **flaw** with. Then you must obtain a **victory** in a **simple contest** against your **flaw**. On a **victory** you may act in a way that contradicts your **flaw**.
 
-If you submit to your **flaw**, your GM might impose a **hindrance** on further actions (see §2.6.1). You should not resist this **hindrance** unless the situation is not related to the one which triggered your **flaw** in this instance, or significant time has now passed.
+If you submit to your **flaw**, your GM might impose a **hindrance** on further actions (see §2.6.1). You should not contest this **hindrance** unless the situation is not related to the one which triggered your **flaw** in this instance, or significant time has now passed.
 
-Your GM may impose a **penalty** even if you gain the **victory** against your **flaw** representing your struggle against your inner nature or letting down dependents.
+Your GM may impose a **penalty** against an **ability** if you gain the **victory** against your **flaw** representing your struggle against your inner nature, violating dearly held principles, or letting down dependents. This is often true where the GM invokes a flaw from a **keyword**. For example, if you had they keyword "Gangster" and decide to inform on a fellow mobster, your GM might invoke the **flaw** of "Code of Silence" even if it is not a breakout under your ability. This is particularly appropriate where facts such as the "Code of Silence" have been established in game, even if it is subsumed in your keyword and not a breakout. Even if you overcome your **flaw**, and inform on your fellow mobster, the GM might still impose a penalty on use of the **keyword** to interact with your crime family for having breached the "Code of Silence."
  
-Similarly, your GM might give you a **bonus** for acting according to your **flaw**. representing the sacrifices you have made for dependents or a temporary boost from satisfying your inner demons.
+Similarly, your GM might give you a **bonus** for acting according to your **flaw**. representing the sacrifices you have made for dependents or a temporary boost from satisfying your inner demons. For example, if your superhero "Speedster" goes to see the premiere of his partner's new play, instead of heading to the docks to stop Dr. Squid's shipment of Vibrium, your GM might award you a **bonus** to your relationship to your partner.
 
 If your GM compels you to act according to your **flaw**, you gain an **experience point** (see §8.1).
 
@@ -1885,7 +1885,7 @@ Your GM may decide that certain remarkable triumphs or horrifying catastrophes m
 
 These are the major changes in this version of the rules
 
-* Split hero points into story points (bumps) and experience points (character improvement) 
+* Split hero points into story points (bumps) and experience points (character improvement). Flaws generate experience points as do failures. 
 * Moved the Degree of Victory to an Appendix. We now recommend that the GM just uses victory and defeat and adjudicates a suitable bonus or penalty if needed.
 * Added ranks to codify the +3, +6, +9, ... progression used throughout.
 * For Degree of Victory, clarified that contest results are only reciprocal between PCs. When the contest is against a resistance set by the GM, the results indicate whether the PC gains the prize, and the GM narrates the result for the resistance based on this.
