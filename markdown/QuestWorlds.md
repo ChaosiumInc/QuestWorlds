@@ -109,7 +109,7 @@ Proofreading of this version: Martin Helsdon
 
 It is a traditional roleplaying game in that there is a GM and players. The players play characters, each guided by the internal thoughts of their character as to what decisions they make, and the GM plays the world, including non-player characters (NPCs) and abstract threats.
 
-It features an abstract, conflict-based, resolution method and scalable, customizable, character descriptions. Designed to emulate the way characters in fiction face and overcome challenges, it is suitable for a wide variety of genres and play styles.
+It features an abstract, conflict-based, resolution method and scalable, customizable, character descriptions. Designed to emulate the way characters in fiction face and overcome challenges, it is suitable for a wide variety of genres and play styles. It is particularly suited to pulp genres (including their descendants comic books) and cinematic, larger-than-life, action.
 
 It is a rules-light system that facilitates beginning play easily, and resolving conflicts in play quickly.
 
@@ -219,15 +219,23 @@ Ultimately, in *QuestWorlds* a **flaw** is simply something that you invite the 
 
 ### 2.1.2 Scores, Ratings and Masteries
 
-*QuestWorlds* **abilities** are **scored** on a **rating** of 1–20, representing the **target number (TN)** you need to roll or less to succeed on your roll during a **contest** (see §2.3 for more details). **Scores** are also scalable beyond that range using tiers of capability we refer to as **Mastery**. When you raise a **score** of 20 by one point, either permanently through character advancement or a temporarily with **modifier** to a contest roll, the **score** increases not to 21, but to 1M.
+*QuestWorlds* **abilities** are **scored** on a **rating** of 1–20, representing the **target number (TN)** you need to roll or less to succeed on your roll during a **contest** (see §2.3 for more details).
 
-The "M" after the **rating** signifies **mastery**. You have now reached a new order of excellence in that **ability**, such that your die rolls will almost always succeed. Unless opposed by similarly exalted **resistance** (see §2.3.4 for more details) the number in front of the M is the **rating**, and represents the **target number** you seek to roll or less. If you succeed the mastery **bumps** the **result** to a **critical**, and even if a **failure** is **bumped** to a **success** (see §2.3.6.2 for more details).
+ Once your **ability** passes 20, you would always be able to roll under it on a D20. So to allow abilities to scale over 20 **scores** we use of tiers of capability we refer to as **Mastery**.  To reflect abilities (or **resistance**s) higher than 20, either permanently through character advancement or a temporarily with **modifier** to a contest roll, note a **mastery** for every 20 points in the ability, and treat what remains as the **rating**. So, for an **ability** of 27, we note one **mastery** and a **rating** of seven written as "7M" and we write the **rating** of 21, as 1M.
 
-As a **score** climbs, you may even gain multiple **masteries** in it. **Mastery** tiers above one (representing an overall **score** or 41 or more) are marked with a number to the right of the M symbol. Each successive **score** increase over 20 becomes a new **mastery** tier. Thus, if you have 10M2, you have two **masteries** and a **rating** of 10, (representing a total **score** of 50). 10M3 means that you have three **masteries** and a **rating** of 10, and so on.
+The "M" after the **rating** signifies **mastery**. The number in front of the M is the **rating**, and represents the new **target number** you seek to roll or less. Whatever your roll, the mastery then **bumps** your **result**. You **bump** a **success** to a **critical**, and **bump** a **failure** to a **success**. If you roll a **critical** you can **bump** down your opponent. When both you and the resistance have **masteries** the cancel out.
+
+Having a **mastery** means that you **succeed** most of the time and **critical** more often; you will only **fail** when you roll a **fumble**, and have a higher chance of a **critical** from rolling under the **TN**.
+
+For example, Trevor Okafor is trying to hover a helicopter over a ravine so that Bethany Ng can winch down to a stranded climber in high cross-winds. The GM calls for a roll. Trevor Okafor has 31 in Pilot, written as "11M". Trevor's player rolls against a **TN** of 11. They roll a 17 and fail, but Trevor's **mastery** means the actual **result** is **bumped** up to a **success** on a 17. This beats the GM's **success** on a 13. Later Bethany Ng is trying to stabilize the victim on the route back to hospital. Bethany has 27 in Medic, written as "7M". Bethany's player rolls against a TN of 7. They roll a 4 and succeed, but the **mastery** means that the actual **result** is bumped up to a **critical** on a 4, which beats the GM's **success** on a 14.
 
 Specific *QuestWorlds* games or genre packs may use other symbols relevant to their setting or genre to denote **mastery** instead of M. If so, this should be clearly noted by their designers.
 
-In summary, to reflect abilities (or **resistance**s) higher than 20 note a **mastery** for every 20 points in the ability, and treat what remains as the **rating**. So, for an **ability** of 27, we note one **mastery** and a **rating** of seven written as "7M"; while for an **ability** of 43, we note two **masteries** with a **rating** of 3, written as "3M2" on the character sheet.
+As a **score** climbs, you may even gain multiple **masteries** in it. **Mastery** tiers above one (representing an overall **score** or 41 or more) are marked with a number to the right of the M symbol. Each successive **score** increase over 20 becomes a new **mastery** tier. Thus, if you have 10M2, you have two **masteries** and a **rating** of 10, (representing a total **score** of 50). 10M3 means that you have three **masteries** and a **rating** of 10, and so on. Multiple **masteries** result in multiple **bumps** up, so with two **masteries** a critical **bumps** to a success.
+
+To simplify **bumping**, when both you and the resistance have **masteries** they cancel out.
+
+See §2.3.7 for more details on **bumps**.
 
 #### 2.1.2.1 No Relevant **ability**
 
@@ -439,7 +447,7 @@ You GM narrates the contest **outcome**. Their narration should take into accoun
 
 Your GM should avoid robbing your PC of competence by describing your **defeat** as due to your incompetence when you may have rolled a **critical** or a **success**.
 
-#### 2.3.6.1 Confusing Ties
+#### 2.3.6.2 Confusing Ties
 
 Your GM will describe most tied **outcomes** as inconclusive standoffs, in which neither of you gets what you wanted.
 
@@ -455,7 +463,7 @@ A **bump** affects the degree of **success** or **failure** of your die roll. A 
 
 #### 2.3.7.1 Bump Up with Mastery
 
-If you’re engaged in a **contest** against a **resistance**, and you have an **target number** of 10M versus a **resistance** of 10, you enjoy an advantage. You get a **bump** to your die roll from that **mastery**.
+If you’re engaged in a **contest** against a **resistance**, and you have a **target number** of 10M versus a **resistance** of 10, you enjoy an advantage. You get a **bump** to your die roll from that **mastery**.
 
 You get one **bump** up for each level of **mastery** your PC has greater than your opponent’s. So against a **resistance** of 14 a PC's **target number** of 7M is treated as 7 vs. 14 but we **bump** the **result** one step in the favor of the PC; a PC's **ability** of 3M2 is treated as 3 vs. 14 but we **bump** the **result** two steps in favor of the PC.
 
@@ -547,7 +555,7 @@ if you describe a **tactic** for a **contest** that is in conflict with a **flaw
 
 Your GM should follow a similar approach to **augments** when applying a **hindrance** (see §2.5). They should ask themselves if it is *fresh*, *interesting* or *illuminates character*. In a movie of book would your **flaw** be prominent here?
 
-If your GM feels that there is no uncertainty as to whether the **flaw** applies to your **tactic** in the contest they apply a **penalty** of -3 or -6 depending on how serious a handicap the **flaw** is. (This is, in effect a reverse **assured contest** in the GM's favor). You may also suggest to the GM that you feel the **flaw** would apply without a contest.
+If your GM feels that there is no uncertainty as to whether the **flaw** applies to your **tactic** in the contest they apply a **penalty** of -3 or -6 depending on how serious a handicap the **flaw** is. (This is, in effect a reverse **assured contest** in the GM's favor). You may also suggest to the GM that you feel the **flaw** would apply without a **contest**.
 
 If your GM feels that it is uncertain as to whether the **flaw** hinders you, or you are able to overcome it, and you agree that you wish to try, treat it as a **simple contest**. Roll the rating of your **flaw** against the **base resistance**. On a **victory**, you receive a **penalty** of -3 or -6 depending on how significant a **hindrance** your GM feels the flaw is to your **tactic**. On a **defeat**, you overcome the **flaw**. You may want to describe how you overcome your **flaw** to use your **tactic**.
 
@@ -563,7 +571,7 @@ If you wish to act against your **flaw**, your **tactic** must pass a **credibil
 
 If you submit to your **flaw**, your GM might impose a **hindrance** on further actions (see §2.6.1). You should not contest this **hindrance** unless the situation is not related to the one which triggered your **flaw** in this instance, or significant time has now passed.
 
-Your GM may impose a **penalty** against an **ability** if you gain the **victory** against your **flaw** representing your struggle against your inner nature, violating dearly held principles, or letting down dependents. This is often true where the GM invokes a flaw from a **keyword**. For example, if you had they keyword "Gangster" and decide to inform on a fellow mobster, your GM might invoke the **flaw** of "Code of Silence" even if it is not a breakout under your ability. This is particularly appropriate where facts such as the "Code of Silence" have been established in game, even if it is subsumed in your keyword and not a breakout. Even if you overcome your **flaw**, and inform on your fellow mobster, the GM might still impose a penalty on use of the **keyword** to interact with your crime family for having breached the "Code of Silence."
+Your GM may impose a **penalty** against an **ability** if you gain the **victory** against your **flaw** representing your struggle against your inner nature, violating dearly held principles, or letting down dependents. This is often true where the GM invokes a flaw from a **keyword**. For example, if you had they *keyword** "Gangster" and decide to inform on a fellow mobster, your GM might invoke the **flaw** of "Code of Silence" even if it is not a **breakout** under you **keyword**; this is particularly appropriate where facts such as the "Code of Silence" have been established in game. Even if you overcome your **flaw**, and inform on your fellow mobster, the GM might still impose a **penalty** on use of the **keyword** to interact with your crime family for having breached the "Code of Silence."
  
 Similarly, your GM might give you a **bonus** for acting according to your **flaw**. representing the sacrifices you have made for dependents or a temporary boost from satisfying your inner demons. For example, if your superhero "Speedster" goes to see the premiere of his partner's new play, instead of heading to the docks to stop Dr. Squid's shipment of Vibrium, your GM might award you a **bonus** to your relationship to your partner.
 
@@ -695,11 +703,13 @@ Your GM may decide that **resistance** to your actions gets harder, as the campa
 
 Your GM should adopt a strategy that mimics a TV show where the **resistance** does not increase during a season of the show, allowing our protagonists to get more competent as the show progresses towards its climax. In the next season though the **resistance** usually goes up, and the writers reflect this with more challenging opposition in the new season of the show. At the same time, the opposition that was tough in the first season, now become mooks that can be easily dispatched to show the increased competence of the protagonists.
 
-In that case your GM should increment the **base resistance** by +3, +6 or +9 for the next campaign you play with the same characters. The size of the change should reflect the increase in your previous **abilities** in the last campaign. For example, if in the last season you increased your **occupation keyword** by +6, your GM may decide to increase the **resistance** by +3 or +6 to reflect the more challenging opposition in the new campaign. Your GM should also take into account that the opposition you were improving with respect to the previous season should now be considered more-easily defeated mooks, and use lower **scores** for them when they appear in the story.
+In that case your GM should increment the **base resistance** by +3, +6 or +9 for the next campaign you play with the same characters. The size of the change should reflect the increase in your previous **abilities** in the last campaign. For example, if in the last season you increased your **occupation keyword** by +6, your GM may decide to increase the **resistance** by +3 or +6 to reflect the more challenging opposition in the new campaign. The GM should consider triggering **resistance progression** when your PCs find it difficult to earn **experience points** because they too regularly have a **mastery** advantage over even the climatic encounters (the boss monsters) of their game.
+
+Your GM should also take into account that the opposition you were improving with respect to the previous season should now be considered more-easily defeated mooks, and use lower **scores** for them when they appear in the story or even allow them to be taken out with an **assured contest**.
 
 ### 2.8.1 No Progression
 
-Your GM may also decide that the **resistances** do not get harder as the campaign progresses, reflecting the PCs **ability** to disregard minor challenges, and simply choose harder **resistances** to challenge the players.
+Your GM may also decide that the **resistances** do not get harder as the campaign progresses, reflecting the PCs **ability** to disregard minor challenges, and simply choose harder **resistances** to challenge the players and allow them to earn **experience points**.
 
 ## 2.9 Combined Abilities
 
@@ -750,6 +760,8 @@ Otherwise, your GM will start by determining your degree of influence over the *
 The first step in creating your character is to come up with a concept that fits in with the genre of game that your GM intends to run. With that, you can assign **abilities**, **scores** for those **abilities**, and if required **flaws**.
 
 In addition, you will want to give your character a name, and provide a physical description. We recommend focusing on three physical things about your PC that others would immediately notice, over anything more detailed.
+
+Your GM should not use this method for creating NPCs. NPCs do not require definition via **abilities** and **keywords**. Instead, your GM simply describes the NPC, and picks an appropriate **resistance** in any contest with them, based on their feeling for what would be **credible** for that NPC. If in doubt the GM just uses the **base resistance** for a mook, with a suitably higher **rank** for a boss. The design intent is to remove the need for the GM to prepare stat blocks, making improvisation of NPCs easier, and shifting focus to the NPCs personality or role in the story instead.
 
 ## 3.1 As-You-Go Method
 
@@ -1445,13 +1457,27 @@ The **adversary’s** goals are probably the opposite of yours, although they co
 
 To treat an **adversary** as an **ability**, rather than a **flaw**, describe your emotional response to them. Examples: *Hates Leonard Crisp*, *Fears the Electronaut*, *Sworn Vengeance Against Heimdall*. That way, you still inspire your GM to add the plot elements you desire, but can use your antipathy toward the enemy to **augment** your **target number**s against them.
 
-# 7.0 Story Points 
+# 7.0 Story Points
+
+*QuestWorlds* design favors pulp stories and cinematic action. **Story points** mirror the ability of heroes in these genres to "cheat death", or "escape with one bound".
+
+Normally, your GM should ensure that **defeat** takes the story for your PC in an interesting new direction. Unlike some games, where your goal is to win against challenges set by the GM, in a storytelling game your goal is to tell a good story together. Just as in fiction the protagonist can suffer all sorts of reversals, so in a storytelling game, your PC should suffer all sorts of adversities before they triumph (or meet their tragic end). As a result, we recommend against the tendency to 'buy off **defeat**' with **story points** in the middle of the story. Instead, use **story points** when **defeat** would damage the conception of the character that you have been building during the story, or lead to an unsatisfactory climax to the story.
+
+Your GM should push the story in an interesting new direction on **defeat** not send it to a dead end. If there is no interesting branch from **defeat** they should consider an **assured contest** instead.
+
+In other genres, it may feel less appropriate that you can 'cheat certain death.' For those genres you can simply drop **story points** without impacting the game.
+
+In games with a strong player vs. player element, your GM should dispense with **story points** as they become disruptive if used against each other.
+
+## 7.1 Story Point Pool
 
 At the beginning of play, your GM will create a **story point pool** for your group. The **story point pool** has one **story point** per PC. During play you can **burn** a point from this pool, after which it is lost. When you **burn** a **story point** you can edit the story in your PC or group's favor. You can either do this to improve your **result** via a **bump** (see §7.1) or to introduce a helpful fact into the world via a **plot edit** (see $7.2).
 
 You can decide to spend one of your group's **story points** from the **pool** at any time. You do not agreement from the other players to do so.
 
-## 7.0.1 Refreshing Story Points
+Your GM may feel that the genre they are playing requires a greater pool of **story points** as the heroes never seem to lose. You can create a larger **story point pool** but beware that failure and reversals of fortune for the hero are part of most *interesting* stories. It can be unwise for the GM to remove all sense of threat from the players by giving them a **story point pool** from which they can **bump** any roll, or remove all branches of the story that stem from **defeat**.
+
+### 7.1.1 Refreshing Story Points
 
 Because you burn a **story point** to use it, your **story point pool** may become exhausted. The GM has three alternative strategies for **refreshing** your **story point pool:**
 
@@ -1461,11 +1487,7 @@ Because you burn a **story point** to use it, your **story point pool** may beco
 
 Ultimately your GM is always the arbiter of how the **story point pool refreshes**. On a refresh your **story points** pool resets to one **story point** per PC.
 
-## 7.0.2 Player vs. Player
-
-In games with a strong player vs. player element, your GM should dispense with **story points** as they become disruptive if used against each other.
-
-## 7.0.3 Story Point Pool Summary
+### 7.1.2 Story Point Pool Summary
 
 To summarize:
 
@@ -1479,8 +1501,6 @@ To summarize:
 ## 7.1 Bump with Story Points
 
 You can burn a **story point** to gain a **bump** (see §2.3.7).
-
-Normally, your GM should ensure that **defeat** takes the story for your PC in an interesting new direction. Unlike some games, where your goal is to win against challenges set by the GM, in a storytelling game your goal is to tell a good story together. Just as in fiction the protagonist can suffer all sorts of reversals, so in a storytelling game, your PC should suffer all sorts of adversities before they triumph (or meet their tragic end). As a result, we recommend against the tendency to 'buy off **defeat**' with **story points**. Instead, **burn** **story points** to **bump** when **defeat** would damage the conception of the character that you have been building during the story. If **defeat** sticks in your throat, because it makes a mockery of *who* your PC is, then use a **bump** to edit the story to a more favorable outcome. Otherwise, 'roll with the punches.'
 
 ## 7.2 Plot Edits
 
@@ -1537,9 +1557,17 @@ As your **ability** ratings improve, you will gain fewer **experience points**, 
 
 Burning a **story point** to gain a **bump** prevents you from gaining an **experience point** from that **failure**. Sometimes you may need to trade-off between a **failure** from which you can learn, and a **success** which brings you closer to your goal. In part, this rule exists to dissuade you from always seeking to spend a **story point** to edit out a **failure**.
 
+### 8.1.1 Experience on Failure
+
+Awarding **experience points** on **failure** is used for balance. It slows the advance of PCs who continually use **abilities** that have a **mastery** over the **resistance** and thus offer no threat or challenge. This pushes either your GM to introduce threats that **credibly** present a greater threat to your PC, or pushes you to use some of your lower **rated** **abilities** as your **tactic** in a **contest** to earn **experience points**. It also means that a new PC will earn more **experience points** through increased **failures** over established PCs and begin to catch them up.
+
+If the GM finds that the PCs are no longer regularly earning **experience points** they can consider using **resistance progression** (see §2.8) to increase the **base resistance** so that more **contests** will feature a high enough resistance to earn **experience points**.
+
+Your GM may opt not to use **resistance progression** if they feel that a certain level of advancement your PCs will become mostly static and not improve their **abilities**.
+
 ## 8.2 Improving Your Character
 
-When you accumulate 10 **experience points**, you can buy an advance. An advance allows you to select two of the following. You cannot choose an element more than once.
+When you accumulate 10 **experience points**, you can buy an **advance**. An **advance** allows you to select two of the following. You cannot choose an element more than once.
 
 - +9 to a standalone **ability** or breakout **ability**; or +6 to a **keyword**.
 - +6 to a standalone **ability** or breakout **ability**; or +3 to a **keyword**.
@@ -1559,9 +1587,21 @@ You may not increase the bonus of **breakout abilities** under a **keyword** wit
 
 On occasion your GM may increase one of your **abilities**, by +3, +6 or +9, or give you a new **ability**, usually rated at 13. These are called **directed improvements**.
 
-**Directed improvements** are usually rewards for overcoming particularly important or dramatic **story obstacles**. They happen immediately, rather than at session’s end.
+**Directed improvements** are usually rewards for overcoming particularly important or dramatic **story obstacles**.
 
 Your GM will tend to use them to raise **abilities** that would otherwise fall behind, but should increase due to story logic, or introduce new **abilities** for the same reason.
+
+### 8.2.3 Timing of Improvements
+
+Your improvements happen immediately, when you cross the threshold to buy an **advance**, or a GM awards you a **directed improvement**.
+
+## 8.3 Milestone Improvements
+
+Your GM may decide that they do not want to track **experience points** earned during a game. In this case they may switch to **milestone improvement**.
+
+Under **milestone improvements** the GM simply declares that your PCs have reached a point in the story where we should see them improve their **abilities** and award you an **advance** (see §8.2).
+
+Your GM should not use both **experience points** and **milestone improvements** but choose one. If in doubt, choose **experience points** as the default. **Milestone improvements** do not naturally balance against the **resistance** and the GM may need to use **resistance progression** to continue to up the threat level against your PCs (see §2.8).
 
 # 9.0 Community Resources and Support
 
@@ -1701,6 +1741,8 @@ Your GM may decide that certain remarkable triumphs or horrifying catastrophes m
 
 **Ability** Anything you can apply to solve a problem or overcome an obstacle
 
+**Advance** A package of improvements to your **abilities** and **keywords** earned through **experience points** or **milestone advancement**.
+
 **Advantage Point (AP)** A measure of advantage in an **extended contest**.
 
 **Ally** A **supporting character** of roughly equal ability to your own.
@@ -1811,6 +1853,8 @@ Your GM may decide that certain remarkable triumphs or horrifying catastrophes m
 
 **Long Contest** A **contest** where we drill-down to the individual exchanges that resolve the conflict. We support **scored**, **extended**, and **chained contests**
 
+**Milestone Advancement** A method for improving a character where the GM declares when you receive an **advance**.
+
 **Modifiers** Adjustments to a **target number** due to circumstance.
 
 **Mastery** An **ability** **score** that rises above 20 is said to have a **mastery**. **Masteries** cancel each other out in **contests**. **Masteries** that are not cancelled provide a **bump**.
@@ -1885,7 +1929,7 @@ Your GM may decide that certain remarkable triumphs or horrifying catastrophes m
 
 These are the major changes in this version of the rules
 
-* Split hero points into story points (bumps) and experience points (character improvement). Flaws generate experience points as do failures. 
+* Split hero points into story points (bumps) and experience points (character improvement). Flaws generate experience points as do failures.
 * Moved the Degree of Victory to an Appendix. We now recommend that the GM just uses victory and defeat and adjudicates a suitable bonus or penalty if needed.
 * Added ranks to codify the +3, +6, +9, ... progression used throughout.
 * For Degree of Victory, clarified that contest results are only reciprocal between PCs. When the contest is against a resistance set by the GM, the results indicate whether the PC gains the prize, and the GM narrates the result for the resistance based on this.

@@ -50,11 +50,13 @@ VAR1=$(CAT << EOF
 6.5_Followers.md \
 6.6_Relationships_as_Flaws.md \
 7.0_Story_Points.md \
-7.1_Bump_with_Story_Points.md \
-7.2_Plot_Edits.md \
+7.1_Story_Point_Pool.md \
+7.2_Bump_with_Story_Points.md \
+7.3_Plot_Edits.md \
 8.0_Experience.md \
 8.1_Earning_Experience_Points.md \
 8.2_Improving_Your_Character.md \
+8.3_Milestone_Improvements.md \
 9.0_Community_Resources_and_Support.md \
 9.1_Community_Design.md \
 9.2_Drawing_on_Resources.md \
