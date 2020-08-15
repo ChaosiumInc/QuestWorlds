@@ -1924,7 +1924,7 @@ Your GM may decide that certain remarkable triumphs or horrifying catastrophes m
 
 ## 10.2 Version Changes
 
-### Version 2.2
+### Version 3.0
 
 These are the major changes in this version of the rules
 
