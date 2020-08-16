@@ -15,13 +15,14 @@ VAR1=$(CAT << EOF
 2.3_Contest_Procedure.md \
 2.4_Modifiers.md \
 2.5_Augments.md \
-2.6_Benefits_and_Consequences.md \
-2.7_Resistance_Progression.md \
-2.8_Combined_Abilities.md \
-2.9_Mobs_Gangs_and_Hordes.md \
-2.10_Ganging_Up.md \
-2.11_Mass_Effort.md \
-2.12_Mismatched_and_Graduated_Goals.md \
+2.6_Flaws.md \
+2.7_Benefits_and_Consequences.md \
+2.8_Resistance_Progression.md \
+2.9_Combined_Abilities.md \
+2.10_Mismatched_and_Graduated_Goals.md \
+2.11_Mobs_Gangs_and_Hordes.md \
+2.12_Ganging_Up.md \
+2.13_Mass_Effort.md \
 3.0_Basic_Character_Creation.md \
 3.1_As-You-Go_Method.md \
 3.2_Assigning_Ability_Ratings.md \
@@ -48,22 +49,27 @@ VAR1=$(CAT << EOF
 6.4_Contacts.md \
 6.5_Followers.md \
 6.6_Relationships_as_Flaws.md \
-7.0_Hero_Points.md \
-7.1_Improving_Your_Character.md \
-7.2_Plot_Edits.md \
-8.0_Community_Resources_and_Support.md \
-8.1_Community_Design.md \
-8.2_Drawing_on_Resources.md \
-8.3_Changes_to_Resource_Ratings.md \
-8.4_Changes_from_Plot_Events.md \
-9.0_Appendix.md \
-9.1_Glossary_of_Terms.md \
-9.2_Version_Changes.md  \
-9.3_Outcomes.md  \
-9.4_Benefits_and_Consequences.md \
-9.5_Augments.md \
-9.6_Drawing_On_Resources.md \
-9.7_Additional_Terms.md 
+7.0_Story_Points.md \
+7.1_Story_Point_Pool.md \
+7.2_Bump_with_Story_Points.md \
+7.3_Plot_Edits.md \
+8.0_Experience.md \
+8.1_Earning_Experience_Points.md \
+8.2_Improving_Your_Character.md \
+8.3_Milestone_Improvements.md \
+9.0_Community_Resources_and_Support.md \
+9.1_Community_Design.md \
+9.2_Drawing_on_Resources.md \
+9.3_Changes_to_Resource_Ratings.md \
+9.4_Changes_from_Plot_Events.md \
+10.0_Appendix.md \
+10.1_Glossary_of_Terms.md \
+10.2_Version_Changes.md  \
+10.3_Outcomes.md  \
+10.4_Benefits_and_Consequences.md \
+10.5_Augments.md \
+10.6_Drawing_On_Resources.md \
+10.7_Additional_Terms.md 
 EOF
 )
 
