@@ -1551,7 +1551,7 @@ You can gain a maximum of five **experience points** in any one session. Once yo
 
 Awarding **experience points** on **defeat** is a self-correction mechanism.
 
-* It slows your advance if your PC regularly outclass the **resistance**. This pushes either your GM to introduce threats that **credibly** present a greater threat to your PC.
+* It slows your advance if your PC regularly outclass the **resistance**. This pushes your GM to introduce threats that **credibly** present a greater threat to your PC.
 * If you regularly buy off **defeat** with **story points** you will find it harder to advance. In *QuestWorlds* your GM should provide an entertaining story branch on defeat;  you should not need to buy **defeat** off, unless it damages your character conception
 
 If the GM finds that the PCs are no longer regularly earning **experience points** they can consider using **resistance progression** (see §2.8) to increase the **base resistance** so that more **contests** will feature a high enough resistance to earn **experience points**.
