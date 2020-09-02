@@ -702,7 +702,7 @@ Your GM may decide that **resistance** to your actions gets harder, as the campa
 
 Your GM should adopt a strategy that mimics a TV show where the **resistance** does not increase during a season of the show, allowing our protagonists to get more competent as the show progresses towards its climax. In the next season though the **resistance** usually goes up, and the writers reflect this with more challenging opposition in the new season of the show. At the same time, the opposition that was tough in the first season, now become mooks that can be easily dispatched to show the increased competence of the protagonists.
 
-In that case your GM should increment the **base resistance** by +3, +6 or +9 for the next campaign you play with the same characters. The size of the change should reflect the increase in your previous **abilities** in the last campaign. For example, if in the last season you increased your **occupation keyword** by +6, your GM may decide to increase the **resistance** by +3 or +6 to reflect the more challenging opposition in the new campaign. The GM should consider triggering **resistance progression** when your PCs find it difficult to earn **experience points** because they too regularly have a **mastery** advantage over even the climatic encounters (the boss monsters) of their game.
+In that case your GM should increment the **base resistance** by +3, +6 or +9 for the next campaign you play with the same characters. The size of the change should reflect the increase in your previous **abilities** in the last campaign. For example, if in the last season you increased your **occupation keyword** by +6, your GM may decide to increase the **resistance** by +3 or +6 to reflect the more challenging opposition in the new campaign. The GM should consider triggering **resistance progression** when your PCs find it difficult to earn **experience points** because they too regularly outclass even the climatic encounters (the boss monsters) of their game.
 
 Your GM should also take into account that the opposition you were improving with respect to the previous season should now be considered more-easily defeated mooks, and use lower **scores** for them when they appear in the story or even allow them to be taken out with an **assured contest**.
 
@@ -879,8 +879,8 @@ There is no limit to the number of **abilities** you can gain from a single sent
 1. Your GM **frames the contest**.
 2. You choose a **tactic**, and figure your PC's **target number** (**TN**) using the **score** and any **modifiers**. The PCs **TN** is the **score** of their **ability**, plus or minus **modifiers** the GM may give you.
 3. Your GM determines the **resistance**.  If two PCs contend, your opponent figures their **TN** as described in step 2.
-4. Roll a D20 to determine your **success or failure**, then apply any **bumps**. Your GM does the same for the **resistance**. Compare your rolled number with your **TN** to see how well you succeeded or failed with your **ability**. Remember to apply any **bumps** from **masteries** or **story points**. Award **experience points** if appropriate (see §8.1).
-5. Determine **victory** or **defeat**
+4. Roll a D20 to determine your **success or failure**, then apply any **bumps**. Your GM does the same for the **resistance**. Compare your rolled number with your **TN** to see how well you succeeded or failed with your **ability**. Remember to apply any **bumps** from **masteries** or **story points**.
+5. Determine **victory** or **defeat**. Award **experience points** if appropriate (see §8.1).
 6. Describe the **outcome** based on the **story obstacle**.
 
 ## 4.2 Group Simple Contest
@@ -894,8 +894,8 @@ A **group simple contest** may pit all of you against a single **resistance**, r
 1. Your GM **frames the contest**.
 2. You choose a **tactic**, and figure your PC's **target number** (**TN**) using the **score** and any **modifiers**. Your **TN** is the **score** of their **ability**, plus or minus **modifiers** the GM may give you.
 3. Your GM determines the **resistance**.  If two PCs contend, your opponent figures their **TN** as described in step 2.
-4. For each of your group, roll a D20 to determine your **success or failure**, then apply any **bumps**. Your GM does the same for the **resistance**. Compare your rolled number with your **TN** to see how well you succeeded or failed with your **ability**. Remember to apply any **bumps** from **masteries** or **story points**. Aware **experience points** if appropriate (see §8.1).
-5. The side with the highest number of **victories** is the overall victor in the **contest**.
+4. For each of your group, roll a D20 to determine your **success or failure**, then apply any **bumps**. Your GM does the same for the **resistance**. Compare your rolled number with your **TN** to see how well you succeeded or failed with your **ability**. Remember to apply any **bumps** from **masteries** or **story points**.
+5. The side with the highest number of **victories** is the overall victor in the **contest**. Award **experience points** if appropriate (see §8.1).
 6. Describe the **outcome** based on the agreed **prize**.
 
 It is possible that you suffer a **defeat**, even though your side gains the **victory**. It is possible that, as a result, that your GM will suffer a **consequence of defeat** (see §2.7) related to your **defeat**, even though your side won. If your side loses, then you may suffer both a **consequence of defeat** for your own individual **contest**, and a **consequence of defeat** for the overall **contest**. That may simply be a worsening of the **consequence of defeat**.
@@ -942,10 +942,10 @@ A **scored contest** consists of one or more **rounds**, in which you perform ac
 4. Carry out one or more **rounds**, repeating as necessary.
     1. A **scored contest** unfolds as a series of **simple contests**. At the end of each **simple contest**, the winner scores a number of **resolution points (RPs)** to their tally, which varies between 1 and 5, depending on the **result**. Tied **results** leave the score unchanged.
     2. Your GM decides which opponent has the initiative and describes what they are trying to do to achieve the **prize**, the 'aggressor'. The 'defender' describes how they counter the aggressor's attempt to seize the **prize**. If it is not obvious from the unfolding narrative, your GM should choose your PC as the 'aggressor'.
-    3. Conduct a **simple contest** as normal, but once the **outcome** has been determined, it becomes a number of **resolution points** scored by the winning side. Award **experience points** if appropriate (see §8.1).
+    3. Conduct a **simple contest** as normal, but once the **outcome** has been determined, it becomes a number of **resolution points** scored by the winning side.
     4. The number of **resolution points** the winner garners at the end of each **round** depends on the difference in their **results**, (see below).
     5. The first to accumulate a total of 5 **resolution points** wins; their opponent is knocked out of the **contest** and loses the **prize**.
-5. Determine the **scored contest outcome** based on **rising action** or **climax** (below).
+5. Determine the **scored contest outcome** based on **rising action** or **climax** (below). Award **experience points** if appropriate (see §8.1).
 6. Determine **benefits** or **consequences**.
 7. Describe the **outcome** based on the **story obstacle**.
 
@@ -1046,13 +1046,14 @@ You may lose some pairings amongst the PCs, but still win if the last participan
 5. Establish an order of the paired **contests**. There is no significant advantage to going first, but use your group's **TN**s from highest to lowest if no other option presents itself.
 6. For each pairing your GM carries out one **round**. Then they repeat by carrying out more **rounds** in order, as necessary. The **group scored contest** ends as soon as there are no active participants on one side of the conflict. The side with one or more participants left standing wins.
     1. A **group scored contest** unfolds as a series of **simple contests**. At the end of each **simple contest**, the winner scores a number of **resolution points (RPs)** to their tally, which varies between 1 and 5, depending on the result. Tied results leave the score unchanged.
-    3. Your GM decides which opponent in a pair has the initiative and describes what they are trying to do to achieve the **prize**, the 'aggressor'. The 'defender' describes how they counter the aggressor's attempt to seize the **prize**. If it is not obvious from the unfolding narrative, your GM should choose your PC as a the 'aggressor'.
-    4. Conduct a **simple contest** as normal, but once the **outcome** has been determined, it becomes a number of **resolution points** scored by the winning side. Award **experience points** if appropriate (see §8.1).
-    5. The number of **resolution points** the winner garners at the end of each **round** depends on the difference between their **results**, (see §5.1.2).
-    6. The first to accumulate a total of 5 points wins; their opponent is knocked out of the **contest**.
+    2. Your GM decides which opponent in a pair has the initiative and describes what they are trying to do to achieve the **prize**, the 'aggressor'. The 'defender' describes how they counter the aggressor's attempt to seize the **prize**. If it is not obvious from the unfolding narrative, your GM should choose your PC as a the 'aggressor'.
+    3. Conduct a **simple contest** as normal, but once the **outcome** has been determined, it becomes a number of **resolution points** scored by the winning side.
+    4. The number of **resolution points** the winner garners at the end of each **round** depends on the difference between their **results**, (see §5.1.2).
+    5. The first to accumulate a total of 5 points wins; their opponent is knocked out of the **contest**.
         1. As one of a pair is eliminated from the **group scored contest**, their victorious opponents may then move on to engage new targets, starting new **contests**, which are then added to the end of the existing sequence.
         2. If participating in multiple pairings, each pairing is the first to 5 points, points already scored do not count. 
-7. Describe the **outcome** based on the **story obstacle**.
+7. Award **experience points** if appropriate (see §8.1).
+8. Describe the **outcome** based on the **story obstacle**.
 
 ### 5.2.2 Group Scored Contest Outcomes
 
@@ -1137,8 +1138,9 @@ An **extended contest** consists of one or more **rounds**, in which you perform
         4. If either contestant reaches 0 **advantage points** or fewer, the contest is over.
         5. The GM then hazards a number of **APs** for the **resistance**. 
         6. Roll a die to determine your **result**, then apply any **bumps**. Your GM does the same.
-        7. Compare the results of the two **results** to determine who loses **AP**; only when you have a **critical** can you gain **AP** from your opponent. (see §5.3.2.3). Award **experience points** if appropriate (see §8.1).
+        7. Compare the results of the two **results** to determine who loses **AP**; only when you have a **critical** can you gain **AP** from your opponent. (see §5.3.2.3).
         8. If either contestant reaches 0 **advantage points** or fewer, the contest is over.
+5. Award **experience points** if appropriate (see §8.1).
 
 ### 5.3.2 Advantage Points
 
@@ -1313,9 +1315,9 @@ Use an **unrelated action** and describe what your character is trying to do to 
 
 **Chained contests** do not defer **consequences** to the end of the **contest**, instead your GM applies the **consequences** to the loser in the **contest** immediately following a **round**. This leads to a grittier feel to the **contest**, but at the price of a death spiral: once you lose the **consequences** make it likelier that you will lose again. **Chained contests** tend to produce the most extreme **outcomes**, as participants tend to accumulate significant **consequences**.
 
-To run an **chained contest** your GM runs a **simple contest** as normal, and then applies **consequences** (see §2.6) with immediate effect. Award **experience points** if appropriate (see §8.1).
+To run an **chained contest** your GM runs a **simple contest** as normal, and then applies **consequences** (see §2.6) with immediate effect.
 
-You decide if you wish to continue the **chained contest**, and your GM makes a similar determination for the **resistance**. Both you and your GM then express your intent. If your or your GM wishes to continue, play out another **simple contest**. If you, or your GM, wishes to **disengage**, then on a **victory** you leave the contest, without inflicting consequences on the opposition. If both you and the GM wish to leave the contest, then you both **disengage**, and the contest ends.
+You decide if you wish to continue the **chained contest**, and your GM makes a similar determination for the **resistance**. Both you and your GM then express your intent. If your or your GM wishes to continue, play out another **simple contest**. If you, or your GM, wishes to **disengage**, then on a **victory** you leave the contest, without inflicting consequences on the opposition. If both you and the GM wish to leave the contest, then you both **disengage**, and the contest ends. Award **experience points** if appropriate (see §8.1).
 
 You can switch **abilities** within the contest, provided your GM agrees that the new **ability** represents a suitable **tactic** to obtain the **prize**.
 
@@ -1531,38 +1533,28 @@ During a session of play your character will have the chance to learn from exper
 
 You gain one **experience points** for any of the following:
 
-* When your **result** for using an ability is a **failure** in a **contest**.
+* When your **outcome** for a **contest** is a **defeat**.
 * Your GM uses a **flaw** or other **ability** against you in a contest with you (see §2.6). This happens either when the story forced you to confront a **flaw**, or the GM gave you a **hindrance** (see §3.4), if the **hindrance** results in a **penalty**.
 
 You do not gain **experience points** if any of the following apply:
 
-* You can only gain one **experience point** in total from any source for a single **contest** be that **hindrance** or **failure**.
-* You only gain one **experience point** the first time your **result** is a **failure** to use that ability in a session; repeated **failures** to use the same ability teach you nothing else and you gain no further **experience points** for that **ability** until the next session.
-* You can only gain an **experience point** from an individual **flaw** or **ability** being used against you once per session. repeated invocations of a **flaw** or use of an **ability** against you teach you nothing else and you gain no further **experience points** for that **flaw** or **ability** until the next session.
-* You do not learn from a **fumble** and so you do not gain an **experience points** when you **fumble**.
-* If you **bump** your **failure**, through a **mastery** or **story point**, you do not gain an **experience point**.
-* If you **bump** a **fumble** to a **failure**, through a **mastery** or **story point**, it does not grant you an **experience point**.
+* You can only gain one **experience point** in total from any source for a single **contest** be that **hindrance** or **defeat**.
+* You only gain an **experience point** for each of your **abilities** once in a session of game play. Repeated **defeats** with the same ability teach you nothing else; you gain no further **experience points** for that **ability** until the next session. 
+* In a **long contest** if you have earned **experience points** for *any* ability you used during the contest, you cannot gain **experience points** for that contest.
+* You do not get **experience points** for an **augment**, **AP gifting** or **assist**.
+* You can only gain an **experience point** from an individual **flaw** or **ability** being used against you once per session. Repeated invocations of a **flaw** or use of an **ability** against you teach you nothing else; you gain no further **experience points** for that **flaw** or **ability** until the next session.
 * You do not gain an **experience point** from an **assured contest**, even if you roll to determine **benefits** or **consequences**.
-
-For clarity:
-
-* If you earn a **victory** in a **contest** because you and your opponent both have a **failure result** but you have the **better roll** you still gain an **experience point**. You have an opportunity to learn from your mistake, even if your opponent could not take advantage of it.
 
 You can gain a maximum of five **experience points** in any one session. Once you have earned five **experience points**, you cannot gain further **experience points** in that session. You should usually expect to earn less, and may earn none.
 
-Note that if you have a **mastery** in your **ability**, you will need to contend against a **resistance** that also has a **mastery** to learn by a **failure**. When **masteries** 'cancel out', you can once again roll a **failure** result that is not **bumped** giving you the opportunity to learn. You may also choose to use **abilities** that do not have a **mastery** even if an **ability** with a **mastery** could apply, as **failure** with them will lead to your gaining a **experience point**.
+### 8.1.1 Experience on Defeat 
 
-As your **ability** ratings improve, you will gain fewer **experience points**, and you will improve your **abilities** less frequently, unless you take on greater challenges. This is by design. Your GM should craft stories that provide greater challenges to experienced PCs to allow them the opportunity to earn **experience points**.
+Awarding **experience points** on **defeat** is a self-correction mechanism.
 
-Burning a **story point** to gain a **bump** prevents you from gaining an **experience point** from that **failure**. Sometimes you may need to trade-off between a **failure** from which you can learn, and a **success** which brings you closer to your goal. In part, this rule exists to dissuade you from always seeking to spend a **story point** to edit out a **failure**.
-
-### 8.1.1 Experience on Failure
-
-Awarding **experience points** on **failure** is used for balance. It slows the advance of PCs who continually use **abilities** that have a **mastery** over the **resistance** and thus offer no threat or challenge. This pushes either your GM to introduce threats that **credibly** present a greater threat to your PC, or pushes you to use some of your lower **rated** **abilities** as your **tactic** in a **contest** to earn **experience points**. It also means that a new PC will earn more **experience points** through increased **failures** over established PCs and begin to catch them up.
+* It slows your advance if your PC regularly outclass the **resistance**. This pushes either your GM to introduce threats that **credibly** present a greater threat to your PC.
+* If you regularly buy off **defeat** with **story points** you will find it harder to advance. In *QuestWorlds* your GM should provide an entertaining story branch on defeat;  you should not need to buy **defeat** off, unless it damages your character conception
 
 If the GM finds that the PCs are no longer regularly earning **experience points** they can consider using **resistance progression** (see §2.8) to increase the **base resistance** so that more **contests** will feature a high enough resistance to earn **experience points**.
-
-Your GM may opt not to use **resistance progression** if they feel that a certain level of advancement your PCs will become mostly static and not improve their **abilities**.
 
 ## 8.2 Improving Your Character
 
@@ -1584,6 +1576,14 @@ In some genres you may wish to maintain a tally of the total **experience points
 To encourage well-rounded characters, a package deal, called a **catch-up**, becomes available whenever you acquire via improvement a new **mastery** in one of your **abilities** (**keyword** or stand-alone). Any time one of your **scores** crosses a **mastery** threshold (i.e. 20 -> 21, 40 -> 41, etc). you may also improve up to three **abilities** or **keywords** of your choice by three points each, as long as the chosen **abilities** are currently rated five or more points lower than your newly adjusted **scores** in the raised **ability** that triggered the **catch-up**.
 
 You may not increase the bonus of **breakout abilities** under a **keyword** with a **catch-up**, nor does net effective value of a breakout **ability** crossing a **mastery** threshold trigger a **catch-up**. Only a **keyword**'s base **scores** is considered in this context.
+
+### 8.2.2 Rate of Advancement
+
+We assume an average earning rate of two **experience points** per session. This would lead to you gaining an advance every five sessions. If your rate is lower than one **experience point** a session, your GM should choose one of these options:
+
+- Provide more credible threats
+- Use **resistance progression**
+- Reduce the cost of an **advance** to five **experience points**.
 
 ### 8.2.2 Directed Improvements
 
@@ -1821,7 +1821,7 @@ Your GM may decide that certain remarkable triumphs or horrifying catastrophes m
 
 **Extended Contest** A type of **long contest** in which you track the relative advantage one opponent has over another using **advantage points**.
 
-**Experience Points (XP)** When you experience **failure**, **defeat**, or a **flaw** you may gain an **experience point**, which accumulate between sessions.
+**Experience Points (XP)** When you experience **defeat**, or a **flaw** you may gain an **experience point**, which accumulate between sessions.
 
 **Extraordinary ability** Certain genres allow player characters to have **abilities** that exceed human norms, these are **extraordinary abilities**. A genre pack normally outlines what is possible as part of its extraordinary powers framework.
 
