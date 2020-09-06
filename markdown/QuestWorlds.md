@@ -1621,7 +1621,7 @@ Some campaigns do not center on a community, with the adventurers being footloos
 
 ### 9.1.1 Defining Resources
 
-Communities **resource** that your GM defines. Your PC can try to draw on their community's **resources** to use them as **bonus**. If your community is in difficulty, a strained **resource** might act as a **penalty**. Your GM should focus on no more than five or so broadly-labeled **resource** types, so that the PCs can care about (and have a chance of successfully managing) all of them.
+Communities have **resources** that your GM defines. Your PC can try to draw on their community's **resources** to use them as **bonus**. If your community is in difficulty, a strained **resource** might act as a **penalty**. Your GM should focus on no more than five or so broadly-labeled **resource** types, so that the PCs can care about (and have a chance of successfully managing) all of them.
 
 Most communities have variants of the following **resources**, perhaps with more colorful names:
 
