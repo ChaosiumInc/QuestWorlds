@@ -60,15 +60,13 @@ VAR1=$(CAT << EOF
 9.0_Community_Resources_and_Support.md \
 9.1_Community_Design.md \
 9.2_Drawing_on_Resources.md \
-9.3_Changes_to_Resource_Ratings.md \
-9.4_Changes_from_Plot_Events.md \
 10.0_Appendix.md \
 10.1_Glossary_of_Terms.md \
 10.2_Version_Changes.md  \
 10.3_Outcomes.md  \
 10.4_Benefits_and_Consequences.md \
 10.5_Augments.md \
-10.6_Drawing_On_Resources.md \
+10.6_Community_Resources.md \
 10.7_Additional_Terms.md 
 EOF
 )

@@ -2,7 +2,7 @@
 
 ## 0.1 Legal Information
 
-The *QuestWorlds* System Reference Document 0.3 (“QWSRD0.3”) describes the rules of *QuestWorlds*. You may incorporate the rules as they appear in QWSRD0.3, wholly or in part, into a derivative work, through
+The *QuestWorlds* System Reference Document 0.4 (“QWSRD0.4”) describes the rules of *QuestWorlds*. You may incorporate the rules as they appear in QWSRD0.4, wholly or in part, into a derivative work, through
 the use of the *QuestWorlds* Open Game License, Version 1.0. You should read and understand the terms of that License before creating a derivative work from QWSRD0.3.
 
 Thanks to Wizards of the Coast, the Open Source Initiative, and Creative Commons for their work in creating the framework behind Open Source (and in this case Open Game) licenses. You should be aware that the *QuestWorlds* Open Game License for use of the *QuestWorlds* system differs from the Wizards Open Game License and has
@@ -10,7 +10,7 @@ different terms and conditions.
 
 ### 0.1.1 Using This License
 
-You should note that this is version of 0.3 of the *QuestWorlds* System Reference Document. We expect to release revised versions of this SRD, especially after development of Chaosium’s upcoming *QuestWorlds Core Book*. When we release the *QuestWorlds Core Book* we will update the version designation to 1.0, indicating that the SRD reflects the text published in that book. If you are developing materials for *QuestWorlds* projects you may want to bear this in mind. We will track any changes to the SRD at *https://github.com/ChaosiumInc/QuestWorlds*.
+You should note that this is version of 0.4 of the *QuestWorlds* System Reference Document. We expect to release revised versions of this SRD, especially after development of Chaosium’s upcoming *QuestWorlds Core Book*. When we release the *QuestWorlds Core Book* we will update the version designation to 1.0, indicating that the SRD reflects the text published in that book. If you are developing materials for *QuestWorlds* projects you may want to bear this in mind. We will track any changes to the SRD at *https://github.com/ChaosiumInc/QuestWorlds*.
 
 Once we release SRD version 1.0 we expect that to be stable for some time.
 
@@ -1609,7 +1609,7 @@ Your GM should not use both **experience points** and **milestone improvements**
 
 Some series revolve around the relationship between a band of influential figures and the community they protect. In defense of the community, they can **bolster**, expend, and juggle its various **resources**.
 
-These advanced rules allow your GM to track the rise and fall of the fortunes of your community, and your impact on them.
+These rules allow your GM to track the rise and fall of the fortunes of your community, and your impact on them.
 
 If your GM intend to play a game centered around a community, you should have a relationship **ability** to that community.
 
@@ -1621,121 +1621,77 @@ Some campaigns do not center on a community, with the adventurers being footloos
 
 ### 9.1.1 Defining Resources
 
-Communities can have a type of **ability** called a **resource** that your GM defines. Your PC can try to draw on their community's **resources** to use them as **abilities**. Your GM should focus on no more than five or so broadly-labeled **resource** types, so that the PCs can care about (and have a chance of successfully managing) all of them.
+Communities have **resources** that your GM defines. Your PC can try to draw on their community's **resources** to use them as **bonus**. If your community is in difficulty, a strained **resource** might act as a **penalty**. Your GM should focus on no more than five or so broadly-labeled **resource** types, so that the PCs can care about (and have a chance of successfully managing) all of them.
 
 Most communities have variants of the following **resources**, perhaps with more colorful names:
 
-* Wealth — the **ability** of the community to provide financial help, whether counted primarily in dollars, credits, or cattle
-* Diplomacy — the **ability** to extract favors from other communities, while minimizing the cost of its reciprocal obligations
-* Morale — the community’s **ability** to believe in its capacity to achieve its goals, and willingness to follow the directives of its leaders
+* Wealth — the capacity of the community to provide financial help, whether counted primarily in dollars, credits, or cattle
+* Diplomacy — the relationships with other groups though which a community can obtain favors, while minimizing the cost of its reciprocal obligations
+* Morale — the community’s resolve to achieve its goals, and willingness to follow the directives of its leaders
 
 The following abilities might appear, depending on setting:
 
-* Military — its **ability** to defend itself from outside threats, and to aggressively achieve its own aims through force of arms (for settings where communities of the size you’re tracking field their own armed units)
-* Magic — the collective **ability** of its people to perform supernatural acts (for fantasy worlds)
+* Military — its capacity to defend itself from outside threats, and to aggressively achieve its own aims through force of arms (for settings where communities of the size you’re tracking field their own armed units)
+* Magic — the capability of a community to perform supernatural acts (for fantasy worlds)
 * Technology — its access to specialized, rare or secret devices or scientific knowledge not shared by its rivals (for post- apocalyptic or SF worlds)
 
 Similar communities in the genre, should have the same set of **resources**.
 
-### 9.1.2 Specify an interval
+### 9.1.2 Assigning Ranks
 
-Your GM chooses a suitable interval to mark changes in **resources**. For genres bound by the agricultural season, this is usually a season, for a military genre it might be a campaign, for a ship a voyage.
+Your GM distributes the following **ranks** between the five **resources**: +M, +9, +6 +3 and 0. Note that the size of the group doesn’t affect the **ranks**.
 
-### 9.1.3 Assigning Ability Scores
+### 9.1.3 Community Questionnaires
 
-Your GM distributes the following **scores** between the five abilities: 12W, 9W, 18, 18, and 12. Note that the size of the group doesn’t affect the **scores**.
+Your GM may create a questionnaire that asks the players to make choices about the priorities of their community. The responses to each question should be multiple-choice. Each choice you make adds points to a score for each **resource** type. Points are awarded according to what the answer reveals about the community's relative priorities. An answer may give points to more than one **resource**.
 
-Your GM may create a questionnaire that asks the players to make choices about the history of their community. They can choose their multiple-choice answers by consensus, majority vote, or take turns. Each question secretly assigns a score to one or more resource types. When you’re done, rank the **resources** in the order of the scores, assigning the high **scores** to the highest questionnaire results and the lowest to the low.
+You can choose your answers by consensus, majority vote, or take turns.
 
-A questionnaire introduces your setting in a punchy, interactive format, and tailors the community to the players’ desires, increasing their investment in it.
+When you’re done, rank the **resources** in the order of the scores. Assign the high **ranks** to the highest **scores** and the lowest to the low.
 
-### 9.1.4 Resource Notation
-
-Your GM will keep track of **modifiers** to community **resources** with a copy of the following record sheet. They will use a pencil, because the numbers will fluctuate.
-
-Your GM lists the names and **scores** of your chosen **resources** in the first row. Under the total column for each, your GM will list the total current modifier. Under the PC column, your GM lists **bonuses** resulting from PC activities (as opposed to un-cemented **background events**.) When PCs **cement a background benefit**, your GM adds its bonus to the PC column.
-
-When PC activity reduces a **penalty** but does not eliminate it, your GM will alter the entry under the Total column to reflect the reduction, but leave the PC column blank.
-
-#### 9.1.4.1 RESOURCE NOTATION TABLE
-
-|Total  |PC    |Total |PC     |Total |PC     |Total |PC     |Total |PC     |
-|------|-------|------|-------|------|-------|------|-------|------|-------|
-|      |       |      |       |      |       |      |       |      |       |
+A questionnaire also introduces your setting in a punchy, interactive format, and tailors the community to the players’ desires, increasing their investment in it.
 
 ## 9.2 Drawing on Resources
 
-You can use community **resources** as **abilities** after convincing the community to let you expend precious assets. This requires a preliminary **contest** using a social **ability**, most likely your community relationship. Your GM will use a **moderate resistance** as the baseline, with higher **resistance**s when your proposals seem selfish or likely to fail, and lower ones when everyone but the dullest dolt would readily see their collective benefits. Your GM may increase **resistance**s if your group draws constantly on community **resources** without replenishing them.
+You can use community **resources** as a **bonus** to your **abilities** after convincing the community to let you expend precious assets. This requires a preliminary **contest** using a social **ability**, most likely your community relationship. Your GM will use a **moderate resistance** as the baseline, with higher **resistance**s when your proposals seem selfish or likely to fail, and lower ones when everyone but the dullest dolt would readily see their collective benefits. Your GM may increase **resistance**s if your group draws constantly on community **resources** without replenishing them.
 
-The lobbying effort and the actual resource use require framing, a clear description of what you are doing, and other details to bring them to fictional life. You can use **resource abilities** directly, or to **augment** your own **abilities**.
+The lobbying effort and the actual resource use require framing, a clear description of what you are doing, and other details to bring them to fictional life. You cannot use **resource abilities** directly, but as an **bonus** to your own **abilities**.
 
-Unlike character abilities, each use of community **resources** temporarily **depletes** it.
+Use of community **resources** should pass the threshold for being *memorable* and *entertaining*. Normally there should be a clear benefit to the community, or risk to the community. The PC's actions should be in support of the community, not themselves. Community involvement becomes part of the story. A certain amount of routine support for your character is assumed; a **bonus** implies that the community is expending abnormal effort on your behalf, that will cost the community itself.
 
-On a **victory**, you win the **prize** specified by **contest framing**, and a depletion **penalty** of -3 is applied to subsequent uses of the **resource**. On a **defeat**, you lose the **prize** and a depletion **penalty** is applied to subsequent **resource** uses. The penalty for resource use might be greater than -3 in the event of **defeat**, representing an additional drain on that resource. Your GM determines the **penalty** as per **Benefits and Consequences**  (see §2.6.1). If you fail to secure the **prize** you were seeking, the depletion **penalty** is also applied to your social and community **abilities** when interacting with members of your community. This reflects community displeasure at your fruitless expenditure.
+### 9.2.1 Resource Depletion
 
-Like other **modifiers** to **resources**, depletion **penalties** end at the end of the current interval. These include **depletion penalties** applied to character **abilities**. However, a **depletion penalty** left unattended at the end of the interval can result in a permanent drop in the relevant **resource**.
+Unlike character abilities, each use of community **resources** temporarily **depletes** it. Regardless of **outcome** a **resource** drops a **rank** when used.
 
-If your GM wants resource depletion to lead to longer-lasting social **penalties**, at the cost of some extra bookkeeping, they can have the characters shed a 3-point **penalty** at the end of each interval.
+Your GM decides when a **resource** is restored to its original value. Your GM should decide what the credible interval is for the community to recover from the expenditure of effort. At that point, your GM restores the **bonus** for the **resource**.
+
+You might chose to use a **resource** when it is already depleted, in which case you use its lower **rank**. Your GM may use this to represent attrition to your community from a continued struggle. A **resource** that is depleted enough, may become a **penalty**.
+
+Threats to community **resources** act as a spur to PC action. Your GM may rule that the  **outcome** from a **contest** where you did not use the **resource** may still deplete the rank of a community **resource**.
 
 ### 9.2.2 Required Resource Use
 
-As part of your GM's setting design, they may specify that certain actions in a setting always require the use of a community **resource**. Because the **resource** use is obligatory, it need not meet the usual criteria for entertainment value. Also, when the resource is used as an **augment**, you can also add a second **augment** from some other **ability**, adjudicated according to the standard rules, including entertainment value criteria. (This way, the required **resource** use doesn’t penalize you by forcing you to **augment** with a low-rated **resource** when you could otherwise use a higher-rated **ability**.)
+As part of your GM's setting design, they may specify that certain actions in a setting always require the use of a community **resource**. Because the **resource** use is obligatory, it need not meet the usual criteria for entertainment value.
 
-### 9.2.3 Penalties to Resources
+### 9.2.4 Resource as a Penalty
 
-Threats to community **resources** act as a spur to PC action. Your GM may rule that the **penalty** from any **outcome** may be applied to a **resource**. (It might at the same time be applied to one or more PC **abilities**.)
-
-If your group voluntarily concede a **contest** by withdrawing, your community suffers an appropriate depletion **penalty** determined by the GM.
+A **resource's rank** may fall below 0. If you require use of a community's **resources** (see §9.2.2) your actions will be subject to a **penalty** equal to the resource rank. 
 
 ### 9.2.4 Bolstering Resources
 
-You can add **bonuses** to **bolster** community **resources** by seeking out and overcoming relevant **story obstacles**, specifying in the **contest framing** that the proceeds of **victory** go the community. If you succeed, **bonuses** from the **benefits** are applied to a resource instead of one or more character **abilities**. (Your GM may rule that the **bonus** also applies to you in social situations that involve community members, reflecting gratitude for their efforts on behalf of the community.)
+Your GM may offer you the opportunity to **bolster** a community **resources** ahead of need by seeking out and overcoming relevant **story obstacles**. If you succeed, the community resource improves a **rank**. Your GM will set the **resistance** for the **bolster**. The community's higher **ranked** resources should have higher **resistances** to **bolstering**. As a default, use the current **rank** as the resistance to **bolstering**.
+
+For clarity, a **resource** rated at +M can be bolstered to +M2. 
+
+**Bolstering** lasts until the **resource** is used. When your GM depletes a **bolstered resource** following usage, they remove only the additional **rank** from **bolstering**.
+
+If a **resource** is already suffering from a **penalty**, bolstering removes that **penalty** instead of improving the **rank**.
 
 ### 9.2.5 Background Events
 
-Your changes to **resources** take center stage in a series, but in the background all sorts of other events periodically alter the community’s prosperity. These include the actions of other community members, who are **depleting and bolstering resources** all the time, as well as the unexpected intrusion of outside forces.
+In the background all sorts of other events periodically alter the community’s prosperity. These include the actions of other community members, who are **depleting and bolstering resources** all the time, as well as the unexpected intrusion of outside forces.
 
-At the beginning of each interval, one of your group should perform a **simple contest** of each **resource** against a **resistance** equal to the average value of all **resources**. These **contests** simulate **background events** outside of your control or influence; they can’t be **augmented** or **bumped** up with **story points**.
-
-The **outcome** of the **contest** may apply a **modifier** to a **resource**, as per §2.6.
-
-Except where your group is exceptionally keen on tracking **resources**, your GM should skip the **background events** process when the PCs are long absent from home. Your GM should rejigger them to serve their plot purposes when they return. The GM may also want to shuffle this process offstage when the PCs are occupied by epic events. This prevents them from having to flee from a climactic plot development to go home and tend to the beet crop.
-
-### 9.2.7 Crisis Tests
-
-When **resources** endure **penalties**, you conduct a **crisis test** at the beginning of each game session to see if trouble strikes the community. A high but **penalized score** can still lead to crisis, because people have adjusted to the equilibrium it offers and feel squeezed when it shifts on them.
-
-A **crisis test** is a **simple contest** (one for each **penalized ability**) of the **resource score** against a **resistance** equal to the average of all **resource scores**. Like **background event** checks, these can’t be **augmented** or **bumped** up by player action. On any **defeat**, the community starts to visibly suffer.
-
-Your GM invents the specific reasons for each fluctuation and narrates them to you.
-
-**Crisis tests** should spur you to action, challenging you to find ways to **bolster** the affected **resources** (see above). When **bolstered**, the **crisis** is reversed. If you neglect your duties or fail, the **crisis** worsens.
-
-Your GM will call for **crisis tests** only as needed, as a tool to generate story. If your group already has enough story on its hands, your GM will suspend them until you next need a new plot hook.
-
-### 9.2.8 Cementing Benefits of Background Events
-
-**Bonuses** from **background events** are temporary, unless you take steps to **cement your benefits**. Doing so requires you to overcome a major **story obstacle**, perhaps taking focus for an evening’s worth of play. If you succeed, the **background event bonus** may, as per §8.3, later solidify into a permanent increase in the **resource’s score**.
-
-When you **cement a background bonus**, your GM changes their notation of that **bonus**.
-
-## 9.3 Changes to Resource Scores
-
-At the end of your GM's chosen interval, they review the Resource Notation Table.
-
-Any **resource** with a **bonus** of 3 or more in its PC column increases by 1 for each 3 points of **bonus**, for a maximum increase of 3.
-
-Any **resource** with a **penalty** in its Total column decreases by 1 for each 3 points of **penalty**, for a maximum loss of 2.
-
-Any remaining **modifiers** are now reduced to 0.
-
-The GM now start a new Resource Notation Table, with **resource scores** altered to reflect any changes from the above process.
-
-Having made permanent changes to the community’s **resource scores**, your GM then restarts the cycle by again testing for a new set of **background events**.
-
-## 9.4 Changes from Plot Events
-
-Your GM may decide that certain remarkable triumphs or horrifying catastrophes may directly alter a **resource score**, independent of the resource tracking system given here. The possibility of a dramatic swing in community fortunes should be made clear by your GM during **contest framing**, so that you know the **prize** and can pull out all the stops to secure **victory** or stave off **defeat**.
+Your GM may decide that the community's **rank** in a **resource** is temporarily at a higher or lower **rank** due to these outside events. Your GM decides when the **resource** returns to normal. For a lower **rank**, this may require you to overcome a **story obstacle**.
 
 # 10.0 Appendix
 
@@ -2329,15 +2285,55 @@ If you are using **degrees of victory or defeat**, use the table below to interp
 |Major Defeat    |0             |
 |Complete Defeat |-3            |
 
-## 10.6 Drawing on Resources
+## 10.6 Community Rules
 
-**Penalties** for communities (see §8.2) can use the Resource Depletion Table.
+The community rules in earlier versions were complex and have been simplified in the current rules. They are presented here mainly to help in understanding older material, or for those who prefer it's more complex tracking approach.
+
+### 10.6.1 Defining Resources
+
+Communities can have a type of **ability** called a **resource** that your GM defines. Your PC can try to draw on their community's **resources** to use them as **abilities**. Your GM should focus on no more than five or so broadly-labeled **resource** types, so that the PCs can care about (and have a chance of successfully managing) all of them.
+
+### 10.6.2 Specify an interval
+
+Your GM chooses a suitable interval to mark changes in **resources**. For genres bound by the agricultural season, this is usually a season, for a military genre it might be a campaign, for a ship a voyage.
+
+### 10.6.3 Assigning Ability Scores
+
+Your GM distributes the following **scores** between the five abilities: 12W, 9W, 18, 18, and 12. Note that the size of the group doesn’t affect the **scores**.
+
+### 10.6.4 Resource Notation
+
+Your GM will keep track of **modifiers** to community **resources** with a copy of the following record sheet. They will use a pencil, because the numbers will fluctuate.
+
+Your GM lists the names and **scores** of your chosen **resources** in the first row. Under the total column for each, your GM will list the total current modifier. Under the PC column, your GM lists **bonuses** resulting from PC activities (as opposed to un-cemented **background events**.) When PCs **cement a background benefit**, your GM adds its bonus to the PC column.
+
+When PC activity reduces a **penalty** but does not eliminate it, your GM will alter the entry under the Total column to reflect the reduction, but leave the PC column blank.
+
+#### 10.6.4.1 RESOURCE NOTATION TABLE
+
+|Total  |PC    |Total |PC     |Total |PC     |Total |PC     |Total |PC     |
+|------|-------|------|-------|------|-------|------|-------|------|-------|
+|      |       |      |       |      |       |      |       |      |       |
+
+### 10.6.5 Drawing on Resources
+
+You can use community **resources** as **abilities** after convincing the community to let you expend precious assets. This requires a preliminary **contest** using a social **ability**, most likely your community relationship. Your GM will use a **moderate resistance** as the baseline, with higher **resistance**s when your proposals seem selfish or likely to fail, and lower ones when everyone but the dullest dolt would readily see their collective benefits. Your GM may increase **resistance**s if your group draws constantly on community **resources** without replenishing them.
+
+The lobbying effort and the actual resource use require framing, a clear description of what you are doing, and other details to bring them to fictional life. You can use **resource abilities** directly, or to **augment** your own **abilities**.
+
+Unlike character abilities, each use of community **resources** temporarily **depletes** it.
+
+On a **victory**, you win the **prize** specified by **contest framing**, and a **penalty** is applied to subsequent uses of the **resource**.
+
+On a **defeat**, you lose the **prize** and an even more severe **penalty** is applied to subsequent **resource** uses. If you fail to secure the **prize** you were seeking, the depletion **penalty** is also applied to your social and community **abilities** when interacting with members of your community. This reflects community displeasure at your fruitless expenditure.
+
+**Penalties** from the Resource Depletion Table replace standard **penalties** for **defeat**, not add to them.
 
 Like other **modifiers** to **resources**, depletion **penalties** end at the end of the current interval. These include **depletion penalties** applied to character **abilities**. However, a **depletion penalty** left unattended at the end of the interval can result in a permanent drop in the relevant **resource**.
 
 If your GM wants resource depletion to lead to longer-lasting social **penalties**, at the cost of some extra bookkeeping, they can have the characters shed a 3-point **penalty** at the end of each interval.
 
-### 10.6.1 RESOURCE DEPLETION TABLE
+#### 10.6.5.1 RESOURCE DEPLETION TABLE
 
 |Contest Outcome|Depletion Penalty    |
 |:---------------:|:-----------------:|
@@ -2350,12 +2346,31 @@ If your GM wants resource depletion to lead to longer-lasting social **penalties
 |Major Defeat     |-6                 |
 |Complete Defeat  |-9                 |
 
+### 10.6.6 Required Resource Use
 
-### 10.6.2 Background Events
+As part of your GM's setting design, they may specify that certain actions in a setting always require the use of a community **resource**. Because the **resource** use is obligatory, it need not meet the usual criteria for entertainment value. Also, when the resource is used as an **augment**, you can also add a second **augment** from some other **ability**, adjudicated according to the standard rules, including entertainment value criteria. (This way, the required **resource** use doesn’t penalize you by forcing you to **augment** with a low-rated **resource** when you could otherwise use a higher-rated **ability**.)
 
-The **outcome** of the **contest** for a background event (see §8.2.5) may apply a **modifier** to a **resource**, as per the following table:
+### 10.6.7 Penalties to Resources
 
-### 10.6.3 RESOURCE FLUCTUATION TABLE
+Threats to community **resources** act as a spur to PC action. Your GM may rule that the **penalty** from any **outcome** may be applied to a **resource**. (It might at the same time be applied to one or more PC **abilities**.)
+
+When choosing a **penalty** arising from a player **defeat** in a **simple contest**, your GM will use the **consequences of defeat** table. For a **group contest**, the **penalty** corresponds to the second worst **state of adversity** suffered by a defeated group member.
+
+If your group voluntarily concede a **contest** by withdrawing, your community suffers **resource depletion** equivalent to a **major defeat**.
+
+### 10.6.8 Bolstering Resources
+
+You can add **bonuses** to **bolster** community **resources** by seeking out and overcoming relevant **story obstacles**, specifying in the **contest framing** that the proceeds of **victory** go the community. If you succeed, **bonuses** from the **benefits of victory** table are applied to a resource instead of one or more character abilities. (Your GM may rule that the bonus also applies to you in social situations that involve community members, reflecting gratitude for their efforts on behalf of the community.)
+
+### 10.6.9 Background Events
+
+Your changes to **resources** take center stage in a series, but in the background all sorts of other events periodically alter the community’s prosperity. These include the actions of other community members, who are **depleting and bolstering resources** all the time, as well as the unexpected intrusion of outside forces.
+
+At the beginning of each interval, one of your group should perform a **simple contest** of each **resource** against a **resistance** equal to the average value of all **resources**. These **contests** simulate **background events** outside of your control or influence; they can’t be **augmented** or **bumped** up with **hero points**.
+
+The **outcome** of the **contest** may apply a **modifier** to a **resource**, as per the following table:
+
+#### 10.6.9.1 RESOURCE FLUCTUATION TABLE
 
 |Outcome          |Depletion Penalty  |
 |:---------------:|:-----------------:|
@@ -2368,6 +2383,43 @@ The **outcome** of the **contest** for a background event (see §8.2.5) may appl
 |Major Defeat     |-6                 |
 |Complete Defeat  |-9                 |  
 
+Except where your group is exceptionally keen on tracking **resources**, your GM should skip the **background events** process when the PCs are long absent from home. Your GM should rejigger them to serve their plot purposes when they return. The GM may also want to shuffle this process offstage when the PCs are occupied by epic events. This prevents them from having to flee from a climactic plot development to go home and tend to the beet crop.
+
+### 10.6.10 Crisis Tests
+
+When **resources** endure **penalties**, you conduct a **crisis test** at the beginning of each game session to see if trouble strikes the community. A high but **penalized score** can still lead to crisis, because people have adjusted to the equilibrium it offers and feel squeezed when it shifts on them.
+
+A **crisis test** is a **simple contest** (one for each **penalized ability**) of the **resource score** against a **resistance** equal to the average of all **resource scores**. Like **background event** checks, these can’t be **augmented** or **bumped** up by player action. On any **defeat**, the community starts to visibly suffer.
+
+Your GM invents the specific reasons for each fluctuation and narrates them to you.
+
+**Crisis tests** should spur you to action, challenging you to find ways to **bolster** the affected **resources** (see above). When **bolstered**, the **crisis** is reversed. If you neglect your duties or fail, the **crisis** worsens.
+
+Your GM will call for **crisis tests** only as needed, as a tool to generate story. If your group already has enough story on its hands, your GM will suspend them until you next need a new plot hook.
+
+### 10.6.11 Cementing Benefits of Background Events
+
+**Bonuses** from **background events** are temporary, unless you take steps to **cement your benefits**. Doing so requires you to overcome a major **story obstacle**, perhaps taking focus for an evening’s worth of play. If you succeed, the **background event bonus** may, as per the next section, later solidify into a permanent increase in the **resource’s score**.
+
+When you **cement a background bonus**, your GM changes their notation of that **bonus**.
+
+### 10.6.12 Changes to Resource Scores
+
+At the end of your GM's chosen interval, they review the Resource Notation Table.
+
+Any **resource** with a **bonus** of 3 or more in its PC column increases by 1 for each 3 points of **bonus**, for a maximum increase of 3.
+
+Any **resource** with a **penalty** in its Total column decreases by 1 for each 3 points of **penalty**, for a maximum loss of 2.
+
+Any remaining **modifiers** are now reduced to 0.
+
+The GM now start a new Resource Notation Table, with **resource scores** altered to reflect any changes from the above process.
+
+Having made permanent changes to the community’s **resource scores**, your GM then restarts the cycle by again testing for a new set of **background events**.
+
+### 10.6.13 Changes from Plot Events
+
+Your GM may decide that certain remarkable triumphs or horrifying catastrophes may directly alter a **resource score**, independent of the resource tracking system given here. The possibility of a dramatic swing in community fortunes should be made clear by your GM during **contest framing**, so that you know the **prize** and can pull out all the stops to secure **victory** or stave off **defeat**.
 
 ## 10.7 Additional Terms
 
