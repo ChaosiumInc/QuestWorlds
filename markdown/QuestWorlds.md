@@ -2,7 +2,7 @@
 
 ## 0.1 Legal Information
 
-The *QuestWorlds* System Reference Document 0.4 (“QWSRD0.4”) describes the rules of *QuestWorlds*. You may incorporate the rules as they appear in QWSRD0.4, wholly or in part, into a derivative work, through
+The *QuestWorlds* System Reference Document 0.41 (“QWSRD0.41”) describes the rules of *QuestWorlds*. You may incorporate the rules as they appear in QWSRD0.4, wholly or in part, into a derivative work, through
 the use of the *QuestWorlds* Open Game License, Version 1.0. You should read and understand the terms of that License before creating a derivative work from QWSRD0.3.
 
 Thanks to Wizards of the Coast, the Open Source Initiative, and Creative Commons for their work in creating the framework behind Open Source (and in this case Open Game) licenses. You should be aware that the *QuestWorlds* Open Game License for use of the *QuestWorlds* system differs from the Wizards Open Game License and has
@@ -10,7 +10,7 @@ different terms and conditions.
 
 ### 0.1.1 Using This License
 
-You should note that this is version of 0.4 of the *QuestWorlds* System Reference Document. We expect to release revised versions of this SRD, especially after development of Chaosium’s upcoming *QuestWorlds Core Book*. When we release the *QuestWorlds Core Book* we will update the version designation to 1.0, indicating that the SRD reflects the text published in that book. If you are developing materials for *QuestWorlds* projects you may want to bear this in mind. We will track any changes to the SRD at *https://github.com/ChaosiumInc/QuestWorlds*.
+You should note that this is version of 0.41 of the *QuestWorlds* System Reference Document. We expect to release revised versions of this SRD, especially after development of Chaosium’s upcoming *QuestWorlds Core Book*. When we release the *QuestWorlds Core Book* we will update the version designation to 1.0, indicating that the SRD reflects the text published in that book. If you are developing materials for *QuestWorlds* projects you may want to bear this in mind. We will track any changes to the SRD at *https://github.com/ChaosiumInc/QuestWorlds*.
 
 Once we release SRD version 1.0 we expect that to be stable for some time.
 
@@ -1536,21 +1536,18 @@ You gain one **experience points** for any of the following:
 
 You do not gain **experience points** if any of the following apply:
 
-* You can only gain one **experience point** in total from any source for a single **contest** be that **hindrance** or **defeat**.
-* You only gain an **experience point** for each of your **abilities** once in a session of game play. Repeated **defeats** with the same ability teach you nothing else; you gain no further **experience points** for that **ability** until the next session. 
-* In a **long contest** if you have earned **experience points** for *any* ability you used during the contest, you cannot gain **experience points** for that contest.
+* You only gain an **experience point** for each of your **abilities** or **flaws** once in a session of game play.
 * You do not get **experience points** for an **augment**, **AP gifting** or **assist**.
-* You can only gain an **experience point** from an individual **flaw** or **ability** being used against you once per session. Repeated invocations of a **flaw** or use of an **ability** against you teach you nothing else; you gain no further **experience points** for that **flaw** or **ability** until the next session.
 * You do not gain an **experience point** from an **assured contest**, even if you roll to determine **benefits** or **consequences**.
 
-You can gain a maximum of five **experience points** in any one session. Once you have earned five **experience points**, you cannot gain further **experience points** in that session. You should usually expect to earn less, and may earn none.
+You can gain a maximum of five **experience points** in any one session. Once you have earned five **experience points**, you cannot gain further **experience points** in that session. 
 
-### 8.1.1 Experience on Defeat 
+### 8.1.1 Experience on Defeat
 
 Awarding **experience points** on **defeat** is a self-correction mechanism.
 
 * It slows your advance if your PC regularly outclass the **resistance**. This pushes your GM to introduce threats that **credibly** present a greater threat to your PC.
-* If you regularly buy off **defeat** with **story points** you will find it harder to advance. In *QuestWorlds* your GM should provide an entertaining story branch on defeat;  you should not need to buy **defeat** off, unless it damages your character conception
+* If you regularly buy off **defeat** with **story points** you will find it harder to advance. In *QuestWorlds* your GM should provide an entertaining story branch on defeat;  you should not need to buy **defeat** off, unless it damages your character conception or is the climax.
 
 If the GM finds that the PCs are no longer regularly earning **experience points** they can consider using **resistance progression** (see §2.8) to increase the **base resistance** so that more **contests** will feature a high enough resistance to earn **experience points**.
 
