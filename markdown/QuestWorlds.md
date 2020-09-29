@@ -2,15 +2,14 @@
 
 ## 0.1 Legal Information
 
-The *QuestWorlds* System Reference Document 0.41 (“QWSRD0.41”) describes the rules of *QuestWorlds*. You may incorporate the rules as they appear in QWSRD0.4, wholly or in part, into a derivative work, through
-the use of the *QuestWorlds* Open Game License, Version 1.0. You should read and understand the terms of that License before creating a derivative work from QWSRD0.3.
+The *QuestWorlds* System Reference Document 0.42 (“QWSRD0.42”) describes the rules of *QuestWorlds*. You may incorporate the rules as they appear in QWSRD0.42, wholly or in part, into a derivative work, through the use of the *QuestWorlds* Open Game License, Version 1.0. You should read and understand the terms of that License before creating a derivative work from QWSRD0.42.
 
 Thanks to Wizards of the Coast, the Open Source Initiative, and Creative Commons for their work in creating the framework behind Open Source (and in this case Open Game) licenses. You should be aware that the *QuestWorlds* Open Game License for use of the *QuestWorlds* system differs from the Wizards Open Game License and has
 different terms and conditions.
 
 ### 0.1.1 Using This License
 
-You should note that this is version of 0.41 of the *QuestWorlds* System Reference Document. We expect to release revised versions of this SRD, especially after development of Chaosium’s upcoming *QuestWorlds Core Book*. When we release the *QuestWorlds Core Book* we will update the version designation to 1.0, indicating that the SRD reflects the text published in that book. If you are developing materials for *QuestWorlds* projects you may want to bear this in mind. We will track any changes to the SRD at *https://github.com/ChaosiumInc/QuestWorlds*.
+You should note that this is version of 0.42 of the *QuestWorlds* System Reference Document. We expect to release revised versions of this SRD, especially after development of Chaosium’s upcoming *QuestWorlds Core Book*. When we release the *QuestWorlds Core Book* we will update the version designation to 1.0, indicating that the SRD reflects the text published in that book. If you are developing materials for *QuestWorlds* projects you may want to bear this in mind. We will track any changes to the SRD at *https://github.com/ChaosiumInc/QuestWorlds*.
 
 Once we release SRD version 1.0 we expect that to be stable for some time.
 
@@ -136,19 +135,7 @@ The third version *HeroQuest*: Core Rules was published in 2009 (ISBN 978-0-9777
 
 An Appendix lists changes in this version. As the SRD is updated we will continue to track version changes there.
 
-## 1.3 Basic & Advanced Mechanics
-
-As the *QuestWorlds* engine is oriented towards rules-light play, we designate some mechanics as "Basic" and others as "Advanced."
-
-Basic rules represent the minimum mechanical structure you need to play a game with the feel of *QuestWorlds*, while advanced rules add mechanical depth to areas of play which you might wish to emphasize, though possibly at a cost in speed of play.
-
-In this document, we put advanced mechanics in their own section from the relevant basic mechanic section.
-
-The advanced mechanics can be added to play individually; you do not have to bring them in together. In cases where an optional mechanic depends upon or interrelates with another optional mechanic, we note that in the text.
-
-If this is your first time reading these rules, you may wish to skip over these sections. Return to them once you understand the basic mechanics. Similarly, if this is your first time playing these rules, you may wish to omit the advanced rules at first, getting a feel for the game in its simplest form, and then add them in as you want more depth. Your GM may even decide to employ certain advanced rules on a case by case basis, providing more detail or nuance to particularly interesting conflicts where beneficial, while otherwise taking a lighter approach.
-
-### 1.3.1 Who Is This Document For
+# 1.3 Who Is This Document For
 
 The primary audience for this document is game-designers who wish to utilize the *QuestWorlds* rules framework to implement their own game.
 
