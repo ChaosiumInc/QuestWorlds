@@ -6,7 +6,7 @@ VAR1=$(CAT << EOF
 1.0_Introduction.md \
 1.1_Why_QuestWorlds.md \
 1.2_Version.md \
-1.3_Basic_&_Advanced_Mechanics.md \
+1.3_Who_Is_This_For.md \
 1.4_Numbering.md \
 1.5_Participants.md \
 2.0_Basic_Mechanics.md \
