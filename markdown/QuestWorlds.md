@@ -86,7 +86,7 @@ Original Rules: Robin D. Laws
 
 Further Development: Greg Stafford, Ian Cooper, David Dunham, Mark Galeotti, Jeff Richard, Neil Robinson, Roderick Robinson, David Scott, Lawrence Whitaker
 
-Additional Contributions: Shannon Appelcline, Simon Bray, David Cake, Dave Camoirano, Melissa Camoirano, John Carnahan, Charles Corrigan, David Dunham, Alex Ferguson, James Frusetta, Phil Hibbs, Simon D. Hibbs, Jeff Kyer, Martin Laurie, Mark Leymaster, Julian Lord, Rick Meints, Peter Metcalfe, Peter Nordstrand, Wesley Quadros, Mikael Raaterova, Jamie Revell, Graham Robinson, Jonas Schiött, Gary Sturgess, Ian Thomson, Nils Weinander
+Additional Contributions: Paul Abertella, Shannon Appelcline, Simon Bray, David Cake, Dave Camoirano, Melissa Camoirano, John Carnahan, Charles Corrigan, David Dunham, Alex Ferguson, James Frusetta, Phil Hibbs, Simon D. Hibbs, Jeff Kyer, Martin Laurie, Mark Leymaster, Julian Lord, Rick Meints, Peter Metcalfe, Peter Nordstrand, Wesley Quadros, Mikael Raaterova, Jamie Revell, Graham Robinson, Jonas Schiött, Gary Sturgess, Ian Thomson, Nils Weinander
 
 Chained Contests and Plot Edits from *Mythic Russia* © copyright 2006, 2010 Mark Galeotti; developed by Graham Robinson (for “Chained Contests”) and added as Open Game Content here with permission.
 
@@ -222,7 +222,7 @@ Ultimately, in *QuestWorlds* a **flaw** is simply something that you invite the 
 
  Once your **ability** passes 20, you would always be able to roll under it on a D20. So to allow abilities to scale over 20 **scores** we use of tiers of capability we refer to as **Mastery**.  To reflect abilities (or **resistance**s) higher than 20, either permanently through character advancement or a temporarily with **modifier** to a contest roll, note a **mastery** for every 20 points in the ability, and treat what remains as the **rating**. So, for an **ability** of 27, we note one **mastery** and a **rating** of seven written as "7M" and we write the **rating** of 21, as 1M.
 
-The "M" after the **rating** signifies **mastery**. The number in front of the M is the **rating**, and represents the new **target number** you seek to roll or less. Whatever your roll, the mastery then **bumps** your **result**. You **bump** a **success** to a **critical**, and **bump** a **failure** to a **success**. If you roll a **critical** you can **bump** down your opponent. When both you and the resistance have **masteries** the cancel out.
+The "M" after the **rating** signifies **mastery**. The number in front of the M is the **rating**, and represents the new **target number** you seek to roll or less. Whatever your roll, the mastery then **bumps** your **result**. You **bump** a **success** to a **critical**, and **bump** a **failure** to a **success**. If you roll a **critical** you can **bump** down your opponent. When both you and the resistance have **masteries** they cancel each other out.
 
 Having a **mastery** means that you **succeed** most of the time and **critical** more often; you will only **fail** when you roll a **fumble**, and have a higher chance of a **critical** from rolling under the **TN**.
 
@@ -280,13 +280,13 @@ Your GM may also use an **assured contest** when there is no interesting story b
 
 Sometimes your GM will decide potential complications could arise in overcoming an **story obstacle**. Or they may want to give you a **bonus** if you do particularly well. If so, they will call for you to make a die roll even though your **victory** is not in question. Your GM will use your die roll **result** to decide if any unforeseen **consequences** or **benefits** arose from your actions.
 
-If you roll a **failure**, you still beat the obstacle, but you also suffer an adverse **consequence** (see §2.7). The nature of this adversity is up to the GM. It will probably be **penalty** involving the same tactic you used in this one (because you exhausted yourself, sprained an ankle, embarrassed yourself in front of your peers, etc.) or to the value of one of your relationships.
+If you roll a **failure**, you still beat the obstacle, but you also suffer an adverse **consequence** (see §2.7). The nature of this adversity is up to the GM. It will probably be a **penalty** involving the same tactic you used in this one (because you exhausted yourself, sprained an ankle, embarrassed yourself in front of your peers, etc.) or to the value of one of your relationships.
 
 If you achieve a high **result**, you’ll receive a **benefit** from your effort (see §2.6). Again, this is up to the GM to define. It could be a **bonus** to the **tactic** used in the **contest**, or to of one of your relationships, etc.
 
 **Fumbles** and **criticals** always result in an unexpected difficulty or reward!
 
-At is most basic, a **assured contest** can be summarized as follows:
+At its most basic, a **assured contest** can be summarized as follows:
 
 1. You and your GM agree upon the terms of the **contest**.
 2. The GM may decide that you simply gain the **victory** and there are no **consequences** or **benefits** beyond that.
@@ -297,7 +297,7 @@ At is most basic, a **assured contest** can be summarized as follows:
 
 #### 2.3.1.2 Simple Contest
 
-The **simple contest** *QuestWorlds*' primary resolution mechanic for overcoming **story obstacles**, and is used the most often where the outcome is uncertain. It also provides the foundation for other types of uncertain **contest**, including several **long** ones. As such, it receives both an overview of key concepts here as well as a more detailed treatment in §4.
+The **simple contest** is *QuestWorlds*' primary resolution mechanic for overcoming **story obstacles**, and is used the most often where the outcome is uncertain. It also provides the foundation for other types of uncertain **contest**, including several **long** ones. As such, it receives both an overview of key concepts here as well as a more detailed treatment in §4.
 
 At is most basic, a **simple contest** can be summarized as follows:
 
@@ -456,9 +456,9 @@ Your GM can either change the situation on such a tie, introducing a new element
 
 ### 2.3.7 Bumps
 
-A **bump** affects the degree of **success** or **failure** of your die roll. A **bump** up improves your **result** by one step, changing a **fumble** to a **failure**, a **failure** to a **success**, or a **success** to a **critical**. **Bump** ups come from two sources: **masteries** and **story points** (applied in that order). A **bump** down reduces **result** by one step, changing a **critical** to a **success**, a **success** to a **failure**, or a **failure** to a **fumble**. **Bump** downs come from one source: **masteries**.
+A **bump** affects the degree of **success** or **failure** of your die roll. A **bump** up improves your **result** by one step, changing a **fumble** to a **failure**, a **failure** to a **success**, or a **success** to a **critical**. **Bump** ups come from two sources: **masteries** and **story points** (applied in that order). A **bump** down reduces the **result** by one step, changing a **critical** to a **success**, a **success** to a **failure**, or a **failure** to a **fumble**. **Bump** downs come from one source: **masteries**.
 
-**Bumps** always affect **results** not **outcomes**, although the outcome could change as a effect of gaining a different **result**.
+**Bumps** always affect **results** not **outcomes**, although the outcome could change as an effect of gaining a different **result**.
 
 #### 2.3.7.1 Bump Up with Mastery
 
@@ -470,7 +470,7 @@ Opposed **masteries** cancel out, each contestant reducing their **score** by th
 
 This allows *QuestWorlds* to represent large differences in ability or **resistance**.
 
-If the **resistance** one or more levels of **mastery** greater than you, your GM can **bump** their roll.
+If the **resistance** is one or more levels of **mastery** greater than you, your GM can **bump** up their roll.
 
 #### 2.3.7.2 Bump Up with Story Points
 
@@ -532,7 +532,7 @@ Abilities that represent special items, weapons, armor, or other noteworthy equi
 
 If you have a good idea for an **augment**, propose it to your GM while the **contest** is being framed. When making your proposal, describe how the **augmenting ability** supports the main one in a way that is both *entertaining* and *memorable*. Don't just hunt for mechanical advantage, show your group more about your PC when you **augment**, their attitudes, passions, or lesser known **abilities**. If you are **augmenting** with a **broad ability** like "Fool's Luck", be prepared to describe the unlikely events that tilt the scales in your favor. Your GM will decide whether the **augment** is justified and can refuse boring and uninspired attempts to **augment**, where you are just looking for a bonus to your roll and not adding to the story.
 
-You may only use one of your own **abilities** to **augment** the **ability** you are using in the **contest**, and you may not use an **ability** to **augment** itself. You may not use a **breakout** to augment a **keyword**, or another **breakout** from the same **keyword**. However, **augments** from other players supporting you can add together with your own, along with other **modifiers**, including those from **benefits** and from **plot augments**.
+You may only use one of your own **abilities** to **augment** the **ability** you are using in the **contest**, and you may not use an **ability** to **augment** itself. You may not use a **breakout** to augment it's parent **keyword**, or another **breakout** from the parent **keyword**. However, **augments** from other players supporting you can add together with your own, along with other **modifiers**, including those from **benefits** and from **plot augments**.
 
 If your GM accepts your **augment** proposal, it will be resolved by one of the methods below. The main **contest** then proceeds as normal, with any bonus from the **augment** added onto the **score** of the **ability** chosen when **framing the contest**. The **augment** remains in effect for the duration of the **contest**.
 
@@ -570,7 +570,7 @@ If you wish to act against your **flaw**, your **tactic** must pass a **credibil
 
 If you submit to your **flaw**, your GM might impose a **hindrance** on further actions (see §2.6.1). You should not contest this **hindrance** unless the situation is not related to the one which triggered your **flaw** in this instance, or significant time has now passed.
 
-Your GM may impose a **penalty** against an **ability** if you gain the **victory** against your **flaw** representing your struggle against your inner nature, violating dearly held principles, or letting down dependents. This is often true where the GM invokes a flaw from a **keyword**. For example, if you had they *keyword** "Gangster" and decide to inform on a fellow mobster, your GM might invoke the **flaw** of "Code of Silence" even if it is not a **breakout** under you **keyword**; this is particularly appropriate where facts such as the "Code of Silence" have been established in game. Even if you overcome your **flaw**, and inform on your fellow mobster, the GM might still impose a **penalty** on use of the **keyword** to interact with your crime family for having breached the "Code of Silence."
+Your GM may impose a **penalty** against an **ability** if you gain the **victory** against your **flaw** representing your struggle against your inner nature, violating dearly held principles, or letting down dependents. This is often true where the GM invokes a flaw from a **keyword**. For example, if you had they **keyword** "Gangster" and decide to inform on a fellow mobster, your GM might invoke the **flaw** of "Code of Silence" even if it is not a **breakout** under you **keyword**; this is particularly appropriate where facts such as the "Code of Silence" have been established in game. Even if you overcome your **flaw**, and inform on your fellow mobster, the GM might still impose a **penalty** on use of the **keyword** to interact with your crime family for having breached the "Code of Silence."
  
 Similarly, your GM might give you a **bonus** for acting according to your **flaw**. representing the sacrifices you have made for dependents or a temporary boost from satisfying your inner demons. For example, if your superhero "Speedster" goes to see the premiere of his partner's new play, instead of heading to the docks to stop Dr. Squid's shipment of Vibrium, your GM might award you a **bonus** to your relationship to your partner.
 
