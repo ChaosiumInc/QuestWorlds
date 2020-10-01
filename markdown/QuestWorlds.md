@@ -212,9 +212,11 @@ Your character may have one or more **flaws**. A **flaw** is an **ability** that
 
 **Flaws** maybe psychological weaknesses such as "Alcoholic" or "Heroin Addict", or physical weaknesses such as "One-Eye," "Wheelchair-Bound" or "Asthmatic." A **flaw** might also be a moral philosophy such as "Code Against Killing," "Pacifist," or "Radical Candor" that limit your behavior in some way. A **flaw** also might be a relationship such as a "Frail Aunt," "Single Dad," or "Blackmailed".
 
-Many **flaws** describe attributes that can be viewed positively. By making it a **flaw** and not an **ability** you are inviting your GM to use it to make your life more difficult, not easier. In some cases, you may choose to record both an **ability** that your GM may interpret as a **flaw** if circumstances suggest. You should not use your **flaw** to accomplish something; if you feel that is likely, make it an **ability** and discuss with the GM whether you want them to draw on it as a **flaw** at appropriate moments.
+Many **flaws** describe attributes that can be viewed positively. By making it a **flaw** and not an **ability** you are inviting your GM to use it to make your life more difficult, not easier. 
 
-Ultimately, in *QuestWorlds* a **flaw** is simply something that you invite the GM to use to hinder or prevent your character doing something.
+You should not use your **flaw** to accomplish something; if you feel that is likely, make it an **ability** and flag to your GM that you want them to draw on it as a **flaw** at appropriate moments. In that case, record both an **ability** and a **flaw** with the same name.
+
+Ultimately, in *QuestWorlds* a **flaw** is simply something that you invite the GM to use to hinder or prevent your character doing something. In return for the GM exercising the **flaw** you gain **experience points** (see §8.1).
 
 ### 2.1.2 Scores, Ratings and Masteries
 
