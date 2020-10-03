@@ -2,23 +2,14 @@
 
 ## 0.1 Legal Information
 
-<<<<<<< HEAD
 IncThe *QuestWorlds* System Reference Document 0.51 (“QWSRD0.51”) describes the rules of *QuestWorlds*. You may incorporate the rules as they appear in QWSRD0.51, wholly or in part, into a derivative work, through the use of the *QuestWorlds* Open Game License, Version 1.0. You should read and understand the terms of that License before creating a derivative work from QWSRD0.51.
-=======
-The *QuestWorlds* System Reference Document 0.42 (“QWSRD0.42”) describes the rules of *QuestWorlds*. You may incorporate the rules as they appear in QWSRD0.42, wholly or in part, into a derivative work, through
-the use of the *QuestWorlds* Open Game License, Version 1.0. You should read and understand the terms of that License before creating a derivative work from QWSRD0.42.
->>>>>>> master
 
 Thanks to Wizards of the Coast, the Open Source Initiative, and Creative Commons for their work in creating the framework behind Open Source (and in this case Open Game) licenses. You should be aware that the *QuestWorlds* Open Game License for use of the *QuestWorlds* system differs from the Wizards Open Game License and has
 different terms and conditions.
 
 ### 0.1.1 Using This License
 
-<<<<<<< HEAD
 You should note that this is version of 0.51 of the *QuestWorlds* System Reference Document. We expect to release revised versions of this SRD, especially after development of Chaosium’s upcoming *QuestWorlds Core Book*. When we release the *QuestWorlds Core Book* we will update the version designation to 1.0, indicating that the SRD reflects the text published in that book. If you are developing materials for *QuestWorlds* projects you may want to bear this in mind. We will track any changes to the SRD at *https://github.com/ChaosiumInc/QuestWorlds*.
-=======
-You should note that this is version of 0.42 of the *QuestWorlds* System Reference Document. We expect to release revised versions of this SRD, especially after development of Chaosium’s upcoming *QuestWorlds Core Book*. When we release the *QuestWorlds Core Book* we will update the version designation to 1.0, indicating that the SRD reflects the text published in that book. If you are developing materials for *QuestWorlds* projects you may want to bear this in mind. We will track any changes to the SRD at *https://github.com/ChaosiumInc/QuestWorlds*.
->>>>>>> master
 
 Once we release SRD version 1.0 we expect that to be stable for some time.
 
@@ -1692,189 +1683,281 @@ Your GM may decide that the community's **rank** in a **resource** is temporaril
 
 ## 10.1 Glossary of Terms
 
-**Ability** Anything you can apply to solve a problem or overcome an obstacle
+**Ability**
+: Anything you can apply to solve a problem or overcome an obstacle.
 
-**Advance** A package of improvements to your **abilities** and **keywords** earned through **experience points** or **milestone advancement**.
+**Advance**
+: A package of improvements to your **abilities** and **keywords** earned through **experience points** or **milestone advancement**.
 
-**Advantage Point (AP)** A measure of advantage in an **extended contest**.
+**Advantage Point (AP)**
+: A measure of advantage in an **extended contest**.
 
-**Ally** A **supporting character** of roughly equal ability to your own.
+**Ally**
+: A **supporting character** of roughly equal ability to your own.
 
-**AP** Abbreviation for Advantage Point.
+**AP**
+: Abbreviation for Advantage Point.
 
-**AP Gifting** When you help another character, whilst uninvolved in a **contest**, by giving them **advantage points** in an **extended contest**.
+**AP Gifting**
+: When you help another character, whilst uninvolved in a **contest**, by giving them **advantage points** in an **extended contest**.
 
-**AP Lending** When you help another character, whilst engaged in a **contest**, by lending them **advantage points**, in an **extended contest**.
+**AP Lending**
+: When you help another character, whilst engaged in a **contest**, by lending them **advantage points**, in an **extended contest**.
 
-**Asymmetrical Exchange** In a **extended contest**, where you are pressed by an opponent, but want to do something other than contend directly for the **prize**.
+**Asymmetrical Exchange**
+: In a **extended contest**, where you are pressed by an opponent, but want to do something other than contend directly for the **prize**.
 
-**Asymmetrical Round** In a **scored contest**, where you are pressed by an opponent, but want to do something other than contend directly for the **prize**.
+**Asymmetrical Round**
+: In a **scored contest**, where you are pressed by an opponent, but want to do something other than contend directly for the **prize**.
 
-**Assist** In a **scored contest**, if you are unengaged you may use an **assist** to reduce the **resolution points** scored against another character.
+**Assist**
+: In a **scored contest**, if you are unengaged you may use an **assist** to reduce the **resolution points** scored against another character.
 
-**Augment** Using one **ability** to help another **ability**
+**Augment**
+: Using one **ability** to help another **ability**.
 
-**Assured Contest** You have an appropriate **ability** and the GM feels **failure** is not interesting, or makes the PC looks un-heroic.
+**Assured Contest**
+: You have an appropriate **ability** and the GM feels **failure** is not interesting, or makes the PC looks un-heroic.
 
-**Background Event** An off-stage **bonus** or **penalty** applied to a **resource**.
+**Background Event**
+: An off-stage **bonus** or **penalty** applied to a **resource**.
 
-**Base resistance** The **TN** for a **moderate resistance class**, from which all other **resistance classes** are figured as a **bonus** or **penalty**.
+**Base resistance**
+: The **TN** for a **moderate resistance class**, from which all other **resistance classes** are figured as a **bonus** or **penalty**.
 
-**Benefit of Victory** Long term positive modifier, because you won a **contest**, against a challenging opponent (not -6 or less than your **ability**). Usually a **state of fortune**.
+**Benefit of Victory**
+: Long term positive modifier, because you won a **contest**, against a challenging opponent (not -6 or less than your **ability**). Usually a **state of fortune**.
 
-**Bid** Also an **AP Bid** or **advantage point bid** is your wager in an **extended contest**.
+**Bid**
+: Also an **AP Bid** or **advantage point bid** is your wager in an **extended contest**.
 
-**Bolster** A **story obstacle** to apply a bonus to a community **resource**
+**Bolster**
+: A **story obstacle** to apply a bonus to a community **resource**
 
-**Bonus** A positive modifier.
+**Bonus**
+: A positive modifier.
 
-**Boost** Spending points after a **group simple contest outcome**, to improve the victory.
+**Boost**
+: Spending points after a **group simple contest outcome**, to improve the victory.
 
-**Bump** An increment of the **result** of a roll, up or down. So a bump up moves a **fumble**, to a **failure**, to a **success** to a **critical**, a bump down moves a **critical**, to a **success**, to a **failure** to a **fumble**. One step is moved per **bump**. It is usually the impact of a **story point** or **mastery**.
+**Bump**
+: An increment of the **result** of a roll, up or down. So a bump up moves a **fumble**, to a **failure**, to a **success** to a **critical**, a bump down moves a **critical**, to a **success**, to a **failure** to a **fumble**. One step is moved per **bump**. It is usually the impact of a **story point** or **mastery**.
 
-**Burn** Using a **story point** as a bump. The **story point** is lost after burning.
+**Burn**
+: Using a **story point** as a bump. The **story point** is lost after burning.
 
-**Catch-Up** When you cross a **mastery** threshold you can increase lesser used **abilities** to ensure they keep pace.
+**Catch-Up**
+: When you cross a **mastery** threshold you can increase lesser used **abilities** to ensure they keep pace.
 
-**Climax** A **long contest** **story obstacle** that provides the conclusion to a story.
+**Climax**
+: A **long contest** **story obstacle** that provides the conclusion to a story.
 
-**Contact** A **supporting character** who shares an **occupation** or interest with your character.
+**Contact**
+: A **supporting character** who shares an **occupation** or interest with your character.
 
-**Contest** Where there is uncertainty as to whether a PC can overcome a **story obstacle** or discover a secret, then your GM can call for a contest to determine if the PC succeeds or fails. A contest may be **simple** (one roll) of **long** (a series of rolls).
+**Contest**
+: Where there is uncertainty as to whether a PC can overcome a **story obstacle** or discover a secret, then your GM can call for a contest to determine if the PC succeeds or fails. A contest may be **simple** (one roll) of **long** (a series of rolls).
 
-**consequences** Long term negative modifier, because you lost a contest. Usually a **state of adversity**.
+**Consequences**
+: Long term negative modifier, because you lost a contest. Usually a **state of adversity**.
 
-**Contest Framing** Setting the stakes of the **contest**, what is this conflict about. Often not the immediate aftermath of victory.
+**Contest Framing**
+: Setting the stakes of the **contest**, what is this conflict about. Often not the immediate aftermath of victory.
 
-**Credibility Test** Is it possible to perform the action without an **ability**, with an ordinary **ability**, or only with a **extraordinary ability**?
+**Credibility Test**
+: Is it possible to perform the action without an **ability**, with an ordinary **ability**, or only with a **extraordinary ability**?
 
-**Crisis Test** Used to determine if a **resource** that has a **penalty** creates a crisis.
+**Crisis Test**
+: Used to determine if a **resource** that has a **penalty** creates a crisis.
 
-**Defeat** Your **result** is worse than the **resistance's** result.
+**Defeat**
+: Your **result** is worse than the **resistance's** result.
 
-**Defensive Response** In a **scored contest** you can choose a defensive **tactic** which reduces the **resource points** you lose on a negative **result**.
+**Defensive Response**
+: In a **scored contest** you can choose a defensive **tactic** which reduces the **resource points** you lose on a negative **result**.
 
-**Dependent** A **supporting character** who depends on your PC.
+**Dependent**
+: A **supporting character** who depends on your PC.
 
-**Depletion** Use of a community **resource** leads to its depletion.
+**Depletion**
+: Use of a community **resource** leads to its depletion.
 
-**Directed Improvement** When your GM grants you a new **ability**, or an increase to an existing one, to recognize a story event.
+**Directed Improvement**
+: When your GM grants you a new **ability**, or an increase to an existing one, to recognize a story event.
 
-**Distinguishing Characteristic** The dominant personality **ability** that others recognize in a character.
+**Distinguishing Characteristic**
+: The dominant personality **ability** that others recognize in a character.
 
-**Dying** A **state of adversity**, where the character's **defeat** will end their participation.
+**Dying**
+: A **state of adversity**, where the character's **defeat** will end their participation.
 
-**Edge** In an **extended contest** adds to the **APs** lost or transferred when you win an **exchange**.
+**Edge**
+: In an **extended contest** adds to the **APs** lost or transferred when you win an **exchange**.
 
-**Exchange** In an **extended contest** a round is divided into two **exchanges** where both aggressor and defender act. In a **group extended contest** a round consists of a sequence of **exchanges** where everyone acts in turn. The GM determines the order of action.
+**Exchange**
+: In an **extended contest** a round is divided into two **exchanges** where both aggressor and defender act. In a **group extended contest** a round consists of a sequence of **exchanges** where everyone acts in turn. The GM determines the order of action.
 
-**Extended Contest** A type of **long contest** in which you track the relative advantage one opponent has over another using **advantage points**.
+**Extended Contest**
+: A type of **long contest** in which you track the relative advantage one opponent has over another using **advantage points**.
 
-**Experience Points (XP)** When you experience **defeat**, or a **flaw** you may gain an **experience point**, which accumulate between sessions.
+**Experience Points (XP)**
+: When you experience **defeat**, or a **flaw** you may gain an **experience point**, which accumulate between sessions.
 
-**Extraordinary ability** Certain genres allow player characters to have **abilities** that exceed human norms, these are **extraordinary abilities**. A genre pack normally outlines what is possible as part of its extraordinary powers framework.
+**Extraordinary ability**
+: Certain genres allow player characters to have **abilities** that exceed human norms, these are **extraordinary abilities**. A genre pack normally outlines what is possible as part of its extraordinary powers framework.
 
-**Failure** Rolling over your **target number**. It can be a **fumble** or just a plain **failure**.
+**Failure**
+: Rolling over your **target number**. It can be a **fumble** or just a plain **failure**.
 
-**Final Action** A last action by a **dying** character  
+**Final Action**
+: A last action by a **dying** character  
 
-**Flaw** An **ability** that penalizes you instead of helping you.
+**Flaw**
+: An **ability** that penalizes you instead of helping you.
 
-**Fumble** The worst **failure** **result**, a notable failure either due to incompetence or bad luck.
+**Fumble**
+: The worst **failure** **result**, a notable failure either due to incompetence or bad luck.
 
-**Follower** A **supporting character** under your control. Either a **sidekick** or **retainer**
+**Follower**
+: A **supporting character** under your control. Either a **sidekick** or **retainer**
 
-**Framing the contest** You and your GM agree on the **prize** for the victor, and your tactic in trying to win it.
+**Framing the contest**
+: You and your GM agree on the **prize** for the victor, and your tactic in trying to win it.
 
-**Group Chained Contest** A **chained contest** in which more than a pair of opponents contend for the **prize**
+**Group Chained Contest**
+: A **chained contest** in which more than a pair of opponents contend for the **prize**
 
-**Group Extended Contest** An **extended contest** in which more than a pair of opponents contend for the **prize**
+**Group Extended Contest**
+: An **extended contest** in which more than a pair of opponents contend for the **prize**
 
-**Group Scored Contest** A **scored contest** in which more than a pair of opponents contend for the **prize**
+**Group Scored Contest**
+: A **scored contest** in which more than a pair of opponents contend for the **prize**
 
-**Group Simple Contest** A **simple contest** where one side has multiple participants.
+**Group Simple Contest**
+: A **simple contest** where one side has multiple participants.
 
-**Graduated Goals** When a contestant has a **primary** and **secondary** goal, and may have to choose between them if you have the same result as your opponent but a better roll.
+**Graduated Goals**
+: When a contestant has a **primary** and **secondary** goal, and may have to choose between them if you have the same result as your opponent but a better roll.
 
-**Handicap** In an **extended contest** subtracts from the **APs** lost or transferred when you win an **exchange**.
+**Handicap**
+: In an **extended contest** subtracts from the **APs** lost or transferred when you win an **exchange**.
 
-**Story Point** Allows you to alter fate for a player character, either by a **bump** to their **result** or a **plot edit**.
+**Story Point**
+: Allows you to alter fate for a player character, either by a **bump** to their **result** or a **plot edit**.
 
-**Hurt** A state of adversity, a flesh wound or injured pride, heals at the end of a session.
+**Hurt**
+: A state of adversity, a flesh wound or injured pride, heals at the end of a session.
 
-**Keyword** A single **ability** that encompasses a range of abilities within it, such as an **occupation** or culture. An **ability** within an **umbrella keyword** is a **break-out ability**, an **ability** within a **package keyword** is a **stand-alone ability**.
+**Keyword**
+: A single **ability** that encompasses a range of abilities within it, such as an **occupation** or culture. An **ability** within an **umbrella keyword** is a **break-out ability**, an **ability** within a **package keyword** is a **stand-alone ability**.
 
-**Long Contest** A **contest** where we drill-down to the individual exchanges that resolve the conflict. We support **scored**, **extended**, and **chained contests**
+**Long Contest**
+: A **contest** where we drill-down to the individual exchanges that resolve the conflict. We support **scored**, **extended**, and **chained contests**
 
-**Milestone Advancement** A method for improving a character where the GM declares when you receive an **advance**.
+**Milestone Advancement**
+: A method for improving a character where the GM declares when you receive an **advance**.
 
-**Modifiers** Adjustments to a **target number** due to circumstance.
+**Modifiers**
+: Adjustments to a **target number** due to circumstance.
 
-**Mastery** An **ability** **score** that rises above 20 is said to have a **mastery**. **Masteries** cancel each other out in **contests**. **Masteries** that are not cancelled provide a **bump**.
+**Mastery**
+: An **ability** **score** that rises above 20 is said to have a **mastery**. **Masteries** cancel each other out in **contests**. **Masteries** that are not cancelled provide a **bump**.
 
-**Mismatched Goals** When the opposing sides in a **contest** want different **prizes**.
+**Mismatched Goals**
+: When the opposing sides in a **contest** want different **prizes**.
 
-**Occupation** An **ability** that indicates the profession, or primary area of expertise, of your character.
+**Occupation**
+: An **ability** that indicates the profession, or primary area of expertise, of your character.
 
-**Outcome** A **contest** has an **outcome**, described as a **victory** or **defeat** in obtaining the **prize** that was agreed in **contest framing** for any PCs involved.
+**Outcome**
+: A **contest** has an **outcome**, described as a **victory** or **defeat** in obtaining the **prize** that was agreed in **contest framing** for any PCs involved.
 
-**Parting Shot** An attempt to make your opponent's **defeat** worse in a **long contest** (**scored** or **extended**), by 'finishing them off'.
+**Parting Shot**
+: An attempt to make your opponent's **defeat** worse in a **long contest** (**scored** or **extended**), by 'finishing them off'.
 
-**Patron** A **supporting character** with superior assets.
+**Patron**
+: A **supporting character** with superior assets.
 
-**Penalty** A negative modifier.
+**Penalty**
+: A negative modifier.
 
-**Prize** What is at stake in the **contest**, decided during **framing**.
+**Prize**
+: What is at stake in the **contest**, decided during **framing**.
 
-**Rating** An ability has a **rating**, between 1 and 20, indicating how likely a character is to succeed at using it.
+**Rating**
+: An ability has a **rating**, between 1 and 20, indicating how likely a character is to succeed at using it.
 
-**Resistance** The forces opposing the PC in a conflict, or concealing a secret that must be overcome by using an **ability** in a **contest**. One of: **Extreme**, **Huge**, **Very High**, **High**, **Raised**, **Moderate**, **Low**, **Very Low**, **Tiny**, **Rock-bottom**.
+**Resistance**
+: The forces opposing the PC in a conflict, or concealing a secret that must be overcome by using an **ability** in a **contest**. One of: **Extreme**, **Huge**, **Very High**, **High**, **Raised**, **Moderate**, **Low**, **Very Low**, **Tiny**, **Rock-bottom**.
 
-**Resistance Class** The **bonus** or **penalty** to the **resistance** **TN**, depending on the GM's interpretation of how *dramatically* hard the **story obstacle** is.
+**Resistance Class**
+: The **bonus** or **penalty** to the **resistance** **TN**, depending on the GM's interpretation of how *dramatically* hard the **story obstacle** is.
 
-**Resolution Point (RP)** In a **scored contest** an **RP** tracks the advantage one contestant has over the other.
+**Resolution Point (RP)**
+: In a **scored contest** an **RP** tracks the advantage one contestant has over the other.
 
-**Resource** A community **ability** that your PC may draw on.
+**Resource**
+: A community **ability** that your PC may draw on.
 
-**Result** The **outcome** of a die roll against a **TN**. One of **critical**, **success**, **failure**, and **fumble**.
+**Result**
+: The **outcome** of a die roll against a **TN**. One of **critical**, **success**, **failure**, and **fumble**.
 
-**Retainer** A **follower** of your PC who is not 'fleshed out' and cannot act independently.
+**Retainer**
+: A **follower** of your PC who is not 'fleshed out' and cannot act independently.
 
-**Rising Action** A **scored contest** where the **story obstacle** is a step towards the final **story obstacle** of this story.
+**Rising Action**
+: A **scored contest** where the **story obstacle** is a step towards the final **story obstacle** of this story.
 
-**Risky Gambit** In a **long contest** you can take an action that puts you at more risk on defeat, but enhances victory.
+**Risky Gambit**
+: In a **long contest** you can take an action that puts you at more risk on defeat, but enhances victory.
 
-**Round** A **long contest** is broken into a series of rounds, each of which is an attempt to obtain the **prize**. In an **extended contest** a round is further broken into a number of **exchanges** in which all participants have the chance to act.
+**Round**
+: A **long contest** is broken into a series of rounds, each of which is an attempt to obtain the **prize**. In an **extended contest** a round is further broken into a number of **exchanges** in which all participants have the chance to act.
 
-**Score** A **score** consists of a **rating** and, if it is above 20, one or more **masteries**
+**Score**
+: A **score** consists of a **rating** and, if it is above 20, one or more **masteries**
 
-**Second Chance** An attempt by **defeated**, but unengaged, PCs to re-enter an **extended contest**.
+**Second Chance**
+: An attempt by **defeated**, but unengaged, PCs to re-enter an **extended contest**.
 
-**Scored Contest** A **long contest** where we track the relative advantage one contestant has over another using **resolution points**
+**Scored Contest**
+: A **long contest** where we track the relative advantage one contestant has over another using **resolution points**
 
-**Sidekick** A fleshed out **follower** of your PC who can act independently.
+**Sidekick**
+: A fleshed out **follower** of your PC who can act independently.
 
-**Supporting Characters** Additional characters under the player's control that play a supporting role to their PC. 
+**Supporting Characters**
+: Additional characters under the player's control that play a supporting role to their PC. 
 
-**Simple Contest** A one roll resolution method, the default **contest** type, used when learning the **outcome** matters more than the breakdown of how you achieved it.
+**Simple Contest**
+: A one roll resolution method, the default **contest** type, used when learning the **outcome** matters more than the breakdown of how you achieved it.
 
-**Stand Alone Ability** An **ability** raised separately to a **keyword**. It may have been added to the character as part of a **package keyword**, or on its own.
+**Stand Alone Ability**
+: An **ability** raised separately to a **keyword**. It may have been added to the character as part of a **package keyword**, or on its own.
 
-**Story Obstacle** Something that prevents you from getting what you want, the **prize**. A **story obstacle** is the trigger for a **contest**. 
+**Story Obstacle**
+: Something that prevents you from getting what you want, the **prize**. A **story obstacle** is the trigger for a **contest**. 
 
-**Stretch** A **penalty** applied to an **ability** because it is stretches credibility that it is a reasonable **tactic**.
+**Stretch**
+: A **penalty** applied to an **ability** because it is stretches credibility that it is a reasonable **tactic**.
 
-**Success** Rolling under your **target number**. It can be a **critical** or just a plain **success**.
+**Success**
+: Rolling under your **target number**. It can be a **critical** or just a plain **success**.
 
-**Tactic** How you intend to use one of your **abilities** to overcome a **story obstacle**
+**Tactic**
+: How you intend to use one of your **abilities** to overcome a **story obstacle**
 
-**Target Number (TN)** The number, either an **ability** **rating**, or a **resistance**, to roll under or equal to in order to **succeed**.
+**Target Number (TN)**
+: The number, either an **ability** **rating**, or a **resistance**, to roll under or equal to in order to **succeed**.
 
-**TN** Abbreviation for **Target Number**
+**TN**
+: Abbreviation for **Target Number**
 
-**Unrelated Action** An action when you are disengaged in a **long contest** that does not relate to your attempt to win the **prize**.
+**Unrelated Action**
+: An action when you are disengaged in a **long contest** that does not relate to your attempt to win the **prize**.
 
-**Victory** Your **result** is a better roll than the **resistance**.
+**Victory**
+: Your **result** is a better roll than the **resistance**.
 
 ## 10.2 Version Changes
 
@@ -2420,29 +2503,42 @@ Your GM may decide that certain remarkable triumphs or horrifying catastrophes m
 
 The following terms are for rules in the appendix that are no longer used in the main rules.
 
-**Contest of Wherewithal** A **contest** that allows a **dying** character to complete one **final action**.
+**Contest of Wherewithal**
+: A **contest** that allows a **dying** character to complete one **final action**.
 
-**Complete Defeat** No, and.... You have lost, and the impact is long-lasting, maybe even fatal or terminal.
+**Complete Defeat**
+: No, and.... You have lost, and the impact is long-lasting, maybe even fatal or terminal.
 
-**Complete Victory** Yes, and... You have won, and the impact is long-lasting, possibly a permanent change in your favor.
+**Complete Victory**
+: Yes, and... You have won, and the impact is long-lasting, possibly a permanent change in your favor.
 
-**Degree of Victory or Defeat** How well did you triumph, or how badly did you fail: **marginal**, **minor**, **major**, **complete**
+**Degree of Victory or Defeat**
+: How well did you triumph, or how badly did you fail: **marginal**, **minor**, **major**, **complete**
 
-**Major Defeat** No, and. You have lost, and the impact is long-lasting.
+**Major Defeat**
+: No, and. You have lost, and the impact is long-lasting.
 
-**Major Victory**, Yes, and. You have won, and the impact is long-lasting.
+**Major Victory**
+: Yes, and. You have won, and the impact is long-lasting.
 
-**Marginal Defeat** No, but... You don't get what you want, but the damage may be mitigated.
+**Marginal Defeat**
+: No, but... You don't get what you want, but the damage may be mitigated.
 
-**Marginal Victory** Yes, but... You get what you want, but you may have to make a hard choice.
+**Marginal Victory**
+: Yes, but... You get what you want, but you may have to make a hard choice.
 
-**Minor Defeat** No... you don't get the agreed **prize**.
+**Minor Defeat**
+: No... you don't get the agreed **prize**.
 
-**Minor Victory** Yes... you get the agreed **prize**.
+**Minor Victory**
+: Yes... you get the agreed **prize**.
 
-**Outcome Point** A point scored in favor one side in a **group simple contest**
+**Outcome Point**
+: A point scored in favor one side in a **group simple contest**
 
-**State of Adversity** How 'banged up' a PC is, physically or metaphorically, following a **defeat**: **Hurt**, **Injured**, **Impaired**, **Dying** and **Dead**
+**State of Adversity**
+: How 'banged up' a PC is, physically or metaphorically, following a **defeat**: **Hurt**, **Injured**, **Impaired**, **Dying** and **Dead**
 
-**State of Fortune** A 'boost' to the PC which may be physical or metaphorical.
+**State of Fortune**
+: A 'boost' to the PC which may be physical or metaphorical.
 
