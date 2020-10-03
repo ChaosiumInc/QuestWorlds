@@ -6,7 +6,7 @@ The QuestWorlds SRD is geared toward enabling both designers and enthusiasts to 
 
 Formatted for distribution and browsable online versions of the QuestWorlds SRD along with news, communities, and other useful reources may by found at: https://questworlds.chaosium.com/
 
-If you wish to give feedaback or suggestions about the rules, point out errors in the text, or are otherwise interested in contributing to the SRD's development, please review [the contribution guidelines](CONTRIBUTING.MD) to learn how to get involved.
+If you wish to give feedaback or suggestions about the rules, point out errors in the text, or are otherwise interested in contributing to the SRD's development, please review [the contribution guidelines](CONTRIBUTING.md) to learn how to get involved.
 
 ## SRD Implementation Details
 
