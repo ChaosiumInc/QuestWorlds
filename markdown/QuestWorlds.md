@@ -2,14 +2,23 @@
 
 ## 0.1 Legal Information
 
+<<<<<<< HEAD
 IncThe *QuestWorlds* System Reference Document 0.51 (“QWSRD0.51”) describes the rules of *QuestWorlds*. You may incorporate the rules as they appear in QWSRD0.51, wholly or in part, into a derivative work, through the use of the *QuestWorlds* Open Game License, Version 1.0. You should read and understand the terms of that License before creating a derivative work from QWSRD0.51.
+=======
+The *QuestWorlds* System Reference Document 0.42 (“QWSRD0.42”) describes the rules of *QuestWorlds*. You may incorporate the rules as they appear in QWSRD0.42, wholly or in part, into a derivative work, through
+the use of the *QuestWorlds* Open Game License, Version 1.0. You should read and understand the terms of that License before creating a derivative work from QWSRD0.42.
+>>>>>>> master
 
 Thanks to Wizards of the Coast, the Open Source Initiative, and Creative Commons for their work in creating the framework behind Open Source (and in this case Open Game) licenses. You should be aware that the *QuestWorlds* Open Game License for use of the *QuestWorlds* system differs from the Wizards Open Game License and has
 different terms and conditions.
 
 ### 0.1.1 Using This License
 
+<<<<<<< HEAD
 You should note that this is version of 0.51 of the *QuestWorlds* System Reference Document. We expect to release revised versions of this SRD, especially after development of Chaosium’s upcoming *QuestWorlds Core Book*. When we release the *QuestWorlds Core Book* we will update the version designation to 1.0, indicating that the SRD reflects the text published in that book. If you are developing materials for *QuestWorlds* projects you may want to bear this in mind. We will track any changes to the SRD at *https://github.com/ChaosiumInc/QuestWorlds*.
+=======
+You should note that this is version of 0.42 of the *QuestWorlds* System Reference Document. We expect to release revised versions of this SRD, especially after development of Chaosium’s upcoming *QuestWorlds Core Book*. When we release the *QuestWorlds Core Book* we will update the version designation to 1.0, indicating that the SRD reflects the text published in that book. If you are developing materials for *QuestWorlds* projects you may want to bear this in mind. We will track any changes to the SRD at *https://github.com/ChaosiumInc/QuestWorlds*.
+>>>>>>> master
 
 Once we release SRD version 1.0 we expect that to be stable for some time.
 
@@ -199,9 +208,11 @@ Your character may have one or more **flaws**. A **flaw** is an **ability** that
 
 **Flaws** maybe psychological weaknesses such as "Alcoholic" or "Heroin Addict", or physical weaknesses such as "One-Eye," "Wheelchair-Bound" or "Asthmatic." A **flaw** might also be a moral philosophy such as "Code Against Killing," "Pacifist," or "Radical Candor" that limit your behavior in some way. A **flaw** also might be a relationship such as a "Frail Aunt," "Single Dad," or "Blackmailed".
 
-Many **flaws** describe attributes that can be viewed positively. By making it a **flaw** and not an **ability** you are inviting your GM to use it to make your life more difficult, not easier. In some cases, you may choose to record both an **ability** that your GM may interpret as a **flaw** if circumstances suggest. You should not use your **flaw** to accomplish something; if you feel that is likely, make it an **ability** and discuss with the GM whether you want them to draw on it as a **flaw** at appropriate moments.
+Many **flaws** describe attributes that can be viewed positively. By making it a **flaw** and not an **ability** you are inviting your GM to use it to make your life more difficult, not easier. 
 
-Ultimately, in *QuestWorlds* a **flaw** is simply something that you invite the GM to use to hinder or prevent your character doing something.
+You should not use your **flaw** to accomplish something; if you feel that is likely, make it an **ability** and flag to your GM that you want them to draw on it as a **flaw** at appropriate moments. In that case, record both an **ability** and a **flaw** with the same name.
+
+Ultimately, in *QuestWorlds* a **flaw** is simply something that you invite the GM to use to hinder or prevent your character doing something. In return for the GM exercising the **flaw** you gain **experience points** (see §8.1).
 
 ### 2.1.2 Scores, Ratings and Masteries
 
@@ -273,7 +284,7 @@ If you achieve a high **result**, you’ll receive a **benefit** from your effor
 
 **Fumbles** and **criticals** always result in an unexpected difficulty or reward!
 
-At its most basic, a **assured contest** can be summarized as follows:
+An **assured contest** can be summarized as follows:
 
 1. You and your GM agree upon the terms of the **contest**.
 2. The GM may decide that you simply gain the **victory** and there are no **consequences** or **benefits** beyond that.
@@ -286,7 +297,7 @@ At its most basic, a **assured contest** can be summarized as follows:
 
 The **simple contest** is *QuestWorlds*' primary resolution mechanic for overcoming **story obstacles**, and is used the most often where the outcome is uncertain. It also provides the foundation for other types of uncertain **contest**, including several **long** ones. As such, it receives both an overview of key concepts here as well as a more detailed treatment in §4.
 
-At is most basic, a **simple contest** can be summarized as follows:
+A **simple contest** can be summarized as follows:
 
 1. You and your GM agree upon the terms of the **contest**.
 2. You roll a D20 vs your relevant **ability**, while your GM rolls a D20 vs the **resistance**.
@@ -1457,21 +1468,21 @@ In games with a strong player vs. player element, your GM should dispense with *
 
 ## 7.1 Story Point Pool
 
-At the beginning of play, your GM will create a **story point pool** for your group. The **story point pool** has one **story point** per PC. During play you can **burn** a point from this pool, after which it is lost. When you **burn** a **story point** you can edit the story in your PC or group's favor. You can either do this to improve your **result** via a **bump** (see §7.1) or to introduce a helpful fact into the world via a **plot edit** (see $7.2).
+At the beginning of play, your GM will create a **story point pool** for your group. The **story point pool** has one **story point** per PC. During play you can **burn** one or more points from this **pool**, after which it is lost. When you **burn** **story points** you can edit the story in your PC or group's favor. You can either do this to improve your **result** via a **bump** (see §7.1) or to introduce a helpful fact into the world via a **plot edit** (see $7.2).
 
-You can decide to spend one of your group's **story points** from the **pool** at any time. You do not agreement from the other players to do so.
+You can decide to spend **story points** at any time. You do not agreement from the other players to do so.
 
-Your GM may feel that the genre they are playing requires a greater pool of **story points** as the heroes never seem to lose. You can create a larger **story point pool** but beware that failure and reversals of fortune for the hero are part of most *interesting* stories. It can be unwise for the GM to remove all sense of threat from the players by giving them a **story point pool** from which they can **bump** any roll, or remove all branches of the story that stem from **defeat**.
+Your GM may feel that the genre they are playing requires a greater pool of **story points** as in that genre the heroes never seem to lose. You can create a larger **story point pool** to reflect this but beware that failure and reversals of fortune for the hero are part of most *interesting* stories. It can be unwise for the GM to remove all sense of threat from the players by giving them a **story point pool** from which they can **bump** any roll, or remove all branches of the story that stem from **defeat**.
 
 ### 7.1.1 Refreshing Story Points
 
-Because you burn a **story point** to use it, your **story point pool** may become exhausted. The GM has three alternative strategies for **refreshing** your **story point pool:**
+Because you burn a **story point** to use it, your **story point pool** may become exhausted. The GM has three choices for **refreshing** your **story point pool:**
 
 * The **story point pool refreshes** at the beginning of every session of play.
-* The **story point pool refreshes** whenever your PCs engage in genre-appropriate downtime. Usually the GM plays this out as a montage, asking your character to describe genre appropriate activities in this time period.
+* The **story point pool refreshes** whenever your PCs engage in genre-appropriate downtime. Usually the GM plays this out as a montage, asking your character to describe genre appropriate activities in this time period. For example: in a police procedural series, the PCs might gather at a cop bar to drink and talk about their personal problems; in a series about high-school paranormal investigators they might gather in the school library to chill with their mentor, the librarian, and talk about teenage problems.
 * The **story point pool refreshes** whenever the GM deems it necessary, based on their desire to allow you to edit the upcoming story.
 
-Ultimately your GM is always the arbiter of how the **story point pool refreshes**. On a refresh your **story points** pool resets to one **story point** per PC.
+Ultimately your GM is always the arbiter of  when and how the **story point pool refreshes**. On a refresh your **story points** pool resets to one **story point** per PC.
 
 ### 7.1.2 Story Point Pool Summary
 
@@ -1484,11 +1495,11 @@ To summarize:
 * The GM decides on the conditions to a refresh a **story point pool**.
 * The **story point pool** refreshes to 1 **story point** per PC in the pool.
 
-## 7.1 Bump with Story Points
+## 7.2 Bump with Story Points
 
 You can burn a **story point** to gain a **bump** (see §2.3.7).
 
-## 7.2 Plot Edits
+## 7.3 Plot Edits
 
 *QuestWorlds* is a co-operative game, and you may create details about the setting as the normal part of narration. Your GM should allow this, as long as they do not break credibility. So, you may describe your PC walking over to the pot of soup bubbling on the fire, swiping a drink from the tray the waiter is carrying at the governor's ball, or taking the monorail to the next city to continue your investigation. Your GM should allow these additions without interruption, providing it does not confer significant advantage to your PC. Mostly this will be using elements that have already been established as part of the setting.
 
@@ -1502,7 +1513,7 @@ Your GM is the arbitrator of whether a **plot edit** is allowed. It should not s
 
 The cost, in **story points**, of a **plot edit**, is given by the following table. 
 
-#### 7.2.1.1 PLOT EDIT TABLE
+#### 7.3.1.1 PLOT EDIT TABLE
 
 |Level                    |Cost |Impact                   |Example                  |
 |:-----------------------:|:---:|:-----------------------:|:-----------------------:|
