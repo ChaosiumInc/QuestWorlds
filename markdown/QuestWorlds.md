@@ -2,7 +2,7 @@
 
 ## 0.1 Legal Information
 
-IncThe *QuestWorlds* System Reference Document 0.51 (“QWSRD0.51”) describes the rules of *QuestWorlds*. You may incorporate the rules as they appear in QWSRD0.51, wholly or in part, into a derivative work, through the use of the *QuestWorlds* Open Game License, Version 1.0. You should read and understand the terms of that License before creating a derivative work from QWSRD0.51.
+The *QuestWorlds* System Reference Document 0.52 (“QWSRD0.52”) describes the rules of *QuestWorlds*. You may incorporate the rules as they appear in QWSRD0.52, wholly or in part, into a derivative work, through the use of the *QuestWorlds* Open Game License, Version 1.0. You should read and understand the terms of that License before creating a derivative work from QWSRD0.52.
 
 Thanks to Wizards of the Coast, the Open Source Initiative, and Creative Commons for their work in creating the framework behind Open Source (and in this case Open Game) licenses. You should be aware that the *QuestWorlds* Open Game License for use of the *QuestWorlds* system differs from the Wizards Open Game License and has
 different terms and conditions.
@@ -79,6 +79,7 @@ except as expressly licensed in another, independent Agreement with the owner of
 16. Severability: If any provision of this License is held to be unenforceable, such provision shall be severed only to the extent necessary to make it enforceable.
 
 17. Governing Law and Venue: The governing law for any disputes arising under this License shall be the laws of the State of Michigan, without reference to its choice of laws provisions. Venue is exclusively vested in the United States Federal District Court for the Eastern District of Michigan.
+
 ## 0.2 Credits
 
 Original Rules: Robin D. Laws
@@ -401,7 +402,7 @@ To determine how well you use an **ability**, roll a 20-sided die (D20). At the 
 Compare your rolled number with your **Target Number** to determine the **result**, a level of **success** or **failure** for the roll (not the **contest** as a whole).
 
 * **Critical**: If the die roll is equal to the **TN** (even when the **TN** is 20), you succeed brilliantly. This is the best **result** possible.
-* **Success**: If the die roll is less than the **TN** and not a **fumble**, you succeed, but there is nothing remarkable about the success.
+* **Success**: If the die roll is less than the **TN**, you succeed, but there is nothing remarkable about the success.
 * **Failure**: If the die roll is greater than the **TN** but not a **fumble**, you fail. Things do not happen as hoped.
 * **Fumble**: If the die roll is 20, you fumble (except when the **TN** is 20, when it is a **critical**). You fail miserably. This is the worst **result** possible.
 
@@ -1242,7 +1243,7 @@ Your GM may want rules to represent opponents who strike rarely but with great e
 
 **Edges** and **handicaps** affect only the **advantage points bid** in an **extended contest**. Your **edge** is added to your **AP bid** when your opponent must **lose** or **transfer APs**. Your **handicap** is subtracted from your bid when your opponent **loses** or **transfers APs**. A contestant’s **edge** or **handicap** never affects his **AP** when he defends, only when he is attacking.
 
-Most GMs find **edges** and **handicaps** more trouble than they’re worth, and depict these phenomena with description alone. Earlier books made more extensive use of **edges** and **handicaps** to represent the quality of equipment carried by the PCs. For example, your suit for chainmail might be ^4 and your sword ^3. In games where restricted access to equipment is a significant part of the setting and your GM wants to use extended contests it may make sense to use them, otherwise we recommend ignoring them.
+Most GMs find **edges** and **handicaps** more trouble than they’re worth, and depict these phenomena with description alone. Earlier books made more extensive use of **edges** and **handicaps** to represent the quality of equipment carried by the PCs. In games where restricted access to equipment is a significant part of the setting and your GM wants to use extended contests it may make sense to use them, otherwise we recommend ignoring them.
 
 ## 5.4 Group Extended Contests
 
