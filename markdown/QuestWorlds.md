@@ -407,13 +407,13 @@ If you both have the *same* **successes**, including if neither of you has any *
 
 Your GM narrates the contest **outcome**. Their narration should take into account the **prize** and the **tactics** used by each side. Your GM may invite you to contribute more detail on your actions as part of that narration, if they wish. But the GM is the final arbiter of how the story progresses as a result of the rolls - provided they respect the **outcome** in which you win or lose the **prize**.
 
- Your GM should bear in mind your **result** when describing the outcome. We refer to the *difference* between the number of **successes** earned by the victor and the number earned by the loser as the **authority** of the victory. The **authority** is a guide for the GM when narrating the outcome as to how convincing a victory was. If you have an **authority** of *zero*, the GM should describe your actions as successful, but the **resistance** as competent. If you have an **authority** of *two*, your GM should describe a convincing **victory** in which your adversary is clearly outclassed.
+ Your GM should bear in mind your **result** when describing the outcome. *One more* than the *difference* between the number of **successes** earned by the victor and the number earned by the loser becomes the **rank** of the victory. The **rank** is a guide for the GM when narrating the outcome as to how convincing a victory was. If you have an **rank** of *one*, the GM should describe your actions as successful, but the **resistance** as competent. If you have an **rank** of *three*, your GM should describe a convincing **victory** in which your adversary is clearly outclassed.
 
 The GM is narrating a car chase through the busy streets of New Los Angeles. The PCs are trying to catch the demon-worshipper Ath'Zul who has stolen The Eye of Lorus from a museum. Some examples of how the GM might interpret **outcomes** as follows:
  
-* PC One **Success** vs. Ath'Zul One **Success**, the PC has the higher roll, and an **authority** of *zero*: Ath'Zul tries to shake the PCs, his hover bike, weaving in and out of traffic, but the PCs are always on his tail, and catch him at the lights on Bradbury Junction.
-* PC One **Success** vs. Ath'Zul No **Successes**, the PC has an **authority** of *one*: Ath'Zul tries to shake the PCs, his hover bike, weaving in and out of traffic, but the PCs force him off the road, where his bike loses repulsor lift and halts.
-* PC Two **Successes** vs. Ath'Zul No **Successes**, the PC has an **authority** of *two*: Ath'Zul tries to shake the PCs, his hover bike, weaving in and out of traffic, but he crashes into a parked car, spilling Ath'Zul and the stolen artefact over the road.
+* PC One **Success** vs. Ath'Zul One **Success**, the PC has the higher roll, *zero* **successes** difference, and an **rank** of *one*: Ath'Zul tries to shake the PCs, his hover bike, weaving in and out of traffic, but the PCs are always on his tail, and catch him at the lights on Bradbury Junction.
+* PC One **Success** vs. Ath'Zul No **Successes**, the PC has *one* success difference an **rank** of *two*: Ath'Zul tries to shake the PCs, his hover bike, weaving in and out of traffic, but the PCs force him off the road, where his bike loses repulsor lift and halts.
+* PC Two **Successes** vs. Ath'Zul No **Successes**, the PC has *two* successes difference an **rank** of *three*: Ath'Zul tries to shake the PCs, his hover bike, weaving in and out of traffic, but he crashes into a parked car, spilling Ath'Zul and the stolen artefact over the road.
 
 Your GM should avoid robbing your PC of competence by describing your **defeat** as due to your incompetence when you may have rolled a **critical** or a **success**.
 
@@ -535,9 +535,7 @@ After a **contest**, you may suffer **consequences**: literal or metaphorical in
 
 The GM is the arbiter of when a **consequence** should be applied.
 
-Your GM may assign a penalty to reflect this **consequence**. Your GM should assign a **penalty** that corresponds to a **rank**: -3, -6, -9, 0r -M. The **rank** will depend on how severe they feel the **consequences** are.
-
-If your opponent defeats you, your GM may use the **authority** of the **resistance's** result to determine the **rank**. In that case the **rank** is the same as the **authority**. Whilst this is a good 'rule of thumb' a GM can use their discretion as to the story needs though and ignore the **authority** when deciding the rank.
+Your GM may assign a penalty to reflect this **consequence**. Your GM should assign a **penalty** that corresponds to a **rank**: -3, -6, -9, 0r -M. The **rank** will depend on how severe they feel the **consequences** are. If your opponent defeats you, your GM can use the **rank** of the **outcome** as the **rank** of the **penalty**. Whilst this is a good 'rule of thumb' a GM can use their discretion as to the story needs and assign a different **rank** of penalty.
 
 If you **defeat** your opponent, your GM may still decide that you suffer a **consequence**, representing fatigue, exhaustion, disapproval or other expenditure of resources on earning the **prize**.
 
@@ -547,7 +545,7 @@ If you **defeat** your opponent, your GM may still decide that you suffer a **co
 * In an economic struggle, you take significant losses to win market share.
 * In a morale crisis, your resolve alienates the cowardly.
 
-If you have a **victory** with an **authority** of *zero* your GM might assign a **consequence** of **rank** 1 or 2 to represent effort expended in the **victory**. 
+If you have a **victory** with an **rank** of *one* your GM might assign a **consequence** of **rank** 1 or 2 to represent effort expended in the **victory**.
 
 #### 2.7.1.2 Ending a PC's story
 
@@ -579,7 +577,7 @@ The GM is the arbiter of when a **benefits** should be applied.
 
 Your GM may assign a **bonus** to reflect this **benefit**. Your GM may assign a **bonus** that corresponds in **rank**: +3, +6, +9, or +M. 
 
-If you win the **prize**, your GM may choose to use **authority** of your **result** to determine the **rank**. In that case the **rank** is the same as the **authority**. Whilst this is a good 'rule of thumb' a GM can use their discretion as to the story needs though and ignore the **authority** when deciding the rank.
+If you win the **prize**, your GM may choose to use **rank** of your **outcome** as the **rank** of the **bonus**. Whilst this is a good 'rule of thumb' a GM can use their discretion as to the story needs and assign a different **rank** of penalty.
 
 If you lost the **prize**, your GM may still decide that you gain a **benefit**, representing learning, gratitude, or resolve developed from losing the **prize**. 
 
@@ -589,7 +587,7 @@ If you lost the **prize**, your GM may still decide that you gain a **benefit**,
 * In an economic struggle, your organization becomes leaner and fitter.
 * In a morale crisis, you reflect on your failure and gain new inner strength.
 
-On a **defeat** with an **authority** of *zero* your GM might assign a **benefit** of **rank** 1 or 2 to represent a glimmer of hope for the PC despite the **defeat**, such as gaining an insight into the **resistance's** weakness.
+On a **defeat** with a **rank** of *one* your GM might assign a **benefit** of **rank** 1 or 2 to represent a glimmer of hope for the PC despite the **defeat**, such as gaining an insight into the **resistance's** weakness.
 
 ### 2.7.3 Recovery and Healing
 
@@ -889,7 +887,7 @@ Unlike in an **extended contest** (see below), where you usually take part in tw
 
 #### 5.1.2 Resolution Points
 
-You score one more **resolution points** than the **authority** of the **outcome**. So a *zero* **authority** **outcome** produces *one* resolution point, a *one* authority **outcome** produces *two* resolution points.
+You score **resolution points** equal to the **rank** of the **outcome**. So a *one* **rank** **outcome** produces *one* **resolution point**, a *two* **rank** **outcome** produces *two* **resolution points** and so on.
 
 Your **resolution point** score tells you how well you’re doing, relative to your opponent, in the ebb and flow of a fluid, suspenseful conflict. If you’re leading your opponent by 0–4, you’re giving them a thorough pasting. If you’re behind 4–0, you’re on your last legs, while your opponent has had an easy time of it. If you’re tied, you’ve each been getting in some good licks.
 
@@ -1008,9 +1006,9 @@ Your GM may adjust the starting **resistance** up or down by one step to account
 
 The **assist** alters the score against your teammate according to the **outcome** of a **simple contest**.
 
-On a victory, you reduce the number of **resolution points** by one more than the **authority** of the **victory**. So on a *zero* authority **victory** you reduce the **resolution points** by one, on a *one* authority **victory** you reduce the **resolution points** by two.
+On a victory, you reduce the number of **resolution points** by the **rank** of the **victory**. So on a *one* **rank** **victory** you reduce the **resolution points** by one, on a *two* **rank** **victory** you reduce the **resolution points** by two, and so on.
 
-On a defeat, you increase the number of **resolution points** by one more than the **authority** of the **resistance's** **victory**. So on a *zero* authority **victory** over you, you reduce the **resolution points** by one, on a *one* authority **victory** over you, you reduce the **resolution points** by two.
+On a defeat, you increase the number of **resolution points** by the **rank** of the **resistance's** **victory**. So on a *one* **rank** **victory** over you, you reduce the **resolution points** by one, on a *two* **rank** **victory** over you, you reduce the **resolution points** by two, and so on.
 
 Scores can never be reduced below 0.
 
@@ -1090,9 +1088,9 @@ The size of the **bid** mirrors how bold and risky your character’s action is.
 The number of advantage points lost by a contestant is a multiplier of their bid. Determine the multiplier used as follows:
 
 * On a tie, both contestants lose ½x bid. Round up.
-* On a *zero* authority victory, the defeated lose ½x bid. Round up.
-* On a *one* authority victory, the defeated lose 1x their bid.
-* On a *two* authority victory, the defeated lose 2x their bid.
+* On a *one* **rank** victory, the defeated lose ½x bid. Round up.
+* On a *two* **rank** victory, the defeated lose 1x their bid.
+* On a *three* **rank** victory, the defeated lose 2x their bid.
 * And so on...
 * If the victor rolled a **critical**, the **APs** lost by the loser are gained by the winner - a transfer.
 
@@ -1659,9 +1657,6 @@ Your GM may decide that the community's **rank** in a **resource** is temporaril
 **Assured Contest**
 : You have an appropriate **ability** and the GM feels **failure** is not interesting, or makes the PC looks un-heroic.
 
-**Authority**
-: The difference between the **successes** of the victor and the loser in a **contest**.
-
 **Background Event**
 : An off-stage **bonus** or **penalty** applied to a **resource**.
 
@@ -1825,7 +1820,7 @@ Your GM may decide that the community's **rank** in a **resource** is temporaril
 : An ability has a **rating**, between 1 and 20, indicating how likely a character is to succeed at using it.
 
 **Rank**
-: The scale of a **bonus* or **penalty**.
+: The scale of a **bonus** or **penalty**; the difference between the **successes** of the victor and the loser in a **contest**; the scale of the **resistance**.
 
 **Resistance**
 : The forces opposing the PC in a conflict, or concealing a secret that must be overcome by using an **ability** in a **contest**. One of: **Extreme**, **Huge**, **Very High**, **High**, **Raised**, **Moderate**, **Low**, **Very Low**, **Tiny**, **Rock-bottom**.
