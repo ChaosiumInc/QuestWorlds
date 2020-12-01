@@ -200,9 +200,9 @@ Your character may have one or more **flaws**. A **flaw** is an **ability** that
 
 **Flaws** maybe psychological weaknesses such as "Alcoholic" or "Heroin Addict", or physical weaknesses such as "One-Eye," "Wheelchair-Bound" or "Asthmatic." A **flaw** might also be a moral philosophy such as "Code Against Killing," "Pacifist," or "Radical Candor" that limit your behavior in some way. A **flaw** also might be a relationship such as a "Frail Aunt," "Single Dad," or "Blackmailed".
 
-Many **flaws** describe attributes that can be viewed positively. By making it a **flaw** and not an **ability** you are inviting your GM to use it to make your life more difficult, not easier. 
+Many **flaws** describe attributes that can be viewed positively. By making it a **flaw** and not an **ability** you are inviting your GM to use it to make your life more difficult, not easier.
 
-You should not use your **flaw** to accomplish something; if you feel that is likely, make it an **ability** and flag to your GM that you want them to draw on it as a **flaw** at appropriate moments. In that case, record both an **ability** and a **flaw** with the same name.
+You should not use your **flaw** to accomplish something; if you feel that is likely, use an **ability** and flag to your GM when you want them to use it as a **flaw** at an appropriate moment.
 
 Ultimately, in *QuestWorlds* a **flaw** is simply something that you invite the GM to use to hinder or prevent your character doing something. In return for the GM exercising the **flaw** you gain **experience points** (see §8.1).
 
@@ -210,21 +210,15 @@ Ultimately, in *QuestWorlds* a **flaw** is simply something that you invite the 
 
 *QuestWorlds* **abilities** are **scored** on a **rating** of 1–20, representing the **target number (TN)** you need to roll or less to succeed on your roll during a **contest** (see §2.3 for more details).
 
- Once your **ability** passes 20, you would always be able to roll under it on a D20. So to allow abilities to scale over 20 **scores** we use tiers of capability we refer to as **Mastery**.  To reflect abilities (or **resistance**s) higher than 20, either permanently through character advancement or a temporarily with **modifier** to a contest roll, note a **mastery** for every 20 points in the ability, and treat what remains as the **rating**. So, for an **ability** of 27, we note one **mastery** and a **rating** of seven written as "7M" and we write the **rating** of 21, as 1M.
+ Once your **ability** passes 20, you would always be able to roll under it on a D20. So to allow abilities to scale over 20 we use **tiers** of capability we refer to as a **masteries**.  
+ 
+ To reflect abilities (or **resistances**) higher than 20, either permanently through character advancement or a temporarily with **modifier** to a contest roll, we use a **mastery**. We denote an ability above 20 as **TN** + M, for example 7M represents a **TN** of 7 and one **mastery**. We represent abilities above 20M as **TN** + M2, for example 4M2 represents a **TN** of 4 and two **masteries**.
 
-The "M" after the **rating** signifies **mastery**. The number in front of the M is the **rating**, and represents the new **target number** you seek to roll or less. Whatever your roll, the mastery then **bumps** your **result**. You **bump** a **success** to a **critical**, and **bump** a **failure** to a **success**. If you roll a **critical** you can **bump** down your opponent. When both you and the resistance have **masteries** they cancel each other out.
-
-Having a **mastery** means that you **succeed** most of the time and **critical** more often; you will only **fail** when you roll a **fumble**.
-
-For example, Trevor Okafor is trying to hover a helicopter over a ravine so that Bethany Ng can winch down to a stranded climber in high cross-winds. The GM calls for a roll. Trevor Okafor has 31 in Pilot, written as "11M". Trevor's player rolls against a **TN** of 11. They roll a 17 and fail, but Trevor's **mastery** means the actual **result** is **bumped** up to a **success** on a 17. This beats the GM's **success** on a 13. Later Bethany Ng is trying to stabilize the victim on the route back to hospital. Bethany has 27 in Medic, written as "7M". Bethany's player rolls against a TN of 7. They roll a 4 and succeed, but the **mastery** means that the actual **result** is bumped up to a **critical** on a 4, which beats the GM's **success** on a 14.
+ The progression of **ability** **scores** is thus 1-20, 1M-20M, 1M2-20M2, 1M3-20M3 and so on.
 
 Specific *QuestWorlds* games or genre packs may use other symbols relevant to their setting or genre to denote **mastery** instead of M. If so, this should be clearly noted by their designers.
 
-As a **score** climbs, you may even gain multiple **masteries** in it. **Mastery** tiers above one (representing an overall **score** or 41 or more) are marked with a number to the right of the M symbol. Each successive **score** increase over 20 becomes a new **mastery** tier. Thus, if you have 10M2, you have two **masteries** and a **rating** of 10, (representing a total **score** of 50). 10M3 means that you have three **masteries** and a **rating** of 10, and so on. Multiple **masteries** result in multiple **bumps** up, so with two **masteries** a failure **bumps** to a critical.
-
-To simplify **bumping**, when both you and the resistance have **masteries** they cancel out.
-
-See §2.3.7 for more details on **bumps**.
+For how **masteries** work in play, see §2.3.6 for more details on **bumps**.
 
 #### 2.1.2.1 No Relevant **ability**
 
@@ -274,15 +268,13 @@ If you roll a **failure**, you still beat the obstacle, but you also suffer an a
 
 If you achieve a high **result**, you’ll receive a **benefit** from your effort (see §2.6). Again, this is up to the GM to define. It could be a **bonus** to the **tactic** used in the **contest**, or to of one of your relationships, etc.
 
-**Fumbles** and **criticals** always result in an unexpected difficulty or reward!
-
 An **assured contest** can be summarized as follows:
 
 1. You and your GM agree upon the terms of the **contest**.
 2. The GM may decide that you simply gain the **victory** and there are no **consequences** or **benefits** beyond that.
 3. If not the GM conducts a contest.
 4. You roll a D20 vs your relevant **ability**, while your GM rolls a D20 vs the **resistance**.
-5. Your GM compares the **success** or **failure** of the two rolls, and assesses any **consequences** or **benefits**.
+5. Your GM assesses any **consequences** or **benefits**.
 6. Your GM then narrates how you obtained your **victory** and any **benefits** or **consequences** that arose.
 
 #### 2.3.1.2 Simple Contest
@@ -293,8 +285,8 @@ A **simple contest** can be summarized as follows:
 
 1. You and your GM agree upon the terms of the **contest**.
 2. You roll a D20 vs your relevant **ability**, while your GM rolls a D20 vs the **resistance**.
-3. Your GM compares the **success** or **failure** of the two rolls, and assesses your overall **victory** or **defeat**.
-4. Your GM then narrates the **outcome** of the conflict as appropriate.
+3. Your GM compares the difference **successes** between the two rolls, and assesses **victory** or **defeat**.
+4. Your GM then narrates the **outcome** of the conflict as appropriate and asseses any **benefits** or **consequences** that arose (see §2.7).
 
 If you enter into conflict with another player rather than a **story obstacle** presented by your GM, you both roll your relevant abilities for the **contest** instead of against a GM-set **resistance**, and your GM interprets the **results**, as described above.
 
@@ -350,30 +342,14 @@ A **contest** represents all of your attempts to overcome a **story obstacle**. 
 
 ### 2.3.3 Rank
 
-Your GM uses a **rank** when choosing to adjust a **target number**. That adjustment may come from an **augment** (see §2.5), **modifier** (see §2.4), **benefits** or **consequences** (see §2.7). Your GM also uses the same **rank** when determining the **resistance**.
+Your GM uses a scale known as a **rank** when choosing to adjust a **target number**. For a PC, that adjustment may come from an **augment** (see §2.5), **modifier** (see §2.4), **benefits** or **consequences** (see §2.7). Your GM also uses the same **rank** as a modifier to a **base resistance** when determining the **resistance's** **TN**.
 
 Bonuses to the dice roll use the scale of values: +3, +6. +9, +M, +M2
 Penalties to the dice roll use the scale of values: -3, -6, -9, -M, -M2
 
 You should be able to memorize these values in play, and just go up or down the scale, instead of translating a **rank** to a value.  For convenience the following table shows the scale of **ranks**.
 
-#### 2.3.3.1 RANKS TABLE
-
-| Rank | Value  |
-|:----:|:------:|
-|5     |+M2     |
-|4     |+M      |
-|3     |+9      |
-|2     |+6      |
-|1     |+3      |
-|0     |0       |
-|-1    |-3      |
-|-2    |-6      |
-|-3    |-9      |
-|-4    |-M      |
-|-5    |-M2     |
-
-By default, the **base resistance** starts at 14. 
+By default, the **base resistance** starts at 14.
 
 ### 2.3.4 Resistance
 
@@ -393,7 +369,7 @@ In other words, in *QuestWorlds* your GM will pick a **resistance** based on dra
 
 Your GM determines the **resistance** from a **base resistance** modified by a **rank** depending on their view of how difficult the obstacle is for you. Increasing **ranks** make it harder to succeed, and decreasing **ranks** easier.
   
-The **rank** never reduces the resistance value below 6.
+The **rank** never reduces the **resistance** value below 0. If the GM assesses a **rank** for the resistance that would take the **target number** below 0, it becomes an **assured contest**.
 
 All **contests** use the **base resistance** + **rank**, except for **contests** to determine **augments**. **Augmenting** always faces the **base resistance**.
 
@@ -401,44 +377,47 @@ All **contests** use the **base resistance** + **rank**, except for **contests**
 
 To determine how well you use an **ability**, roll a 20-sided die (D20). At the same time, your GM rolls for the **resistance**.
 
-Compare your rolled number with your **Target Number** to determine the **result**, a level of **success** or **failure** for the roll (not the **contest** as a whole).
+Compare your rolled number with your **Target Number** to determine the **result**.
 
-* **Critical**: If the die roll is equal to the **TN** (even when the **TN** is 20), you succeed brilliantly. This is the best **result** possible.
-* **Success**: If the die roll is less than the **TN**, you succeed, but there is nothing remarkable about the success.
-* **Failure**: If the die roll is greater than the **TN** but not a **fumble**, you fail. Things do not happen as hoped.
-* **Fumble**: If the die roll is 20, you fumble (except when the **TN** is 20, when it is a **critical**). You fail miserably. This is the worst **result** possible.
+* **Critical**: If the die roll is equal to the **TN**, you succeed brilliantly, and gain *one* **success** and a **bump**. This is the best **result** possible.
+* **Success**: If the die roll is less than the **TN**, you succeed, but there is nothing remarkable about the success. You have *one* **success**.
+* **Failure**: If the die roll is greater than the **TN**, you fail. Things do not happen as hoped. You gain *zero* **successes**
 
-Note that whatever your **result** the **outcome** will depend on comparing your roll with your opponents. So you might ***succeed**, but still lose the **prize**. At the same time, your GM should take into account your **result** when narrating the **outcome**, and not use your incompetence as a reason you failed to gain the **prize** if you succeeded, instead focusing on the **resistance**'s superiority despite your **success**.
+### 2.3.6 Bumps
 
-### 2.3.6 Outcome
+A **bump** gives you an additional **success**. A **bump** comes from one of **three sources**.
 
-Your roll and that of your GM’s roll are compared to determine your overall **outcome** which will be either **victory** or **defeat** for the **contest** as a whole.
+* A **critical** die roll gives you a **bump**.
+* A **mastery** gives you a **bump**.
+* You can spend a **story point** (see §7.0) to receive a **bump**.
 
-If you have a better **result** than the GM, then you have a **victory** and you gain the **prize** set out when the **contest** was framed.
+Because of this rule, a **critical** gives you *two* **successes**, and a PC with a **mastery** will always gain one **success**.
 
-If you have a worse **result**, then you are **defeated** and do not gain the **prize**.
+### 2.3.7 Outcome
 
-If you both have the same **result**, the higher roll wins.
+Your **successes** and the **resistance's** successes are compared to determine your overall **outcome** which will be either **victory** or **defeat** for the **contest** as a whole.
 
-If your rolls tie, then it is a standoff.
+If you have a *more* **successes** than the GM, then you have a **victory** and you gain the **prize** set out when the **contest** was framed.
 
-A **critical** is a better **result** than a **success** which is, in turn, a better **result** than a **failure**, which is a better **result** than a **fumble**.
+If you have a *fewer* **successes** than the GM, then you are **defeated** and do not gain the **prize**.
 
-#### 2.3.6.1 Narrating Outcomes
+If you both have the *same* **successes**, including if neither of you has any **successes**, the higher roll wins. If your rolls tie, then it is a standoff.
+
+#### 2.3.7.1 Narrating Outcomes
 
 Your GM narrates the contest **outcome**. Their narration should take into account the **prize** and the **tactics** used by each side. Your GM may invite you to contribute more detail on your actions as part of that narration, if they wish. But the GM is the final arbiter of how the story progresses as a result of the rolls - provided they respect the **outcome** in which you win or lose the **prize**.
 
- Your GM should bear in mind your **result** when describing the outcome. For example, if you **succeeded**, but the **resistance** **succeeded** better, the GM should describe your actions as successful, but the **resistance** as doing better. If your **result** was a **critical** and the **resistance's** **result** was a **fumble** your GM should describe a crushing **defeat** in which your adversary is clearly outclassed.
+ Your GM should bear in mind your **result** when describing the outcome. We refer to the *difference* between the number of **successes** earned by the victor and the number earned by the loser as the **authority** of the victory. The **authority** is a guide for the GM when narrating the outcome as to how convincing a victory was. If you have an **authority** of *zero*, the GM should describe your actions as successful, but the **resistance** as competent. If you have an **authority** of *two*, your GM should describe a convincing **victory** in which your adversary is clearly outclassed.
+
+The GM is narrating a car chase through the busy streets of New Los Angeles. The PCs are trying to catch the demon-worshipper Ath'Zul who has stolen The Eye of Lorus from a museum. Some examples of how the GM might interpret **outcomes** as follows:
  
- The GM is narrating a car chase through the busy streets of New Los Angeles. The PCs are trying to catch the demon-worshipper Ath'Zul who has stolen The Eye of Lorus from a museum. Some examples of how the GM might interpret **outcomes** as follows:
- 
-* PC **Success** (**Better Roll**) vs. Ath'Zul **Success**: Ath'Zul tries to shake the PCs, his hover bike, weaving in and out of traffic, but the PCs are always on his tail, and catch him at the lights on Bradbury Junction.
-* PC **Success** vs. Ath'Zul **Failure**: Ath'Zul tries to shake the PCs, his hover bike, weaving in and out of traffic, but the PCs force him off the road, where his bike loses repulsor lift and halts.
-* PC **Success** vs. Ath'Zul **Fumble**: Ath'Zul tries to shake the PCs, his hover bike, weaving in and out of traffic, but he crashes into a parked car, spilling Ath'Zul and the stolen artefact over the road.
+* PC One **Success** vs. Ath'Zul One **Success**, the PC has the higher roll, and an **authority** of *zero*: Ath'Zul tries to shake the PCs, his hover bike, weaving in and out of traffic, but the PCs are always on his tail, and catch him at the lights on Bradbury Junction.
+* PC One **Success** vs. Ath'Zul No **Successes**, the PC has an **authority** of *one*: Ath'Zul tries to shake the PCs, his hover bike, weaving in and out of traffic, but the PCs force him off the road, where his bike loses repulsor lift and halts.
+* PC Two **Successes** vs. Ath'Zul No **Successes**, the PC has an **authority** of *two*: Ath'Zul tries to shake the PCs, his hover bike, weaving in and out of traffic, but he crashes into a parked car, spilling Ath'Zul and the stolen artefact over the road.
 
 Your GM should avoid robbing your PC of competence by describing your **defeat** as due to your incompetence when you may have rolled a **critical** or a **success**.
 
-#### 2.3.6.2 Confusing Ties
+#### 2.3.7.2 Confusing Ties
 
 Your GM will describe most tied **outcomes** as inconclusive standoffs, in which neither of you gets what you wanted.
 
@@ -446,51 +425,19 @@ In some situations, ties become difficult to visualize. Chief among these are **
 
 Your GM can either change the situation on such a tie, introducing a new element that likely renders the original **prize** irrelevant to both participants, or they can resolve the ties in your favor as a **victory**.
 
-### 2.3.7 Bumps
-
-A **bump** affects the degree of **success** or **failure** of your die roll. A **bump** up improves your **result** by one step, changing a **fumble** to a **failure**, a **failure** to a **success**, or a **success** to a **critical**. **Bump** ups come from two sources: **masteries** and **story points** (applied in that order). A **bump** down reduces the **result** by one step, changing a **critical** to a **success**, a **success** to a **failure**, or a **failure** to a **fumble**. **Bump** downs come from one source: **masteries**.
-
-**Bumps** always affect **results** not **outcomes**, although the outcome could change as an effect of gaining a different **result**.
-
-#### 2.3.7.1 Bump Up with Mastery
-
-If you’re engaged in a **contest** against a **resistance**, and you have a **target number** of 10M versus a **resistance** of 10, you enjoy an advantage. You get a **bump** to your die roll from that **mastery**.
-
-You get one **bump** up for each level of **mastery** your PC has greater than your opponent’s. So against a **resistance** of 14 a PC's **target number** of 7M is treated as 7 vs. 14 but we **bump** the **result** one step in the favor of the PC; a PC's **ability** of 3M2 is treated as 3 vs. 14 but we **bump** the **result** two steps in favor of the PC.
-
-Opposed **masteries** cancel out, each contestant reducing their **score** by the same number of **masteries** until only one or neither of them has **masteries**. If you have two **masteries**, then you enjoy the same great advantage over an opponent with a single **mastery** as someone with one **mastery** has over an opponent with no **masteries**. If you have an advantage of two or more **masteries** over an opponent, you can pretty much count on pounding them into the dust.
-
-This allows *QuestWorlds* to represent large differences in ability or **resistance**.
-
-If the **resistance** is one or more levels of **mastery** greater than you, your GM can **bump** up their roll.
-
-#### 2.3.7.2 Bump Up with Story Points
-
-You can spend a **story point** to **bump** up any **result** by one step. You can decide to use a **story point** for a **bump** after the die roll **results** are calculated (including any **bump** ups from **masteries**).
-
-You can only spend one **story point** per roll.
-
-#### 2.3.7.3 Bump Down with Mastery
-
-If you have a **critical** and still have one or more **bumps** left from your advantage over your opponent, you can use them to **bump** down your opponent, since you cannot get a **result** better than a critical. **Bump** down your opponent's result for each mastery remaining. So against a **resistance** of 14, if you have an **ability** of 7M, you have one **bump** of the result. If you **critical** and the resistance gets a **success**, then as you cannot **bump** up from your critical, then you instead **bump** the resistance down to a **failure.**
-
-If the **resistance** has unspent **bumps** then the GM can **bump** you down if they have a **critical**.  
-
-#### 2.3.7.4 Bump Up with Negative Mastery
-
-If you are facing a **resistance** that has negative **mastery** then your GM should treat is as an **assured contest**. If the GM wants you to roll, to find out how well you did, your roll is **bumped** up by the **resistance**.
-
 ## 2.4 Modifiers
 
 Your **score** represents a general **ability** to succeed in the narrative, but modifiers reflect specific conditions that may make it easier or harder to overcome particular **story obstacles**. They are applied to your **ability** to get a final **target number** (**TN**).
 
 Positive modifiers are called **bonuses**; negative modifiers are called **penalties**.
 
-**Bonuses**, may raise your **ability** high enough to gain a **mastery**, in which case you get the **bumps** up or down that a **mastery** would normally supply.
+**Bonuses**, may raise your **ability** high enough to gain a **mastery**.
 
-**Penalties**, may lower an **ability** to the point where it loses one or more **masteries**. In this case, you lose the **bumps** up or down you would normally get.
+**Penalties**, may lower an **ability** to the point where it loses one or more **masteries**.
 
-Your GM should only use modifiers to alter your **target number** due to unusual circumstances you helped to create, or have some control over. If an unusual situation applies to a **resistance**, the GM should choose a **resistance** that reflects that. Modifiers never apply to the **resistance**.
+Your GM should only use modifiers to alter your **target number** due to unusual circumstances you helped to create, or have some control over. If an unusual situation applies to a **resistance**, the GM should choose a **resistance** that reflects that.
+
+**Modifiers apply to PC abilities only, and never to the resistance**. The GM sets the **resistance** according to the needs of the story, and thus it is not further modified.
 
 If **penalties** reduce your **target number** to 0 or less, any attempt to use it automatically **results** in  **failure**. You must find another way to achieve your aim.
 
@@ -524,7 +471,7 @@ Abilities that represent special items, weapons, armor, or other noteworthy equi
 
 If you have a good idea for an **augment**, propose it to your GM while the **contest** is being framed. When making your proposal, describe how the **augmenting ability** supports the main one in a way that is both *entertaining* and *memorable*. Don't just hunt for mechanical advantage, show your group more about your PC when you **augment**, their attitudes, passions, or lesser known **abilities**. If you are **augmenting** with a **broad ability** like "Fool's Luck", be prepared to describe the unlikely events that tilt the scales in your favor. Your GM will decide whether the **augment** is justified and can refuse boring and uninspired attempts to **augment**, where you are just looking for a bonus to your roll and not adding to the story.
 
-You may only use one of your own **abilities** to **augment** the **ability** you are using in the **contest**, and you may not use an **ability** to **augment** itself. You may not use a **breakout** to augment it's parent **keyword**, or another **breakout** from the parent **keyword**. However, **augments** from other players supporting you can add together with your own, along with other **modifiers**, including those from **benefits** and from **plot augments**.
+You may only use one of your own **abilities** to **augment** the **ability** you are using in the **contest**, and you may not use an **ability** to **augment** itself. You may not use a **breakout** to augment it's parent **keyword** (see §3.3), or another **breakout** from the parent **keyword**. However, **augments** from other players supporting you can add together with your own, along with other **modifiers**, including those from **benefits** and from **plot augments**.
 
 If your GM accepts your **augment** proposal, it will be resolved by one of the methods below. The main **contest** then proceeds as normal, with any bonus from the **augment** added onto the **score** of the **ability** chosen when **framing the contest**. The **augment** remains in effect for the duration of the **contest**.
 
@@ -590,7 +537,7 @@ The GM is the arbiter of when a **consequence** should be applied.
 
 Your GM may assign a penalty to reflect this **consequence**. Your GM should assign a **penalty** that corresponds to a **rank**: -3, -6, -9, 0r -M. The **rank** will depend on how severe they feel the **consequences** are.
 
-If your opponent defeats you, your GM may use the difference between your **result** and the **resistance's** result to determine the **rank**. If your opponent had a **better success** it is one **rank** or -3. If you were one level of result different, such as you **failed** and they **succeeded**, or you **succeeded** and they rolled a **critical**, then it is two **ranks** or -6, and so on, with your rolling a **fumble** and the GM rolling a **critical** the largest **rank** at 4 for a -M penalty.
+If your opponent defeats you, your GM may use the **authority** of the **resistance's** result to determine the **rank**. In that case the **rank** is the same as the **authority**. Whilst this is a good 'rule of thumb' a GM can use their discretion as to the story needs though and ignore the **authority** when deciding the rank.
 
 If you **defeat** your opponent, your GM may still decide that you suffer a **consequence**, representing fatigue, exhaustion, disapproval or other expenditure of resources on earning the **prize**.
 
@@ -600,7 +547,7 @@ If you **defeat** your opponent, your GM may still decide that you suffer a **co
 * In an economic struggle, you take significant losses to win market share.
 * In a morale crisis, your resolve alienates the cowardly.
 
-On a **better roll** you might suffer a **consequence** of **rank** 2 or -6, and on a better **result** you might suffer a **consequence** of **rank** 1 or -3.
+If you have a **victory** with an **authority** of *zero* your GM might assign a **consequence** of **rank** 1 or 2 to represent effort expended in the **victory**. 
 
 #### 2.7.1.2 Ending a PC's story
 
@@ -630,9 +577,9 @@ Remember that the **benefit** does not have to be directly related to the **abil
 
 The GM is the arbiter of when a **benefits** should be applied.
 
-Your GM may assign a **bonus** to reflect this **benefit**. Your GM should assign a **bonus** that corresponds to a **rank**: +3, +6, +9, or +M. The **rank** will depend on how great they feel the **benefits** are.
+Your GM may assign a **bonus** to reflect this **benefit**. Your GM may assign a **bonus** that corresponds in **rank**: +3, +6, +9, or +M. 
 
-If you win the **prize**, your GM may choose to use the difference between your **result** and their result to determine the **rank**. If you had a **better success** than your opponent it is one **rank** or +3. If you were one level of result different, such as you **succeeded** and they **failed**, or you rolled a **critical** and they **succeeded**, then it is two **ranks** or +6, and so on, with your rolling a **critical** and the GM rolling a **fumble** the largest **rank** at 4 for a +M bonus.
+If you win the **prize**, your GM may choose to use **authority** of your **result** to determine the **rank**. In that case the **rank** is the same as the **authority**. Whilst this is a good 'rule of thumb' a GM can use their discretion as to the story needs though and ignore the **authority** when deciding the rank.
 
 If you lost the **prize**, your GM may still decide that you gain a **benefit**, representing learning, gratitude, or resolve developed from losing the **prize**. 
 
@@ -642,7 +589,7 @@ If you lost the **prize**, your GM may still decide that you gain a **benefit**,
 * In an economic struggle, your organization becomes leaner and fitter.
 * In a morale crisis, you reflect on your failure and gain new inner strength.
 
-On a **worse roll** you gain a **benefit** of **rank** 2 or +6, and on a worse **result** you might gain a **benefit** of **rank** 1 or +3.
+On a **defeat** with an **authority** of *zero* your GM might assign a **benefit** of **rank** 1 or 2 to represent a glimmer of hope for the PC despite the **defeat**, such as gaining an insight into the **resistance's** weakness.
 
 ### 2.7.3 Recovery and Healing
 
@@ -718,23 +665,22 @@ In most instances, the **contest** goals are not actually **mismatched**, but **
 
 ## 2.11 Mobs, Gangs, and Hordes
 
-Sometimes you will face large numbers of opponents. Your GM can treat many as one. Your GM divides the number of opponents by the number of contesting PCs. Your GM then treats each of these sections of the crowd as a single opponent with one **score**. Their numbers are factored into the **score** your GM assigns to them.
-
-If in doubt, your GM should think of the **resistance** that would be dramatically appropriate for a single opponent and then adjust it with a **bonus** of +3, +6 or +9 depending on how outnumbered you are. No more than six foes can typically contend with you in a physical confrontation, or two in a social one, or they tend to get in each other's way.
+Sometimes you will face large numbers of opponents. Your GM can treat many as one. Your GM divides the number of opponents by the number of contesting PCs. Your GM then treats each of these sections of the crowd as a single **resistance** with one **score**. Their numbers are factored into the **score** your GM assigns to the **resistance**.
 
 When the mob loses an exchange, your GM describes individuals within it as being hurt or falling away. When it wins, describe them overwhelming you, or swelling in numbers.
-
 ## 2.12 Ganging Up
 
-Sometimes you may outnumber your opponent. As above, if in doubt, the GM should think of the **resistance** that would be dramatically appropriate for a one-on-one confrontation and then adjust it with a **penalty** of -3, -6, or -9 depending on how significantly you outnumber them. As above, note that unless your opponent is extraordinarily large, you cannot confront them physically with more than about six people (include **followers**) or socially with about two people (again include **followers**) or people just get in each other's way.
+Sometimes you may outnumber your opponent. As above, the GM should alter the **resistance** depending on how significantly you outnumber them.
 
 ## 2.13 Mass Effort
 
 Clashes of massive forces resolve like any other **contest**, **simple** or **long**. These include:
 
 * Military engagements
-* Corporate struggles for market share • Building competitions
-* Efforts to spread a faith or ideology • Dance competitions
+* Corporate struggles for market share
+* Building competitions
+* Efforts to spread a faith or ideology
+* Dance competitions
 
 If you are not participating in the **contest** and have no stake in its **outcome**, then your GM doesn’t bother to run a **contest**. The GM just chooses an **outcome** for dramatic purposes.
 
@@ -818,9 +764,9 @@ You may assign up to three **flaws** to their PC. Common flaws include:
 
 Certain **keywords** include **flaws**. **Flaws** gained through **keywords** do not count against the limit of three chosen  **flaws**. All **flaws** after the third are given the same **score** as the third **ability**. You may designate **flaws** from **keywords** as your first or second-ranked **flaw**.
 
-## 3.5 Advanced Character Creation
+## 3.5 Alternative Character Creation
 
-*QuestWorlds* offers two advanced methods of character creation: prose and list.
+*QuestWorlds* offers two alternative methods of character creation: prose and list.
 
 ### 3.5.1 The List Method
 
@@ -943,12 +889,7 @@ Unlike in an **extended contest** (see below), where you usually take part in tw
 
 #### 5.1.2 Resolution Points
 
-* You score one **resolution point** if you have a better roll on the same result.
-* You score two **resolution points** for one level of difference, such as **success** vs. **failure**, or **critical** vs. **success**.
-* You score three  **resolution points** for two level of difference such as **success** vs **fumble**, or **critical** vs. **failure**
-* You score four  **resolution points** for three levels of difference, which is a **critical** vs. **fumble**.
-
-You can summarize this as: one more **resolution point** than the levels of difference between the **results**.
+You score one more **resolution points** than the **authority** of the **outcome**. So a *zero* **authority** **outcome** produces *one* resolution point, a *one* authority **outcome** produces *two* resolution points.
 
 Your **resolution point** score tells you how well you’re doing, relative to your opponent, in the ebb and flow of a fluid, suspenseful conflict. If you’re leading your opponent by 0–4, you’re giving them a thorough pasting. If you’re behind 4–0, you’re on your last legs, while your opponent has had an easy time of it. If you’re tied, you’ve each been getting in some good licks.
 
@@ -1065,15 +1006,11 @@ Your first **assist** faces a **moderate resistance**. Each subsequent **assist*
 
 Your GM may adjust the starting **resistance** up or down by one step to account for campaign credibility or other dramatic factors. If an **assist** as proposed seems too improbable or insufficiently useful, your GM should collaborate with you to propose alternate suggestions which would face **moderate resistance**.
 
-The **assist** alters the score against your teammate according to the **outcome** of a **simple contest**. 
+The **assist** alters the score against your teammate according to the **outcome** of a **simple contest**.
 
-If you have the same result, but a better level of **success**, you reduce the **resolution points** by 1; if you have one level of difference, such as **critical** vs a **success** or a **success** vs a **failure** you reduce the **resolution points** by 2; if you have two levels of difference, such as a **critical** vs a **failure** or a **success** vs a **fumble** you reduce the reduce the **resolution points** by 3; if you have three levels of difference from a **critical** vs. a **fumble** you reduce the **resolution points** by 4.
+On a victory, you reduce the number of **resolution points** by one more than the **authority** of the **victory**. So on a *zero* authority **victory** you reduce the **resolution points** by one, on a *one* authority **victory** you reduce the **resolution points** by two.
 
-If you lost the contest, you will worsen your allies position.
-
-If you have the same result, but a lower level of **success** you increase the **resolution points** by 1; if you have one level of difference, such as a **success** vs a **critical** or a **failure** vs a **success** you increase the **resolution points** by 2; if you have two levels of difference, such as a **failure** vs a **critical** or a **fumble** vs. a **success** you increase the **resolution points** by 3. If you **fumble** against a **critical** you increase the **resolution points** by 4.
-
-If you fail with a lesser success, your GM may interpret the actions as a distraction that allows your opponent advantage. If you fail, your GM may interpret your actions as backfiring and making inflicting harm.
+On a defeat, you increase the number of **resolution points** by one more than the **authority** of the **resistance's** **victory**. So on a *zero* authority **victory** over you, you reduce the **resolution points** by one, on a *one* authority **victory** over you, you reduce the **resolution points** by two.
 
 Scores can never be reduced below 0.
 
@@ -1153,11 +1090,11 @@ The size of the **bid** mirrors how bold and risky your character’s action is.
 The number of advantage points lost by a contestant is a multiplier of their bid. Determine the multiplier used as follows:
 
 * On a tie, both contestants lose ½x bid. Round up.
-* If the loser had the same result, but a worse roll, they lose ½x bid. Round up.
-* If the loser had one level of difference, such as **success** vs **failure** or **failure** vs **fumble**, they lose 1x their bid.
-* If the loser had two levels of difference, such as **success** vs **fumble**, they lose 2x their bid.
-* if the loser has three levels of difference, a **critical** vs **fumble**, they lose 3x their bid.
-* If the winner has a **critical**, the **APs** lost by the loser are gained by the winner - a transfer.
+* On a *zero* authority victory, the defeated lose ½x bid. Round up.
+* On a *one* authority victory, the defeated lose 1x their bid.
+* On a *two* authority victory, the defeated lose 2x their bid.
+* And so on...
+* If the victor rolled a **critical**, the **APs** lost by the loser are gained by the winner - a transfer.
 
 #### 5.3.2.4  Followers and Advantage Points
 
@@ -1491,7 +1428,7 @@ To summarize:
 
 ## 7.2 Bump with Story Points
 
-You can burn a **story point** to gain a **bump** (see §2.3.7).
+You can burn a **story point** to gain a **bump** (see §2.3.6)
 
 ## 7.3 Plot Edits
 
@@ -1722,6 +1659,9 @@ Your GM may decide that the community's **rank** in a **resource** is temporaril
 **Assured Contest**
 : You have an appropriate **ability** and the GM feels **failure** is not interesting, or makes the PC looks un-heroic.
 
+**Authority**
+: The difference between the **successes** of the victor and the loser in a **contest**.
+
 **Background Event**
 : An off-stage **bonus** or **penalty** applied to a **resource**.
 
@@ -1744,7 +1684,7 @@ Your GM may decide that the community's **rank** in a **resource** is temporaril
 : Spending points after a **group simple contest outcome**, to improve the victory.
 
 **Bump**
-: An increment of the **result** of a roll, up or down. So a bump up moves a **fumble**, to a **failure**, to a **success** to a **critical**, a bump down moves a **critical**, to a **success**, to a **failure** to a **fumble**. One step is moved per **bump**. It is usually the impact of a **story point** or **mastery**.
+: An additional **success** in a **contest**. 
 
 **Burn**
 : Using a **story point** as a bump. The **story point** is lost after burning.
@@ -1810,16 +1750,13 @@ Your GM may decide that the community's **rank** in a **resource** is temporaril
 : Certain genres allow player characters to have **abilities** that exceed human norms, these are **extraordinary abilities**. A genre pack normally outlines what is possible as part of its extraordinary powers framework.
 
 **Failure**
-: Rolling over your **target number**. It can be a **fumble** or just a plain **failure**.
+: Rolling over your **target number**. 
 
 **Final Action**
 : A last action by a **dying** character  
 
 **Flaw**
 : An **ability** that penalizes you instead of helping you.
-
-**Fumble**
-: The worst **failure** **result**, a notable failure either due to incompetence or bad luck.
 
 **Follower**
 : A **supporting character** under your control. Either a **sidekick** or **retainer**
@@ -1861,7 +1798,7 @@ Your GM may decide that the community's **rank** in a **resource** is temporaril
 : Adjustments to a **target number** due to circumstance.
 
 **Mastery**
-: An **ability** **score** that rises above 20 is said to have a **mastery**. **Masteries** cancel each other out in **contests**. **Masteries** that are not cancelled provide a **bump**.
+: An **ability** **score** that rises above 20 is said to have a **mastery**.
 
 **Mismatched Goals**
 : When the opposing sides in a **contest** want different **prizes**.
@@ -1900,7 +1837,7 @@ Your GM may decide that the community's **rank** in a **resource** is temporaril
 : A community **ability** that your PC may draw on.
 
 **Result**
-: The **outcome** of a die roll against a **TN**. One of **critical**, **success**, **failure**, and **fumble**.
+: The **outcome** of a die roll against a **TN**. One of **critical**, **success**, and **failure**
 
 **Retainer**
 : A **follower** of your PC who is not 'fleshed out' and cannot act independently.
@@ -1965,6 +1902,7 @@ Your GM may decide that the community's **rank** in a **resource** is temporaril
 
 These are the major changes in this version of the rules
 
+* Moved to measuring a result by a number of successes and comparing them, simplifying masteries.
 * Split hero points into story points (bumps) and experience points (character improvement). Flaws generate experience points as do failures.
 * Moved the Degree of Victory to an Appendix. We now recommend that the GM just uses victory and defeat and adjudicates a suitable bonus or penalty if needed.
 * Added ranks to codify the +3, +6, +9, ... progression used throughout.
@@ -1987,558 +1925,4 @@ These are the major changes in this version of the rules
 * Simplified how multiple opponents are handled
 * Clarified contest outcomes for long contests, and how to determine the overall winner in a long contest
 * Do not allow transfers in an extended contest where the abilities differ by 6 or more. Consistent with benefits of victory and prevents 'loading up on mooks' as a strategy.
-
-## 10.3 Outcomes
-
-Prior versions of the *QuestWorlds* rules determined a **degree of victory** by comparing PC and **resistance** **results**. We now recommend just having a **victory** or **defeat** an narrating from the individual **results** as faster and simpler in play. But for those who prefer the older approach, or want to maintain compatibility with it, we present those rules in this appendix.
-
-### 10.3.1 Degree of Victory or Defeat
-
-Often all you need to know to interpret the **outcome** of a resolution is whether you gained **victory** or suffered a **defeat**.
-
-Sometimes, you’ll want to know how great a **victory** you won, or how bad a **defeat** you endured. This may be important in providing **consequences or benefits** that drive further story.
-
-All of the resolution methods have an option to yield the **Degree of Victor or Defeat** for the PC. The possible **Degree of Victory or Defeat**, from least to greatest, are: **marginal**, **minor**, **major**, **complete**. **Ties** are also possible.
-
-If you struggle against NPCs or abstract forces, the interpretation of the **outcome** reveals whether you overcome the **story obstacle**, and any **consequences or benefits**; your GM narrates the fate of the NPCs or other forces depending on what makes sense. However, when you and another PC engage in a **contest** then a **victory** for one contestant means a corresponding **defeat** for the loser.
-
-So whilst in a PC vs. PC duel the PC would only be killed on a **complete defeat**, an NPC, described as a **resistance**, might be killed on any **victory**, depending on how the **contest** was framed.
-
-**Tie**: Tie means no **outcome**. Effort was expended, but the net **outcome** is that nothing consequential occurs, or else both sides lose or gain equally. If this is confusing, and you are not contending with another PC, your GM can rule that you gain a **marginal victory**.
-
-**Marginal Victory**: Yes, but… You get what you want, the **prize**, but there are complications, the effect is more limited than you desired, or you have to make a hard choice between benefits or accept a loss to get one
-
-**Minor Victory**: Yes... You get exactly what they want i.e. whatever was the **prize** in the **contest**.
-
-**Major & Complete Victory**: Yes, and… You get the **prize**, and something else. You gain something, stealing a possession, gaining a new **follower**, or become renowned in song. If you want to distinguish a **complete** the effect is often permanent and no new **contests** should be framed for this **story obstacle**.
-
-**Marginal Defeat**: No, but… You don't get what you want, you lose the **prize**, but it’s not a total loss. You are able to salvage something from the **defeat**, a little more if you sacrifice something other than the **prize** to your opponent, that the opponent agrees to take instead.
-
-**Minor Defeat**: No… You don't get what you want, you lose the **prize**. Any consequences or complications such as injury or loss of influence are short term and easily shrugged off. Just take the loss and rest up.
-
-**Major & Complete Defeat**: No and… You don’t get what you want,  you lose the **prize**, and there are long-term consequences. The situation might grow worse or more complicated or you might suffer adverse consequences that will require other conflicts to resolve: an injury that needs a healer, an insult that requires a formal apology, a loss of influence with the community that requires a triumph to win their trust again etc. You might be dead, or as good as. The **prize** is likely lost to you permanently. Or perhaps you lose something, an item is taken from you, a **follower** deserts you, your reputation lies in ruins as poets mock your defeat. If you want to distinguish, a **complete** should be bigger loss than a **major**, but you can often ignore this distinction.
-
-Your GM will use the **degree of success** to determine any **benefits and consequences**, but be sure to describe the **success** in narrative terms.
-
-If you are using a **stretch**, see §2.4.1, then **major or complete victories** you obtain are instead treated as **minor victories**.
-
-### 10.3.2 Simple Contest
-
-In a **simple contest**, using the table below (§9.2.1.2) to determine the **degree of victory or defeat** in the **outcome**
-
-#### 10.3.2.1 SIMPLE CONTEST TABLE
-
-|Roll    |Critical      |Success        |Failure        |Fumble         |
-|:------:|:------------:|:-------------:|:-------------:|:-------------:|
-|Critical|Better roll = Marginal Victory, else tie|Minor Victory|Major Victory|Complete Victory|
-|Success |Minor Victory|Better roll = Marginal Victory, else tie|Minor Victory|Major Victory|
-|Failure |Major Victory|Minor Victory|Better roll = Marginal Victory, else tie|Minor Victory|
-|Fumble  |Complete Victory|Major Victory|Minor Victory|Tie*|
-
-* In a **group simple contest** (see below), your GM may declare that both contestants suffer a ***marginal defeat** to indicate that, although their **results** cancel out with respect to each other, their situation worsens compared to other contestants.
-
-### 10.3.3 Group Simple Contest
-
-In a **group simple contest** rather than overall **victory** going to the side with the plurality of **victories**, each side scores a number of **outcome points** (OPs) for their side on a **victory**. The number of **RPs** is determined by the table below (see §9.2.3.1). After all the exchange have been concluded, your GM uses the the difference in **outcome points** between the two groups and table §9.2.3.2 to determine the **degree of victory or defeat**
-
-Depending on which approach seems to grow from the story, your GM may assign **consequences** or **benefits** from **group simple contests** to the entire group, or to individual members who performed either especially well, or especially poorly. Your GM should default to rewarding or penalizing everyone. Your GM should resort to individualized repercussions or benefits only when a group reward defies dramatic credibility, or when competition within the group is a pivotal dramatic issue.
-
-#### 10.3.3.1 GROUP SIMPLE CONTEST TABLE
-
-|               |Critical       |Success        |Failure        |Fumble         |
-|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-|Critical       |1              |2              |3              |5              |
-|Success        |2              |1              |2              |3              |
-|Failure        |3              |2              |1              |2              |
-|Fumble         |5              |3              |2              |0              |
-
-
-#### 10.3.3.2 DEGREE OF VICTORY TABLE
-
-|Difference Between OPs|Winning Group's Degree of Victory|
-|:--------------------:|:-------------------------------:|
-|1                     |Marginal                         |
-|2                     |Minor                            |
-|3-4                   |Major                            |
-|5+                    |Complete                         |
-
-
-### 10.3.3.3 Boosting Outcomes
-
-Because they average together the **outcomes** of multiple participants, **group simple contests** tend to flatten **outcomes**, making **victories** more likely to be **marginal** or **minor** than **major** or **complete**.
-
-To overcome this flattening effect, if the outcome of a **group simple contest** is a **tie** or **victory**, you may spend one or more **story points** to purchase a **boost**; a **boost** assures a clearer victory.
-
-The cost varies by the number of PCs participating:
-
-* 1 **story point** for 1-3 PCs.
-* 2 **story points** for 4-6 PCs.
-* 3 **story points** for 7-9 PCs.  
-* and so on...
-
-You may spend twice as many **story points** as required to gain a **double boost**. The points may be spent by any combination of players. They remain spent no matter how the **contest** resolves. You may continue to spend **story points** to **bump** your individual **result**.
-
-The **boost** increases the collective **victory** level by one step. A **double boost** increases it by two steps.
-
-### 10.3.4 Scored Contest
-
-In a **scored contest** you compare the difference between the winner's **resolution points** and the loser's **resolution points** to determine the **outcome**. You use one of two tables **rising action** (see §9.2.) or **climax** depending on the dramatic arc of your story.
-
-#### 10.3.4.1 Rising Action
-
-**Rising action** refers to all of the many plot events and complications that occur between the beginning and the climax of a story. During this phase of your GM's story, they will use the **rising action** consequence table to assess **outcomes**.
-
-Find the difference between you and your opponent's **resolution point** scores at the **contest**’s conclusion. Your GM then determines your **outcome** by cross-referencing with the following table to find your **benefits** or **consequences**.
-
-Note, you may suffer a **state of adversity**, even if you win the **prize**.
-
-#### 10.3.4.2 RISING ACTION CONTEST TABLE
-
-|Difference Between RPs|Negative Consequences for Loser|Consequences/Benefit for Winner|Victory/Defeat Level|
-|:--------------------:|:-----------------------------:|:-----------------------------:|:------------------:|
-|1                     |Hurt                           |Hurt                           |Marginal            |
-|2                     |Hurt                           |Fresh                          |Marginal            |
-|3                     |Impaired                       |Pumped                         |Minor               |
-|4                     |Impaired                       |Pumped                         |Minor               |
-|5                     |Injured                        |Invigorated                    |Major               |
-|6                     |Injured                        |Invigorated                    |Major               |
-|7                     |Dying                          |Heroic                         |Complete            |
-|8                     |Dead                           |Heroic                         |Complete            |
-|9                     |Dead                           |Heroic                         |Complete            |
-
-#### 10.3.4.3 Climax
-
-For the final, climactic confrontation that wraps up your GM's story, you may suffer a **state of adversity**, even if the **outcome** shows that you won the **prize**. This represents that at the **climax** you may triumph, but be laid low by the effort.
-
-First, determine your **outcome** for the **contest** as for rising action, but in addition, if the outcome show that you gained the **prize** your GM now cross-references the **resolution points** scored against you by your opponent on the **climactic state of adversity** table to determine the **state of adversity** you suffered in winning that **victory**. If you lost the **prize** use the **RPs** scored against you to determine your **outcome** as per the **rising action** table above.
-
-#### 10.3.4.4 CLIMACTIC STATE OF ADVERSITY TABLE
-
-|Total Resolution Points Scored Against PC|State of Adversity|
-|:---------------------------------------:|:----------------:|
-|0                                        |Unharmed          |
-|1                                        |Dazed             |
-|2                                        |Hurt              |
-|3                                        |Hurt              |
-|4                                        |Impaired          |
-|5                                        |Impaired          |
-|6                                        |Injured           |
-|7                                        |Injured           |
-|8                                        |Dying             |
-|9                                        |Dead              |
-
-### 10.3.5 Group Scored Contest Outcomes
-
-In a **group scored contest** the side that has the last undefeated contestant gains the **prize**.
-
-If the PCs won, determine the group's overall **outcome** by using the second-best **outcome** obtained by the PCs, or if there is only one opponent, the **outcome**. If the PCs lost, determine the group's overall **outcome** by using the second-worst outcome obtained by the PCs, or if there is only one PC, the **outcome**.
-
-*For example, your PC Lieutenant Jackson of the Royal Navy has led a shore-action against a French outpost. Lieutenant Jackson and two other PCs have **victory** **outcomes** at the end of the contest, so the Royal Navy wins the day. To determine how well the Royal Navy has done your GM looks at the three **victorious** **outcomes** for the Royal Navy, a **major victory**, a **minor victory** and a **marginal victory**. The second best outcome is a **minor victory** so your GM declares that the Royal Navy have a **minor victory** and have overrun the French outpost, but gained little else.*
-
-*Later you lead your men in a spirited defense against a French boarding action of your ship. However, the French win the day, with Lieutenant Jackson and the other PCs suffering **defeat** **outcomes** at the end of the **contest**. Looking at your PCs **outcomes** there is a **major defeat**, two **minor defeats** and a **marginal defeat**. The French win the day with a **minor defeat** for your Royal Navy crew.*
-
-To determine individual **consequences** or **benefits**, in **rising action**, even if you engage multiple opponents in a **rising action scored contest**, only use the last opponent you engaged to determine your individual **outcome**. In a climatic contest total the **resolution points** scored against you by all your opponents. If you engage more than one opponent, be sure to add the **resolution points** scored against you by all of them. If you lost, add 1 to your total. Your GM cross-references the total against the **climactic state of adversity** table.
-
-### 10.3.6 Extended Contest Outcomes
-
-At the end of the contest the **APs** of the loser determine the **benefits** for the winner or **consequences** for the loser. As with all **contests**, if the contest involved a **resistance**, and not another PC, we care about your **outcome**, win or lose, and the GM should feel free to narrate the **outcome** for the **resistance** depending on their interpretation of your **outcome**, which may not be symmetrical. For example, if the **benefit of victory** for your PC is **pumped** the GM should feel free to interpret what this means for the **resistance**: in a melee they might be dead, in a social contest they might be exiled, or they might surrender in the melee or cede ground in a social contest. Your GM should focus on the **prize** that was agreed when deciding how to narrate the resolution of the contest.
-
-#### 10.3.6.1 EXTENDED CONTEST TABLE
-
-|Final AP Total |Level of Defeat|Consequence for Loser|Benefit for Winner|
-|:-------------:|:-------------:|:-------------------:|:----------------:|
-|0 to –10 AP    |Marginal       |Hurt                 |Fresh             |
-|–11 to –20 AP  |Minor          |Impaired             |Pumped            |
-|–21 to –30 AP  |Major          |Injured              |Invigorated       |
-|–31 or fewer AP|Complete       |Dying                |Heroic            |
-
-### 10.3.7 Group Extended Contest Outcomes
-
-In a **group extended contest** the side that has the last undefeated contestant gains the **prize**.
-
-If the PCs won, determine the group's overall **outcome** by using the second-best **outcome** obtained by the PCs, or if there is only one opponent, the **outcome**. If the PCs lost, determine the group's overall **outcome** by using the second-worst outcome obtained by the PCs, or if there is only one PC, the **outcome**.
-
-*For example, your PC Lieutenant Jackson of the Royal Navy has led a shore-action against a French outpost. Lieutenant Jackson and two other PCs have **victory** **outcomes** at the end of the contest, so the Royal Navy wins the day. To determine how well the Royal Navy has done your GM looks at the three **victorious** **outcomes** for the Royal Navy, a **major victory**, a **minor victory** and a **marginal victory**. The second best outcome is a **minor victory** so your GM declares that the Royal Navy have a **minor victory** and have overrun the French outpost, but gained little else.*
-
-*Later you lead your men in a spirited defense against a French boarding action of your ship. However, the French win the day, with Lieutenant Jackson and the other PCs suffering **defeat** **outcomes** at the end of the **contest**. Looking at your PCs **outcomes** there is a **major defeat**, two **minor defeats** and a **marginal defeat**. The French win the day with a **minor defeat** for your Royal Navy crew.*
-
-To determine individual **consequences** or **benefits**, use the **AP** of last opponent you engaged to determine your individual **outcome**.
-
-### 10.3.8 Chained Contests
-
-In a **chained contest** determine the **state of adversity** (see §9.4) to the loser of an exchange from the following table (see 9.3.8.1).
-
-#### 10.3.8.1 CHAINED CONTEST TABLE
-
-|Roll           |Critical       |Success        |Failure        |Fumble                       |
-|:-------------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-|Critical       |Worse roll is **hurt**. If tied, no effect.|Opponent **hurt**. If already **hurt** in this contest, Injured. If already injured, Dying|Opponent Injured. If already Injured in this contest, Dying|Opponent Dying: player has them at complete mercy. Contest is over.|
-|Success        |PC is **hurt**. If already **hurt** in this contest, Injured. If already injured, Dying|Worse roll is **hurt**. If tied, no effect|Opponent **hurt**. If already **hurt** in this contest, Injured. If already injured, Dying|Opponent Injured. If already Injured in this contest, Dying|
-|Failure        |PC is Injured. If already Injured in this contest, Dying|PC is **hurt**. If already **hurt** in contest, Injured. If injured, Dying|Worse roll is **hurt**. If tied, no effect|Opponent **hurt**. If already **hurt** in this contest, Injured. If already injured, Dying|
-|Fumble         |PC Dying: opponent has them at complete mercy. Contest is over.|PC is Injured. If already Injured in this contest, Dying|PC is **hurt**. If already **hurt** contest, Injured. If already injured, Dying|Both make a mistake. No effect on contest. Side effects at GM's discretion|
-
-### 10.3.9 Group Chained Contest Outcomes
-
-In a **group chained contest** the side that has the last undefeated contestant gains the **prize**.
-
-If the PCs won, determine the group's overall **outcome** by using the second-best **outcome** obtained by the PCs, or if there is only one opponent, the **outcome**. If the PCs lost, determine the group's overall **outcome** by using the second-worst outcome obtained by the PCs, or if there is only one PC, the **outcome**.
-
-*For example, your PC Lieutenant Jackson of the Royal Navy has led a shore-action against a French outpost. Lieutenant Jackson and two other PCs have **victory** **outcomes** at the end of the contest, so the Royal Navy wins the day. To determine how well the Royal Navy has done your GM looks at the three **victorious** **outcomes** for the Royal Navy, a **major victory**, a **minor victory** and a **marginal victory**. The second best outcome is a **minor victory** so your GM declares that the Royal Navy have a **minor victory** and have overrun the French outpost, but gained little else.*
-
-*Later you lead your men in a spirited defense against a French boarding action of your ship. However, the French win the day, with Lieutenant Jackson and the other PCs suffering **defeat** **outcomes** at the end of the **contest**. Looking at your PCs **outcomes** there is a **major defeat**, two **minor defeats** and a **marginal defeat**. The French win the day with a **minor defeat** for your Royal Navy crew.*
-
-Individual **consequences** or **benefits** will have already been determined by the **chained contest** **outcomes** on each **round**.
-
-## 10.4 Benefits and Consequences
-
-Prior versions of the *QuestWorlds* rules used the **degree of victory or defeat** (see §9.3) to determine consequences. Whilst we now recommend that your GM determines consequences using the **scale** from their interpretation of the **outcome**. We find this simpler and faster in play. But for those who prefer the older approach, or want to maintain compatibility with it, we present those rules in this appendix.
-
-You should note that these rules allow the possibility that a PC will end up dying either literally or figuratively and will be removed from the game without intervention. Under the main rules this to be a player choice in response to an **outcome** not something that should come randomly from the dice.
-
-### 10.4.1 The Consequences of Defeat
-
-When you lose a **contest**, you may suffer **consequences**: literal or metaphorical injuries which make it harder for you to use related **abilities**.
-
-From the least to the most punishing, the five **states of adversity** are: **hurt**, **impaired**, **injured**, **dying**, and **dead**. The first four are possible **consequences** of any **contest**. **Dying** PCs become **dead**, unless they receive intervention of some sort.
-
-Although the levels refer to physical **states of adversity**, the consequences can be emotional, social, spiritual, magical, and so on.
-
-#### 10.4.1.2 Hurt
-
-If you are **hurt**, you show signs of adversity and find it harder to succeed at **contests** related to your **defeat**. Either your flesh or pride may be bruised. Until you recover, you suffer a –3 **penalty** to all related **abilities**.
-
-You may suffer multiple **hurts** to the same **ability**. These are cumulative until recovery occurs.
-
-Unless your GM has a dramatic reason to decide otherwise, your **hurts** vanish at the end of a session, after one day of rest per accumulated **hurt**, or when in-game events justify their removal.
-
-#### 10.4.1.3 Impaired
-
-If you are **impaired**, you have taken a jarring blow, physically, socially, or emotionally, and you are much likelier to fail when attempting similar actions in the future. You suffer a –6 **penalty** to all related **abilities**. Impairments combine with **hurts** and with other impairments.
-
-As bad as your condition may be, there’s nothing wrong with you that some prolonged inactivity won’t fix. A single **impairment** goes away after one week of rest, or when an in-game event (like miraculous or extraordinary treatment) occurs to make their removal seem believable.
-
-#### 10.4.1.4 Injured
-
-If you are **injured**, you have suffered a debilitating blow which leaves you reeling. Physically you may have lost the use of a limb or sense, socially you may be shunned, and emotionally you may in shock. Although you should heal with time, you suffer a -9 **penalty** to all related **abilities**. Injuries combine with impairments and **hurts**.
-
-A single **injury** goes away after a month's rest, or by miraculous intervention, as above.
-
-#### 10.4.1.5 Dying
-
-If you are **dying** you will, without rapid and appropriate intervention, expire. To save you, the other PCs must overcome a **story obstacle**. Their attempt must be credible, using medicine or magic, as defined by your genre. Your GM should use a **very high resistance** for this **contest**, unless the story suggests otherwise. According to the conventions of dramatic storytelling, the character typically has just enough time left for the other characters to make this one attempt.
-
-Successful intervention leaves the PC **injured**. Depending on the narrative circumstances, a **complete victory** on the intervention attempt may leave them merely **impaired**.
-
-If intervention fails, you will die, but not necessarily immediately. Although irrevocably doomed, your GM may rule that the story suggests that you survive long enough to take one final, heroic, action.
-
-To even take that **final action** if the GM offers you the chance, you must succeed at a prior **contest of wherewithal** to rouse yourself to action. Appropriate abilities for the **contest of wherewithal** include:
-
-* Physical action: Endurance, High Pain Threshold, Grim Determination, etc.
-* Intellectual activity: Concentration, Iron Will, Love of Country (if action to be attempted is patriotic), etc.
-* Social humiliation: Savoir Faire, Unflappable, Stoic Dignity
-
-A **contest of wherewithal** faces a **moderate resistance**. Even if you succeed at the **contest of wherewithal**, you take an automatic **bump** down **penalty** whenever you use any related **ability** in a **contest**. (The **bump** down does not apply to the **contest of wherewithal** itself.) Where it seems apt, your GM may choose to ignore the **bump** down if you score a **major or complete victory** on the **contest of wherewithal**.)
-
-Any active **hurts** or **impairments** continue to be counted against you as well.
-
-Your **final action** cannot reverse the **outcome** of the **contest** that you lost, it must involve a new **story obstacle**. Your GM will rule if your action is allowable.
-
-Like other **states of adversity**, **dying** may be literal or metaphorical. Your standing in society, business or politics may be on the brink of permanent extinction. You may be facing mental death — a permanent lapse into madness or senility.
-
-#### 10.4.1.6 Dead
-
-If you die as a consequence of physical injuries, you are gone from the game, period.
-
-Death from a non-physical **contest** will likely be metaphorical. If you die in an economic, social, spiritual, or artistic **contest**, you permanently lose abilities.
-
-Even only metaphorically dead, your GM may declare that you have undergone changes so dire as to make your PC unplayable. You may be incurably insane, or be so socially shamed that you retire to a life of obscurity or religious meditation. You may be shunned by all around you, sent into permanent exile, or sentenced to long-term imprisonment with no hope of escape.
-
-#### 10.4.1.7 CONSEQUENCES OF DEFEAT TABLE
-
-|Defeat Level|State of Adversity|Penalty                                                                                           |
-|:----------:|:----------------:|:------------------------------------------------------------------------------------------------:|
-|Marginal    |Hurt              |–3 penalty to appropriate abilities                                                               |
-|Minor       |Impaired          |–6 penalty to appropriate abilities                                                               |
-|Major       |injured           |–9 penalty to appropriate abilities                                                               |
-|Complete    |Dying             | No actions allowed. If 'final action', automatic **bump** down on uses of appropriate **ability**|
-
-### 10.4.2 Benefits of Victory
-
-Just as when you experience **defeat** you can suffer ongoing ill effects in addition to the loss of the **prize** at hand, when you win you can gain benefits from that **victory**.
-
-A **benefit of victory** gives you a bonus on the selected **abilities**, or in the specified situation, as determined by your **victory** level.
-
-A PC may apply **bonuses** from multiple **benefits** to a single **contest**.
-
-From the least to the most robust the four **states of fortune** are: **fresh**, **pumped**, **invigorated**, and **heroic**.
-
-#### 10.4.2.1 Fresh
-
-If you are **fresh**, you are lively and find it easier to succeed at **contests** related to your **victory**. You are on a roll and feel confident and able. Until you are **defeated**, you gain a +3 **bonus** to all related abilities.
-
-You may be refreshed multiple times on the same **ability**. These are cumulative until **defeat** occurs.
-
-Unless your GM has a dramatic reason to decide otherwise, your **freshness** vanishes at the end of a session, after one day of idleness, or when in-game events justify their removal.
-
-#### 10.4.2.2 Pumped
-
-If you are **pumped**, you are energized, physically, socially, or emotionally, and you are much likelier to succeed when attempting similar actions in the future. You gain a +6 **bonus** to all related abilities. **Pumped** combines with **fresh** and **pumped**.
-
-As good as your condition may be, an extended period of idleness will cause you to lose your edge. A single **pumped** goes away after one week of idleness, or when an in-game event (like long drunken party) occurs to make their removal seem believable.
-
-#### 10.4.2.3 Invigorated
-
-If you are **invigorated**, you are pulsing with hormones, mentally focused, or exuding confidence. Physically you can push your body to new personal bests of achievement, socially confidant and exuding charisma, and emotionally you are in touch with your feelings and resonate with those of others. Although this will fade with time, you gain a +9 **bonus** to all related abilities. **Invigorated** combines with **pumped** and **fresh**.
-
-Being **invigorated** goes away after a month's idleness, or an in-game event, as above.
-
-#### 10.4.2.4 Heroic
-
-If you are **heroic**, you have become unstoppable, physically at peak performance, socially, everyone wants to be you or be with you, and emotionally you have gained new insights into yourself and others around you. Although this will fade with time, you gain a **bump** **bonus** to all related abilities. Being **heroic** combines with **invigorated**, **pumped** and **fresh**.
-
-Being **heroic** goes away after a season's idleness, or an in-game event, as above.
-
-#### 10.4.2.5 BENEFITS OF VICTORY TABLE
-
-|Victory Level  |State of Fortune|Benefit|
-|:-------------:|:--------------:|:------------------------------------------------------------------------:|
-|Marginal       |Fresh           |+3                                                                        |
-|Minor          |Pumped          |+6                                                                        |
-|Major          |Invigorated     |+9                                                                        |
-|Complete       |Heroic          |You receive an automatic **bump** up on uses of an appropriate **ability**|
-
-#### 10.4.2.6 Clearly Inferior Opponents
-
-Defeating clearly inferior opponents neither teaches you anything nor significantly enhances your reputation; you are ineligible for a **benefit of victory** if the **resistance** you used in the **contest** exceeded the **resistance** by 6 or more. If, in the case of a **long contest**, you or your opponent used multiple **abilities**, compare the best **ability** you used to their worst.
-
-### 10.4.3 Recovery and Healing
-
-Consequences of **injured** or less lapse on their own with the passage of time. However, you’ll often want to remove them ahead of schedule, with the use of **abilities**.
-
-#### 10.4.3.1 Healing Abilities
-
-The **ability** used to bring about recovery from a **state of adversity** must relate to the type of harm.
-
-You can heal physical injuries with medical or extraordinary **abilities**.
-
-You can remove mental traumas, including those of confidence and morale, with mundane psychology or through **extraordinary abilities**. You might also remove them through a dramatic confrontation between the victim and the source of the psychic injury.
-
-You use social abilities to heal social injuries. You probably have to make a public apology of some sort, often including a negotiation with the offended parties and the payment of compensation, either in disposable wealth or something more symbolic.
-
-You can fix damage to items and equipment with some sort of repair **ability**. If you want to fix an extraordinary item, you may require genre-specific expertise: a broken magic ring may require a ritual to reforge.
-
-Your GM should almost always resolve healing attempts as **simple contests**. An exception might be a medical drama, in which surgeries would comprise the suspenseful set-piece sequences of the game, and your GM might chose a **long contest**.
-
-#### 10.4.3.2 Healing Resistances
-
-Default **resistances** to remove states of adversity are as follows:
-
-#### 10.4.3.3 HEALING RESISTANCES TABLE
-
-|Consequence of Defeat|Difficulty|
-|:-------------------:|:--------------:|
-|Hurt                 |Moderate        |
-|Impaired             |Raised          |
-|Injured              |High            |
-|Dying                |Very High       |
-
-#### 10.4.3.4 Outcomes of Healing
-
-When you make a successful healing attempt, you remove one level of **adversity** for each level of **victory**. A **major defeat** increases the subject’s **consequences** by 1; a **complete defeat** adds an additional 2 levels to the **state of adversity**.
-
-## 10.5.0 Augments
-
-If you are using **degrees of victory or defeat**, use the table below to interpret the **outcome** of the **simple contest** for an augment. Note that **penalties** for **defeat** when attempting an **augment** are much lessened compared to a regular **contest**.
-
-### 10.5.1 AUGMENT TABLE
-
-|Contest Outcome|Modifier       |
-|:-------------:|:-------------:|
-|Complete Victory|+M            |
-|Major Victory   |+9            |
-|Minor Victory   |+6            |
-|Marginal Victory|+3            |
-|Marginal Defeat |0             |
-|Minor Defeat    |0             |
-|Major Defeat    |0             |
-|Complete Defeat |-3            |
-
-## 10.6 Community Rules
-
-The community rules in earlier versions were complex and have been simplified in the current rules. They are presented here mainly to help in understanding older material, or for those who prefer it's more complex tracking approach.
-
-### 10.6.1 Defining Resources
-
-Communities can have a type of **ability** called a **resource** that your GM defines. Your PC can try to draw on their community's **resources** to use them as **abilities**. Your GM should focus on no more than five or so broadly-labeled **resource** types, so that the PCs can care about (and have a chance of successfully managing) all of them.
-
-### 10.6.2 Specify an interval
-
-Your GM chooses a suitable interval to mark changes in **resources**. For genres bound by the agricultural season, this is usually a season, for a military genre it might be a campaign, for a ship a voyage.
-
-### 10.6.3 Assigning Ability Scores
-
-Your GM distributes the following **scores** between the five abilities: 12W, 9W, 18, 18, and 12. Note that the size of the group doesn’t affect the **scores**.
-
-### 10.6.4 Resource Notation
-
-Your GM will keep track of **modifiers** to community **resources** with a copy of the following record sheet. They will use a pencil, because the numbers will fluctuate.
-
-Your GM lists the names and **scores** of your chosen **resources** in the first row. Under the total column for each, your GM will list the total current modifier. Under the PC column, your GM lists **bonuses** resulting from PC activities (as opposed to un-cemented **background events**.) When PCs **cement a background benefit**, your GM adds its bonus to the PC column.
-
-When PC activity reduces a **penalty** but does not eliminate it, your GM will alter the entry under the Total column to reflect the reduction, but leave the PC column blank.
-
-#### 10.6.4.1 RESOURCE NOTATION TABLE
-
-|Total  |PC    |Total |PC     |Total |PC     |Total |PC     |Total |PC     |
-|------|-------|------|-------|------|-------|------|-------|------|-------|
-|      |       |      |       |      |       |      |       |      |       |
-
-### 10.6.5 Drawing on Resources
-
-You can use community **resources** as **abilities** after convincing the community to let you expend precious assets. This requires a preliminary **contest** using a social **ability**, most likely your community relationship. Your GM will use a **moderate resistance** as the baseline, with higher **resistance**s when your proposals seem selfish or likely to fail, and lower ones when everyone but the dullest dolt would readily see their collective benefits. Your GM may increase **resistance**s if your group draws constantly on community **resources** without replenishing them.
-
-The lobbying effort and the actual resource use require framing, a clear description of what you are doing, and other details to bring them to fictional life. You can use **resource abilities** directly, or to **augment** your own **abilities**.
-
-Unlike character abilities, each use of community **resources** temporarily **depletes** it.
-
-On a **victory**, you win the **prize** specified by **contest framing**, and a **penalty** is applied to subsequent uses of the **resource**.
-
-On a **defeat**, you lose the **prize** and an even more severe **penalty** is applied to subsequent **resource** uses. If you fail to secure the **prize** you were seeking, the depletion **penalty** is also applied to your social and community **abilities** when interacting with members of your community. This reflects community displeasure at your fruitless expenditure.
-
-**Penalties** from the Resource Depletion Table replace standard **penalties** for **defeat**, not add to them.
-
-Like other **modifiers** to **resources**, depletion **penalties** end at the end of the current interval. These include **depletion penalties** applied to character **abilities**. However, a **depletion penalty** left unattended at the end of the interval can result in a permanent drop in the relevant **resource**.
-
-If your GM wants resource depletion to lead to longer-lasting social **penalties**, at the cost of some extra bookkeeping, they can have the characters shed a 3-point **penalty** at the end of each interval.
-
-#### 10.6.5.1 RESOURCE DEPLETION TABLE
-
-|Contest Outcome|Depletion Penalty    |
-|:---------------:|:-----------------:|
-|Complete Victory |0                  |
-|Major Victory    |-3                 |
-|Minor Victory    |-3                 |
-|Marginal Victory |-3                 |
-|Marginal Defeat  |-6                 |
-|Minor Defeat     |-6                 |
-|Major Defeat     |-6                 |
-|Complete Defeat  |-9                 |
-
-### 10.6.6 Required Resource Use
-
-As part of your GM's setting design, they may specify that certain actions in a setting always require the use of a community **resource**. Because the **resource** use is obligatory, it need not meet the usual criteria for entertainment value. Also, when the resource is used as an **augment**, you can also add a second **augment** from some other **ability**, adjudicated according to the standard rules, including entertainment value criteria. (This way, the required **resource** use doesn’t penalize you by forcing you to **augment** with a low-rated **resource** when you could otherwise use a higher-rated **ability**.)
-
-### 10.6.7 Penalties to Resources
-
-Threats to community **resources** act as a spur to PC action. Your GM may rule that the **penalty** from any **outcome** may be applied to a **resource**. (It might at the same time be applied to one or more PC **abilities**.)
-
-When choosing a **penalty** arising from a player **defeat** in a **simple contest**, your GM will use the **consequences of defeat** table. For a **group contest**, the **penalty** corresponds to the second worst **state of adversity** suffered by a defeated group member.
-
-If your group voluntarily concede a **contest** by withdrawing, your community suffers **resource depletion** equivalent to a **major defeat**.
-
-### 10.6.8 Bolstering Resources
-
-You can add **bonuses** to **bolster** community **resources** by seeking out and overcoming relevant **story obstacles**, specifying in the **contest framing** that the proceeds of **victory** go the community. If you succeed, **bonuses** from the **benefits of victory** table are applied to a resource instead of one or more character abilities. (Your GM may rule that the bonus also applies to you in social situations that involve community members, reflecting gratitude for their efforts on behalf of the community.)
-
-### 10.6.9 Background Events
-
-Your changes to **resources** take center stage in a series, but in the background all sorts of other events periodically alter the community’s prosperity. These include the actions of other community members, who are **depleting and bolstering resources** all the time, as well as the unexpected intrusion of outside forces.
-
-At the beginning of each interval, one of your group should perform a **simple contest** of each **resource** against a **resistance** equal to the average value of all **resources**. These **contests** simulate **background events** outside of your control or influence; they can’t be **augmented** or **bumped** up with **hero points**.
-
-The **outcome** of the **contest** may apply a **modifier** to a **resource**, as per the following table:
-
-#### 10.6.9.1 RESOURCE FLUCTUATION TABLE
-
-|Outcome          |Depletion Penalty  |
-|:---------------:|:-----------------:|
-|Complete Victory |+9                 |
-|Major Victory    |+6                 |
-|Minor Victory    |+3                 |
-|Marginal Victory |0                  |
-|Marginal Defeat  |0                  |
-|Minor Defeat     |-3                 |
-|Major Defeat     |-6                 |
-|Complete Defeat  |-9                 |  
-
-Except where your group is exceptionally keen on tracking **resources**, your GM should skip the **background events** process when the PCs are long absent from home. Your GM should rejigger them to serve their plot purposes when they return. The GM may also want to shuffle this process offstage when the PCs are occupied by epic events. This prevents them from having to flee from a climactic plot development to go home and tend to the beet crop.
-
-### 10.6.10 Crisis Tests
-
-When **resources** endure **penalties**, you conduct a **crisis test** at the beginning of each game session to see if trouble strikes the community. A high but **penalized score** can still lead to crisis, because people have adjusted to the equilibrium it offers and feel squeezed when it shifts on them.
-
-A **crisis test** is a **simple contest** (one for each **penalized ability**) of the **resource score** against a **resistance** equal to the average of all **resource scores**. Like **background event** checks, these can’t be **augmented** or **bumped** up by player action. On any **defeat**, the community starts to visibly suffer.
-
-Your GM invents the specific reasons for each fluctuation and narrates them to you.
-
-**Crisis tests** should spur you to action, challenging you to find ways to **bolster** the affected **resources** (see above). When **bolstered**, the **crisis** is reversed. If you neglect your duties or fail, the **crisis** worsens.
-
-Your GM will call for **crisis tests** only as needed, as a tool to generate story. If your group already has enough story on its hands, your GM will suspend them until you next need a new plot hook.
-
-### 10.6.11 Cementing Benefits of Background Events
-
-**Bonuses** from **background events** are temporary, unless you take steps to **cement your benefits**. Doing so requires you to overcome a major **story obstacle**, perhaps taking focus for an evening’s worth of play. If you succeed, the **background event bonus** may, as per the next section, later solidify into a permanent increase in the **resource’s score**.
-
-When you **cement a background bonus**, your GM changes their notation of that **bonus**.
-
-### 10.6.12 Changes to Resource Scores
-
-At the end of your GM's chosen interval, they review the Resource Notation Table.
-
-Any **resource** with a **bonus** of 3 or more in its PC column increases by 1 for each 3 points of **bonus**, for a maximum increase of 3.
-
-Any **resource** with a **penalty** in its Total column decreases by 1 for each 3 points of **penalty**, for a maximum loss of 2.
-
-Any remaining **modifiers** are now reduced to 0.
-
-The GM now start a new Resource Notation Table, with **resource scores** altered to reflect any changes from the above process.
-
-Having made permanent changes to the community’s **resource scores**, your GM then restarts the cycle by again testing for a new set of **background events**.
-
-### 10.6.13 Changes from Plot Events
-
-Your GM may decide that certain remarkable triumphs or horrifying catastrophes may directly alter a **resource score**, independent of the resource tracking system given here. The possibility of a dramatic swing in community fortunes should be made clear by your GM during **contest framing**, so that you know the **prize** and can pull out all the stops to secure **victory** or stave off **defeat**.
-
-## 10.7 Additional Terms
-
-The following terms are for rules in the appendix that are no longer used in the main rules.
-
-**Contest of Wherewithal**
-: A **contest** that allows a **dying** character to complete one **final action**.
-
-**Complete Defeat**
-: No, and.... You have lost, and the impact is long-lasting, maybe even fatal or terminal.
-
-**Complete Victory**
-: Yes, and... You have won, and the impact is long-lasting, possibly a permanent change in your favor.
-
-**Degree of Victory or Defeat**
-: How well did you triumph, or how badly did you fail: **marginal**, **minor**, **major**, **complete**
-
-**Major Defeat**
-: No, and. You have lost, and the impact is long-lasting.
-
-**Major Victory**
-: Yes, and. You have won, and the impact is long-lasting.
-
-**Marginal Defeat**
-: No, but... You don't get what you want, but the damage may be mitigated.
-
-**Marginal Victory**
-: Yes, but... You get what you want, but you may have to make a hard choice.
-
-**Minor Defeat**
-: No... you don't get the agreed **prize**.
-
-**Minor Victory**
-: Yes... you get the agreed **prize**.
-
-**Outcome Point**
-: A point scored in favor one side in a **group simple contest**
-
-**State of Adversity**
-: How 'banged up' a PC is, physically or metaphorically, following a **defeat**: **Hurt**, **Injured**, **Impaired**, **Dying** and **Dead**
-
-**State of Fortune**
-: A 'boost' to the PC which may be physical or metaphorical.
 
