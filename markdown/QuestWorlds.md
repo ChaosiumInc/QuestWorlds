@@ -172,23 +172,23 @@ We generally refer to the GM as 'your GM' in this document's player-facing langu
 
 # 2.0 Mechanics
 
-In a *QuestWorlds* game, stories develop dynamically as you and your GM work together to role-play the dramatic conflict between your group's PCs in pursuit of their goals and the challenges, or threats that your GM presents to stand in your way. Stories advance by two methods: conflict, where your PC is prevented from achieving their goals because there is something that must be overcome, a **story obstacle**, to gain a desired person, thing, or even status: the **prize**; or revelation, where something must be overcome, a **story obstacle**, to learn a secret, uncover the past, or reach understanding: the **prize**.
+In a *QuestWorlds* game, stories develop dynamically as you and your GM work together to role-play the dramatic conflict between your group's PCs in pursuit of their goals and the challenges, or threats that your GM presents to stand in your way. Stories advance by two methods: conflict, where your PC is prevented from achieving their goals because there is something that must be overcome, a **story obstacle**, to gain a desired person, thing, or even status: the **prize**; or there is something that must be understood, a **story question**, to learn a secret, the past, or comprehend: a different **prize**.
 
-Over the course of play, your GM will present various **story obstacles** as conflicts to the PCs, resulting in either **victory** or **defeat** for your character, which determines whether or not you gain the **prize** you sought. These conflicts can represent any sort of challenge you might face: fighting, a trial or debate, survival in a harsh environment, out-wooing rival suitors, and so on.
+Over the course of play, your GM will present various **story obstacles** and **revelations** as conflicts to the PCs, resulting in either **victory** or **defeat** for your character, which determines whether or not you gain the **prize** you sought. These conflicts can represent any sort of challenge you might face: fighting, a trial or debate, survival in a harsh environment, out-wooing rival suitors, and so on.
 
-Rather than mechanically addressing the individual tasks that make up these conflicts, *QuestWorlds* usually assesses your overall **victory** or **defeat** in a single **contest** where you and your GM make an opposed roll pitting your characters **ability** vs the **resistance** the **story obstacle** presents to you achieving the **prize**.
+Rather than mechanically addressing the individual tasks that make up these conflicts, *QuestWorlds* usually assesses your overall **victory** or **defeat** in a single **contest** where you and your GM make an opposed roll pitting your characters **ability** vs the **resistance** the **story obstacle** or **story question** presents to you achieving the **prize**.
 
-Whenever the GM presents a **story obstacle** for you to overcome, you should **frame the contest** by describing what you are trying to accomplish, the **prize**, and which of your **abilities** (see below) you want to use to achieve that **prize**, and how.
+Whenever the GM presents a **story obstacle** or **story question** for you to overcome, you should **frame the contest** by describing what you are trying to accomplish, the **prize**, and which of your **abilities** (see below) you want to use to achieve that **prize**, and how.
 
 Based on that **framing** and other factors, your GM will assess what **resistance** the characters face.
 
-You roll a twenty-sided die (D20) against your PC's **ability**, and your GM rolls a D20 against the **resistance**. Your GM will assess your overall **victory** or **defeat** in the contest based on the **success** or **failure** of both rolls, and narrates the results of your attempt to overcome the **story obstacle** and gain the **prize** accordingly. The direction of the story changes, in either a big or small way, depending on whether you gain the **prize** or not.
+You roll a twenty-sided die (D20) against your PC's **ability**, and your GM rolls a D20 against the **resistance**. Your GM will assess your overall **victory** or **defeat** in the contest based on the **success** or **failure** of both rolls, and narrates the results of your attempt to overcome the **story obstacle** or answer the **story question** and gain the **prize** accordingly. The direction of the story changes, in either a big or small way, depending on whether you gain the **prize** or not.
 
 We encourage your GM to work with your suggestions when narrating the **victory** or **defeat**, but the final decision rests with them.
 
 ## 2.1 Abilities
 
-Characters in *QuestWorlds* are defined by the **abilities** they use to face the challenges that arise in the course of their story. Rather than having a standard list of attributes, skills, powers, etc. for all characters, anything that you can apply to solve a problem or overcome a **story obstacle** could be one of your **abilities**. While your GM may provide some example **abilities** to choose from that connect your PC to a particular story or game world (whether created by your GM or by the designer of a particular game), you get to make up and describe most or all of your **abilities**.
+Characters in *QuestWorlds* are defined by the **abilities** they use to face the challenges that arise in the course of their story. Rather than having a standard list of attributes, skills, powers, etc. for all characters, anything that you can apply overcome a **story obstacle** or answer a **story question** could be one of your **abilities**. While your GM may provide some example **abilities** to choose from that connect your PC to a particular story or game world (whether created by your GM or by the designer of a particular game), you get to make up and describe most or all of your **abilities**.
 
 Some **abilities** might be broad descriptions of your background or expertise, like "Dwarf of the Chalk Hills" or "Private Detective" - implying a variety of related capabilities. Others might represent specific capabilities or assets such as "Lore of the Ancients," "Captain of the Fencing Team," or "The Jade Eye Medallion."
 
@@ -222,7 +222,7 @@ For how **masteries** work in play, see §2.3.6 for more details on **bumps**.
 
 #### 2.1.2.1 No Relevant **ability**
 
-You may sometimes be faced with a **story obstacle** for which you have no relevant **ability** whatsoever. In such cases, you may still enter into conflict with the **story obstacle** using a minimum base **target number** of 6 for your **contest** roll. Like **scores**, it may also be subject to **modifiers**.
+You may sometimes be faced with a **story obstacle**  or **story question** for which you have no relevant **ability** whatsoever. In such cases, you may still enter into conflict with the **story obstacle** using a minimum base **target number** of 6 for your **contest** roll. Like **scores**, it may also be subject to **modifiers**.
 
 #### 2.1.2.2 Using Scores As thresholds
 
@@ -263,7 +263,7 @@ A **simple contest** can be summarized as follows:
 3. Your GM compares the difference **successes** between the two rolls to assesses the **outcome** (see §2.3.7).
 4. Your GM then narrates the **outcome** of the conflict as appropriate and assesses any **benefits** or **consequences** that arose (see §2.7).
 
-If you enter into conflict with another player rather than a **story obstacle** presented by your GM, you both roll your relevant abilities for the **contest** instead of against a GM-set **resistance**, and your GM interprets the **results**, as described above.
+If you enter into conflict with another player rather than a **story obstacle** or **story question** presented by your GM, you both roll your relevant abilities for the **contest** instead of against a GM-set **resistance**, and your GM interprets the **results**, as described above.
 
 #### 2.3.1.2 Assured Contest
 
@@ -275,7 +275,7 @@ As your character advances, the challenges that qualify for **assured contests**
 
 Your GM may also use an **assured contest** when there is no interesting story branch from **defeat**. If failing to open the derelict spaceship's hatch means that the story of your exploration of the ancient space hulk would end abruptly, your GM may choose to make it an **assured contest**. **Assured contests** may be used to find clues when your GM is running a mystery and correct application of one of your **abilities** should reveal the information and allow the story to continue, over becoming mired due to a missed roll and missing clue.
 
-Sometimes your GM will decide potential complications could arise in overcoming an **story obstacle**. Or they may want to give you a **bonus** if you do particularly well. If so, they will call for you to make a die roll even though your **victory** is not in question. Your GM will use your die roll **outcome** (see §2.3.7) to decide if any unforeseen **consequences** or **benefits** arose from your actions, but still gives you a **victory**.
+Sometimes your GM will decide potential complications could arise in overcoming an **story obstacle** or answering a **story question**. Or they may want to give you a **bonus** if you do particularly well. If so, they will call for you to make a die roll even though your **victory** is not in question. Your GM will use your die roll **outcome** (see §2.3.7) to decide if any unforeseen **consequences** or **benefits** arose from your actions, but still gives you a **victory**.
 
 An **assured contest** can be summarized as follows:
 
@@ -293,36 +293,36 @@ An **assured contest** can be summarized as follows:
 When a conflict arises during the game, you and your GM start by clearly agreeing on:
 
 * What goal you are trying to achieve. We call this the **prize**.
-* What the **story obstacle** is you are trying to overcome.
+* What the **story obstacle** is you are trying to overcome or **story question** you are trying to answer.
 * What **tactic** you are using to and overcome it.
 
 This process is called **framing the contest**.
 
 #### 2.3.2.2 Conflict: Goals vs Obstacles
 
-**Contests** in *QuestWorlds* don’t simply tell you how well you performed at a particular task: they tell you whether or not you overcame a **story obstacle**, which moves the story in a new direction. Unlike some other roleplaying games, a **contest** in *QuestWorlds* does not resolve a task, it resolves the whole **story obstacle**.
+**Contests** in *QuestWorlds* don’t simply tell you how well you performed at a particular task: they tell you whether or not you overcame a **story obstacle**, or learned the answer to a **story question** which moves the story in a new direction. Unlike some other roleplaying games, a **contest** in *QuestWorlds* does not resolve a task, it resolves the whole **story obstacle** or provides a complete answer to the **story question**.
 
-If you need secret records which are stored in a vault within a government compound, your goal is to get the information - while the fact that it is secured against your access is a **story obstacle** you must overcome to attain that goal. Overcoming that **story obstacle** may involve many possible tasks, evading guards, lock-picking, forging credentials, etc. - but the **contest** doesn't address those individually. The **contest** is framed around the entire conflict against the **story obstacle** as a whole.
+If you need secret records which are stored in a vault within a government compound, your goal is to get the information to answer a **story question**. Answering that **story question** may involve many possible tasks, evading guards, lock-picking, forging credentials, etc. - but the **contest** doesn't address those individually. The **contest** is framed around the entire conflict against the **story question** as a whole.
 
 In a fight, your **story obstacle** may be the opponents themselves, who you are fighting to capture or kill. Just as often you are seeking another goal and you might just as easily attain it by incapacitating or evading your foes. In this case, beating the enemy is a task, not the **story obstacle**. For example, if an **ally** has been accused of treason by the King, your goal could be to prove the **ally's** innocence. The power of the King threatening your **ally** is a **story obstacle** to be overcome, and a trial by combat could be a **contest** to resolve the conflict with an **ability** like "Knight Errant."
 
 In a court trial, your goal is likely a particular verdict, while the **story obstacle** might be the opposing lawyer, an unjust law, or even the justice system itself.  In this case, jury selection, a closing argument, revelatory evidence, or legal procedural challenges are tasks, not the entire **story obstacle**. The overall conflict encompasses all those things.
 
-A conflict to overcome a **story obstacle** moves the story forward when it is resolved. If it is merely a step toward resolving a **story obstacle** it is a task and not a conflict. While those component tasks may be interesting parts of narrating **tactics** and **results**, your GM should be sure to look for the **story obstacle** in conflict when framing a **contest**.
+A conflict to overcome a **story obstacle** or **story question** moves the story forward when it is resolved. If it is merely a step toward resolving a **story obstacle** it is a task and not a conflict. While those component tasks may be interesting parts of narrating **tactics** and **results**, your GM should be sure to look for the **story obstacle** or **story question** in conflict when framing a **contest**.
 
-If there is no **story obstacle** to your actions, your GM should not call for a **contest** but simply let you narrate what you do, provided that seems credible.
+If there is no **story obstacle**  or **story question** to your actions, your GM should not call for a **contest** but simply let you narrate what you do, provided that seems credible.
 
-For example, you are traveling from one star system to another. In the next star system you hope to confront the aged rebel who holds long-forgotten secrets that could bring freedom to the galaxy. Your GM feels there is no useful **story obstacle** for you to **contest** against, and so lets you describe heading down to the spaceport to secure a ship, meeting the captain and crew of your vessel, and traveling to the next world. Your GM encourages you to summarize what happens quickly so you can get to the meeting with the old rebel. Your GM knows that will be the real **story obstacle**, convincing the old rebel to part with their secrets.
+For example, you are traveling from one star system to another. In the next star system you hope to confront the aged rebel who holds long-forgotten secrets that could bring freedom to the galaxy. Your GM feels there is no useful **story obstacle** for you to **contest** against, and so lets you describe heading down to the spaceport to secure a ship, meeting the captain and crew of your vessel, and traveling to the next world. Your GM encourages you to summarize what happens quickly so you can get to the meeting with the old rebel. Your GM knows there **story question** to convince the old rebel to part with their secrets.
 
 #### 2.3.2.3 Tactics
 
-You either choose an **ability** that represents any 'key moment' in overcoming that **story obstacle**, or a broad **ability** that lets you overcome the whole **story obstacle**. We call this choosing a **tactic**.
+You either choose an **ability** that represents any 'key moment' in overcoming that **story obstacle** or answering that **story question**, or a broad **ability** that lets you overcome the whole **story obstacle** or solve the mystery of the **story question**. We call this choosing a **tactic**.
 
 The **rating** from your **ability score**, after adding any **augment** (see §2.5) or **modifiers** (see §2.4), relevant **consequences** or **benefits** (see §2.6) is your **target number**.
 
-Your **tactic** might describe your using an **ability** that helps you overcome a task within the **story obstacle**:  sneaking past the guards, picking the locks, choosing the right jury or skewering your opponent with your foil. Or, your **tactics** might describe using a broad ability like "Ninja", "Lawyer", or "Fencer" to overcome all those challenges that might form part of the **story obstacle**. Either way, if you succeed at that roll, you overcome the whole **story obstacle**. Or by failing at that roll, you fail to overcome the **story obstacle**, not just fail at one task.
+Your **tactic** might describe your using an **ability** that helps you overcome a task within the **story obstacle** or **story question**:  sneaking past the guards, picking the locks, choosing the right jury or skewering your opponent with your foil. Or, your **tactics** might describe using a broad ability like "Ninja", "Lawyer", or "Fencer" to overcome all those challenges that might form part of the **story obstacle** or **story question**. Either way, if you succeed at that roll, you overcome the whole **story obstacle** or learn the answer to the **story question**. Or by failing at that roll, you fail to overcome the **story obstacle** or reveal the answer to the **story question**, not just fail at one task.
 
-When deciding on your **tactic**, focus on how your unique abilities would help you overcome the **story obstacle**. This as the "key moment" where we focus on your PC. Use this moment to reveal your PC's strengths to the group.
+When deciding on your **tactic**, focus on how your unique abilities would help you overcome the **story obstacle** or reveal the answer to the **story question**. This as the "key moment" where we focus on your PC. Use this moment to reveal your PC's strengths to the group.
 
 Your GM will determine if your **tactic** passes a **credibility test**. If you try to jump a 100 meters gap or run faster than a speeding car, your action is not credible and your GM will ask you to choose a different **tactic**.
 
@@ -334,7 +334,7 @@ The GM can narrate the remaining tasks that make sense of the story depending on
 
 #### 2.3.2.4 No Repeat Attempts
 
-A **contest** represents all of your attempts to overcome a **story obstacle**. If you lose it means that no matter how many times you tried to solve the problem, you finally had to give up. You can try again only if you use a new **tactic** to overcome the **story obstacle**.
+A **contest** represents all of your attempts to overcome a **story obstacle** or reveal the answer to the **story question**. If you lose it means that no matter how many times you tried to solve the problem, you finally had to give up. You can try again only if you use a new **tactic** to overcome the **story obstacle** or answer the **story question**.
 
 ### 2.3.3 Rank
 
@@ -347,7 +347,7 @@ So **rank** *one* is +3 or -3, **rank** *two* is +6 or -6, and so on.
 
 ### 2.3.4 Resistance
 
-Your GM chooses a **resistance** to represent the difficulty of the **story obstacle**. By default, the **base resistance** starts at 14.
+Your GM chooses a **resistance** to represent the difficulty of the **story obstacle** or **story question**. By default, the **base resistance** starts at 14.
 
 When setting **resistance**s it is important to understand that whilst traditional roleplaying games simulate an imaginary reality, *QuestWorlds* emulates the techniques of fictional storytelling.
 
@@ -357,9 +357,9 @@ For example, let’s say that your GM is playing a game inspired by fast-paced, 
 
 In a traditional, simulative game, your GM would determine how hard this is based on the physical constraints you’ve already described. In doing so, they would come up with imaginary numbers and measurements. Your GM would have to work out the distance between bridge and hovercraft. Depending on the rules set, they might take into account your relative speed to the vehicle. Then they would use whatever resolution mechanic the rules provide them with to see if Joey succeeds or fails. If you blow it, your GM will probably consult the falling rules to see how badly you injure yourself (if you land poorly), or the drowning rules, if you end up in the river.
 
-In *QuestWorlds*, your GM starts not with the physical details, but with the proposed action’s position in the storyline. They consider a range of narrative factors, from how entertaining it would be for you to **succeed**, how much **failure** would slow the pacing of the current sequence, and how long it has been since you last scored a thrilling **victory**. If, after this, they need further reference points, your GM can draw inspiration more from martial arts movies than the physics of real-life jumps from bridges onto moving hovercraft. Having decided how difficult the task ought to be dramatically,your GM will then supply the physical details as color, to justify their choice and create suspension of disbelief, the illusion of authenticity that makes us accept fictional incidents as credible on their own terms. If they want Joey to have a high chance of **success**, your GM describes the distance between bridge and vehicle as impressive (so it feels exciting if you make it) but not insurmountable (so it seems believable if you make it).
+In *QuestWorlds*, your GM starts not with the physical details, but with the proposed action’s position in the storyline. They consider a range of narrative factors, from how entertaining it would be for you to have a  succeed, how much failure would slow the pacing of the current sequence, and how long it has been since you last scored a thrilling victory. If, after this, they need further reference points, your GM can draw inspiration more from martial arts movies than the physics of real-life jumps from bridges onto moving hovercraft. Having decided how difficult the task ought to be dramatically,your GM will then supply the physical details as color, to justify their choice and create suspension of disbelief, the illusion of authenticity that makes us accept fictional incidents as credible on their own terms. If they want Joey to have a high chance of success, your GM describes the distance between bridge and vehicle as impressive (so it feels exciting if you make it) but not insurmountable (so it seems believable if you make it).
 
-In other words, in *QuestWorlds* your GM will pick a **resistance** based on dramatic needs and then justify it by adding details into the story.
+In *QuestWorlds* your GM will pick a **resistance** based on dramatic needs and then justify it by adding details into the story.
 
 Your GM determines the **resistance** from a **base resistance** modified by a **rank** depending on their view of how difficult the obstacle is for you. Increasing **ranks** make it harder to succeed, and decreasing **ranks** easier.
   
@@ -371,21 +371,21 @@ All **contests** use the **base resistance** + **rank**, except for **contests**
 
 To determine how well you use an **ability**, roll a 20-sided die (D20). At the same time, your GM rolls for the **resistance**.
 
-Compare your rolled number with your **Target Number** to determine the **result**.
+Compare your rolled number with your **Target Number (TN)** to determine the **result**.
 
 * **Critical**: If the die roll is equal to the **TN**, you succeed brilliantly, and gain *one* **success** and a **bump**. This is the best **result** possible.
-* **Success**: If the die roll is less than the **TN**, you succeed, but there is nothing remarkable about the success. You have *one* **success**.
+* **Success**: If the die roll is less than the **TN**, you succeed, but there is nothing remarkable about the success. You gain *one* **success**.
 * **Failure**: If the die roll is greater than the **TN**, you fail. Things do not happen as hoped. You gain *zero* **successes**
 
 ### 2.3.6 Bumps
 
-A **bump** gives you an additional **success**. A **bump** comes from one of **three sources**.
+A **bump** gives you an additional **success**. A **bump** comes from one of three sources.
 
 * A **critical** die roll gives you a **bump**.
-* A **mastery** gives you a **bump**.
+* Each **mastery** you have gives you a **bump**.
 * You can spend a **story point** (see §7.0) to receive a **bump**.
 
-Because of this rule, a **critical** gives you *two* **successes**, and a PC with a **mastery** will always gain one **success**.
+Because of this rule, on a **critical** you gain *two* **successes**, and a PC with a **mastery** will gain a **success** per **mastery**.
 
 ### 2.3.7 Outcome
 
@@ -393,15 +393,15 @@ Your **successes** and the **resistance's** successes are compared to determine 
 
 For a simple contest:
 
-* If you have a *more* **successes** than the GM, then you have a **victory** and you gain the **prize** set out when the **contest** was framed.
+* If you have a *more* **successes** than the GM, then you have a **victory** and you gain the **prize**.
 * If you have a *fewer* **successes** than the GM, then you are **defeated** and do not gain the **prize**.
-* If you both have the *same* **successes**, including if neither of you has any **successes**, the higher roll wins. If your rolls tie, then it is a standoff.
+* If you both have the *same* number **successes**, including if you both have *zero* **successes**, then the higher roll has a **victory** and gains the **prize**. If your rolls tie, then there is a standoff with neither side able to take control of the **prize**.
 
 For an assured contest:
 
 * You have a **victory** and you gain the **prize** set out when the **contest** was framed.
 
-Your **rank** of **victory** is *one more* than the number of **successes**. Your **rank** of a **defeat** is *one more* than the **resistance's** successes.
+Your **rank** of **victory** is *one more* than the number of **successes**. Your **rank** of **defeat** is *one more* than the **resistance's** successes.
 
 For example, if you win a **victory** with *zero* **successes** then you have a **rank** one **victory**, if you win a **victory** with *one* **success** then you have a **rank** *two* **victory**.
 
@@ -519,7 +519,7 @@ If your GM compels you to act according to your **flaw**, you gain an **experien
 
 ## 2.7 Benefits and Consequences
 
-**Contests**, in addition to deciding whether you overcome a **story obstacle**, carry additional **consequences**. 
+**Contests**, in addition to deciding whether you overcome a **story obstacle** or answer a **story question**, carry additional **consequences**.
 
 Your GM may simply determine these from what makes fictional sense, given the agreed **prize** for the **contest**, as described above. Optionally your GM may impose **consequences** or provide **benefits** if they desire ongoing **penalties** or **bonuses**. Your GM should always respond to the flow of the story, if narrative consequences are enough, they should not reach for additional mechanical **bonuses** or **penalties**. Your GM should use mechanical **bonuses** or **penalties** where it strains credibility that there is no ongoing consequence or benefit from the outcome of the contest.
 
@@ -567,7 +567,7 @@ Just as when you can experience ongoing ill effects from a **contest**, you can 
 * In an economic struggle, your profits can be re-invested, or you drive competitors into the ground.
 * In a morale crisis, you are buoyed up by success, nothing can stop you now.
 
-Remember that the **benefit** does not have to be directly related to the **ability** used. Look to the goal of the **contest**. The abilities or situation should reflect the **story obstacle** that was overcome and the **tactic** used to overcome it.
+Remember that the **benefit** does not have to be directly related to the **ability** used. Look to the goal of the **contest**. The abilities or situation should reflect the **story obstacle** that was overcome, **story question** that was answered, or the **tactic** used to overcome it.
 
 * In a fight or test of physical mettle, your triumph has everyone rallying to your cause.
 * In a social contest, you win powerful **allies** who will strengthen you in your fight against your enemies.
@@ -645,13 +645,7 @@ Your GM should also take into account that the opposition you were improving wit
 
 Your GM may also decide that the **resistances** do not get harder as the campaign progresses, reflecting the PCs **ability** to disregard minor challenges, and simply choose harder **resistances** to challenge the players and allow them to earn **experience points**.
 
-## 2.9 Combined Abilities
-
-On certain occasions your GM may rule that you can only hope to achieve the **prize** by using two disparate **abilities**. When this occurs, average your two **ability scores**, then apply any modifiers, to arrive at your **TN**.
-
-Combining your abilities, rather than using the best one and **augmenting** it with other, is always a disadvantage. Your GM should only require combined **ability** use when story logic absolutely demands that you face a lower chance of **success**, because you have to do two things at once.
-
-## 2.10 Mismatched and Graduated Goals
+## 2.9 Mismatched and Graduated Goals
 
 Sometimes, the two sides in a **contest** may have goals that do not directly conflict one another. A huntsman pursues a nurse, who is trying to escape through the forest with two small children. The huntsman wants to kill the nurse. The nurse wants to save the children.
 
@@ -661,16 +655,16 @@ In a **complete mismatch**, neither side is at all interested in preventing the 
 
 In most instances, the **contest** goals are not actually **mismatched**, but **graduated**. You have both a **primary** and a **secondary** goal. In this case, your GM frames the **contest**, identifying which goal is which. To achieve both, you must get a higher **result** than your opponent, such as **success** vs. **failure** or a **critical** vs **success**. On a better roll alone, such as **success** vs. **success** or **failure** vs **failure**, your GM may present you with the choice of which objective you obtain, where that choice illuminates your PC's priorities.
 
-## 2.11 Mobs, Gangs, and Hordes
+## 2.10 Mobs, Gangs, and Hordes
 
 Sometimes you will face large numbers of opponents. Your GM can treat many as one. Your GM divides the number of opponents by the number of contesting PCs. Your GM then treats each of these sections of the crowd as a single **resistance** with one **score**. Their numbers are factored into the **score** your GM assigns to the **resistance**.
 
 When the mob loses an exchange, your GM describes individuals within it as being hurt or falling away. When it wins, describe them overwhelming you, or swelling in numbers.
-## 2.12 Ganging Up
+## 2.11 Ganging Up
 
 Sometimes you may outnumber your opponent. As above, the GM should alter the **resistance** depending on how significantly you outnumber them.
 
-## 2.13 Mass Effort
+## 2.12 Mass Effort
 
 Clashes of massive forces resolve like any other **contest**, **simple** or **long**. These include:
 
@@ -710,7 +704,7 @@ Your GM should not use this method for creating NPCs. NPCs do not require defini
 
 2. Now provide your character with a name.
 3. If the series uses other **keywords**, such as those for culture or religion, you may gain one for free.
-4. When events in the story put you in a situation where you want to overcome a **story obstacle**, make up an applicable **ability** on the spot. The first time you use an **ability** (including the two you start play with: **distinguishing characteristic** and **occupational keyword**), assign a **score** to it. This may be a **breakout ability** from a **keyword**. You are restricted to only one **sidekick**.
+4. When events in the story put you in a situation where you want to overcome a **story obstacle**, or discover the answer to a **story question**, make up an applicable **ability** on the spot. The first time you use an **ability** (including the two you start play with: **distinguishing characteristic** and **occupational keyword**), assign a **score** to it. This may be a **breakout ability** from a **keyword**. You are restricted to only one **sidekick**.
 5. If you want, describe **flaws**.
 6. Once you have 12 **abilities** (including the two for character concept), and up to three **flaws** you are done creating your character.
 
@@ -804,7 +798,7 @@ There is no limit to the number of **abilities** you can gain from a single sent
 
 # 4.0 Simple Contests
 
-**Simple contest**s are the default resolution method for all **story obstacles**.
+**Simple contest**s are the default resolution method for all **story obstacles** or **story question**.
 
 ## 4.1 Simple Contest
 
@@ -824,7 +818,7 @@ A **simple contest** can be summarized as follows:
 
 In the **group simple contest**, multiple participants take part in a **simple contest**. Each of you in your group conducts an individual **simple contest** against the GM, and the **outcomes** for each side are collated to determine the victor.
 
-A **group simple contest** may pit all of you against a single **resistance**, representing one **story obstacle**.  Alternatively, a **group simple contest** may be a series of paired match-ups between two groups of contestants. If you are forced to participate in more than one **contest**, then you face the standard multiple opponent **penalties**.
+A **group simple contest** may pit all of you against a single **resistance**, representing one **story obstacle** or **story question**.  Alternatively, a **group simple contest** may be a series of paired match-ups between two groups of contestants. If you are forced to participate in more than one **contest**, then you face the standard multiple opponent **penalties**.
 
 ### 4.2.1 Procedure
 
@@ -853,7 +847,7 @@ The action can be portrayed quickly, cutting to a moment with the thief, their e
 
 Another film might instead choose to make the bank robbery a pivotal turning point in the story, if not its climactic moment. It would spend many scenes building up to the safe-cracking sequence: obtaining the plans of the bank, learning the movements of the guards, crawling through the air conditioning ducts, sliding past the motion sensors and pressure plates, and finally cracking the safe itself. All of these scenes would be **rounds** of a **long contest**.
 
-Remember that *QuestWorlds* uses conflict resolution. If you want to describe how you overcome a sequence of **story obstacles** to overcome the **resistance** then your GM should use a **long contest**, if you just want to move on to the next scene, use a **simple contest**.
+Remember that *QuestWorlds* uses conflict resolution. If you want to describe how you overcome a sequence of **story obstacles** or **story questions** to overcome the **resistance** then your GM should use a **long contest**, if you just want to move on to the next scene, use a **simple contest**.
 
 Even a movie driven by action and suspense will typically include only a handful of these set-piece sequences. They need the rest of their running time to build up to their big moments, to make us care about the characters, and to give us quiet moments to contrast with the white-knuckle parts.
 
@@ -861,11 +855,21 @@ So pacing may always trump your desire to work through the sequence of events, a
 
 Your GM may be tempted, to adjudicate every fight with a **long contest**, because fights seem like they should be played out blow-by-blow. They should resist this temptation, as fights are often repetitive trading of blows that can drag when everyone repeats actions from **round** to **round**. Only use **long contests** for fights where the PCs want to do more than slug it out toe-to-toe with their opponents until only one is left standing.
 
-There are three types of **long contest**. Your GM should choose **ONE** to use with their campaign: **scored contest**, **extended contest**, or **chained contest**.
-
 ## 5.0.1 No Nesting
 
 Your GM should never “nest” one **long contest** inside another. If a **long contest** is in progress and you want to perform an action your GM should treat it as an **unrelated action**, or disallow it completely during the current **contest**.
+
+## 5.0.2 Choose a Long Contest Type
+
+There are three types of **long contest**. Your GM should choose **ONE** to use with their campaign: **scored contest**, **extended contest**, or **chained contest** (see §5.6).
+
+## 5.0.2 The Essence of Long Contests
+
+All long contests are a sequence of simple contests. The sequence represent tasks required for the PC to triumph. They differ only in the how we interpret the **ranks** of the **simple contest** outcome.
+
+* In a scored contest, the first contestant to have five 'strikes' against them loses.
+* In an extended contest, the contenders trade momentum.
+* In chained contest the contestants deal harm to each other, and may elect to withdraw if in difficulty. 
 
 ## 5.1 Scored Contest
 
@@ -886,7 +890,7 @@ A **scored contest** consists of one or more **rounds**, in which you perform ac
     5. The first to accumulate a total of 5 **resolution points** wins; their opponent is knocked out of the **contest** and loses the **prize**.
 5. Determine the **scored contest outcome** based on **rising action** or **climax** (below). Award **experience points** if appropriate (see §8.1).
 6. Determine **benefits** or **consequences**.
-7. Describe the **outcome** based on the **story obstacle**.
+7. Describe the **outcome** based on the **story obstacle** or **story question**.
 
 Unlike in an **extended contest** (see below), where you usually take part in two **exchanges** with your opponent per **round** (one in which you choose the **AP bid**, and one in which your opponent does), here you and your opponent engage in a single **exchange** per **round** (in which whoever the GM determines has initiative describes an action to seize the **prize** and their opponent how they intend to stop them).
 
@@ -987,7 +991,7 @@ You may lose some pairings amongst the PCs, but still win if the last participan
         1. As one of a pair is eliminated from the **group scored contest**, their victorious opponents may then move on to engage new targets, starting new **contests**, which are then added to the end of the existing sequence.
         2. If participating in multiple pairings, each pairing is the first to 5 points, points already scored do not count. 
 7. Award **experience points** if appropriate (see §8.1).
-8. Describe the **outcome** based on the **story obstacle**.
+8. Describe the **outcome** based on the **story obstacle** or **story question**.
 
 ### 5.2.2 Group Scored Contest Outcomes
 
@@ -1296,7 +1300,7 @@ Many relationships connect you to NPCs controlled by the GM.
 
 When you try to use one of these relationships to solve a problem, your **tactic** is your relationship **ability**. You can’t simply go to the **supporting character** you have a relationship with, stick them with the problem, and expect to see it solved.
 
-If you succeed, the **supporting character** helps you solve the problem. If you fail, they don’t. As with any **ability**, you must still specify how the NPC goes about overcoming the **story obstacle**. Calls on relationships are almost always **simple contests**.
+If you succeed, the **supporting character** helps you solve the problem. If you fail, they don’t. As with any **ability**, you must still specify how the NPC goes about overcoming the **story obstacle** or answering the **story question**. Calls on relationships are almost always **simple contests**.
 
 In crucial situations, it may seem dramatically inappropriate for you to solve a problem indirectly, by working through others. Your GM can expose the **supporting character** to serious risk. If the character dies or otherwise suffers a change of status that renders them useless to you, you permanently lose the relationship **ability**.
 
@@ -1370,7 +1374,7 @@ If you lose **retainers** for any reason, you can replace them simply by providi
 
 ## 6.6 Relationships as Flaws
 
-Certain relationships with **supporting characters** act as **flaws**. They impose obligations on you, prompting your GM to present you with **story obstacles** you have no choice but to overcome.
+Certain relationships with **supporting characters** act as **flaws**. They impose obligations on you, prompting your GM to present you with **story obstacles** you have no choice but to overcome or **story questions** you need to answer.
 
 ### 6.6.1 Dependents
 
@@ -1435,7 +1439,7 @@ You can burn a **story point** to gain a **bump** (see §2.3.6)
 
 *QuestWorlds* is a co-operative game, and you may create details about the setting as the normal part of narration. Your GM should allow this, as long as they do not break credibility. So, you may describe your PC walking over to the pot of soup bubbling on the fire, swiping a drink from the tray the waiter is carrying at the governor's ball, or taking the monorail to the next city to continue your investigation. Your GM should allow these additions without interruption, providing it does not confer significant advantage to your PC. Mostly this will be using elements that have already been established as part of the setting.
 
-A **plot edit** is a more significant moment of good fortune that you wish to narrate, that provides advantage to your PC. You are not just describing something that is plausible in the environment, but something whose existence aids you in overcoming **story obstacles** or uncovering secrets.
+A **plot edit** is a more significant moment of good fortune that you wish to narrate, that provides advantage to your PC. You are not just describing something that is plausible in the environment, but something whose existence aids you in overcoming **story obstacles** or revealing the answer to a **story question** .
 
 A **plot edit** might be thought of as 'fate' or 'luck.'
 
@@ -1514,7 +1518,7 @@ We assume an average earning rate of two **experience points** per session. This
 
 On occasion your GM may increase one of your **abilities**, by +3, +6 or +9, or give you a new **ability**, usually rated at 13. These are called **directed improvements**.
 
-**Directed improvements** are usually rewards for overcoming particularly important or dramatic **story obstacles**.
+**Directed improvements** are usually rewards for overcoming particularly important or dramatic **story obstacles** or answering a dramatically important **story question**.
 
 Your GM will tend to use them to raise **abilities** that would otherwise fall behind, but should increase due to story logic, or introduce new **abilities** for the same reason.
 
@@ -1871,7 +1875,10 @@ Your GM may decide that the community's **rank** in a **resource** is temporaril
 : An **ability** raised separately to a **keyword**. It may have been added to the character as part of a **package keyword**, or on its own.
 
 **Story Obstacle**
-: Something that prevents you from getting what you want, the **prize**. A **story obstacle** is the trigger for a **contest**. 
+: Something that prevents you from getting what you want, the **prize**. A **story obstacle** is the trigger for a **contest**.
+
+**Story Question**
+: Something that you need to understand before you can move forward in a story, the **prize**. A **story question** is the trigger for a question.
 
 **Stretch**
 : A **penalty** applied to an **ability** because it stretches credibility that it is a reasonable **tactic**.

@@ -18,11 +18,10 @@ VAR1=$(CAT << EOF
 2.6_Flaws.md \
 2.7_Benefits_and_Consequences.md \
 2.8_Resistance_Progression.md \
-2.9_Combined_Abilities.md \
-2.10_Mismatched_and_Graduated_Goals.md \
-2.11_Mobs_Gangs_and_Hordes.md \
-2.12_Ganging_Up.md \
-2.13_Mass_Effort.md \
+2.9_Mismatched_and_Graduated_Goals.md \
+2.10_Mobs_Gangs_and_Hordes.md \
+2.11_Ganging_Up.md \
+2.12_Mass_Effort.md \
 3.0_Basic_Character_Creation.md \
 3.1_As-You-Go_Method.md \
 3.2_Assigning_Ability_Ratings.md \
