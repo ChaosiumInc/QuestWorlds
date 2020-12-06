@@ -98,7 +98,7 @@ QuestWorlds SRD with annotations for individual contributions can be found at Gi
 
 Development of this version: Ian Cooper
 
-Development Assistance for this version: Shawn Carpenter, Jonathan Laufersweiler, James Lowder, Michael O’Brien, Jeff Richard, David Scott
+Development Assistance for this version: Shawn Carpenter, Rickard Elimää, Jonathan Laufersweiler, James Lowder, Michael O’Brien, Jeff Richard, David Scott
 
 Proofreading of this version: Martin Helsdon
 
@@ -493,11 +493,15 @@ You may only use one of your own **abilities** to **augment** the **ability** yo
 
 If your GM accepts your **augment** proposal, it will be resolved by the method below. The main **contest** then proceeds as normal, with any bonus from the **augment** added onto the **score** of the **ability** chosen when **framing the contest**. The **augment** remains in effect for the duration of the **contest**.
 
+### 2.6.1 Augment Procedure
+
 Your GM treats an **augment** as an **assured contest**.
 
-If the use of the **ability** to augment seems unlikely to fail, your GM simply awards you a **rank** *one* **bonus**, or +3. If your description of how you were using the **augmenting ability** was particularly entertaining, your GM may increase this to a **rank** *two* **bonus**, or +6. This is the fastest and simplest option in play. 
+If the use of the **ability** to augment seems unlikely to fail, your GM simply awards you a **rank** *one* **bonus**, or +3. If your description of how you were using the **augmenting ability** was dramatic or entertaining, your GM may increase this to a **rank** *two* **bonus**, or +6.
 
-As with any **assured contest** GM might still ask you to roll if there is a risk that the **augment** results in a **penalty** to other **abilities** such as resources or relationships, which become stressed in providing the **augment**, or that more variation **bonuses** is possible, which can be based off the **rank** of the outcome.
+As with any **assured contest** GM might still ask you to roll if there is a risk that the **augment** results in a **penalty** to other **abilities** such as resources or **relationships** (see §6.0), which become stressed in providing the **augment**, or that more variation **bonuses** is possible. 
+
+On a **victory** base the **bonus** of the **augment** off the **rank** of the **victory**. So a **rank** *one* **victory** yields a **rank** *one* bonus (+3). On a **defeat** award a +3 bonus, but apply a penalty related to **rank** of the **defeat** to the **tactic** used to **augment**, as described above.
 
 ## 2.7 Triggering Flaws
 
