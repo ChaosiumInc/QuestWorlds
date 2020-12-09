@@ -206,9 +206,9 @@ You should not use your **flaw** to accomplish something; if you feel that is li
 
 Ultimately, in *QuestWorlds* a **flaw** is simply something that you invite the GM to use to hinder or prevent your character doing something. In return for the GM exercising the **flaw** you gain **experience points** (see §8.1).
 
-In play your PC may work to overcome a **flaw** and you may reach the point that you agree with your GM that story events mean that it is no longer relevant. You can then drop that **flaw** from your character sheet and gain an **experience point**.
+In play your PC may work to overcome a **flaw** and you may reach the point that you agree with your GM that story events mean that it is no longer relevant. You can then drop that **flaw** from your character sheet when you receive an advance (see §8.2).
 
-You can add a new **flaw** if play suggests one might emerge, with discussion with the GM.
+You can add a new **flaw** if play suggests one might emerge, with discussion with the GM, when you receive an **advance** (see §8.2).
 
 ### 2.1.2 Scores, Ratings and Masteries
 
@@ -252,10 +252,10 @@ In *QuestWorlds*, wealth is treated as just another way to overcome **story obst
 
 Your GM uses a scale known as a **rank** throughout the game. A **rank** represents the scale of a **contest** **outcome** (§2.4.6), an **augment** (see §2.6), **modifier** (see §2.5), **benefits** or **consequences** (see §2.8). Your GM also uses the same **rank** as a modifier to a **base resistance** when determining the **resistance's** **TN**.
 
-Bonuses to the dice roll use the scale of values: +3, +6. +9, +M, +M2
-Penalties to the dice roll use the scale of values: -3, -6, -9, -M, -M2
+Bonuses to the dice roll use the scale of values: +5, +10, +15, +M, +M2
+Penalties to the dice roll use the scale of values: -5, -10, -15, -M, -M2
 
-So **rank** *one* is +3 or -3, **rank** *two* is +6 or -6, and so on.
+So **rank** *one* is +5 or -5, **rank** *two* is +10 or -10, and so on.
 
 ## 2.4 Contest Procedure
 
@@ -313,7 +313,7 @@ The GM can narrate the remaining tasks that make sense of the story depending on
 
 ### 2.4.2 Resistance
 
-Your GM chooses a **resistance** to represent the difficulty of the **story obstacle** or **story question**. By default, the **base resistance** starts at 14.
+Your GM chooses a **resistance** to represent the difficulty of the **story obstacle** or **story question**. By default, the **base resistance** starts at 10.
 
 When setting **resistance**s it is important to understand that whilst traditional roleplaying games simulate an imaginary reality, *QuestWorlds* emulates the techniques of fictional storytelling.
 
@@ -465,9 +465,7 @@ When you propose an action using an **ability** that seems completely inappropri
 
 In some cases, though, your proposed match-up of action and **ability** is only somewhat implausible. A successful attempt with it wouldn’t completely break the illusion of fictional reality—just stretch it a bit.
 
-Using a somewhat implausible **ability** is known as a **stretch**. If your GM deems an attempt to be a **stretch**, the PC suffers a -3, –6, -9 **penalty** to their **target number**, depending on how incredible the **stretch** seems to the GM and other players. Your GM should **penalize** players who try to create a 'do anything' **ability** that they then **stretch** to gain from raising fewer **abilities** in advancement to ensure balance with other PCs.
-
-A default **stretch penalty** should be -6.
+Using a somewhat implausible **ability** is known as a **stretch**. If your GM deems an attempt to be a **stretch**, the PC suffers a -5 or –10 **penalty** to their **target number**, depending on how incredible the **stretch** seems to the GM and other players. Your GM should **penalize** players who try to create a 'do anything' **ability** that they then **stretch** to gain from raising fewer **abilities** in advancement to ensure balance with other PCs.
 
 The definition of **stretch** is elastic, depending on genre.
 
@@ -475,7 +473,7 @@ Your GM should not impose **stretch penalties** on action descriptions that add 
 
 ### 2.5.2 Situational Modifiers
 
-Your GM may also impose **modifiers** when, given the description of the current situation, believability demands that you should face a notable **bonus** or **penalty**. Your GM should choose **modifiers** of +6, +3, –3, or –6. **Modifiers** of less than 3 don’t exert enough effect to be worth the bother. Those higher than 6 give the situational **modifier** a disproportionate role in determining **outcomes**.
+Your GM may also impose **modifiers** when, given the description of the current situation, believability demands that you should face a notable **bonus** or **penalty**. Your GM should choose **modifiers** of +10, +5, –5, or –10. **Modifiers** of less than 5 don’t exert enough effect to be worth the bother. Those higher than 10 give the situational **modifier** a disproportionate role in determining **outcomes**.
 
 During a **long contest** (see §5.0), they should typically last for a single **round**, and reflect clever or foolish choices.
 
@@ -497,11 +495,11 @@ If your GM accepts your **augment** proposal, it will be resolved by the method 
 
 Your GM treats an **augment** as an **assured contest**.
 
-If the use of the **ability** to augment seems unlikely to fail, your GM simply awards you a **rank** *one* **bonus**, or +3. If your description of how you were using the **augmenting ability** was dramatic or entertaining, your GM may increase this to a **rank** *two* **bonus**, or +6.
+If the use of the **ability** to augment seems unlikely to fail, your GM simply awards you a **rank** *one* **bonus**, or +5. If your description of how you were using the **augmenting ability** was dramatic or entertaining, your GM may increase this to a **rank** *two* **bonus**, or +10.
 
 As with any **assured contest** GM might still ask you to roll if there is a risk that the **augment** results in a **penalty** to other **abilities** such as resources or **relationships** (see §6.0), which become stressed in providing the **augment**, or that more variation **bonuses** is possible. 
 
-On a **victory** base the **bonus** of the **augment** off the **rank** of the **victory**. So a **rank** *one* **victory** yields a **rank** *one* bonus (+3). On a **defeat** award a +3 bonus, but apply a penalty related to **rank** of the **defeat** to the **tactic** used to **augment**, as described above.
+On a **victory** base the **bonus** of the **augment** off the **rank** of the **victory**. So a **rank** *one* **victory** yields a **rank** *one* bonus (+5). On a **defeat** award a +5 bonus, but apply a penalty related to **rank** of the **defeat** to the **tactic** used to **augment**, as described above.
 
 ## 2.7 Triggering Flaws
 
@@ -513,9 +511,9 @@ if you describe a **tactic** for a **contest** that is in conflict with a **flaw
 
 Your GM should follow a similar approach to **augments** when applying a **hindrance**. They should ask themselves if it is *fresh*, *interesting* or *illuminates character*. In a movie of book would your **flaw** be prominent here?
 
-If your GM feels that there is no uncertainty as to whether the **flaw** applies to your **tactic** in the contest they apply a **penalty** of -3 or -6 depending on how serious a handicap the **flaw** is. (In effect an **assured contest** for the flaw). 
+If your GM feels that there is no uncertainty as to whether the **flaw** applies to your **tactic** in the contest they apply a **penalty** of -5 or -10 depending on how serious a handicap the **flaw** is. (In effect an **assured contest** for the flaw). 
 
-If your GM feels that it is uncertain as to whether the **flaw** hinders you, or you are able to overcome it, and you agree that you wish to try, treat it as a **simple contest**. Roll the rating of your **flaw** against the **base resistance**. On a **victory**, you receive a **penalty** from the **rank** of your **victory** - if you get *zero* successes use a **rank** one **penalty** of -3, on *one* **success** a **rank** two **penalty** of -6 and so on. On a **defeat**, you overcome the **flaw**.
+If your GM feels that it is uncertain as to whether the **flaw** hinders you, or you are able to overcome it, and you agree that you wish to try, treat it as a **simple contest**. Roll the rating of your **flaw** against the **base resistance**. On a **victory**, you receive a **penalty** from the **rank** of your **victory** - if you get *zero* successes use a **rank** one **penalty** of -5, on *one* **success** a **rank** two **penalty** of -10 and so on. On a **defeat**, you overcome the **flaw**.
 
 When you experience a **penalty** due to a flaw, you gain an **experience point** (see §8.1).
 
@@ -555,7 +553,7 @@ After a **contest**, you may suffer **consequences**: literal or metaphorical in
 
 The GM is the arbiter of when a **consequence** should be applied.
 
-Your GM may assign a penalty to reflect this **consequence**. Your GM should assign a **penalty** that corresponds to a **rank**: -3, -6, -9, or -M. The **rank** will depend on how severe they feel the **consequences** are. If your opponent defeats you, your GM can use the **rank** of the **outcome** as the **rank** of the **penalty**. Whilst this is a good 'rule of thumb' a GM can use their discretion as to the story needs and assign a different **rank** of penalty.
+Your GM may assign a penalty to reflect this **consequence**. Your GM should assign a **penalty** that corresponds to a **rank**: -5, -10, -15, or -M. The **rank** will depend on how severe they feel the **consequences** are. If your opponent defeats you, your GM can use the **rank** of the **outcome** as the **rank** of the **penalty**. Whilst this is a good 'rule of thumb' a GM can use their discretion as to the story needs and assign a different **rank** of penalty.
 
 If you **defeat** your opponent, your GM may still decide that you suffer a **consequence**, representing fatigue, exhaustion, disapproval or other expenditure of resources on earning the **prize**.
 
@@ -595,7 +593,7 @@ Remember that the **benefit** does not have to be directly related to the **abil
 
 The GM is the arbiter of when a **benefits** should be applied.
 
-Your GM may assign a **bonus** to reflect this **benefit**. Your GM may assign a **bonus** that corresponds in **rank**: +3, +6, +9, or +M. If you win the **prize**, your GM may choose to use **rank** of your **outcome** as the **rank** of the **bonus**. Whilst this is a good 'rule of thumb' a GM can use their discretion as to the story needs and assign a different **rank** of penalty.
+Your GM may assign a **bonus** to reflect this **benefit**. Your GM may assign a **bonus** that corresponds in **rank**: +5, +10, +15, or +M. If you win the **prize**, your GM may choose to use **rank** of your **outcome** as the **rank** of the **bonus**. Whilst this is a good 'rule of thumb' a GM can use their discretion as to the story needs and assign a different **rank** of penalty.
 
 If you lost the **prize**, your GM may still decide that you gain a **benefit**, representing learning, gratitude, or resolve developed from losing the **prize**.
 
@@ -627,9 +625,9 @@ Your GM should almost always resolve healing attempts as **simple contests**. An
 
 #### 2.8.3.2 Healing Resistances
 
-The **resistances** to remove a states of adversity is the **base resistance** modified by the **rank** of the **consequence**. So if you were suffering from a **rank** 2 consequence, of -6, you modify the **base resistance** by a **rank** 2 modifier of +6.
+The **resistances** to remove a states of adversity is the **base resistance** modified by the **rank** of the **consequence**. So if you were suffering from a **rank** 2 consequence, of -10, you modify the **base resistance** by a **rank** 2 modifier of +10.
 
-Your GM can more easily calculate this as the **base resistance** with a **bonus** that is equal to and opposite your **penalty**. So if you have a **penalty** of -3, it is **base resistance** +3; if you have a **penalty** of -6, it is **base resistance** +6 and so on.
+Your GM can more easily calculate this as the **base resistance** with a **bonus** that is equal to and opposite your **penalty**. So if you have a **penalty** of -5, it is **base resistance** +5; if you have a **penalty** of -5, it is **base resistance** +5 and so on.
 
 When you make a successful healing attempt, you remove the **penalty**.
 
@@ -645,7 +643,7 @@ A PC may apply **bonuses** from multiple **benefits** to a single **contest**, o
 
 Because it is confusing to track both **benefits and consequences** against the same **ability** your GM may simply rule that one cancels the other out. This is particularly true of social **contest**s where a moment of shame can erase your previous triumphs, or your confidence eroded by a **failure**. Physical benefits may cancel out, flushed with victory you may be able to ignore pain, but it may defy credibility for wounds to be healed by an athletic performance.
 
-Your GM may simply rule that **benefits** and **consequences** cancel out, or they may take the difference between the two benefits and create a new one. For example if you have a +6 bonus from impressing the crowd with your previous performance in the dance **contest**, but then suffer an injured ankle with a **penalty** of -3, your GM may rule that your twisted ankle cancels out your energy from the last performance, or your GM might rule that your success sees you through the pain, but you are now only +3 to impress the crowd. 
+Your GM may simply rule that **benefits** and **consequences** cancel out, or they may take the difference between the two benefits and create a new one. For example if you have a +6 bonus from impressing the crowd with your previous performance in the dance **contest**, but then suffer an injured ankle with a **penalty** of -3, your GM may rule that your twisted ankle cancels out your energy from the last performance, or your GM might rule that your success sees you through the pain, but you are now only +5 to impress the crowd. 
 
 Your GM may prefer to cancel out in **ranks** so that if you have a rank 4 benefit from your popularity with the village following saving their holy idol, giving you a +M bonus, but you make a minor social gaff at the mayor's daughter's wedding of **rank** 1, you drop one **rank** to 3, and a +9 bonus, over reducing +M to 17. This keeps the numbers used for **bonuses** and **penalties** consistent, at the cost of having to track or figure out the **rank** of the bonus.
 
@@ -696,7 +694,7 @@ Your GM may decide that **resistance** to your actions gets harder, as the campa
 
 Your GM should adopt a strategy that mimics a TV show where the **resistance** does not increase during a season of the show, allowing our protagonists to get more competent as the show progresses towards its climax. In the next season though the **resistance** usually goes up, and the writers reflect this with more challenging opposition in the new season of the show. At the same time, the opposition that was tough in the first season, now become mooks that can be easily dispatched to show the increased competence of the protagonists.
 
-In that case your GM should increment the **base resistance** by +3, +6 or +9 for the next campaign you play with the same characters. The size of the change should reflect the increase in your previous **abilities** in the last campaign. For example, if in the last season you increased your **occupation keyword** by +6, your GM may decide to increase the **resistance** by +3 or +6 to reflect the more challenging opposition in the new campaign. The GM should consider triggering **resistance progression** when your PCs find it difficult to earn **experience points** because they too regularly outclass even the climatic encounters (the boss monsters) of their game.
+In that case your GM should increment the **base resistance** by +5, +10 or +15 for the next campaign you play with the same characters. The size of the change should reflect the increase in your previous **abilities** in the last campaign. For example, if in the last season you increased your **occupation keyword** by +10, your GM may decide to increase the **resistance** by +5 or +§0 to reflect the more challenging opposition in the new campaign. The GM should consider triggering **resistance progression** when your PCs find it difficult to earn **experience points** because they too regularly outclass even the climatic encounters (the boss monsters) of their game.
 
 Your GM should also take into account that the opposition you were improving with respect to the previous season should now be considered more-easily defeated mooks, and use lower **scores** for them when they appear in the story or even allow them to be taken out with an **assured contest**.
 
@@ -781,15 +779,15 @@ You have now defined your **abilities** and **flaws**. These tell everyone what 
 
 Now assign numbers to each **ability**, called **scores**, which determine how well you can do these things.
 
-Assign a starting **score** of 17 to the **ability** you find most important or defining. Although most players consider it wisest to assign this **scores** to their **occupational keyword**, you don’t have to do this. Assign a **score** of 17 to your **distinguishing characteristic**.
+Assign a starting **score** of 15 to the **ability** you find most important or defining. Although most players consider it wisest to assign this **scores** to their **occupational keyword**, you don’t have to do this. Assign a **score** of 15 to your **distinguishing characteristic**.
 
-All other **abilities** start at a **score** of 13.
+All other **abilities** start at a **score** of 10.
 
-A **breakout** from a **keyword** starts at +1. In some cases, you may treat your **distinguishing characteristic** as a **breakout ability** from a **keyword** in this case, treat it as a +4.
+A **breakout** from a **keyword** starts at +5. In some cases, you may treat your **distinguishing characteristic** as a **breakout ability** from a **keyword** in this case, treat it as a +10.
 
 **Flaws** are assigned a **score** equivalent to your **abilities**. The first **flaw** is rated at the highest **ability**, the second shares the same **score** as the second-highest **ability**, and the third equals the lowest **ability**. All **flaws** after the third are given the same **score** as the lowest **ability**. You may designate **flaws** from **keywords** as your first or second-ranked **flaw**.
 
-Now spend up to 20 points to increase any of your various **scores**, including **keywords**. Each point spent increases a **score** by 1 point. You can’t spend more than 10 points on any one **ability**.
+Now, you get six **boosts** to spend to improve your **abilities**. Each **boost** increases an ability by +5. You can spend up to two **boosts** on an ability. You cannot increase a **breakout** with a **boost**. The maximum starting **ability score** is 5M.
 
 Some genre packs may require you to have additional **keywords** that reflect the setting. These additional **keywords** come from the 12 **abilities** allowance, so in many genres you will have fewer wildcard **abilities** but better fit the setting.
 
@@ -1042,7 +1040,7 @@ If you are not currently enmeshed in a **round**, either after a successful dise
 
 You may take an **unrelated action** to grant an **assist** to a teammate enmeshed in a **round**. **Assists** are subject to the same restrictions as **augments**: they must be both credible and interesting.
 
-Your first **assist** faces a **moderate resistance**. Each subsequent **assist** attempt to the same beneficiary, steps up by one **rank**:+3, +6, +9, +M, +M2. The **resistance** escalation occurs even when another PC steps in to make a subsequent **assist**. This escalation allows the occasional dramatic rescue but makes it difficult for players to prolong losing battles to excruciating length. Your GM should make it seem credible by justifying the increasing **resistances** with descriptions of ever-escalating countermeasures on the part of the opposition.
+Your first **assist** faces a **moderate resistance**. Each subsequent **assist** attempt to the same beneficiary, steps up by one **rank**:+5, +10, +15, +M, +M2. The **resistance** escalation occurs even when another PC steps in to make a subsequent **assist**. This escalation allows the occasional dramatic rescue but makes it difficult for players to prolong losing battles to excruciating length. Your GM should make it seem credible by justifying the increasing **resistances** with descriptions of ever-escalating countermeasures on the part of the opposition.
 
 Your GM may adjust the starting **resistance** up or down by one step to account for campaign credibility or other dramatic factors. If an **assist** as proposed seems too improbable or insufficiently useful, your GM should collaborate with you to propose alternate suggestions which would face **moderate resistance**.
 
@@ -1380,11 +1378,11 @@ A **sidekick** is a **supporting character** under your control. Most of the tim
 
 You should give your **sidekick** a name. You should, when asked, explain how the **sidekick** came to be your **follower**, and why they continue in that role.
 
-**Sidekicks** start with three **abilities**, one rated at 16 and the others at 13. Any of these **abilities** may be a **keyword**. At least one of them should indicate a **distinguishing characteristic**.
+**Sidekicks** start with three **abilities**, one rated at 15 and the others at 10. Any of these **abilities** may be a **keyword**. At least one of them should indicate a **distinguishing characteristic**.
 
 If the sidekick is nonhuman or a member of an unusual culture, one of its three starting **abilities** must be its species or culture **keyword**.
 
-Once you have determined the **sidekick’s** base **abilities**, they allocate 15 additional points between three of them, spending no more than 10 on any one **ability**.
+Once you have determined the **sidekick’s** base **abilities**, they allocate three + 5 **boosts** between them, spending no more than two **boosts** on any one **ability**.
 
 You can improve these **abilities** through the expenditure of **experience points**.
 
@@ -1527,11 +1525,11 @@ If the GM finds that the PCs are no longer regularly earning **experience points
 
 When you accumulate 10 **experience points**, you can buy an **advance**. An **advance** allows you to select two of the following. You cannot choose an element more than once.
 
-- +9 to a standalone **ability** or breakout **ability**; or +6 to a **keyword**.
-- +6 to a standalone **ability** or breakout **ability**; or +3 to a **keyword**.
-- a new standalone **ability** at 13; or a new breakout **ability** at + 1.
-- a new standalone **ability** at 13.
-- Turn a stand-alone **ability** into a **keyword** by adding a new +1 breakout **ability** to it.
+- +10 to a standalone **ability** or breakout **ability**; or +5 to a **keyword**.
+- +10 to a standalone **ability** or breakout **ability**; or +5 to a **keyword**.
+- a new standalone **ability** at 10; or a new breakout **ability** at + 5.
+- a new standalone **ability** at 10.
+- Turn a stand-alone **ability** into a **keyword** by adding a new +5 breakout **ability** to it.
 - Drop a **flaw**, or turn it into an **ability** if story appropriate and agreed with the GM.
 
 In addition, if you have less than three **flaws**, you may add another, provided it fits the story, when you take an **advance**.
@@ -1540,7 +1538,7 @@ In some genres you may wish to maintain a tally of the total **experience points
 
 ### 8.2.1 Catch-Ups
 
-To encourage well-rounded characters, a package deal, called a **catch-up**, becomes available whenever you acquire via improvement a new **mastery** in one of your **abilities** (**keyword** or stand-alone). Any time one of your **scores** crosses a **mastery** threshold (i.e. 20 -> 21, 40 -> 41, etc). you may also improve up to three **abilities** or **keywords** of your choice by three points each, as long as the chosen **abilities** are currently rated five or more points lower than your newly adjusted **scores** in the raised **ability** that triggered the **catch-up**.
+To encourage well-rounded characters, a package deal, called a **catch-up**, becomes available whenever you acquire via improvement a new **mastery** in one of your **abilities** (**keyword** or stand-alone). Any time one of your **scores** crosses a **mastery** threshold (i.e. 20 -> 1M, 20M -> 1M2, etc). you may also improve up to three **abilities** or **keywords** of your choice by three points each, as long as the chosen **abilities** are currently rated five or more points lower than your newly adjusted **scores** in the raised **ability** that triggered the **catch-up**.
 
 You may not increase the bonus of **breakout abilities** under a **keyword** with a **catch-up**, nor does net effective value of a breakout **ability** crossing a **mastery** threshold trigger a **catch-up**. Only a **keyword**'s base **scores** is considered in this context.
 
@@ -1554,7 +1552,7 @@ We assume an average earning rate of two **experience points** per session. This
 
 ### 8.2.2 Directed Improvements
 
-On occasion your GM may increase one of your **abilities**, by +3, +6 or +9, or give you a new **ability**, usually rated at 13. These are called **directed improvements**.
+On occasion your GM may increase one of your **abilities**, by +5, +10 or +15, or give you a new **ability**, usually rated at 13. These are called **directed improvements**.
 
 **Directed improvements** are usually rewards for overcoming particularly important or dramatic **story obstacles** or answering a dramatically important **story question**.
 
@@ -1608,7 +1606,7 @@ Similar communities in the genre, should have the same set of **resources**.
 
 ### 9.1.2 Assigning Ranks
 
-Your GM distributes the following **ranks** between the five **resources**: +M, +9, +6 +3 and 0. Note that the size of the group doesn’t affect the **ranks**.
+Your GM distributes the following **ranks** between the five **resources**: +M, +15, +10 +5 and 0. Note that the size of the group doesn’t affect the **ranks**.
 
 ### 9.1.3 Community Questionnaires
 
@@ -1948,7 +1946,7 @@ These are the major changes in this version of the rules
 * Moved to measuring a result by a number of successes and comparing them, simplifying masteries.
 * Split hero points into story points (bumps) and experience points (character improvement). Flaws generate experience points as do failures.
 * Moved the Degree of Victory to an Appendix. We now recommend that the GM just uses victory and defeat and adjudicates a suitable bonus or penalty if needed.
-* Added ranks to codify the +3, +6, +9, ... progression used throughout.
+* Added ranks to codify the +5, +10, +15, ... progression used throughout.
 * For Degree of Victory, clarified that contest results are only reciprocal between PCs. When the contest is against a resistance set by the GM, the results indicate whether the PC gains the prize, and the GM narrates the result for the resistance based on this.
 * Rephrased the Degree of Victory outcomes to emphasize: Yes, No, And..., But..., This change is designed to dissuade GMs from misunderstanding that the prize is obtained on a marginal victory, one of the most common result types, and instead encourage GMs to allow PCs to fail forward on such a result by introducing downstream complications.
 * Provided clarity that consequences of defeat and benefit of victory are optional and the GM should focus on using the prize to narrate the outcome of a contest, only applying mechanical benefits if they make sense. 
