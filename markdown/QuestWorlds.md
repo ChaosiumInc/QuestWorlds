@@ -98,7 +98,7 @@ QuestWorlds SRD with annotations for individual contributions can be found at Gi
 
 Development of this version: Ian Cooper
 
-Development Assistance for this version: Shawn Carpenter, Rickard Elimää, Jonathan Laufersweiler, James Lowder, Michael O’Brien, Jeff Richard, David Scott
+Development Assistance for this version: Shawn Carpenter, Ludovic Chabant, Rickard Elimää, Jonathan Laufersweiler, James Lowder, Michael O’Brien, Jeff Richard, David Scott
 
 Proofreading of this version: Martin Helsdon
 
