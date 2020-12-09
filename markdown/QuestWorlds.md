@@ -775,7 +775,7 @@ Certain **keywords** include **flaws**. **Flaws** gained through **keywords** do
 
 ## 3.4 Assigning Ability Scores
 
-You have now defined your **abilities** and **flaws**. These tell everyone what you can do. 
+You have now defined your **abilities** and **flaws**. These tell everyone what you can do.
 
 Now assign numbers to each **ability**, called **scores**, which determine how well you can do these things.
 
@@ -787,7 +787,9 @@ A **breakout** from a **keyword** starts at +5. In some cases, you may treat you
 
 **Flaws** are assigned a **score** equivalent to your **abilities**. The first **flaw** is rated at the highest **ability**, the second shares the same **score** as the second-highest **ability**, and the third equals the lowest **ability**. All **flaws** after the third are given the same **score** as the lowest **ability**. You may designate **flaws** from **keywords** as your first or second-ranked **flaw**.
 
-Now, you get six **boosts** to spend to improve your **abilities**. Each **boost** increases an ability by +5. You can spend up to two **boosts** on an ability. You cannot increase a **breakout** with a **boost**. The maximum starting **ability score** is 5M.
+Now, you get 30 **improvement points** to spend to improve your **abilities**. Each **improvement point** increases an ability by +1. You can spend up to ten **improvement points** on an ability. You cannot increase a **breakout** with **improvement points**. The maximum starting **ability score** is 5M.
+
+You can spend **improvement points** after a roll, so as to **succeed** and no **fail**.
 
 Some genre packs may require you to have additional **keywords** that reflect the setting. These additional **keywords** come from the 12 **abilities** allowance, so in many genres you will have fewer wildcard **abilities** but better fit the setting.
 
@@ -1525,14 +1527,16 @@ If the GM finds that the PCs are no longer regularly earning **experience points
 
 When you accumulate 10 **experience points**, you can buy an **advance**. An **advance** allows you to select two of the following. You cannot choose an element more than once.
 
-- +10 to a standalone **ability** or breakout **ability**; or +5 to a **keyword**.
-- +10 to a standalone **ability** or breakout **ability**; or +5 to a **keyword**.
-- a new standalone **ability** at 10; or a new breakout **ability** at + 5.
+- 10 **improvement points** across a standalone **abilities** or breakout **abilities**; or 5  **improvement points** across  **keywords**.
+- 10 **improvement points** across a standalone **abilities** or breakout **abilities**; or 5  **improvement points** across  **keywords**.
+- a new breakout **ability** at + 5.
 - a new standalone **ability** at 10.
 - Turn a stand-alone **ability** into a **keyword** by adding a new +5 breakout **ability** to it.
 - Drop a **flaw**, or turn it into an **ability** if story appropriate and agreed with the GM.
 
 In addition, if you have less than three **flaws**, you may add another, provided it fits the story, when you take an **advance**.
+
+You may spend **improvement points** immediately, or in play, even after a roll.
 
 In some genres you may wish to maintain a tally of the total **experience points** earned as a measure of your reputation.
 
