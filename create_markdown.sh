@@ -12,7 +12,7 @@ VAR1=$(CAT << EOF
 2.0_Basic_Mechanics.md \
 2.1_Abilities.md \
 2.2_Possessions_and_Equipment.md \
-2.3_Ranks.md \
+2.3_Degrees.md \
 2.4_Contest_Procedure.md \
 2.5_Modifiers.md \
 2.6_Augments.md \
