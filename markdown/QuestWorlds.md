@@ -250,12 +250,12 @@ In *QuestWorlds*, wealth is treated as just another way to overcome **story obst
 
 ## 2.3 Rank
 
-Your GM uses a scale known as a **rank** throughout the game. A **rank** represents the scale of a **contest** **outcome** (§2.4.6), an **augment** (see §2.6), **modifier** (see §2.5), **benefits** or **consequences** (see §2.8). Your GM also uses the same **rank** as a modifier to a **base resistance** when determining the **resistance's** **TN**.
+Your GM uses a scale known as a **degree** throughout the game. A **degree** represents the scale of a **contest** **outcome** (§2.4.6), an **augment** (see §2.6), **modifier** (see §2.5), **benefits** or **consequences** (see §2.8). Your GM also uses the same **degree** as a modifier to a **base resistance** when determining the **resistance's** **TN**.
 
 Bonuses to the dice roll use the scale of values: +5, +10, +15, +M, +M2
 Penalties to the dice roll use the scale of values: -5, -10, -15, -M, -M2
 
-So **rank** *one* is +5 or -5, **rank** *two* is +10 or -10, and so on.
+So **degree** *one* is +5 or -5, **degree** *two* is +10 or -10, and so on.
 
 ## 2.4 Contest Procedure
 
@@ -325,11 +325,11 @@ Your GM starts with the proposed action’s position in the storyline. They cons
 
 In *QuestWorlds* your GM will pick a **resistance** based on dramatic needs and then justify it by adding details into the story.
 
-Your GM determines the **resistance** from a **base resistance** modified by a **rank** depending on their view of how difficult the obstacle is for you. Increasing **ranks** make it harder to succeed, and decreasing **ranks** easier.
+Your GM determines the **resistance** from a **base resistance** modified by a **degree** depending on their view of how difficult the obstacle is for you. Increasing **degrees** make it harder to succeed, and decreasing **degrees** easier.
   
-The **rank** never reduces the **resistance** value below 0. If the GM assesses a **rank** for the resistance that would take the **target number** below 0, it becomes an **assured contest**.
+The **degree** never reduces the **resistance** value below 0. If the GM assesses a **degree** for the resistance that would take the **target number** below 0, it becomes an **assured contest**.
 
-All **contests** use the **base resistance** + **rank**, except for **contests** to determine **augments**. **Augmenting** always faces the **base resistance**.
+All **contests** use the **base resistance** + **degree**, except for **contests** to determine **augments**. **Augmenting** always faces the **base resistance**.
 
 ### 2.4.3 Resolution Methods
 
@@ -405,9 +405,9 @@ For an assured contest:
 
 * You have a **victory** and you gain the **prize** set out when the **contest** was framed.
 
-Your **rank** of **victory** is *one more* than the number of **successes**. Your **rank** of **defeat** is *one more* than the **resistance's** successes.
+Your **degree** of **victory** is *one more* than the number of **successes**. Your **degree** of **defeat** is *one more* than the **resistance's** successes.
 
-For example, if you win a **victory** with *zero* **successes** then you have a **rank** one **victory**, if you win a **victory** with *one* **success** then you have a **rank** *two* **victory** and so on. If the **resistance** wins with *zero** **successes** then your suffer a **rank** one **defeat**, if the **resistance** wins with *one* **success** they you suffer a **rank** two **victory**, and so on.
+For example, if you win a **victory** with *zero* **successes** then you have a **degree** one **victory**, if you win a **victory** with *one* **success** then you have a **degree** *two* **victory** and so on. If the **resistance** wins with *zero** **successes** then your suffer a **degree** one **defeat**, if the **resistance** wins with *one* **success** they you suffer a **degree** two **victory**, and so on.
 
 #### 2.4.6.1 CONTEST OUTCOME RANK TABLE
 
@@ -423,17 +423,17 @@ For example, if you win a **victory** with *zero* **successes** then you have a 
 
 Your GM narrates the contest **outcome**. Their narration should take into account the **prize** and the **tactics** used by each side. Your GM may invite you to contribute more detail on your actions as part of that narration, if they wish. But the GM is the final arbiter of how the story progresses as a result of the rolls - provided they respect the **outcome** in which you win or lose the **prize**.
 
- Your GM should bear in mind your **result** when describing the outcome. The **rank** is a guide for the GM when narrating the outcome as to how convincing a victory was. If you have an **rank** of *one*, the GM should describe your actions as successful, but the **resistance** as competent. If you have an **rank** of *three*, your GM should describe a convincing **victory** in which your adversary is clearly outclassed.
+ Your GM should bear in mind your **result** when describing the outcome. The **degree** is a guide for the GM when narrating the outcome as to how convincing a victory was. If you have an **degree** of *one*, the GM should describe your actions as successful, but the **resistance** as competent. If you have an **degree** of *three*, your GM should describe a convincing **victory** in which your adversary is clearly outclassed.
 
 The GM is narrating a car chase through the busy streets of New Los Angeles. The PCs are trying to catch the demon-worshipper Ath'Zul who has stolen The Eye of Lorus from a museum. Some examples of how the GM might interpret **outcomes** as follows:
  
-* PC one **success** vs. Ath'Zul one **success**, the PC has the higher roll, *zero* **successes** difference, and an **rank** of *one*: Ath'Zul tries to shake the PCs, his hover bike, weaving in and out of traffic, but the PCs are always on his tail, and catch him at the lights on Bradbury Junction.
-* PC one **success** vs. Ath'Zul zero **successes**, the PC has *one* success difference an **rank** of *two*: Ath'Zul tries to shake the PCs, his hover bike, weaving in and out of traffic, but the PCs force him off the road, where his bike loses repulsor lift and halts.
-* PC two **successes** vs. Ath'Zul zero **successes**, the PC has *two* successes difference an **rank** of *three*: Ath'Zul tries to shake the PCs, his hover bike, weaving in and out of traffic, but he crashes into a parked car, spilling Ath'Zul and the stolen artefact over the road.
+* PC one **success** vs. Ath'Zul one **success**, the PC has the higher roll, *zero* **successes** difference, and an **degree** of *one*: Ath'Zul tries to shake the PCs, his hover bike, weaving in and out of traffic, but the PCs are always on his tail, and catch him at the lights on Bradbury Junction.
+* PC one **success** vs. Ath'Zul zero **successes**, the PC has *one* success difference an **degree** of *two*: Ath'Zul tries to shake the PCs, his hover bike, weaving in and out of traffic, but the PCs force him off the road, where his bike loses repulsor lift and halts.
+* PC two **successes** vs. Ath'Zul zero **successes**, the PC has *two* successes difference an **degree** of *three*: Ath'Zul tries to shake the PCs, his hover bike, weaving in and out of traffic, but he crashes into a parked car, spilling Ath'Zul and the stolen artefact over the road.
 
 Your GM should avoid robbing your PC of competence by describing your **defeat** as due to your incompetence when you may have rolled a **critical** or a **success**.
 
-The **rank** may be more directly used when considering **consequences** and **benefits** (see §2.8)
+The **degree** may be more directly used when considering **consequences** and **benefits** (see §2.8)
 
 #### 2.4.6.2 Confusing Ties
 
@@ -495,11 +495,11 @@ If your GM accepts your **augment** proposal, it will be resolved by the method 
 
 Your GM treats an **augment** as an **assured contest**.
 
-If the use of the **ability** to augment seems unlikely to fail, your GM simply awards you a **rank** *one* **bonus**, or +5. If your description of how you were using the **augmenting ability** was dramatic or entertaining, your GM may increase this to a **rank** *two* **bonus**, or +10.
+If the use of the **ability** to augment seems unlikely to fail, your GM simply awards you a **degree** *one* **bonus**, or +5. If your description of how you were using the **augmenting ability** was dramatic or entertaining, your GM may increase this to a **degree** *two* **bonus**, or +10.
 
 As with any **assured contest** GM might still ask you to roll if there is a risk that the **augment** results in a **penalty** to other **abilities** such as resources or **relationships** (see §6.0), which become stressed in providing the **augment**, or that more variation **bonuses** is possible. 
 
-On a **victory** base the **bonus** of the **augment** off the **rank** of the **victory**. So a **rank** *one* **victory** yields a **rank** *one* bonus (+5). On a **defeat** award a +5 bonus, but apply a penalty related to **rank** of the **defeat** to the **tactic** used to **augment**, as described above.
+On a **victory** base the **bonus** of the **augment** off the **degree** of the **victory**. So a **degree** *one* **victory** yields a **degree** *one* bonus (+5). On a **defeat** award a +5 bonus, but apply a penalty related to **degree** of the **defeat** to the **tactic** used to **augment**, as described above.
 
 ## 2.7 Triggering Flaws
 
@@ -513,7 +513,7 @@ Your GM should follow a similar approach to **augments** when applying a **hindr
 
 If your GM feels that there is no uncertainty as to whether the **flaw** applies to your **tactic** in the contest they apply a **penalty** of -5 or -10 depending on how serious a handicap the **flaw** is. (In effect an **assured contest** for the flaw). 
 
-If your GM feels that it is uncertain as to whether the **flaw** hinders you, or you are able to overcome it, and you agree that you wish to try, treat it as a **simple contest**. Roll the rating of your **flaw** against the **base resistance**. On a **victory**, you receive a **penalty** from the **rank** of your **victory** - if you get *zero* successes use a **rank** one **penalty** of -5, on *one* **success** a **rank** two **penalty** of -10 and so on. On a **defeat**, you overcome the **flaw**.
+If your GM feels that it is uncertain as to whether the **flaw** hinders you, or you are able to overcome it, and you agree that you wish to try, treat it as a **simple contest**. Roll the rating of your **flaw** against the **base resistance**. On a **victory**, you receive a **penalty** from the **degree** of your **victory** - if you get *zero* successes use a **degree** one **penalty** of -5, on *one* **success** a **degree** two **penalty** of -10 and so on. On a **defeat**, you overcome the **flaw**.
 
 When you experience a **penalty** due to a flaw, you gain an **experience point** (see §8.1).
 
@@ -553,7 +553,7 @@ After a **contest**, you may suffer **consequences**: literal or metaphorical in
 
 The GM is the arbiter of when a **consequence** should be applied.
 
-Your GM may assign a penalty to reflect this **consequence**. Your GM should assign a **penalty** that corresponds to a **rank**: -5, -10, -15, or -M. The **rank** will depend on how severe they feel the **consequences** are. If your opponent defeats you, your GM can use the **rank** of the **outcome** as the **rank** of the **penalty**. Whilst this is a good 'rule of thumb' a GM can use their discretion as to the story needs and assign a different **rank** of penalty.
+Your GM may assign a penalty to reflect this **consequence**. Your GM should assign a **penalty** that corresponds to a **degree**: -5, -10, -15, or -M. The **degree** will depend on how severe they feel the **consequences** are. If your opponent defeats you, your GM can use the **degree** of the **outcome** as the **degree** of the **penalty**. Whilst this is a good 'rule of thumb' a GM can use their discretion as to the story needs and assign a different **degree** of penalty.
 
 If you **defeat** your opponent, your GM may still decide that you suffer a **consequence**, representing fatigue, exhaustion, disapproval or other expenditure of resources on earning the **prize**.
 
@@ -563,7 +563,7 @@ If you **defeat** your opponent, your GM may still decide that you suffer a **co
 * In an economic struggle, you take significant losses to win market share.
 * In a morale crisis, your resolve alienates the cowardly.
 
-If you have a **victory** with an **rank** of *one* your GM might assign a **consequence** of **rank** 1 or 2 to represent effort expended in the **victory**. If you have a **victory** with a **rank** of *two* your GM may assign a **consequence** of **rank** 1, for similar reasons, if it makes dramatic sense.
+If you have a **victory** with an **degree** of *one* your GM might assign a **consequence** of **degree** 1 or 2 to represent effort expended in the **victory**. If you have a **victory** with a **degree** of *two* your GM may assign a **consequence** of **degree** 1, for similar reasons, if it makes dramatic sense.
 
 #### 2.8.1.2 Ending a PC's story
 
@@ -593,7 +593,7 @@ Remember that the **benefit** does not have to be directly related to the **abil
 
 The GM is the arbiter of when a **benefits** should be applied.
 
-Your GM may assign a **bonus** to reflect this **benefit**. Your GM may assign a **bonus** that corresponds in **rank**: +5, +10, +15, or +M. If you win the **prize**, your GM may choose to use **rank** of your **outcome** as the **rank** of the **bonus**. Whilst this is a good 'rule of thumb' a GM can use their discretion as to the story needs and assign a different **rank** of penalty.
+Your GM may assign a **bonus** to reflect this **benefit**. Your GM may assign a **bonus** that corresponds in **degree**: +5, +10, +15, or +M. If you win the **prize**, your GM may choose to use **degree** of your **outcome** as the **degree** of the **bonus**. Whilst this is a good 'rule of thumb' a GM can use their discretion as to the story needs and assign a different **degree** of penalty.
 
 If you lost the **prize**, your GM may still decide that you gain a **benefit**, representing learning, gratitude, or resolve developed from losing the **prize**.
 
@@ -603,11 +603,11 @@ If you lost the **prize**, your GM may still decide that you gain a **benefit**,
 * In an economic struggle, your organization becomes leaner and fitter.
 * In a morale crisis, you reflect on your failure and gain new inner strength.
 
-On a **defeat** with a **rank** of *one* your GM might assign a **benefit** of **rank** 1 or 2 to represent a glimmer of hope for the PC despite the **defeat**, such as gaining an insight into the **resistance's** weakness. If you have a **defeat** with a **rank** of *two* your GM may assign a **benefit** of **rank** 1, for similar reasons, if it makes dramatic sense.
+On a **defeat** with a **degree** of *one* your GM might assign a **benefit** of **degree** 1 or 2 to represent a glimmer of hope for the PC despite the **defeat**, such as gaining an insight into the **resistance's** weakness. If you have a **defeat** with a **degree** of *two* your GM may assign a **benefit** of **degree** 1, for similar reasons, if it makes dramatic sense.
 
 ### 2.8.3 Recovery and Healing
 
-**Consequences** lapse on their own with the passage of time. Your GM will determine when the **consequences** have faded, and you should ask about whether they still apply at each new game session. The worse the **penalty**, the longer it may last, though the GM may reduce its **rank** with time, as you recover or heal. However, you’ll often want to remove them ahead of schedule, with the use of **abilities**.
+**Consequences** lapse on their own with the passage of time. Your GM will determine when the **consequences** have faded, and you should ask about whether they still apply at each new game session. The worse the **penalty**, the longer it may last, though the GM may reduce its **degree** with time, as you recover or heal. However, you’ll often want to remove them ahead of schedule, with the use of **abilities**.
 
 #### 2.8.3.1 Healing Abilities
 
@@ -625,7 +625,7 @@ Your GM should almost always resolve healing attempts as **simple contests**. An
 
 #### 2.8.3.2 Healing Resistances
 
-The **resistances** to remove a states of adversity is the **base resistance** modified by the **rank** of the **consequence**. So if you were suffering from a **rank** 2 consequence, of -10, you modify the **base resistance** by a **rank** 2 modifier of +10.
+The **resistances** to remove a states of adversity is the **base resistance** modified by the **degree** of the **consequence**. So if you were suffering from a **degree** 2 consequence, of -10, you modify the **base resistance** by a **degree** 2 modifier of +10.
 
 Your GM can more easily calculate this as the **base resistance** with a **bonus** that is equal to and opposite your **penalty**. So if you have a **penalty** of -5, it is **base resistance** +5; if you have a **penalty** of -5, it is **base resistance** +5 and so on.
 
@@ -635,7 +635,7 @@ When you make a successful healing attempt, you remove the **penalty**.
 
 Just as you recover from **consequences** with time, or through healing, so **benefits** fade with time.
 
-At the beginning of a session, especially when a significant period of game-world time passes between the conclusion of one session and the beginning of the next, the GM may declare that all **benefits** have expired or waned. A waning benefit may reduce its **rank** with time, as the effect fades. You are no longer charged with the confidence of your recent victory, the fans have forgotten your last concert, or the people of the village have started to think once again about the day-to-day struggle of their lives not how the stranger helped them. An expired benefit no longer gives you a **bonus**, your past victories no longer bring you solace, your fickle fans have moved on to the latest sensation.
+At the beginning of a session, especially when a significant period of game-world time passes between the conclusion of one session and the beginning of the next, the GM may declare that all **benefits** have expired or waned. A waning benefit may reduce its **degree** with time, as the effect fades. You are no longer charged with the confidence of your recent victory, the fans have forgotten your last concert, or the people of the village have started to think once again about the day-to-day struggle of their lives not how the stranger helped them. An expired benefit no longer gives you a **bonus**, your past victories no longer bring you solace, your fickle fans have moved on to the latest sensation.
 
 ### 2.8.5 Multiple Benefits And Consequences
 
@@ -645,7 +645,7 @@ Because it is confusing to track both **benefits and consequences** against the 
 
 Your GM may simply rule that **benefits** and **consequences** cancel out, or they may take the difference between the two benefits and create a new one. For example if you have a +6 bonus from impressing the crowd with your previous performance in the dance **contest**, but then suffer an injured ankle with a **penalty** of -3, your GM may rule that your twisted ankle cancels out your energy from the last performance, or your GM might rule that your success sees you through the pain, but you are now only +5 to impress the crowd. 
 
-Your GM may prefer to cancel out in **ranks** so that if you have a rank 4 benefit from your popularity with the village following saving their holy idol, giving you a +M bonus, but you make a minor social gaff at the mayor's daughter's wedding of **rank** 1, you drop one **rank** to 3, and a +9 bonus, over reducing +M to 17. This keeps the numbers used for **bonuses** and **penalties** consistent, at the cost of having to track or figure out the **rank** of the bonus.
+Your GM may prefer to cancel out in **degrees** so that if you have a rank 4 benefit from your popularity with the village following saving their holy idol, giving you a +M bonus, but you make a minor social gaff at the mayor's daughter's wedding of **degree** 1, you drop one **degree** to 3, and a +9 bonus, over reducing +M to 17. This keeps the numbers used for **bonuses** and **penalties** consistent, at the cost of having to track or figure out the **degree** of the bonus.
 
 ## 2.9 Mismatched and Graduated Goals
 
@@ -657,9 +657,9 @@ In a **complete mismatch**, neither side is at all interested in preventing the 
 
 In most instances, the **contest** goals are not actually **mismatched**, but **graduated**. You have both a **primary** and a **secondary** goal. In this case, your GM frames the **contest**, identifying which goal is which. It is possible to have **tertiary** goals and so on, but avoid needless sub-division.
 
-On a **victory** you choose as many of the **graduated** goals as you have **ranks**. On a **rank** one **victory** you choose one; on a **rank** two victory you choose two, and so on. Normally, the GM should give the player the choice of which goals they wish to choose. This goes to the heart of character - what is more important to you? 
+On a **victory** you choose as many of the **graduated** goals as you have **degrees**. On a **degree** one **victory** you choose one; on a **degree** two victory you choose two, and so on. Normally, the GM should give the player the choice of which goals they wish to choose. This goes to the heart of character - what is more important to you? 
 
-The nurse has **graduated** goals: escape the huntsman and save the children. On a **rank** one victory she will have to decide between capture and the safety of the children. On a **rank** two victory, she can have both.
+The nurse has **graduated** goals: escape the huntsman and save the children. On a **degree** one victory she will have to decide between capture and the safety of the children. On a **degree** two victory, she can have both.
 
 ## 2.10 Mobs, Gangs, and Hordes
 
@@ -708,7 +708,7 @@ The first step in creating your character is to come up with a concept that fits
 
 In addition, you will want to give your character a name, and provide a physical description. We recommend focusing on three physical things about your PC that others would immediately notice, over anything more detailed.
 
-Your GM should not use this method for creating NPCs. NPCs do not require definition via **abilities** and **keywords**. Instead, your GM simply describes the NPC, and picks an appropriate **resistance** in any contest with them, based on their feeling for what would be **credible** for that NPC. If in doubt the GM just uses the **base resistance** for a mook, with a suitably higher **rank** for a boss. The design intent is to remove the need for the GM to prepare stat blocks, making improvisation of NPCs easier, and shifting focus to the NPCs personality or role in the story instead.
+Your GM should not use this method for creating NPCs. NPCs do not require definition via **abilities** and **keywords**. Instead, your GM simply describes the NPC, and picks an appropriate **resistance** in any contest with them, based on their feeling for what would be **credible** for that NPC. If in doubt the GM just uses the **base resistance** for a mook, with a suitably higher **degree** for a boss. The design intent is to remove the need for the GM to prepare stat blocks, making improvisation of NPCs easier, and shifting focus to the NPCs personality or role in the story instead.
 
 ## 3.1 As-You-Go Method
 
@@ -898,7 +898,7 @@ There are three types of **long contest**. Your GM should choose **ONE** to use 
 
 ## 5.0.2 The Essence of Long Contests
 
-All long contests are a sequence of simple contests. The sequence represent tasks required for the PC to triumph. They differ only in the how we interpret the **ranks** of the **simple contest** outcome.
+All long contests are a sequence of simple contests. The sequence represent tasks required for the PC to triumph. They differ only in the how we interpret the **degrees** of the **simple contest** outcome.
 
 * In a scored contest, the first contestant to have five 'strikes' against them loses.
 * In an extended contest, the contenders trade momentum and position until one of them crashes.
@@ -928,7 +928,7 @@ In a **scored contest** there is no distinction between aggressor and defender, 
 
 #### 5.1.2 Resolution Points
 
-You score **resolution points** equal to the **rank** of the **outcome**. So a *one* **rank** **outcome** produces *one* **resolution point**, a *two* **rank** **outcome** produces *two* **resolution points** and so on.
+You score **resolution points** equal to the **degree** of the **outcome**. So a *one* **degree** **outcome** produces *one* **resolution point**, a *two* **degree** **outcome** produces *two* **resolution points** and so on.
 
 Your **resolution point** score tells you how well you’re doing, relative to your opponent, in the ebb and flow of a fluid, suspenseful conflict. If you’re leading your opponent by 0–4, you’re giving them a thorough pasting. If you’re behind 4–0, you’re on your last legs, while your opponent has had an easy time of it. If you’re tied, you’ve each been getting in some good licks.
 
@@ -951,7 +951,7 @@ In interpreting the individual **simple contests** within a **scored contest**, 
 
 In a **scored contest** the contestant that is the first to gain a total of 5 **resolution points** gains the **prize**.
 
-Your GM treats the half the difference in **resource points**, rounding up, as the **rank** of your **victory** or **defeat**.
+Your GM treats the half the difference in **resource points**, rounding up, as the **degree** of your **victory** or **defeat**.
 
 #### 5.1.3.1 SCORED CONTEST OUTCOME TABLE
 
@@ -1042,15 +1042,15 @@ If you are not currently enmeshed in a **round**, either after a successful dise
 
 You may take an **unrelated action** to grant an **assist** to a teammate enmeshed in a **round**. **Assists** are subject to the same restrictions as **augments**: they must be both credible and interesting.
 
-Your first **assist** faces a **moderate resistance**. Each subsequent **assist** attempt to the same beneficiary, steps up by one **rank**:+5, +10, +15, +M, +M2. The **resistance** escalation occurs even when another PC steps in to make a subsequent **assist**. This escalation allows the occasional dramatic rescue but makes it difficult for players to prolong losing battles to excruciating length. Your GM should make it seem credible by justifying the increasing **resistances** with descriptions of ever-escalating countermeasures on the part of the opposition.
+Your first **assist** faces a **moderate resistance**. Each subsequent **assist** attempt to the same beneficiary, steps up by one **degree**:+5, +10, +15, +M, +M2. The **resistance** escalation occurs even when another PC steps in to make a subsequent **assist**. This escalation allows the occasional dramatic rescue but makes it difficult for players to prolong losing battles to excruciating length. Your GM should make it seem credible by justifying the increasing **resistances** with descriptions of ever-escalating countermeasures on the part of the opposition.
 
 Your GM may adjust the starting **resistance** up or down by one step to account for campaign credibility or other dramatic factors. If an **assist** as proposed seems too improbable or insufficiently useful, your GM should collaborate with you to propose alternate suggestions which would face **moderate resistance**.
 
 The **assist** alters the score against your teammate according to the **outcome** of a **simple contest**.
 
-On a victory, you reduce the number of **resolution points** by the **rank** of the **victory**. So on a *one* **rank** **victory** you reduce the **resolution points** by one, on a *two* **rank** **victory** you reduce the **resolution points** by two, and so on.
+On a victory, you reduce the number of **resolution points** by the **degree** of the **victory**. So on a *one* **degree** **victory** you reduce the **resolution points** by one, on a *two* **degree** **victory** you reduce the **resolution points** by two, and so on.
 
-On a defeat, you increase the number of **resolution points** by the **rank** of the **resistance's** **victory**. So on a *one* **rank** **victory** over you, you reduce the **resolution points** by one, on a *two* **rank** **victory** over you, you reduce the **resolution points** by two, and so on.
+On a defeat, you increase the number of **resolution points** by the **degree** of the **resistance's** **victory**. So on a *one* **degree** **victory** over you, you reduce the **resolution points** by one, on a *two* **degree** **victory** over you, you reduce the **resolution points** by two, and so on.
 
 Scores can never be reduced below 0.
 
@@ -1161,7 +1161,7 @@ Once your opponent has won or lost **APs** during the current contest, you can a
 
 ### 5.3.3 Extended Contest Outcomes
 
-Your GM uses the final **AP** total of the loser to determine the **rank** of the **victory** or **defeat** for the PC.
+Your GM uses the final **AP** total of the loser to determine the **degree** of the **victory** or **defeat** for the PC.
 
 #### 10.3.6.1 EXTENDED CONTEST TABLE
 
@@ -1284,7 +1284,7 @@ Use an **unrelated action** and describe what your character is trying to do to 
 
 **Chained contests** do not defer **consequences** to the end of the **contest**, instead your GM applies the **consequences** to the loser in the **contest** immediately following a **round**. This leads to a grittier feel to the **contest**, but at the price of a death spiral: once you lose the **consequences** make it likelier that you will lose again. **Chained contests** tend to produce the most extreme **outcomes**, as participants tend to accumulate significant **consequences**.
 
-To run an **chained contest** your GM runs a **simple contest** as normal, and then applies  **consequences** (see §2.6) with immediate effect. A **chained contest** benefits from using the **rank** when assessing the **consequences** (see §2.8).
+To run an **chained contest** your GM runs a **simple contest** as normal, and then applies  **consequences** (see §2.6) with immediate effect. A **chained contest** benefits from using the **degree** when assessing the **consequences** (see §2.8).
 
 **Chained contests** are asymmetric, in that they accumulate **consequences** for the loser, and not **benefits** for the winner. Your GM may decide to award **benefits** to a victorious PC after the **contest** ends (see §2.6).
 
@@ -1610,7 +1610,7 @@ Similar communities in the genre, should have the same set of **resources**.
 
 ### 9.1.2 Assigning Ranks
 
-Your GM distributes the following **ranks** between the five **resources**: +M, +15, +10 +5 and 0. Note that the size of the group doesn’t affect the **ranks**.
+Your GM distributes the following **degrees** between the five **resources**: +M, +15, +10 +5 and 0. Note that the size of the group doesn’t affect the **degrees**.
 
 ### 9.1.3 Community Questionnaires
 
@@ -1618,7 +1618,7 @@ Your GM may create a questionnaire that asks the players to make choices about t
 
 You can choose your answers by consensus, majority vote, or take turns.
 
-When you’re done, rank the **resources** in the order of the scores. Assign the high **ranks** to the highest **scores** and the lowest to the low.
+When you’re done, rank the **resources** in the order of the scores. Assign the high **degrees** to the highest **scores** and the lowest to the low.
 
 A questionnaire also introduces your setting in a punchy, interactive format, and tailors the community to the players’ desires, increasing their investment in it.
 
@@ -1632,11 +1632,11 @@ Use of community **resources** should pass the threshold for being *memorable* a
 
 ### 9.2.1 Resource Depletion
 
-Unlike character abilities, each use of community **resources** temporarily **depletes** it. Regardless of **outcome** a **resource** drops a **rank** when used.
+Unlike character abilities, each use of community **resources** temporarily **depletes** it. Regardless of **outcome** a **resource** drops a **degree** when used.
 
 Your GM decides when a **resource** is restored to its original value. Your GM should decide what the credible interval is for the community to recover from the expenditure of effort. At that point, your GM restores the **bonus** for the **resource**.
 
-You might chose to use a **resource** when it is already depleted, in which case you use its lower **rank**. Your GM may use this to represent attrition to your community from a continued struggle. A **resource** that is depleted enough, may become a **penalty**.
+You might chose to use a **resource** when it is already depleted, in which case you use its lower **degree**. Your GM may use this to represent attrition to your community from a continued struggle. A **resource** that is depleted enough, may become a **penalty**.
 
 Threats to community **resources** act as a spur to PC action. Your GM may rule that the  **outcome** from a **contest** where you did not use the **resource** may still deplete the rank of a community **resource**.
 
@@ -1650,19 +1650,19 @@ A **resource's rank** may fall below 0. If you require use of a community's **re
 
 ### 9.2.4 Bolstering Resources
 
-Your GM may offer you the opportunity to **bolster** a community **resources** ahead of need by seeking out and overcoming relevant **story obstacles**. If you succeed, the community resource improves a **rank**. Your GM will set the **resistance** for the **bolster**. The community's higher **ranked** resources should have higher **resistances** to **bolstering**. As a default, use the current **rank** as the resistance to **bolstering**.
+Your GM may offer you the opportunity to **bolster** a community **resources** ahead of need by seeking out and overcoming relevant **story obstacles**. If you succeed, the community resource improves a **degree**. Your GM will set the **resistance** for the **bolster**. The community's higher **ranked** resources should have higher **resistances** to **bolstering**. As a default, use the current **degree** as the resistance to **bolstering**.
 
 For clarity, a **resource** rated at +M can be bolstered to +M2. 
 
-**Bolstering** lasts until the **resource** is used. When your GM depletes a **bolstered resource** following usage, they remove only the additional **rank** from **bolstering**.
+**Bolstering** lasts until the **resource** is used. When your GM depletes a **bolstered resource** following usage, they remove only the additional **degree** from **bolstering**.
 
-If a **resource** is already suffering from a **penalty**, bolstering removes that **penalty** instead of improving the **rank**.
+If a **resource** is already suffering from a **penalty**, bolstering removes that **penalty** instead of improving the **degree**.
 
 ### 9.2.5 Background Events
 
 In the background all sorts of other events periodically alter the community’s prosperity. These include the actions of other community members, who are **depleting and bolstering resources** all the time, as well as the unexpected intrusion of outside forces.
 
-Your GM may decide that the community's **rank** in a **resource** is temporarily at a higher or lower **rank** due to these outside events. Your GM decides when the **resource** returns to normal. For a lower **rank**, this may require you to overcome a **story obstacle**.
+Your GM may decide that the community's **degree** in a **resource** is temporarily at a higher or lower **degree** due to these outside events. Your GM decides when the **resource** returns to normal. For a lower **degree**, this may require you to overcome a **story obstacle**.
 
 # 10.0 Appendix
 
@@ -1866,7 +1866,7 @@ Your GM may decide that the community's **rank** in a **resource** is temporaril
 **Rating**
 : An ability has a **rating**, between 1 and 20, indicating how likely a character is to succeed at using it.
 
-**Rank**
+**degree**
 : The scale of a **bonus** or **penalty**; the difference between the **successes** of the victor and the loser in a **contest**; the scale of the **resistance**.
 
 **Resistance**
