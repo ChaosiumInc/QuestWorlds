@@ -248,6 +248,25 @@ Conversely, if in the course of play you find your character in a situation with
 
 In *QuestWorlds*, wealth is treated as just another way to overcome **story obstacles**. Many characters may not even have an explicit wealth **ability**, with their wealth or assets instead implied by **abilities** representing their background, profession, or status. Whether explicit or implied, the relevant **score** is not an objective measure of the size of your fortune, but instead indicates how well you solve problems with money and resources. 
 
+## 2.3 Degrees
+
+Your GM uses a scale known as **degrees** throughout the game. **Degree** represent the scale of a **contest** **outcome** (§2.4.6), an **augment** (see §2.6), **modifier** (see §2.5), **benefits** or **consequences** (see §2.8). Your GM also uses the same **degree** as a modifier to a **base resistance** when determining the **resistance's** **TN**.
+
+To add to the dice roll use the scale of values: +5, +10, +15, +M, +M2
+To subtract from the dice roll use the scale of values: -5, -10, -15, -M, -M2
+
+So  *zero* **degrees** is +5 or -5, *one* **degree**  is +10 or -10, and so on. It is usually clear but you can use *decreasing* **degree** to refer to a subtraction and *higher* **increasing** to refer to an addition.
+
+### 2.3.1 DEGREE TABLE
+
+|Degree    |Value     |
+|:------:|:------------:|
+|0|+5 or -5|
+|1|+10 or -10|
+|2|+15 or -15|
+|3|+M or -M|
+|4|+M2 or -M2|
+
 ## 2.4 Contest Procedure
 
 You choose an **ability** relevant to the conflict at hand, describe exactly what you are trying to accomplish, and how. Your GM may modify these suggested actions to better fit the fictional circumstances, and describe the actions of the NPCs or forces on the other side of the conflict.
