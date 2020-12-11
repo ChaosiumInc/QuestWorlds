@@ -210,29 +210,27 @@ In play your PC may work to overcome a **flaw** and you may reach the point that
 
 You can add a new **flaw** if play suggests one might emerge, with discussion with the GM, when you receive an **advance** (see §8.2).
 
-### 2.1.2 Scores, Ratings and Masteries
+### 2.1.2 Ratings and Masteries
 
-*QuestWorlds* **abilities** are **scored** on a **rating** of 1–20, representing the **target number (TN)** you need to roll or less to succeed on your roll during a **contest** (see §2.4 for more details).
+*QuestWorlds* **abilities** are scored on a **rating** of 1–20, representing the **target number (TN)** you need to roll or less to succeed on your roll during a **contest** (see §2.4 for more details).
 
  Once your **ability** passes 20, you would always be able to roll under it on a D20. So to allow abilities to scale over 20 we use **tiers** of capability we refer to as a **masteries**.  
  
- To reflect abilities (or **resistances**) higher than 20, either permanently through character advancement or a temporarily with **modifier** to a contest roll, we use a **mastery**. We denote an ability above 20 as **TN** + M, for example 7M represents a **TN** of 7 and one **mastery**. We represent abilities above 20M as **TN** + M2, for example 4M2 represents a **TN** of 4 and two **masteries**.
+ We denote a **rating** with a **mastery** as **TN** + M, for example 7M represents a **TN** of 7 and one **mastery**. We represent abilities above 20M as **TN** + M2, for example 4M2 represents a **TN** of 4 and two **masteries**.
 
- The progression of **ability** **scores** is thus 1-20, 1M-20M, 1M2-20M2, 1M3-20M3 and so on.
+ The progression of **ability** **ratings** is: 1-20, 1M-20M, 1M2-20M2, 1M3-20M3 and so on.
 
 Specific *QuestWorlds* games or genre packs may use other symbols relevant to their setting or genre to denote **mastery** instead of M. If so, this should be clearly noted by their designers.
 
-For how **masteries** work in play, see §2.4.5 for more details on **bumps**.
+For how **masteries** work in play, see §2.4.5.
 
 #### 2.1.2.1 No Relevant **ability**
 
-You may sometimes be faced with a **story obstacle**  or **story question** for which you have no relevant **ability** whatsoever. In such cases, you may still enter into conflict with the **story obstacle** using a minimum base **target number** of 6 for your **contest** roll. Like **scores**, it may also be subject to **modifiers**.
+You may sometimes be faced with a **story obstacle**  or **story question** for which you have no relevant **ability** whatsoever. In such cases, you may still enter into conflict with the **story obstacle** using a **rating** of 5 for your **contest** roll.
 
-#### 2.1.2.2 Using Scores As thresholds
+#### 2.1.2.2 Understanding Ratings
 
-*QuestWorlds* treats **scores** as a measure of how effective you are at solving problems with the **ability**, and does not limit what you can do with that **ability**, provided your actions are credible in genre. Where an important part of the genre is that certain uses of the **ability** are only available when you pass a threshold of experience, often through overcoming story obstacles to improve the **ability** in game, you may chose to set threshold for those **abilities**. For example, a magic system might classify certain supernatural effects as Apprentice, Journeyman, or Master level, and require **ratings** of 15, 5M, or 1M2 (respectively) in a relevant **ability** to even attempt them.
-
-Such departures from abstraction should generally only be made where the increased complexity they bring leads to rewarding choices in a key area of interest to the setting or genre at hand. In most cases, you and your GM can simply follow the fiction surrounding your **ability** and its context within the setting for guidance as to what applications of the **ability** are credible.
+*QuestWorlds* treats **ratings** as a measure of how effective you are at solving problems with the **ability**, and does not limit what you can do with that **ability**, provided your actions are credible in genre.
 
 ## 2.2 Possessions and Equipment
 
@@ -240,13 +238,13 @@ Your character will generally be considered to have whatever equipment is reason
 
 However, if you wish your character to possess something that is particularly special, interesting, or unusual, you may also enumerate it as a rated **ability** in its own right, just like any other **ability** your character might use to solve a problem. 
 
-In play, the degree to which you can overcome **story obstacles** with your possessions depends not on any qualities inherent to the objects themselves, but to the **score** of your relevant **ability**. However the significance of various sorts of gear lies in the types of actions you can credibly propose, and what their impact might reasonably be. An "Invisibility Cloak" **ability** implies very different fictional capabilities than "Souped-up Muscle Car" does.
+In play, the degree to which you can overcome **story obstacles** with your possessions depends not on any qualities inherent to the objects themselves, but to the **rating** of your relevant **ability**. However the significance of various sorts of gear lies in the types of actions you can credibly propose, and what their impact might reasonably be. An "Invisibility Cloak" **ability** implies very different fictional capabilities than "Souped-up Muscle Car" does.
 
 Conversely, if in the course of play you find your character in a situation without equipment essential to utilize an ability effectively, or where your character's gear is poorly suited to the task at hand, your GM may take into account in assessing credibility-based **modifiers**.
 
 ### 2.2.1 Wealth
 
-In *QuestWorlds*, wealth is treated as just another way to overcome **story obstacles**. Many characters may not even have an explicit wealth **ability**, with their wealth or assets instead implied by **abilities** representing their background, profession, or status. Whether explicit or implied, the relevant **score** is not an objective measure of the size of your fortune, but instead indicates how well you solve problems with money and resources. 
+In *QuestWorlds*, wealth is treated as just another way to overcome **story obstacles**. Many characters may not even have an explicit wealth **ability**, with their wealth or assets instead implied by **abilities** representing their background, profession, or status. Whether explicit or implied, the relevant **rating** is not an objective measure of the size of your fortune, but instead indicates how well you solve problems with money and resources. 
 
 ## 2.3 Degrees
 
@@ -307,9 +305,11 @@ A **contest** represents all of your attempts to overcome a **story obstacle** o
 
 You either choose an **ability** that represents any 'key moment' in overcoming that **story obstacle** or answering that **story question**, or a broad **ability** that lets you overcome the whole **story obstacle** or solve the mystery of the **story question**. We call this choosing a **tactic**.
 
-The **rating** from your **ability score**, after adding any **augment** (see §2.6) or **modifiers** (see §2.5), relevant **consequences** or **benefits** (see §2.6) is your **target number**.
+The **target number (TN)** is your **rating**, adding any **augment** (see §2.6), **hindrances**, **modifiers** (see §2.5), **consequences** (see §2.8) or **benefits** (see §2.8).
 
-Your **tactic** might describe your using an **ability** that helps you overcome a task within the **story obstacle** or **story question**:  sneaking past the guards, picking the locks, choosing the right jury or skewering your opponent with your foil. Or, your **tactics** might describe using a broad ability like "Ninja", "Lawyer", or "Fencer" to overcome all those challenges that might form part of the **story obstacle** or **story question**. Either way, if you succeed at that roll, you overcome the whole **story obstacle** or learn the answer to the **story question**. Or by failing at that roll, you fail to overcome the **story obstacle** or reveal the answer to the **story question**, not just fail at one task.
+Your **tactic** might describe your using an **ability** that helps you overcome a task within the **story obstacle** or **story question**:  sneaking past the guards, picking the locks, choosing the right jury or skewering your opponent with your foil. Or, your **tactics** might describe using a broad ability like "Ninja", "Lawyer", or "Fencer" to overcome all those challenges that might form part of the **story obstacle** or **story question**. 
+
+Either way, if you succeed at that roll, you overcome the whole **story obstacle** or learn the answer to the **story question**. Or by failing at that roll, you fail to overcome the **story obstacle** or reveal the answer to the **story question**, not just fail at one task.
 
 When deciding on your **tactic**, focus on how your unique abilities would help you overcome the **story obstacle** or reveal the answer to the **story question**. This as the "key moment" where we focus on your PC. Use this moment to reveal your PC's strengths to the group.
 
@@ -352,7 +352,7 @@ The **simple contest** is *QuestWorlds*' primary resolution mechanic for overcom
 A **simple contest** can be summarized as follows:
 
 1. You and your GM agree upon the terms of the **contest**.
-2. You roll a D20 vs your relevant **ability**, while your GM rolls a D20 vs the **resistance**.
+2. You roll a D20 vs your relevant **target number**, while your GM rolls a D20 vs the **resistance**.
 3. Your GM compares the difference **successes** between the two rolls to assesses the **outcome** (see §2.4.6).
 4. Your GM then narrates the **outcome** of the conflict as appropriate and assesses any **benefits** or **consequences** that arose (see §2.8).
 
@@ -375,7 +375,7 @@ An **assured contest** can be summarized as follows:
 1. You and your GM agree upon the terms of the **contest**.
 2. The GM may decide that you simply gain the **victory** and there are no **consequences** or **benefits** beyond that.
 3. If not the GM conducts a contest.
-4. You roll a D20 vs your relevant **ability**, while your GM rolls a D20 vs the **resistance**.
+4. You roll a D20 vs your relevant **target number**, while your GM rolls a D20 vs the **resistance**.
 5. Your GM compares the difference **successes** between the two rolls to assesses the **outcome** (see §2.4.6).
 6. Your GM then narrates how you obtained your **victory** and any **benefits** or **consequences** that arose.
 
@@ -383,7 +383,7 @@ An **assured contest** can be summarized as follows:
 
 To determine how well you use an **ability**, roll a 20-sided die (D20). At the same time, your GM rolls for the **resistance**.
 
-Compare your rolled number with your **Target Number (TN)** to determine the **result**.
+Compare your rolled number with your **target number (TN)** to determine the **result**.
 
 * **Big Success**: If the die roll is equal to the **TN**, you succeed brilliantly, and gain *two* **successes**. This is the best **result** possible.
 * **Success**: If the die roll is less than the **TN**, you succeed, but there is nothing remarkable about the success. You gain *one* **success**.
@@ -462,7 +462,7 @@ The only exception to this is a PC vs. PC contest, where each sides **outcome** 
 
 ## 2.5 Modifiers
 
-Your **score** represents a general **ability** to succeed in the narrative, but modifiers reflect specific conditions that may make it easier or harder to overcome particular **story obstacles**. They are applied to your **ability** to get a final **target number** (**TN**).
+Your **rating** represents a general **ability** to succeed in the narrative, but modifiers reflect specific conditions that may make it easier or harder to overcome particular **story obstacles**. They are applied to your **ability** to get a final **target number** (**TN**).
 
 Positive modifiers are called **bonuses**; negative modifiers are called **penalties**.
 
@@ -506,7 +506,7 @@ If you have a good idea for an **augment**, propose it to your GM while the **co
 
 You may only use one of your own **abilities** to **augment** the **ability** you are using in the **contest**, and you may not use an **ability** to **augment** itself. You may not use a **breakout** to augment it's parent **keyword** (see §3.3), or another **breakout** from the parent **keyword**. However, **augments** from other players supporting you can add together with your own, along with other **modifiers**, including those from **benefits** and from **plot augments**.
 
-If your GM accepts your **augment** proposal, it will be resolved by the method below. The main **contest** then proceeds as normal, with any bonus from the **augment** added onto the **score** of the **ability** chosen when **framing the contest**. The **augment** remains in effect for the duration of the **contest**.
+If your GM accepts your **augment** proposal, it will be resolved by the method below. The main **contest** then proceeds as normal, with any bonus from the **augment** added onto the **rating** of the **ability** chosen when **framing the contest**. The **augment** remains in effect for the duration of the **contest**.
 
 ### 2.6.1 Augment Procedure
 
@@ -680,7 +680,7 @@ The nurse has **graduated** goals: escape the huntsman and save the children. On
 
 ## 2.10 Mobs, Gangs, and Hordes
 
-Sometimes you will face large numbers of opponents. Your GM can treat many as one. Your GM divides the number of opponents by the number of contesting PCs. Your GM then treats each of these sections of the crowd as a single **resistance** with one **score**. Their numbers are factored into the **score** your GM assigns to the **resistance**.
+Sometimes you will face large numbers of opponents. Your GM can treat many as one. Your GM divides the number of opponents by the number of contesting PCs. Your GM then treats each of these sections of the crowd as a single **resistance** with one **rating**. Their numbers are factored into the **rating** your GM assigns to the **resistance**.
 
 When the mob loses an exchange, your GM describes individuals within it as being hurt or falling away. When it wins, describe them overwhelming you, or swelling in numbers.
 ## 2.11 Ganging Up
@@ -713,7 +713,7 @@ Your GM should adopt a strategy that mimics a TV show where the **resistance** d
 
 In that case your GM should increment the **base resistance** by +5, +10 or +15 for the next campaign you play with the same characters. The size of the change should reflect the increase in your previous **abilities** in the last campaign. For example, if in the last season you increased your **occupation keyword** by +10, your GM may decide to increase the **resistance** by +5 or +§0 to reflect the more challenging opposition in the new campaign. The GM should consider triggering **resistance progression** when your PCs find it difficult to earn **experience points** because they too regularly outclass even the climatic encounters (the boss monsters) of their game.
 
-Your GM should also take into account that the opposition you were improving with respect to the previous season should now be considered more-easily defeated mooks, and use lower **scores** for them when they appear in the story or even allow them to be taken out with an **assured contest**.
+Your GM should also take into account that the opposition you were improving with respect to the previous season should now be considered more-easily defeated mooks, and use lower **ratings** for them when they appear in the story or even allow them to be taken out with an **assured contest**.
 
 ### 2.14.1 No Progression
 
@@ -721,7 +721,7 @@ Your GM may also decide that the **resistances** do not get harder as the campai
 
 # 3.0 Character Creation
 
-The first step in creating your character is to come up with a concept that fits in with the genre of the game that your GM intends to run. With that, you can assign **abilities**, **scores** for those **abilities**, and if required **flaws**.
+The first step in creating your character is to come up with a concept that fits in with the genre of the game that your GM intends to run. With that, you can assign **abilities**, **ratings** for those **abilities**, and if required **flaws**.
 
 In addition, you will want to give your character a name, and provide a physical description. We recommend focusing on three physical things about your PC that others would immediately notice, over anything more detailed.
 
@@ -741,7 +741,7 @@ Your GM should not use this method for creating NPCs. NPCs do not require defini
 
 2. Now provide your character with a name.
 3. If the series uses other **keywords**, such as those for culture or religion, you may gain one for free.
-4. When events in the story put you in a situation where you want to overcome a **story obstacle**, or discover the answer to a **story question**, make up an applicable **ability** on the spot. The first time you use an **ability** (including the two you start play with: **distinguishing characteristic** and **occupational keyword**), assign a **score** to it. This may be a **breakout ability** from a **keyword**. You are restricted to only one **sidekick**.
+4. When events in the story put you in a situation where you want to overcome a **story obstacle**, or discover the answer to a **story question**, make up an applicable **ability** on the spot. The first time you use an **ability** (including the two you start play with: **distinguishing characteristic** and **occupational keyword**), assign a **rating** to it. This may be a **breakout ability** from a **keyword**. You are restricted to only one **sidekick**.
 5. If you want, describe **flaws**.
 6. Once you have 12 **abilities** (including the two for character concept), and up to three **flaws** you are done creating your character.
 
@@ -765,14 +765,14 @@ Treat **keywords** both as a raisable **ability**. To ensure that the potential 
 
 #### 3.2.2.1 Breakouts
 
-If your character is particularly good at an aspect of an umbrella **keyword**, you create a **breakout ability** under the **keyword** at a **bonus** from the **score** of the **keyword** you write these specialized **breakout abilities** under the **keyword**, along with how much they've improved from the **keyword**:
+If your character is particularly good at an aspect of an umbrella **keyword**, you create a **breakout ability** under the **keyword** at a **bonus** from the **rating** of the **keyword** you write these specialized **breakout abilities** under the **keyword**, along with how much they've improved from the **keyword**:
 
 Detective 17
 
 * Deduction +2
 * Hard Drinking +1
 
-In this example, whilst the **score** for most **contests** in which Detective was an appropriate **tactic** would be 17, for contests involving Deduction it would be 19.
+In this example, whilst the **rating** for most **contests** in which Detective was an appropriate **tactic** would be 17, for contests involving Deduction it would be 19.
 
 **Breakouts** may be similar to the list of **abilities** that a **package** would include. However, as these tend to be assumed in the umbrella **keyword** which is treated as an **ability** it is more interesting to have them *differentiate* your PC as an archetype from others. For example, if you want to portray the *stereotype* of the hard-drinking detective, you might add that as a **breakout** under the **keyword**. That **breakout** might also be flagged as a **flaw**.
 
@@ -790,21 +790,21 @@ You may assign up to three **flaws** to their PC. Common flaws include:
 
 Certain **keywords** include **flaws**. **Flaws** gained through **keywords** do not count against the limit of three chosen  **flaws**.
 
-## 3.4 Assigning Ability Scores
+## 3.4 Assigning Ability Ratings
 
 You have now defined your **abilities** and **flaws**. These tell everyone what you can do.
 
-Now assign numbers to each **ability**, called **scores**, which determine how well you can do these things.
+Now assign numbers to each **ability**, called **ratings**, which determine how well you can do these things.
 
-Assign a starting **score** of 15 to the **ability** you find most important or defining. Although most players consider it wisest to assign this **scores** to their **occupational keyword**, you don’t have to do this. Assign a **score** of 15 to your **distinguishing characteristic**.
+Assign a starting **rating** of 15 to the **ability** you find most important or defining. Although most players consider it wisest to assign this **rating** to their **occupational keyword**, you don’t have to do this. Assign a **rating** of 15 to your **distinguishing characteristic**.
 
-All other **abilities** start at a **score** of 10.
+All other **abilities** start at a **rating** of 10.
 
 A **breakout** from a **keyword** starts at +5. In some cases, you may treat your **distinguishing characteristic** as a **breakout ability** from a **keyword** in this case, treat it as a +10.
 
-**Flaws** are assigned a **score** equivalent to your **abilities**. The first **flaw** is rated at the highest **ability**, the second shares the same **score** as the second-highest **ability**, and the third equals the lowest **ability**. All **flaws** after the third are given the same **score** as the lowest **ability**. You may designate **flaws** from **keywords** as your first or second-ranked **flaw**.
+**Flaws** are assigned a **rating** equivalent to your **abilities**. The first **flaw** is rated at the highest **ability**, the second shares the same **rating** as the second-highest **ability**, and the third equals the lowest **ability**. All **flaws** after the third are given the same **rating** as the lowest **ability**. You may designate **flaws** from **keywords** as your first or second-ranked **flaw**.
 
-Now, you get 30 **improvement points** to spend to improve your **abilities**. Each **improvement point** increases an ability by +1. You can spend up to ten **improvement points** on an ability. You cannot increase a **breakout** with **improvement points**. The maximum starting **ability score** is 5M.
+Now, you get 30 **improvement points** to spend to improve your **abilities**. Each **improvement point** increases an ability by +1. You can spend up to ten **improvement points** on an ability. You cannot increase a **breakout** with **improvement points**. The maximum starting **ability rating** is 5M.
 
 You can spend **improvement points** after a roll, so as to **succeed** and no **fail**.
 
@@ -839,7 +839,7 @@ There is no limit to the number of **abilities** you can gain from a single sent
 A **simple contest** can be summarized as follows:
 
 1. You and your GM agree upon the terms of the **contest**.
-2. You choose a **tactic**, and figure your PC's **target number** (**TN**) using the **score** and any **modifiers**. The PCs **TN** is the **score** of their **ability**, plus or minus **modifiers** the GM may give you.
+2. You choose a **tactic**, and figure your PC's **target number** (**TN**) using the **rating** and any **modifiers**. The PCs **TN** is the **rating** of their **ability**, plus or minus **modifiers** the GM may give you.
 3. Your GM determines the **resistance**.  If two PCs contend, your opponent figures their **TN** as described in step 2.
 4. You roll a D20 vs your relevant **ability**, while your GM rolls a D20 vs the **resistance**.
 5. Your GM compares the difference **successes** between the two rolls to assesses the **outcome** (see §2.4.6).
@@ -855,7 +855,7 @@ A **group simple contest** may pit all of you against a single **resistance**, r
 ### 4.2.1 Procedure
 
 1. Your GM **frames the contest**.
-2. You choose a **tactic**, and figure your PC's **target number** (**TN**) using the **score** and any **modifiers**. Your **TN** is the **score** of their **ability**, plus or minus **modifiers** the GM may give you.
+2. You choose a **tactic**, and figure your PC's **target number** (**TN**) using the **rating** and any **modifiers**. Your **TN** is the **rating** of their **ability**, plus or minus **modifiers** the GM may give you.
 3. Your GM determines the **resistance**.  If two PCs contend, your opponent figures their **TN** as described in step 2.
 4. For each of your group, roll a D20 vs your relevant **ability**, while your GM rolls a D20 vs the **resistance**. Your GM compares the difference **successes** between the two rolls to assesses the individual **outcome** (see §2.4.6).
 5. The side with the highest number of **victories** is the overall victor in the **contest**. Award **experience points** if appropriate (see §8.1).
@@ -932,7 +932,7 @@ In a **scored contest** there is no distinction between aggressor and defender, 
 ### 5.1.1 Procedure
 
 1. Your GM **frames the contest**.
-2. You choose a **tactic**, and figure your PC's **target number** (**TN**) using the **score** of your **ability**, plus or minus **modifiers** the GM may give you.
+2. You choose a **tactic**, and figure your PC's **target number** (**TN**) using the **rating** of your **ability**, plus or minus **modifiers** the GM may give you.
 3. Your GM determines the **resistance**. (If two PCs contend, your opponent figures their **TN** as described in step 2.)
 4. Carry out one or more **rounds**, repeating as necessary.
     1. Your GM decides which contender has the initiative, the 'aggressor', and describes what they are trying to do to achieve the **prize**. The 'defender' describes how they counter the aggressor's attempt to seize the **prize**. If it is not obvious from the unfolding narrative, your GM should choose your PC as the 'aggressor'.
@@ -1041,7 +1041,7 @@ You may lose some pairings amongst the PCs, but still win if the last participan
 ### 5.2.1 Procedure
 
 1. Your GM **frames the contest**.
-2. You choose a **tactic**, and figure your PC's **target number** (**TN**) using the **score** of your **ability**, plus or minus **modifiers** the GM may give you.
+2. You choose a **tactic**, and figure your PC's **target number** (**TN**) using the **rating** of your **ability**, plus or minus **modifiers** the GM may give you.
 3. The GM determines the **resistance**. If two PCs contend, your opponent figures their **TN** as described in step 2.
 4. The PCs choose their opponents in order of their **TN** where it makes sense. Otherwise your GM will allocate opponents to you dependent on what makes narrative sense.
 5. Establish an order of the paired **contests**. There is no significant advantage to going first, but use your group's **TN**s from highest to lowest if no other option presents itself.
@@ -1120,7 +1120,7 @@ An **extended contest** consists of one or more **rounds**, in which you perform
 ### 5.3.1 Procedure
 
 1. Your GM **frames the contest**.
-2. You choose a **tactic**, and figure your PC's **target number** (**TN**) using the **score** of your **ability**, plus or minus **modifiers** the GM may give you. Figure your starting **advantage point (AP)** total (see §5.3.2.1).
+2. You choose a **tactic**, and figure your PC's **target number** (**TN**) using the **rating** of your **ability**, plus or minus **modifiers** the GM may give you. Figure your starting **advantage point (AP)** total (see §5.3.2.1).
 3. The GM determines the **resistance**. The GM opposes the PC with a **resistance**—the harder the task or tougher the opponent, the higher the **resistance**. The GM figures starting **APs** for the **resistance** (see §5.3.2.1).
 4. Carry out one or more **rounds**, repeating as necessary.
     1. Each **round** consists of two **exchanges**: an action and immediate response.
@@ -1261,7 +1261,7 @@ Sometimes a contest will be a free-for-all involving three or more groups.
 ### 5.4.1 Procedure
 
 1. Your GM **frames the contest**.
-2. You choose a **tactic**, and figure your PC's **target number** (**TN**) using the **score** of your **ability**, plus or minus **modifiers** the GM may give you. Figure your starting **advantage point (AP)** total (see §5.3.2.1).
+2. You choose a **tactic**, and figure your PC's **target number** (**TN**) using the **rating** of your **ability**, plus or minus **modifiers** the GM may give you. Figure your starting **advantage point (AP)** total (see §5.3.2.1).
 3. The GM determines the **resistance**. The GM opposes the PC with a **resistance**—the harder the task or tougher the opponent, the higher the **resistance**. The GM figures starting **APs** for the **resistance** (see §5.3.2.1).
 4. You describe your action towards the desired **prize** and bid **APs*** (see §5.3.2.2).
 5. The GM describes actions for the resistance and bids **APs** (see §5.3.2.2).
@@ -1423,7 +1423,7 @@ Defeat in physical **contests** can lead to literal death. Metaphorical deaths f
 
 If you lose a **sidekick**, you may create a new one without needing to spend a **experience point**. You must explain how the new **sidekick** has come to be your new **follower**.
 
-You may find it convenient to promote **retainers** to **sidekick** status, giving them names and personalities, with a sudden improvement in **abilities** and **scores** to match.
+You may find it convenient to promote **retainers** to **sidekick** status, giving them names and personalities, with a sudden improvement in **abilities** and **ratings** to match.
 
 ### 6.5.3 Retainers
 
@@ -1467,11 +1467,9 @@ In games with a strong player vs. player element, your GM should dispense with *
 
 ## 7.1 Story Point Pool
 
-At the beginning of play, your GM will create a **story point pool** for your group. The **story point pool** has one **story point** per PC. During play you can **burn** one or more points from this **pool**, after which it is lost. When you **burn** **story points** you can edit the story in your PC or group's favor. You can either do this to improve your **outcome** via a **bump** (see §7.1) or to introduce a helpful fact into the world via a **plot edit** (see $7.2).
+At the beginning of play, your GM will create a **story point pool** for your group. The **story point pool** has one **story point** per PC. 
 
-You can decide to spend **story points** at any time. You do not need agreement from the other players to do so.
-
-Your GM may feel that the genre they are playing requires a greater pool of **story points** as in that genre the heroes never seem to lose. You can create a larger **story point pool** to reflect this but beware that failure and reversals of fortune for the hero are part of most *interesting* stories. It can be unwise for the GM to remove all sense of threat from the players by giving them a **story point pool** from which they can add a **bump** to any roll, or remove all branches of the story that stem from **defeat**.
+During play you can **burn** one or more points from this **pool**, after which it is lost. You can decide to spend **story points** at any time. You do not need agreement from the other players to do so.
 
 ### 7.1.1 Refreshing Story Points
 
@@ -1488,15 +1486,14 @@ Ultimately your GM is always the arbiter of  when and how the **story point pool
 To summarize:
 
 * At the beginning of a session you have 1 **story points** per PC in the pool.
-* During the session you may **burn** one **story point** to add a **bump** a PC's roll (see §7.1),
-* During the session you may **burn** one or more **story points**  on a **plot edit**.
+* During the session you may **burn** **story points**.
 * **Story points** that are burned are lost from the **story point pool**.
 * The GM decides on the conditions to a refresh a **story point pool**.
 * The **story point pool** refreshes to 1 **story point** per PC in the pool.
 
-## 7.2 Bump with Story Points
+## 7.2 Success with a Story Point
 
-You can burn a **story point** to gain a **bump** (see §2.4.5)
+You can burn a **story point** to gain an additional **success** (see §2.4.5)
 
 ## 7.3 Plot Edits
 
@@ -1565,12 +1562,6 @@ You may spend **improvement points** immediately, or in play, even after a roll.
 
 In some genres you may wish to maintain a tally of the total **experience points** earned as a measure of your reputation.
 
-### 8.2.1 Catch-Ups
-
-To encourage well-rounded characters, a package deal, called a **catch-up**, becomes available whenever you acquire via improvement a new **mastery** in one of your **abilities** (**keyword** or stand-alone). Any time one of your **scores** crosses a **mastery** threshold (i.e. 20 -> 1M, 20M -> 1M2, etc). you may also improve up to three **abilities** or **keywords** of your choice by three points each, as long as the chosen **abilities** are currently rated five or more points lower than your newly adjusted **scores** in the raised **ability** that triggered the **catch-up**.
-
-You may not increase the bonus of **breakout abilities** under a **keyword** with a **catch-up**, nor does net effective value of a breakout **ability** crossing a **mastery** threshold trigger a **catch-up**. Only a **keyword**'s base **scores** is considered in this context.
-
 ### 8.2.2 Rate of Advancement
 
 We assume an average earning rate of two **experience points** per session. This would lead to you gaining an advance every five sessions. If your rate is lower than one **experience point** a session, your GM should choose one of these options:
@@ -1581,7 +1572,7 @@ We assume an average earning rate of two **experience points** per session. This
 
 ### 8.2.2 Directed Improvements
 
-On occasion your GM may increase one of your **abilities**, by +5, +10 or +15, or give you a new **ability**, usually rated at 13. These are called **directed improvements**.
+On occasion your GM may increase one of your **abilities**, by +5, +10 or +15, or give you a new **ability**, usually rated at 10. These are called **directed improvements**.
 
 **Directed improvements** are usually rewards for overcoming particularly important or dramatic **story obstacles** or answering a dramatically important **story question**.
 
@@ -1643,7 +1634,7 @@ Your GM may create a questionnaire that asks the players to make choices about t
 
 You can choose your answers by consensus, majority vote, or take turns.
 
-When you’re done, rank the **resources** in the order of the scores. Assign the high **degrees** to the highest **scores** and the lowest to the low.
+When you’re done, rank the **resources** in the order of the scores. Assign the high **degrees** to the highest scores and the lowest to the low.
 
 A questionnaire also introduces your setting in a punchy, interactive format, and tailors the community to the players’ desires, increasing their investment in it.
 
@@ -1747,12 +1738,6 @@ Your GM may decide that the community's **degree** in a **resource** is temporar
 **Bonus**
 : A positive modifier.
 
-**Boost**
-: Spending points after a **group simple contest outcome**, to improve the victory.
-
-**Bump**
-: An additional **success** in a **contest**.
-
 **Burn**
 : Using a **story point** as a bump. The **story point** is lost after burning.
 
@@ -1786,6 +1771,9 @@ Your GM may decide that the community's **degree** in a **resource** is temporar
 **Defensive Response**
 : In a **scored contest** you can choose a defensive **tactic** which reduces the **resolution points** you lose on a negative **result**.
 
+**Degree**
+: The scale of a **modifier** (**bonus** or **penalty**); the difference between the **successes** of the victor and the loser in a **contest**; the scale of the **resistance**.
+
 **Dependent**
 : A **supporting character** who depends on your PC.
 
@@ -1797,9 +1785,6 @@ Your GM may decide that the community's **degree** in a **resource** is temporar
 
 **Distinguishing Characteristic**
 : The dominant personality **ability** that others recognize in a character.
-
-**Dying**
-: A **state of adversity**, where the character's **defeat** will end their participation.
 
 **Edge**
 : In an **extended contest** adds to the **APs** lost or transferred when you win an **exchange**.
@@ -1820,7 +1805,7 @@ Your GM may decide that the community's **degree** in a **resource** is temporar
 : Rolling over your **target number**. 
 
 **Final Action**
-: A last action by a **dying** character  
+: A last action by a PC on 0 AP in an **extended contest**  
 
 **Flaw**
 : An **ability** that penalizes you instead of helping you.
@@ -1844,7 +1829,7 @@ Your GM may decide that the community's **degree** in a **resource** is temporar
 : A **simple contest** where one side has multiple participants.
 
 **Graduated Goals**
-: When a contestant has a **primary** and **secondary** goal, and may have to choose between them if you have the same result as your opponent but a better roll.
+: When a contestant has a **primary** and **secondary** goal, and may have to choose between them. 
 
 **Handicap**
 : In an **extended contest** subtracts from the **APs** lost or transferred when you win an **exchange**.
@@ -1891,9 +1876,6 @@ Your GM may decide that the community's **degree** in a **resource** is temporar
 **Rating**
 : An ability has a **rating**, between 1 and 20, indicating how likely a character is to succeed at using it.
 
-**degree**
-: The scale of a **modifier** (**bonus** or **penalty**); the difference between the **successes** of the victor and the loser in a **contest**; the scale of the **resistance**.
-
 **Resistance**
 : The forces opposing the PC in a conflict, or concealing a secret that must be overcome by using an **ability** in a **contest**. One of: **Extreme**, **Huge**, **Very High**, **High**, **Raised**, **Moderate**, **Low**, **Very Low**, **Tiny**, **Rock-bottom**.
 
@@ -1909,17 +1891,11 @@ Your GM may decide that the community's **degree** in a **resource** is temporar
 **Retainer**
 : A **follower** of your PC who is not 'fleshed out' and cannot act independently.
 
-**Rising Action**
-: A **scored contest** where the **story obstacle** is a step towards the final **story obstacle** of this story.
-
 **Risky Gambit**
 : In a **long contest** you can take an action that puts you at more risk on defeat, but enhances victory.
 
 **Round**
 : A **long contest** is broken into a series of rounds, each of which is an attempt to obtain the **prize**. In an **extended contest** a round is further broken into a number of **exchanges** in which all participants have the chance to act.
-
-**Score**
-: A **score** consists of a **rating** and, if it is above 20, one or more **masteries**
 
 **Second Chance**
 : An attempt by **defeated**, but unengaged, PCs to re-enter an **extended contest**.
