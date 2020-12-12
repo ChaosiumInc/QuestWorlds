@@ -14,7 +14,7 @@ VAR1=$(CAT << EOF
 2.2_Possessions_and_Equipment.md \
 2.3_Degrees.md \
 2.4_Contest_Procedure.md \
-2.5_Modifiers.md \
+2.5_Bonuses_and_Penalties_From_Tactics.md \
 2.6_Augments.md \
 2.7_Flaws.md \
 2.8_Benefits_and_Consequences.md \
@@ -50,7 +50,7 @@ VAR1=$(CAT << EOF
 6.6_Relationships_as_Flaws.md \
 7.0_Story_Points.md \
 7.1_Story_Point_Pool.md \
-7.2_Bump_with_Story_Points.md \
+7.2_Success_with_Story_Points.md \
 7.3_Plot_Edits.md \
 8.0_Experience.md \
 8.1_Earning_Experience_Points.md \

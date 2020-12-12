@@ -222,13 +222,13 @@ You can add a new **flaw** if play suggests one might emerge, with discussion wi
 
 Specific *QuestWorlds* games or genre packs may use other symbols relevant to their setting or genre to denote **mastery** instead of M. If so, this should be clearly noted by their designers.
 
-For how **masteries** work in play, see §2.4.5.
+For how **masteries** work in play, see §2.4.6.
 
-#### 2.1.2.1 No Relevant **ability**
+### 2.1.3 No Relevant **ability**
 
 You may sometimes be faced with a **story obstacle**  or **story question** for which you have no relevant **ability** whatsoever. In such cases, you may still enter into conflict with the **story obstacle** using a **rating** of 5 for your **contest** roll.
 
-#### 2.1.2.2 Understanding Ratings
+### 2.1.4 Understanding Ratings
 
 *QuestWorlds* treats **ratings** as a measure of how effective you are at solving problems with the **ability**, and does not limit what you can do with that **ability**, provided your actions are credible in genre.
 
@@ -240,7 +240,7 @@ However, if you wish your character to possess something that is particularly sp
 
 In play, the degree to which you can overcome **story obstacles** with your possessions depends not on any qualities inherent to the objects themselves, but to the **rating** of your relevant **ability**. However the significance of various sorts of gear lies in the types of actions you can credibly propose, and what their impact might reasonably be. An "Invisibility Cloak" **ability** implies very different fictional capabilities than "Souped-up Muscle Car" does.
 
-Conversely, if in the course of play you find your character in a situation without equipment essential to utilize an ability effectively, or where your character's gear is poorly suited to the task at hand, your GM may take into account in assessing credibility-based **modifiers**.
+Conversely, if in the course of play you find your character in a situation without equipment essential to utilize an ability effectively, or where your character's gear is poorly suited to the task at hand, your GM may take into account in assessing credibility-based **situational modifiers** (see §2.5).
 
 ### 2.2.1 Wealth
 
@@ -248,7 +248,7 @@ In *QuestWorlds*, wealth is treated as just another way to overcome **story obst
 
 ## 2.3 Degrees
 
-Your GM uses a scale known as **degrees** throughout the game. **Degree** represent the scale of a **contest** **outcome** (§2.4.6), an **augment** (see §2.6), **modifier** (see §2.5), **benefits** or **consequences** (see §2.8). Your GM also uses the same **degree** as a modifier to a **base resistance** when determining the **resistance's** **TN**.
+Your GM uses a scale known as **degrees** throughout the game. **Degree** represent the scale of a **contest** **outcome** (§2.4.7), an **augment** (see §2.6), **stretches** and **situational modifiers** (see §2.5), **benefits** and **consequences** (see §2.8). Your GM also uses the same **degree** as a modifier to a **base resistance** when determining the **resistance's** **TN**.
 
 To add to the dice roll use the scale of values: +5, +10, +15, +M, +M2
 To subtract from the dice roll use the scale of values: -5, -10, -15, -M, -M2
@@ -305,9 +305,7 @@ A **contest** represents all of your attempts to overcome a **story obstacle** o
 
 You either choose an **ability** that represents any 'key moment' in overcoming that **story obstacle** or answering that **story question**, or a broad **ability** that lets you overcome the whole **story obstacle** or solve the mystery of the **story question**. We call this choosing a **tactic**.
 
-The **target number (TN)** is your **rating**, adding any **augment** (see §2.6), **hindrances**, **modifiers** (see §2.5), **consequences** (see §2.8) or **benefits** (see §2.8).
-
-Your **tactic** might describe your using an **ability** that helps you overcome a task within the **story obstacle** or **story question**:  sneaking past the guards, picking the locks, choosing the right jury or skewering your opponent with your foil. Or, your **tactics** might describe using a broad ability like "Ninja", "Lawyer", or "Fencer" to overcome all those challenges that might form part of the **story obstacle** or **story question**. 
+Your **tactic** might describe your using an **ability** that helps you overcome a task within the **story obstacle** or **story question**:  sneaking past the guards, picking the locks, choosing the right jury or skewering your opponent with your foil. Or, your **tactics** might describe using a broad ability like "Ninja", "Lawyer", or "Fencer" to overcome all those challenges that might form part of the **story obstacle** or **story question**.
 
 Either way, if you succeed at that roll, you overcome the whole **story obstacle** or learn the answer to the **story question**. Or by failing at that roll, you fail to overcome the **story obstacle** or reveal the answer to the **story question**, not just fail at one task.
 
@@ -321,7 +319,19 @@ Credibility depends on the genre, as what is not credible in a gritty police pro
 
 The GM can narrate the remaining tasks that make sense of the story depending on your **success** with that roll, or have them occur 'off-stage' for speed. Think of the way TV or Cinema often cuts to the key moment of drama in a break-in, over showing us the whole heist from beginning to end.
 
-### 2.4.2 Resistance
+### 2.4.2 Target Number, Bonuses and Penalties
+
+Your **ability's** **rating** may be modified by a number of factors. Your **target number**—the number you must roll under or equal to on a D20 to succeed—is your **rating** with any applicable modifiers. Positive modifiers are called **bonuses**; negative modifiers are called **penalties**.
+
+**Bonuses**, may raise your **target number** high enough to gain a **mastery**. **Penalties**, may lower an **target number** to the point where it loses one or more **masteries**.
+
+The following rules sections describe sources of **bonuses** and **penalties**: **augments** (see §2.6), **hindrances** (see §2.7), **stretches** and **situational modifiers** (see §2.5), **consequences** and **benefits** (see §2.8).
+
+These apply to PC's **target numbers** only, and never to the **resistance** (see §2.4.3). The GM sets the **resistance** according to the needs of the story, and thus it is not further modified.
+
+If **penalties** reduce your **target number** to 0 or less, any attempt to use it automatically **results** in  **failure**. You must find another way to achieve your aim.
+
+### 2.4.3 Resistance
 
 Your GM chooses a **resistance** to represent the difficulty of the **story obstacle** or **story question**. By default, the **base resistance** starts at 10.
 
@@ -341,24 +351,25 @@ The **degree** never reduces the **resistance** value below 0. If the GM assesse
 
 All **contests** use the **base resistance** + *optional* **degrees**, except for **contests** to determine **augments**. **Augmenting** always faces the **base resistance**.
 
-### 2.4.3 Resolution Methods
+### 2.4.4 Resolution Methods
 
 The basic resolution methods are as follows:
 
-#### 2.4.3.1 Simple Contest
+#### 2.4.4.1 Simple Contest
 
 The **simple contest** is *QuestWorlds*' primary resolution mechanic for overcoming **story obstacles**, and is used the most often where the outcome is uncertain. It also provides the foundation for other types of uncertain **contest**, including several **long** ones. As such, it receives both an overview of key concepts here as well as a more detailed treatment in §4.
 
 A **simple contest** can be summarized as follows:
 
 1. You and your GM agree upon the terms of the **contest**.
-2. You roll a D20 vs your relevant **target number**, while your GM rolls a D20 vs the **resistance**.
-3. Your GM compares the difference **successes** between the two rolls to assesses the **outcome** (see §2.4.6).
-4. Your GM then narrates the **outcome** of the conflict as appropriate and assesses any **benefits** or **consequences** that arose (see §2.8).
+2. Your **target number (TN)** is your **rating**, adding any **augments** (see §2.6), **hindrances** (see §2.7), **stretches** and **situational modifiers** (see §2.5), **consequences** and **benefits** (see §2.8).
+3. You roll a D20 vs your relevant **target number**, while your GM rolls a D20 vs the **resistance**.
+4. Your GM compares the difference **successes** between the two rolls to assesses the **outcome** (see §2.4.6).
+5. Your GM then narrates the **outcome** of the conflict as appropriate and assesses any **benefits** or **consequences** that arose (see §2.8).
 
 If you enter into conflict with another player rather than a **story obstacle** or **story question** presented by your GM, you both roll your relevant abilities for the **contest** instead of against a GM-set **resistance**, and your GM interprets the **results**, as described above.
 
-#### 2.4.3.2 Assured Contest
+#### 2.4.4.2 Assured Contest
 
 Some **obstacles** don't require a roll to overcome. You’ll just do it and keep going, much as you get dressed in the morning or drive your car to work. We call these kinds of contests **assured** contests because your **victory** is assured. Your GM may want to describe your **victory** as a sweat inducing challenge for you, even though there is no risk of **defeat**, to highlight the heroic struggle of your PC to beat the obstacle, nonetheless.
 
@@ -368,28 +379,29 @@ As your character advances, the challenges that qualify for **assured contests**
 
 Your GM may also use an **assured contest** when there is no interesting story branch from **defeat**. If failing to open the derelict spaceship's hatch means that the story of your exploration of the ancient space hulk would end abruptly, your GM may choose to make it an **assured contest**. **Assured contests** may be used to find clues when your GM is running a mystery and correct application of one of your **abilities** should reveal the information and allow the story to continue, over becoming mired due to a missed roll and missing clue.
 
-Sometimes your GM will decide potential complications could arise in overcoming an **story obstacle** or answering a **story question**. Or they may want to give you a boost if you do particularly well. If so, they will call for you to make a die roll even though your **victory** is not in question. Your GM will use your die roll **outcome** (see §2.4.6) to decide if any unforeseen **consequences** or **benefits** arose from your actions, but still gives you a **victory**.
+Sometimes your GM will decide potential complications could arise in overcoming an **story obstacle** or answering a **story question**. Or they may want to give you a boost if you do particularly well. If so, they will call for you to make a die roll even though your **victory** is not in question. Your GM will use your die roll **outcome** (see §2.4.7) to decide if any unforeseen **consequences** or **benefits** arose from your actions, but still gives you a **victory**.
 
 An **assured contest** can be summarized as follows:
 
 1. You and your GM agree upon the terms of the **contest**.
 2. The GM may decide that you simply gain the **victory** and there are no **consequences** or **benefits** beyond that.
 3. If not the GM conducts a contest.
-4. You roll a D20 vs your relevant **target number**, while your GM rolls a D20 vs the **resistance**.
-5. Your GM compares the difference **successes** between the two rolls to assesses the **outcome** (see §2.4.6).
-6. Your GM then narrates how you obtained your **victory** and any **benefits** or **consequences** that arose.
+4. Your **target number (TN)** is your **rating**, adding any **augments** (see §2.6), **hindrances** (see §2.7), **stretches** and **situational modifiers** (see §2.5), **consequences** and **benefits** (see §2.8).
+5. You roll a D20 vs your relevant **target number**, while your GM rolls a D20 vs the **resistance**.
+6. Your GM compares the difference **successes** between the two rolls to assesses the **outcome** (see §2.4.7).
+7. Your GM then narrates how you obtained your **victory** and any **benefits** or **consequences** that arose.
 
-### 2.4.4 Die Rolls
+### 2.4.5 Die Rolls
 
 To determine how well you use an **ability**, roll a 20-sided die (D20). At the same time, your GM rolls for the **resistance**.
 
-Compare your rolled number with your **target number (TN)** to determine the **result**.
+Compare your rolled number with your **target number (TN)** to determine the **result**. Remember that **bonuses** and **penalties** may mean your **TN** gains or loses a **mastery**.
 
 * **Big Success**: If the die roll is equal to the **TN**, you succeed brilliantly, and gain *two* **successes**. This is the best **result** possible.
 * **Success**: If the die roll is less than the **TN**, you succeed, but there is nothing remarkable about the success. You gain *one* **success**.
 * **Failure**: If the die roll is greater than the **TN**, you fail. Things do not happen as hoped. You gain *zero* **successes**
 
-### 2.4.5 Additional Successes
+### 2.4.6 Additional Successes
 
 You can gain additional **successes** beyond the dice roll. An additional **success** comes from one of two sources.
 
@@ -400,9 +412,9 @@ If you have multiple **masteries** you receive additional successes for **each**
 
 The additional **successes** add to any **success** obtained on the die roll.
 
-If a PC with a **mastery** rolls a **Big Success** they receive an **additional success** for the **mastery** and two **successes** for the **Big Success**, making a total of *three* **successes**.
+If a PC with a **mastery** rolls a **big success** they receive an **additional success** for the **mastery** and two **successes** for the **big success**, making a total of *three* **successes**.
 
-### 2.4.6 Outcome
+### 2.4.7 Outcome
 
 Your **successes** and the **resistance's** successes are compared to determine your overall **outcome** which will be either **victory** or **defeat** for the **contest** as a whole.
 
@@ -416,7 +428,7 @@ For an assured contest:
 
 * You have a **victory** and you gain the **prize** set out when the **contest** was framed.
 
-#### 2.4.6.1 Degrees of Victory and Defeat 
+#### 2.4.7.1 Degrees of Victory and Defeat
 
 Your **degree** is the difference between your **successes** and the **resistance's** **successes**. It is a **degree** of **victory** if you win and a **degree** of **defeat** if you lose.
 
@@ -424,7 +436,7 @@ If you have *two* **successes** and the resistance has *zero* **successes** you 
 
 A lot of the time your GM won't need to figure out the **degrees** as knowing you won or lost is enough.
 
-#### 2.4.6.2 Narrating Outcomes
+#### 2.4.7.2 Narrating Outcomes
 
 Your GM narrates the contest **outcome**. Their narration should take into account the **prize** and the **tactics** used by each side. Your GM may invite you to contribute more detail on your actions as part of that narration, if they wish. But the GM is the final arbiter of how the story progresses as a result of the rolls - provided they respect the **outcome** in which you win or lose the **prize**.
 
@@ -440,7 +452,7 @@ Your GM should avoid robbing your PC of competence by describing your **defeat**
 
 The **degrees** may be more directly used when considering **consequences** and **benefits** (see §2.8)
 
-#### 2.4.6.2 Confusing Ties
+#### 2.4.7.3 Confusing Ties
 
 Your GM will describe most tied **outcomes** as inconclusive standoffs, in which neither of you gets what you wanted.
 
@@ -448,33 +460,21 @@ In some situations, ties become difficult to visualize. Chief among these are **
 
 Your GM can either change the situation on such a tie, introducing a new element that likely renders the original **prize** irrelevant to both participants, or they can resolve the ties in your favor as a **victory**.
 
-#### 2.4.6.3 Victory at a Price
+#### 2.4.7.4 Victory at a Price
 
 Your GM may treat *zero* **degrees** of **victory** as 'victory at a price' and *zero* **degree** of **defeat** as 'defeat with a gift'. The 'price' is a cost that the victor pays for obtaining the prize, a 'gift' is something positive the loser takes away. Your GM may ignore this option, and simply award you or deny you the **prize**, if they cannot think of a dramatically interesting reason to provide a 'price' or 'gift'. Your GM may use **consequences** to represent a 'price' and **benefits** to represent a 'gift', see §2.8. Your GM may also decide that the 'price' or 'gift' is represented by the narration.
 
 * PC one **success** vs. Ath'Zul one **success**, the PC has the higher roll, *zero* **successes** difference, and *zero* **degree** of **victory**: Ath'Zul tries to shake the PCs, his hover bike, weaving in and out of traffic, but the PCs are always on his tail, and catch him at the lights on Bradbury Junction, *by ramming their pursuit car into Ath'Zul's bike, damaging both vehicles*. The GM may award a **consequence** (see §2.8) to represent the damage to the PC's car, injuries from the crash, or displeasure from their commander for damaging more police property.
 
-#### 2.4.6.4 One Outcome, for the PC
+#### 2.4.7.5 One Outcome, For the PC
 
-There is one **outcome** to a **contest** and it always applies to the PC. Your GM does not consider a separate outcome for the **resistance**, instead they narrate the **outcome** based on whether the PCs obtain the **prize** and describe how the story branches for the **resistance** based on their interpretation of that. Rules on **Benefits** and **Consequences** in §2.8 and narration considerations such as victory at a price, only apply to the PC, not the resistance.
+There is one **outcome** to a **contest** and it always applies to the PC. Your GM does not consider a separate outcome for the **resistance**, instead they narrate the **outcome** based on whether the your PC obtains the **prize** and describe how the story branches for the **resistance** based on their interpretation of that. Rules on **benefits** and **consequences** in §2.8 and narration considerations such as 'victory at a price', only apply to your PC, not to the resistance.
 
 The only exception to this is a PC vs. PC contest, where each sides **outcome** needs to be determined.
 
-## 2.5 Modifiers
+## 2.5 Bonuses and Penalties from Tactics
 
-Your **rating** represents a general **ability** to succeed in the narrative, but modifiers reflect specific conditions that may make it easier or harder to overcome particular **story obstacles**. They are applied to your **ability** to get a final **target number** (**TN**).
-
-Positive modifiers are called **bonuses**; negative modifiers are called **penalties**.
-
-**Bonuses**, may raise your **ability** high enough to gain a **mastery**.
-
-**Penalties**, may lower an **ability** to the point where it loses one or more **masteries**.
-
-Your GM should only use modifiers to alter your **target number** due to unusual circumstances you helped to create, or have some control over. If an unusual situation applies to a **resistance**, the GM should choose a **resistance** that reflects that.
-
-**Modifiers apply to PC abilities only, and never to the resistance**. The GM sets the **resistance** according to the needs of the story, and thus it is not further modified.
-
-If **penalties** reduce your **target number** to 0 or less, any attempt to use it automatically **results** in  **failure**. You must find another way to achieve your aim.
+Your GM can give you **bonuses** and **penalties** to alter your **target number** due to unusual circumstances you helped to create, or have some control over. Commonly, your GM gives you a **bonus** or **penalty** because the **tactic** that you chose seems likely to give you an advantage, or a penalty. This will be a **stretch** or a **situational modifier**. If an unusual situation applies to a **resistance**, the GM should choose a **resistance** that reflects that.
 
 ### 2.5.1 Stretches
 
@@ -490,13 +490,13 @@ Your GM should not impose **stretch penalties** on action descriptions that add 
 
 ### 2.5.2 Situational Modifiers
 
-Your GM may also impose **modifiers** when, given the description of the current situation, believability demands that you should face a notable **bonus** or **penalty**. Your GM should choose **modifiers** of +10, +5, –5, or –10. **Modifiers** of less than 5 don’t exert enough effect to be worth the bother. Those higher than 10 give the situational **modifier** a disproportionate role in determining **outcomes**.
+Your GM may also impose **situational modifiers** when, given the description of the current situation, believability demands that you should face a notable **bonus** or **penalty**. Your GM should choose *one* or *two* **degrees** of +10, +5, –5, or –10. **Bonuses** and **penalties** of less than 5 don’t exert enough effect to be worth the bother. Those higher than 10 give the **situational modifier** a disproportionate role in determining **outcomes**.
 
 During a **long contest** (see §5.0), they should typically last for a single **round**, and reflect clever or foolish choices.
 
 ## 2.6 Augments
 
-You may sometimes face **contests** where more than one **ability** may be applicable to the conflict at hand. In such cases, you may attempt to use one **ability** to give a supporting bonus to the main ability you are using to frame the **contest**. This is called an **augment**. For example, if your character has the **abilities** "The Queen's Intelligencer" and "Master of Disguise", you might use the latter to **augment** the former when infiltrating a rival nation's capitol. Similarly, a character with "Knight Errant" and "My Word is my Bond" **abilities** might use one to **augment** the other when in conflict with a **story obstacle** the character has sworn to overcome.
+You may sometimes face **contests** where more than one **ability** may be applicable to the conflict at hand. In such cases, you may attempt to use one **ability** to give a supporting bonus to the main ability you are using to frame the **contest**. This is called an **augment**. It results in a **bonus** to your **target number**. For example, if your character has the **abilities** "The Queen's Intelligencer" and "Master of Disguise", you might use the latter to **augment** the former when infiltrating a rival nation's capitol. Similarly, a character with "Knight Errant" and "My Word is my Bond" **abilities** might use one to **augment** the other when in conflict with a **story obstacle** the character has sworn to overcome.
 
 Abilities that represent special items, weapons, armor, or other noteworthy equipment can be a common source of **augments**. However, this grows tired if over-used and you should try and restrict repeated use  of equipment in this way to **contests** where they are particularly interesting or apropos.
 
@@ -504,7 +504,9 @@ Abilities that represent special items, weapons, armor, or other noteworthy equi
 
 If you have a good idea for an **augment**, propose it to your GM while the **contest** is being framed. When making your proposal, describe how the **augmenting ability** supports the main one in a way that is both *entertaining* and *memorable*. Don't just hunt for mechanical advantage, show your group more about your PC when you **augment**, their attitudes, passions, or lesser known **abilities**. If you are **augmenting** with a **broad ability** like "Fool's Luck", be prepared to describe the unlikely events that tilt the scales in your favor. Your GM will decide whether the **augment** is justified and can refuse boring and uninspired attempts to **augment**, where you are just looking for a bonus to your roll and not adding to the story.
 
-You may only use one of your own **abilities** to **augment** the **ability** you are using in the **contest**, and you may not use an **ability** to **augment** itself. You may not use a **breakout** to augment it's parent **keyword** (see §3.3), or another **breakout** from the parent **keyword**. However, **augments** from other players supporting you can add together with your own, along with other **modifiers**, including those from **benefits** and from **plot augments**.
+You may only use one of your own **abilities** to **augment** the **ability** you are using in the **contest**, and you may not use an **ability** to **augment** itself. You may not use a **breakout** to augment it's parent **keyword** (see §3.3), or another **breakout** from the parent **keyword**. However, **augments** from other player characters supporting you can add together with your own, though are limited to one per PC. 
+
+Your GM should bear in mind the credibility of more than one PC helping you. When persuading someone a cacophony of voices may not help, unless you are trying to intimidate; when fighting someone, only so much backup helps you take your opponent down; when flying a starship into the cave on the asteroid, only some crew activities provide credible help. The GM may thus decide to limit the number of augments from other PCs. Consider a group contest (see §4.2) instead if many PCs want to act against the **resistance**.
 
 If your GM accepts your **augment** proposal, it will be resolved by the method below. The main **contest** then proceeds as normal, with any bonus from the **augment** added onto the **rating** of the **ability** chosen when **framing the contest**. The **augment** remains in effect for the duration of the **contest**.
 
@@ -514,7 +516,7 @@ Your GM treats an **augment** as an **assured contest**.
 
 If the use of the **ability** to augment seems unlikely to fail, your GM simply awards you a **zero* **degree** **bonus**, or +5. If your description of how you were using the **augmenting ability** was dramatic or entertaining, your GM may increase this to a **one* *degree** **bonus**, or +10.
 
-As with any **assured contest** GM might still ask you to roll if there is a risk that the **augment** results in a **penalty** to other **abilities** such as resources or **relationships** (see §6.0), which become stressed in providing the **augment**, or that more variation **bonuses** is possible. 
+As with any **assured contest** GM might still ask you to roll if there is a risk that the **augment** results in a **penalty** to other **abilities** such as resources or **relationships** (see §6.0), which become stressed in providing the **augment**, or that more variation in **bonuses** is possible (such as the **augmenting** ability having several **masteries**).
 
 On a **victory** base the **bonus** of the **augment** off the **degree** of the **victory**. So **zero* **degrees** of **victory** yields a **zero* *degree** bonus (+5). On a **defeat** still award a +5 bonus, but apply a penalty related to **degree** of the **defeat** to the **tactic** used to **augment**, as described above.
 
@@ -552,11 +554,11 @@ If you choose to, or your GM compels you to, act according to a **flaw**, you ga
 
 ## 2.8 Benefits and Consequences
 
-**Contests**, in addition to deciding whether you overcome a **story obstacle** or answer a **story question**, carry additional **consequences**.
+**Contests**, in addition to deciding whether you overcome a **story obstacle** or answer a **story question**, gaining the **prize**, may carry additional **consequences** or **benefits** related to the PC's **outcome**.
 
-Your GM may simply determine these from what makes fictional sense, given the agreed **prize** for the **contest**, as described above. Optionally your GM may impose **consequences** or provide **benefits** if they desire ongoing **penalties** or **bonuses**. Your GM should always respond to the flow of the story, if narrative consequences are enough, they should not reach for additional mechanical **bonuses** or **penalties**. Your GM should use mechanical **bonuses** or **penalties** where it strains credibility that there is no ongoing consequence or benefit from the outcome of the contest.
+Your GM may simply determine narrative **consequences** and **benefits** from what makes fictional sense, given the agreed **prize** for the **contest**, as described above. Optionally, your GM may assign you ongoing **bonuses** and **penalties** that may affect related future **contests**, related to the **outcome** of this **contest**. Your GM should always respond to the flow of the story, if narrative **consequences** are enough, they should not reach for additional mechanical **bonuses** or **penalties**. Your GM should use mechanical **bonuses** or **penalties** where it strains credibility that there is no ongoing **consequence** or **benefit** from the **outcome** of the **contest**.
 
-In a fight, it may strain credibility that a defeat does not leave you impaired for further physical activity. In a display or oratory before the assembled townsfolk, it may strain credibility if they would not later act according to your rousing words. In a romance, it may strain credibility of the wonderful date night, does not improve your chances of taking your relationship to the next level.
+In a fight, it may strain credibility that a **defeat** does not leave you impaired for further physical activity. In a display or oratory before the assembled townsfolk, it may strain credibility if they would not later act according to your rousing words. In a romance, it may strain credibility of the wonderful date night, does not improve your chances of taking your relationship to the next level.
 
 ### 2.8.1 Consequences
 
@@ -568,9 +570,7 @@ After a **contest**, you may suffer **consequences**: literal or metaphorical in
 * In an economic struggle, you lose money, other resources, or opportunities.
 * In a morale crisis, you may suffer bouts of crippling self-doubt.
 
-The GM is the arbiter of when a **consequence** should be applied.
-
-Your GM may assign a penalty to reflect this **consequence**. Your GM should assign a **penalty** that corresponds to a **degree**: -5, -10, -15, or -M. The **degree** will depend on how severe they feel the **consequences** are. If your opponent defeats you, your GM can use the **degree** of the **outcome** as the **degree** of the **penalty**. Whilst this is a good 'rule of thumb' a GM can use their discretion as to the story needs and assign a different **degree** of penalty.
+Your GM may assign a **penalty** to reflect this **consequence**. Your GM should assign a **penalty** that corresponds to a **degree**. The **degree** will depend on how severe they feel the **consequences** are. If your opponent defeats you, your GM can use the **degree** of the **outcome** as the **degree** of the **penalty**. Whilst this is a good 'rule of thumb' a GM can use their discretion as to the story needs and assign a different **degree** of penalty.
 
 If you **defeat** your opponent, your GM may still decide that you suffer a **consequence**, representing fatigue, exhaustion, disapproval or other expenditure of resources on earning the **prize**.
 
@@ -580,15 +580,15 @@ If you **defeat** your opponent, your GM may still decide that you suffer a **co
 * In an economic struggle, you take significant losses to win market share.
 * In a morale crisis, your resolve alienates the cowardly.
 
-If you have *zero* **degrees** of **victory** your GM might assign a **consequence** of *zero* **degrees** or *one* **degree**  to represent effort expended in the **victory**. If you have *one* **degree** of **victory**, your GM might assign a **consequence** of *one* **degree** , for similar reasons, if it makes dramatic sense.
+If you have *zero* **degrees** of **victory** your GM might assign a **penalty** of *zero* **degrees** or *one* **degree**  to represent effort expended in the **victory**. If you have *one* **degree** of **victory**, your GM might assign a **penalty** of *one* **degree** , for similar reasons, if it makes dramatic sense.
 
 #### 2.8.1.2 Ending a PC's story
 
-Your GM should not impose a narrative **consequence** on your PC that takes them permanently out of the game, such as by death, without discussion. Some games allow characters to be taken out of the story by the result of a dice roll, but QuestWorlds is a co-operative storytelling game where a failed dice roll should not automatically remove a character from play. However, you, or the GM, might feel that your PC's story has come to an end with this failure, and you can consent to that outcome. Usually, your GM should refrain from suggesting this option unless the story itself suggests it.
+Your GM should not impose a narrative **consequence** on your PC that takes them permanently out of the game, such as by death, without discussion. Some games allow characters to be taken out of the story by the result of a dice roll, but QuestWorlds is a co-operative storytelling game where a failed dice roll should not automatically remove a character from play. However, you, or the GM, might feel that your PC's story has come to an end with this failure, and you can consent to that **outcome**. Usually, your GM should refrain from suggesting this option unless the story itself suggests it.
 
 A story-ending **outcome** may not just be death. It can include anything that takes the PC out of play, such as exile, dismissal from the secret agency, a broken heart. In some cases the ending to your PCs story could be ambiguous, allowing the PC to return at a future point when the story makes their salvation possible.
 
-Your GM might declare that the stakes of a particular **contest** place a PC at risk of this being a story ending moment, before the dice are rolled. This may be important for credibility in the story that the group is telling. In this case there should be an option for the PC to avoid, or backdown from a **contest**, that has a risk of ending their story.
+Your GM must declare that the stakes of a particular **contest** place a PC at risk of this being a story ending moment, before the dice are rolled. This may be important for credibility in the story that the group is telling. In this case there should be an option for the PC to avoid, or backdown from a **contest**, that has a risk of ending their story. You should usually use a **long contest** for any conflict where a PC's continuation in the story is at stake. This should be a dramatic moment, truly worth focusing at a task level on, not rolled up into conflict resolution by a **simple contest**.
 
 ### 2.8.2 Benefits
 
@@ -608,9 +608,7 @@ Remember that the **benefit** does not have to be directly related to the **abil
 * In an economic struggle, you gain status as one of the wealthy elite.
 * In a morale crisis, your rallied troops strengthen your army.
 
-The GM is the arbiter of when a **benefits** should be applied.
-
-Your GM may assign a **bonus** to reflect this **benefit**. Your GM may assign a **bonus** that corresponds in **degree**: +5, +10, +15, or +M. If you win the **prize**, your GM may choose to use **degree** of your **outcome** as the **degree** of the **bonus**. Whilst this is a good 'rule of thumb' a GM can use their discretion as to the story needs and assign a different **degree** of **bonus**.
+Your GM may assign a **bonus** to reflect this **benefit**. Your GM may assign a **bonus** that corresponds in **degree**. If you win the **prize**, your GM may choose to use **degree** of your **outcome** as the **degree** of the **bonus**. Whilst this is a good 'rule of thumb' a GM can use their discretion as to the story needs and assign a different **degree** of **bonus**.
 
 If you lost the **prize**, your GM may still decide that you gain a **benefit**, representing learning, gratitude, or resolve developed from losing the **prize**.
 
@@ -620,7 +618,7 @@ If you lost the **prize**, your GM may still decide that you gain a **benefit**,
 * In an economic struggle, your organization becomes leaner and fitter.
 * In a morale crisis, you reflect on your failure and gain new inner strength.
 
-On *zero* **degrees** of **defeat** your GM might assign a **benefit** of *zero* **degrees** or *one* **degree** to represent a glimmer of hope for the PC despite the **defeat**, such as gaining an insight into the **resistance's** weakness. If you have *one* **degree** of **defeat** your GM may assign a **benefit** of *zero* **degrees**, for similar reasons, if it makes dramatic sense.
+On *zero* **degrees** of **defeat** your GM might assign a **bonus** of *zero* **degrees** or *one* **degree** to represent a glimmer of hope for the PC despite the **defeat**, such as gaining an insight into the **resistance's** weakness. If you have *one* **degree** of **defeat** your GM may assign a **bonus** of *zero* **degrees**, for similar reasons, if it makes dramatic sense.
 
 ### 2.8.3 Recovery and Healing
 
@@ -642,9 +640,9 @@ Your GM should almost always resolve healing attempts as **simple contests**. An
 
 #### 2.8.3.2 Healing Resistances
 
-The **resistances** to remove a states of adversity is the **base resistance** modified by the **degree** of the **consequence**. So if you were suffering from *one* **degree** of consequence, of -10, you modify the **base resistance** by *one* **degree** **modifier** of +10.
+The **resistances** to remove a states of adversity is the **base resistance** modified by the **degree** of the **consequence**. So if you were suffering from *one* **degree** of **consequence** (-10), you modify the **base resistance** by *one* **degree** (+10).
 
-Your GM can more easily calculate this as the **base resistance** with a **bonus** that is equal to and opposite your **penalty**. So if you have a **penalty** of -5, it is **base resistance** +5; if you have a **penalty** of -5, it is **base resistance** +5 and so on.
+Your GM can more easily calculate this as the **base resistance** with a **bonus** that is equal to and opposite your **penalty**. So if you have a **penalty** of *zero* **degrees** (-5), it is **base resistance** +5; if you have a **penalty** of *one* **degree** (-10), it is **base resistance** +10 and so on.
 
 When you make a successful healing attempt, you remove the **penalty**.
 
@@ -660,9 +658,7 @@ A PC may apply **bonuses** from multiple **benefits** to a single **contest**, o
 
 Because it is confusing to track both **benefits and consequences** against the same **ability** your GM may simply rule that one cancels the other out. This is particularly true of social **contest**s where a moment of shame can erase your previous triumphs, or your confidence eroded by a **failure**. Physical benefits may cancel out, flushed with victory you may be able to ignore pain, but it may defy credibility for wounds to be healed by an athletic performance.
 
-Your GM may simply rule that **benefits** and **consequences** cancel out, or they may take the difference between the two benefits and create a new one. For example if you have a +10 bonus from impressing the crowd with your previous performance in the dance **contest**, but then suffer an injured ankle with a **penalty** of -5, your GM may rule that your twisted ankle cancels out your energy from the last performance, or your GM might rule that your success sees you through the pain, but you are now only +5 to impress the crowd.
-
-Your GM may prefer to cancel out **degrees** so that if you have a *three* **degree** **benefit** from your popularity with the village following saving their holy idol, giving you a +M bonus, but you make a minor social gaff at the mayor's daughter's wedding of *zero* **degrees** , you drop a **degree** to *two*, and a +15 bonus.
+Your GM may simply rule that **benefits** and **consequences** cancel out, or they may take the difference between the two benefits and create a new one. For example if you have a *one* **degree** **bonus** from impressing the crowd with your previous performance in the dance **contest**, but then suffer an injured ankle with a *zero* **degree** **penalty** of -5, your GM may rule that your twisted ankle cancels out your energy from the last performance, or your GM might rule that your success sees you through the pain, but you are now only *zero* **degrees** of **benefit** to impress the crowd.
 
 ## 2.9 Mismatched and Graduated Goals
 
@@ -674,9 +670,9 @@ In a **complete mismatch**, neither side is at all interested in preventing the 
 
 In most instances, the **contest** goals are not actually **mismatched**, but **graduated**. You have both a **primary** and a **secondary** goal. In this case, your GM frames the **contest**, identifying which goal is which. It is possible to have **tertiary** goals and so on, but avoid needless sub-division.
 
-On a **victory** you choose as many of the **graduated** goals as you have **degrees**. On *one* **degree** of **victory** you choose one; on *two* **degrees** of victory you choose two, and so on. Normally, the GM should give the player the choice of which goals they wish to choose. This goes to the heart of character - what is more important to you?
+On a **victory** you choose one more **graduated** goals than you have **degrees**. On *zero* **degrees** of **victory** you choose one; on *one* **degree** of victory you choose two, and so on. Normally, the GM should give the player the choice of which goals they wish to choose. This goes to the heart of character - what is more important to you?
 
-The nurse has **graduated** goals: escape the huntsman and save the children. On a *one* **degree** of **victory** she will have to decide between capture and the safety of the children. On *two* **degrees**  of **victory**, she can have both.
+The nurse has **graduated** goals: escape the huntsman and save the children. On a *zero* **degree** of **victory** she will have to decide between capture and the safety of the children. On *one* **degrees**  of **victory**, she can have both.
 
 ## 2.10 Mobs, Gangs, and Hordes
 
@@ -702,7 +698,7 @@ If you are not participating in the **contest** and have no stake in its **outco
 Otherwise, your GM will start by determining your degree of influence over the **outcome**. They are either:
 
 * Determining factors: The success of the effort depends mostly on your choices and successes. For example, you might be a military leader facing a force of roughly equal potency. As all else is equal, the better general will win the day. In this instance, your **tactic** should be a relevant leadership **ability**.
-* Contributors: One of the forces enjoys a clear advantage over the others, but your efforts may tip the balance in favor of a chosen side. Your GM will give you a **TN** to roll against that represents the strength of your force, but you can **augment** that **TN** with an appropriate leadership **ability**.
+* Contributors: One of the forces enjoys a clear advantage over the others, but your efforts may tip the balance in favor of a chosen side. Your GM will give you a **rating** to roll against that represents the strength of your force, but you can **augment** that **rating** with an appropriate leadership **ability**.
 * Acted Upon: You have little influence over the **outcome**, but are stuck in the middle of the conflict and must struggle to prosper within it. The GM predetermines the **outcome** of the overall competition on dramatic grounds. To determine your fate in the battle, you **contest** against a **resistance** determined by the GM, derived from the overall battle **outcome**.
 
 ## 2.14 Resistance Progression
@@ -711,7 +707,7 @@ Your GM may decide that **resistance** to your actions gets harder, as the campa
 
 Your GM should adopt a strategy that mimics a TV show where the **resistance** does not increase during a season of the show, allowing our protagonists to get more competent as the show progresses towards its climax. In the next season though the **resistance** usually goes up, and the writers reflect this with more challenging opposition in the new season of the show. At the same time, the opposition that was tough in the first season, now become mooks that can be easily dispatched to show the increased competence of the protagonists.
 
-In that case your GM should increment the **base resistance** by +5, +10 or +15 for the next campaign you play with the same characters. The size of the change should reflect the increase in your previous **abilities** in the last campaign. For example, if in the last season you increased your **occupation keyword** by +10, your GM may decide to increase the **resistance** by +5 or +§0 to reflect the more challenging opposition in the new campaign. The GM should consider triggering **resistance progression** when your PCs find it difficult to earn **experience points** because they too regularly outclass even the climatic encounters (the boss monsters) of their game.
+In that case your GM should increment the **base resistance** by *one* to *three** **degrees** for the next campaign you play with the same characters. The size of the change should reflect the increase in your previous **abilities** in the last campaign. For example, if in the last season you increased your **occupation keyword** by +10, your GM may decide to increase the **resistance** by *one* or *two* **degrees** to reflect the more challenging opposition in the new campaign. The GM should consider triggering **resistance progression** when your PCs find it difficult to earn **experience points** because they too regularly outclass even the climatic encounters (the boss monsters) of their game.
 
 Your GM should also take into account that the opposition you were improving with respect to the previous season should now be considered more-easily defeated mooks, and use lower **ratings** for them when they appear in the story or even allow them to be taken out with an **assured contest**.
 
@@ -767,12 +763,12 @@ Treat **keywords** both as a raisable **ability**. To ensure that the potential 
 
 If your character is particularly good at an aspect of an umbrella **keyword**, you create a **breakout ability** under the **keyword** at a **bonus** from the **rating** of the **keyword** you write these specialized **breakout abilities** under the **keyword**, along with how much they've improved from the **keyword**:
 
-Detective 17
+Detective 15
 
-* Deduction +2
-* Hard Drinking +1
+* Deduction +5
+* Hard Drinking +5
 
-In this example, whilst the **rating** for most **contests** in which Detective was an appropriate **tactic** would be 17, for contests involving Deduction it would be 19.
+In this example, whilst the **rating** for most **contests** in which Detective was an appropriate **tactic** would be 15, for contests involving Deduction it would be 20.
 
 **Breakouts** may be similar to the list of **abilities** that a **package** would include. However, as these tend to be assumed in the umbrella **keyword** which is treated as an **ability** it is more interesting to have them *differentiate* your PC as an archetype from others. For example, if you want to portray the *stereotype* of the hard-drinking detective, you might add that as a **breakout** under the **keyword**. That **breakout** might also be flagged as a **flaw**.
 
@@ -839,10 +835,10 @@ There is no limit to the number of **abilities** you can gain from a single sent
 A **simple contest** can be summarized as follows:
 
 1. You and your GM agree upon the terms of the **contest**.
-2. You choose a **tactic**, and figure your PC's **target number** (**TN**) using the **rating** and any **modifiers**. The PCs **TN** is the **rating** of their **ability**, plus or minus **modifiers** the GM may give you.
+2. You choose a **tactic**. Your **target number (TN)** is your **rating**, adding any **augments** (see §2.6), **hindrances** (see §2.7), **stretches** and **situational modifiers** (see §2.5), **consequences** and **benefits** (see §2.8).
 3. Your GM determines the **resistance**.  If two PCs contend, your opponent figures their **TN** as described in step 2.
 4. You roll a D20 vs your relevant **ability**, while your GM rolls a D20 vs the **resistance**.
-5. Your GM compares the difference **successes** between the two rolls to assesses the **outcome** (see §2.4.6).
+5. Your GM compares the difference **successes** between the two rolls to assesses the **outcome** (see §2.4.7).
 6. Your GM then narrates the **outcome** of the conflict as appropriate and assesses any **benefits** or **consequences** that arose (see §2.8).
 7. Award **experience points** if appropriate (see §8.1).
 
@@ -855,9 +851,9 @@ A **group simple contest** may pit all of you against a single **resistance**, r
 ### 4.2.1 Procedure
 
 1. Your GM **frames the contest**.
-2. You choose a **tactic**, and figure your PC's **target number** (**TN**) using the **rating** and any **modifiers**. Your **TN** is the **rating** of their **ability**, plus or minus **modifiers** the GM may give you.
+2. You choose a **tactic**. Your **target number (TN)** is your **rating**, adding any **augments** (see §2.6), **hindrances** (see §2.7), **stretches** and **situational modifiers** (see §2.5), **consequences** and **benefits** (see §2.8).
 3. Your GM determines the **resistance**.  If two PCs contend, your opponent figures their **TN** as described in step 2.
-4. For each of your group, roll a D20 vs your relevant **ability**, while your GM rolls a D20 vs the **resistance**. Your GM compares the difference **successes** between the two rolls to assesses the individual **outcome** (see §2.4.6).
+4. For each of your group, roll a D20 vs your relevant **ability**, while your GM rolls a D20 vs the **resistance**. Your GM compares the difference **successes** between the two rolls to assesses the individual **outcome** (see §2.4.7).
 5. The side with the highest number of **victories** is the overall victor in the **contest**. Award **experience points** if appropriate (see §8.1).
 6. Describe the **outcome** based on the agreed **prize**.
 
@@ -932,7 +928,7 @@ In a **scored contest** there is no distinction between aggressor and defender, 
 ### 5.1.1 Procedure
 
 1. Your GM **frames the contest**.
-2. You choose a **tactic**, and figure your PC's **target number** (**TN**) using the **rating** of your **ability**, plus or minus **modifiers** the GM may give you.
+2. You choose a **tactic**. Your **target number (TN)** is your **rating**, adding any **augments** (see §2.6), **hindrances** (see §2.7), **stretches** and **situational modifiers** (see §2.5), **consequences** and **benefits** (see §2.8).
 3. Your GM determines the **resistance**. (If two PCs contend, your opponent figures their **TN** as described in step 2.)
 4. Carry out one or more **rounds**, repeating as necessary.
     1. Your GM decides which contender has the initiative, the 'aggressor', and describes what they are trying to do to achieve the **prize**. The 'defender' describes how they counter the aggressor's attempt to seize the **prize**. If it is not obvious from the unfolding narrative, your GM should choose your PC as the 'aggressor'.
@@ -990,7 +986,7 @@ Your GM treats the half the difference in **resource points**, rounding up, as t
 |7-8|4|
 |9+|5|
 
-Your GM applies results as described in 2.4.6.1 Narrating Outcomes, including assigning **benefits** and **consequences**.
+Your GM applies results as described in §2.4.7.2, including assigning **benefits** and **consequences**.
 
 ### 5.1.4 Parting Shot
 
@@ -1041,7 +1037,7 @@ You may lose some pairings amongst the PCs, but still win if the last participan
 ### 5.2.1 Procedure
 
 1. Your GM **frames the contest**.
-2. You choose a **tactic**, and figure your PC's **target number** (**TN**) using the **rating** of your **ability**, plus or minus **modifiers** the GM may give you.
+2. You choose a **tactic**. Your **target number (TN)** is your **rating**, adding any **augments** (see §2.6), **hindrances** (see §2.7), **stretches** and **situational modifiers** (see §2.5), **consequences** and **benefits** (see §2.8).
 3. The GM determines the **resistance**. If two PCs contend, your opponent figures their **TN** as described in step 2.
 4. The PCs choose their opponents in order of their **TN** where it makes sense. Otherwise your GM will allocate opponents to you dependent on what makes narrative sense.
 5. Establish an order of the paired **contests**. There is no significant advantage to going first, but use your group's **TN**s from highest to lowest if no other option presents itself.
@@ -1120,7 +1116,7 @@ An **extended contest** consists of one or more **rounds**, in which you perform
 ### 5.3.1 Procedure
 
 1. Your GM **frames the contest**.
-2. You choose a **tactic**, and figure your PC's **target number** (**TN**) using the **rating** of your **ability**, plus or minus **modifiers** the GM may give you. Figure your starting **advantage point (AP)** total (see §5.3.2.1).
+2. You choose a **tactic**. Your **target number (TN)** is your **rating**, adding any **augments** (see §2.6), **hindrances** (see §2.7), **stretches** and **situational modifiers** (see §2.5), **consequences** and **benefits** (see §2.8). Figure your starting **advantage point (AP)** total (see §5.3.2.1).
 3. The GM determines the **resistance**. The GM opposes the PC with a **resistance**—the harder the task or tougher the opponent, the higher the **resistance**. The GM figures starting **APs** for the **resistance** (see §5.3.2.1).
 4. Carry out one or more **rounds**, repeating as necessary.
     1. Each **round** consists of two **exchanges**: an action and immediate response.
@@ -1136,7 +1132,7 @@ An **extended contest** consists of one or more **rounds**, in which you perform
 
 #### 5.3.2.1 Starting AP Totals
 
-You describe your action towards the desired **prize** and what **ability** you use. The **ability** used in the contest can be varied, but **APs** are always calculated on the first **ability** that you use in a contest. That **ability** must be used in the first **round**. Figure your starting **advantage point (AP)** total using the **TN**, including all **modifiers** and **augments**. The **AP** include +20 for each level of **mastery**, and can also be increased by **followers**.
+You describe your action towards the desired **prize** and what **ability** you use. The **ability** used in the contest can be varied, but **APs** are always calculated on the first **ability** that you use in a contest. That **ability** must be used in the first **round**. Figure your starting **advantage point (AP)** total using the **TN**. The **AP** include +20 for each level of **mastery**, and can also be increased by **followers**.
 
 The GM figures starting **APs** for the **resistance** from the **resistance** **TN**.
 
@@ -1169,8 +1165,6 @@ The number of advantage points lost by a contestant is a multiplier of their bid
 #### 5.3.2.5  Followers and Advantage Points
 
 **Followers** can act in different ways during a **contest**, **augmenting** you with their **abilities** or allowing you to use one of your **abilities** as if it were your own. Alternatively, a **follower** with a relevant **ability** or **keyword** can simply add their **APs** to the PC’s at the beginning of the **contest**.
-
-Remember to figure any **modifiers** into your **follower’s** **ability** before adding it to your starting **AP** total.
 
 Neither you nor the GM makes rolls for **followers**. Instead, their actions are subsumed into yours. The **follower’s** relevant **ability** or **keyword** is used solely as a source of **advantage points**.
 
@@ -1261,7 +1255,7 @@ Sometimes a contest will be a free-for-all involving three or more groups.
 ### 5.4.1 Procedure
 
 1. Your GM **frames the contest**.
-2. You choose a **tactic**, and figure your PC's **target number** (**TN**) using the **rating** of your **ability**, plus or minus **modifiers** the GM may give you. Figure your starting **advantage point (AP)** total (see §5.3.2.1).
+2. You choose a **tactic**. Your **target number (TN)** is your **rating**, adding any **augments** (see §2.6), **hindrances** (see §2.7), **stretches** and **situational modifiers** (see §2.5), **consequences** and **benefits** (see §2.8). Figure your starting **advantage point (AP)** total (see §5.3.2.1).
 3. The GM determines the **resistance**. The GM opposes the PC with a **resistance**—the harder the task or tougher the opponent, the higher the **resistance**. The GM figures starting **APs** for the **resistance** (see §5.3.2.1).
 4. You describe your action towards the desired **prize** and bid **APs*** (see §5.3.2.2).
 5. The GM describes actions for the resistance and bids **APs** (see §5.3.2.2).
@@ -1365,11 +1359,9 @@ When you try to use one of these relationships to solve a problem, your **tactic
 
 If you succeed, the **supporting character** helps you solve the problem. If you fail, they don’t. As with any **ability**, you must still specify how the NPC goes about overcoming the **story obstacle** or answering the **story question**. Calls on relationships are almost always **simple contests**.
 
-In crucial situations, it may seem dramatically inappropriate for you to solve a problem indirectly, by working through others. Your GM can expose the **supporting character** to serious risk. If the character dies or otherwise suffers a change of status that renders them useless to you, you permanently lose the relationship **ability**.
+In crucial situations, it may seem dramatically inappropriate for you to solve a problem indirectly, by working through others. 
 
-Before putting **supporting characters** at serious risk, your GM should make sure the players understand the magnitude of the possible consequences.
-
-When **supporting characters** undertake significant risk, the **supporting character** may suffer a **consequence of defeat** commensurate with the level of the **defeat** in the **contest**. Or it may simply be your relationship that is damaged or destroyed.
+You may expose the **supporting character** to serious risk. When **supporting characters** undertake significant risk, the **supporting character** may suffer a **consequences** commensurate with the **degree** of the **defeat** in the **contest**. Or it may simply be your relationship that is damaged or destroyed. Your GM should feel more at liberty to frame a contest with **supporting character** death, exile, or breakdown as an outcome than with a PC. If the character dies or otherwise suffers a change of status that renders them useless to you, you lose use of the relationship **ability** until your next **advance** (see §8.2) where you can replace them. Your GM should work with you to introduce a replacement at an appropriate moment in the fiction. Before putting **supporting characters** at serious risk, your GM should make sure the players understand the magnitude of the possible consequences.
 
 ## 6.2 Allies
 
@@ -1377,7 +1369,7 @@ An **ally** is a character of roughly the same level of accomplishment as you, o
 
 ## 6.3 Patrons
 
-**Patrons** enjoy greater access to assets than you, either through personal ownership (as in a Merchant Prince) or authority (as in the governor of a province). They may lend you advice or provide you with assets but are too busy and important to personally perform tasks for you. They may hire you to do jobs, or issue orders within a command structure to which you both belong.  
+**Patrons** enjoy greater access to assets than you, either through personal ownership (as in a wealthy entrepreneur or rich aristocrat) or authority (as in the governor of a state or province or the head of an organization). They may lend you advice or provide you with assets but are too busy and important to personally perform tasks for you. They may hire you to do jobs, or issue orders within a command structure to which you both belong.  
 
 When you roll your **patron** relationship, your GM adjusts the resistance class depending on what you have done for them lately.
 
@@ -1389,7 +1381,7 @@ You can describe a **contact** as being a particular individual, or as a group o
 
 ### 6.4.1 Occupational Contacts
 
-Any **occupational keyword** can be treated as a source of **contacts**. However, using an **occupational keyword** as a source of **contacts** will always be a **stretch**. To more reliably draw on particular **contacts** associated with your occupation, you should take an explicit ability. Use a **breakout ability** if you are using **umbrella keywords**.
+Any **occupational keyword** can be treated as a source of **contacts**. However, using an **occupational keyword** as a source of **contacts** will always be a **stretch** (see §2.5). To more reliably draw on particular **contacts** associated with your occupation, you should take an explicit ability. Use a **breakout ability** if you are using **umbrella keywords**.
 
 ## 6.5 Followers
 
@@ -1415,16 +1407,6 @@ You can improve these **abilities** through the expenditure of **experience poin
 
 You may use any of your **sidekick’s abilities** as your own. The **sidekick** can go off and do things without you.
 
-### 6.5.2 Replacing Lost Sidekicks
-
-As a **consequence of defeats** in which they participated, **sidekicks** can be killed or leave your service permanently.
-
-Defeat in physical **contests** can lead to literal death. Metaphorical deaths from non-violent **contests** indicate they break up with you. The **sidekick** may angrily withdraw from your service, but is more likely to sorrowfully retire. You may be able to bring a **sidekick** back from metaphorical death by overcoming **story obstacles**.
-
-If you lose a **sidekick**, you may create a new one without needing to spend a **experience point**. You must explain how the new **sidekick** has come to be your new **follower**.
-
-You may find it convenient to promote **retainers** to **sidekick** status, giving them names and personalities, with a sudden improvement in **abilities** and **ratings** to match.
-
 ### 6.5.3 Retainers
 
 A **retainer** is a more or less anonymous servant or helper. You may specify a single **retainer**, or, where appropriate to your character concept, an entire staff of them.
@@ -1433,11 +1415,9 @@ Like any other **ability**, a **retainer** **ability** allows you to overcome re
 
 **Retainers** generally regard you with all the affection and loyalty due to an employer or master. If you treat them more poorly than is expected for their culture, your GM should increase the **resistance class** of attempts to make use of their talents.
 
-If you lose **retainers** for any reason, you can replace them simply by providing a convincing explanation of how you go about it.
-
 ## 6.6 Relationships as Flaws
 
-Certain relationships with **supporting characters** act as **flaws**. They impose obligations on you, prompting your GM to present you with **story obstacles** you have no choice but to overcome or **story questions** you need to answer.
+Certain relationships with **supporting characters** act as **flaws**. They impose obligations on you, prompting your GM to present you with **story obstacles** you have no choice but to overcome or **story questions** you need to answer. Your GM should award you an **experience point** at the conclusion of any session of play where you or your GM created dramatic complications for you via a **relationship** that is a flaw.
 
 ### 6.6.1 Dependents
 
@@ -1493,7 +1473,7 @@ To summarize:
 
 ## 7.2 Success with a Story Point
 
-You can burn a **story point** to gain an additional **success** (see §2.4.5)
+You can burn a **story point** to gain an additional **success** (see §2.4.6)
 
 ## 7.3 Plot Edits
 
@@ -1555,6 +1535,7 @@ When you accumulate 10 **experience points**, you can buy an **advance**. An **a
 - a new standalone **ability** at 10.
 - Turn a stand-alone **ability** into a **keyword** by adding a new +5 breakout **ability** to it.
 - Drop a **flaw**, or turn it into an **ability** if story appropriate and agreed with the GM.
+- Replace a **supporting character** who has been lost (see §6.1).
 
 In addition, if you have less than three **flaws**, you may add another, provided it fits the story, when you take an **advance**.
 
@@ -1626,7 +1607,7 @@ Similar communities in the genre, should have the same set of **resources**.
 
 ### 9.1.2 Rating Resources
 
-Your GM distributes each of the **degrees** 0-4 between the five **resources**. So each  of the **modifiers**: +M, +15, +10 +5 and 0 should apply to one resource. Note that the size of the group doesn’t affect the **degrees**.
+Your GM distributes each of the **degrees** 0-3 between the four of the five **resources**. The last resource has no **bonus** So each  of the **degrees**: 3 (+M), 2(+15), 1(+10) 0(+5) and 0 should apply to one resource. Note that the size of the group doesn’t affect the **degrees**.
 
 ### 9.1.3 Community Questionnaires
 
@@ -1727,7 +1708,7 @@ Your GM may decide that the community's **degree** in a **resource** is temporar
 : The **TN** for a **moderate resistance class**, from which all other **resistance classes** are figured as a **bonus** or **penalty**.
 
 **Benefit of Victory**
-: Long term positive modifier, because you won a **contest**, against a challenging opponent (not -6 or less than your **ability**). Usually a **state of fortune**.
+: Long term positive **bonus**, because you won a **contest**, against a challenging opponent (not -6 or less than your **ability**). Usually a **state of fortune**.
 
 **Bid**
 : Also an **AP Bid** or **advantage point bid** is your wager in an **extended contest**.
@@ -1772,7 +1753,7 @@ Your GM may decide that the community's **degree** in a **resource** is temporar
 : In a **scored contest** you can choose a defensive **tactic** which reduces the **resolution points** you lose on a negative **result**.
 
 **Degree**
-: The scale of a **modifier** (**bonus** or **penalty**); the difference between the **successes** of the victor and the loser in a **contest**; the scale of the **resistance**.
+: The scale of a modifier (**bonus** or **penalty**); the difference between the **successes** of the victor and the loser in a **contest**; the scale of the **resistance**.
 
 **Dependent**
 : A **supporting character** who depends on your PC.
@@ -1846,9 +1827,6 @@ Your GM may decide that the community's **degree** in a **resource** is temporar
 **Milestone Advancement**
 : A method for improving a character where the GM declares when you receive an **advance**.
 
-**Modifiers**
-: Adjustments to a **target number** due to circumstance.
-
 **Mastery**
 : An **ability** **score** that rises above 20 is said to have a **mastery**.
 
@@ -1905,6 +1883,9 @@ Your GM may decide that the community's **degree** in a **resource** is temporar
 
 **Sidekick**
 : A fleshed out **follower** of your PC who can act independently.
+
+**Situational Modifier**
+: A **bonus** or **penalty** modifying a **target number** due to notably clever or foolish **tactics**.
 
 **Supporting Characters**
 : Additional characters under the player's control that play a supporting role to their PC. 
