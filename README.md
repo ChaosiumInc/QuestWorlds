@@ -8,6 +8,10 @@ Formatted for distribution and browsable online versions of the QuestWorlds SRD 
 
 If you wish to give feedaback or suggestions about the rules, point out errors in the text, or are otherwise interested in contributing to the SRD's development, please review [the contribution guidelines](CONTRIBUTING.md) to learn how to get involved.
 
+## AnyDice
+
+If you want to understand the numbers behind opposed D20, with masteries, there is an AnyDice page at: https://anydice.com/program/1f4cb
+
 ## SRD Implementation Details
 
 ### Markdown
