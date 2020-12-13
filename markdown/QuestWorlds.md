@@ -1031,7 +1031,7 @@ If you fail, your effort is wasted and the score against you increases, as it wo
 
 As in a **scored contest** between a single PC and an opponent, only one **simple contest** per pair of adversaries occurs each **round**. Usually the PCs make up one team, and their antagonists the other.
 
-A **group scored contest** continues until one side has no active participants. If you **defeat** your opponent you can pair with a new opponent. The new opponent might be unengaged, but might also be engaged in an existing pairing. When you pair with a new opponent, you begin a new **contest**. If your opponent is already engaged in a **contest**, you participate in the existing **resolution** points tally. Alternatively, if you are unopposed, you may choose to **assist**. Of course, you may be later engaged by an opponent who becomes free yourself.
+A **group scored contest** continues until one side has no active participants. If you **defeat** your opponent you can pair with a new opponent. The new opponent might be unengaged, but might also be engaged in an existing pairing. When you pair with an unengaged opponent, you begin a new **contest**. If your opponent is already engaged in a **contest**, you participate in the existing **contest** and **resolution** points tally. You and your opponent roll each round, as does the other PC who is engaged with them, and you both score **resolution points**, for and against, tracking against the same total. Alternatively, if you are unopposed, you may choose to **assist**. Of course, you may be later engaged by an opponent who becomes free yourself.
 
 You may lose some pairings amongst the PCs, but still win if the last participant standing is a PC; otherwise if the last participant belongs to the opposition you lose.
 
@@ -1047,8 +1047,8 @@ You may lose some pairings amongst the PCs, but still win if the last participan
     2. Conduct a **simple contest** as normal, but once the **outcome** has been determined, it becomes a number of **resolution points** scored by the winning side. Tied **results** leave the score unchanged.(see §5.1.2)
     3. The first to accumulate a total of 5 **resolution points** wins; their opponent is knocked out of the **contest** and loses the **prize**.
     4. The winner has an opportunity to perform a **parting shot**.
-    5. As one of a pair is eliminated from the **group scored contest**, their victorious opponents may then move on to engage new targets, starting new **contests**, which are then added to the end of the existing sequence.
-7. The group wit the last undefeated contestant wins.
+    5. As one of a pair is eliminated from the **group scored contest**, their victorious opponents may then move on to engage new targets, either starting new **contests** with an unengaged opponent or joining an existing one as a new pairing but using the existing totals of **resolution points**. These new contest are added to the end of the existing roster.
+7. The group with the last undefeated contestant wins.
 8. Award **experience points** if appropriate (see §8.1).
 9. Describe the **outcome** based on the **story obstacle** or **story question**.
 
@@ -1106,7 +1106,11 @@ When you wish to join a **scored contest** in progress, you and your GM should d
 
 ### 5.2.9 Switching Abilities
 
-You may describe an action in a **scored contest** that is not covered by the **ability** that you started the contest with. There are two possibilities here: either you are trying to provide color to your actions in the **round**, without seeking to gain advantage, or you are seeking to gain advantage over your opponent with a novel **tactic**. In the former case, you can continue to use the **ability** you started the contest with, as you should not be penalized for wanting to enhance the contest with colorful or entertaining descriptions. In the latter case you should switch **abilities**, and your GM must decide if the **resistance** changes because of your new **ability**. Your GM is encouraged to reward **tactics** that exploit weaknesses that have been identified in the story so far with a lower **resistance**. Sometimes your GM may respond with a higher **resistance** because your **tactic** looks less likely to succeed due to conditions already established in the story. 
+You may describe an action in a **scored contest** that is not covered by the **ability** that you started the contest with. There are two possibilities here: either you are trying to provide color to your actions in the **round**, without seeking to gain advantage, or you are seeking to gain advantage over your opponent with a novel **tactic**. In the former case, you can continue to use the **ability** you started the contest with, as you should not be penalized for wanting to enhance the contest with colorful or entertaining descriptions. In the latter case you should switch **abilities**, and your GM must decide if the **resistance** changes because of your new **ability**. Your GM is encouraged to reward **tactics** that exploit weaknesses that have been identified in the story so far with a lower **resistance**. Sometimes your GM may respond with a higher **resistance** because your **tactic** looks less likely to succeed due to conditions already established in the story.
+
+### 5.2.10 Multiple Opponents
+
+When you join an existing pairing, you have your own **round** but any **resolution points** scored, are scored against the existing totals. Your fate and those of your comrade become linked. In some types of conflict, many-against-one may have an advantage. In a melee for example it is more difficult to fight two or more opponents. In other types of contest many-against-one may actually hinder because contenders get in each other's way, such as an attempt to persuade another. In situations in a scored contest where numerical advantage exists, award a **situational modifier** usually of *zero* **degrees** or *one* degree. This is a **bonus** if the PCs outnumber their opponents and a penalty if they don't. Don't use this rule if you are treating the resistance as a mob (see §2.10)
 
 ## 5.3 Extended Contest
 
@@ -1265,7 +1269,8 @@ Sometimes a contest will be a free-for-all involving three or more groups.
         1. Decide if you want to defer your action, you can jump back into the order at any point. 
         2. Conduct a **simple contest** as normal, but once the **outcome** has been determined, it becomes a number of **advantage points** scored by the winning side.
         3. The number of **advantage points** the winner garners at the end of each **round** depends on the difference in their **results**, (see below).
-        4. If either contestant reaches 0 **advantage points** or fewer, the contest is out of the contest.
+        4. If either contestant reaches 0 **advantage points** or fewer, the contestant is out of the contest.
+        5. Once a contestant is eliminated they free contestant can now engage with any other contestant and their AP totals remain as is.
 7. When all characters still in the contest have completed their action the **round** ends and a new one begins.
 8. When one side has reduced all of its opponents to 0 or fewer **APs** the contest ends.
 9. Award **experience points** if appropriate (see §8.1).
@@ -1299,6 +1304,12 @@ You cannot lend **advantage points** to yourself.
 If a **follower’s AP** are already included in your **AP** total, the **follower** cannot lend them to you.
 
 Use an **unrelated action** and describe what your character is trying to do to improve the position of the target. For example, your PC might throw them a weapon, jeer at an opponent, or simply shout words of encouragement. Then, state the number of **AP** you are trying to **lend**. (The GM may suggest a higher or lower **bid** based on the action you describe.) The number of **APs** you are attempting to lend is the **resistance** you face in a **simple contest**. You lost the **APs** whether or not you **succeed** in the contest.
+
+### 5.2.10 Multiple Opponents
+
+When you defeat an existing opponent, you can engage with a new opponent. Both you and your opponent use your existing **AP** totals. In some types of conflict, many-against-one may have an advantage. In a melee for example it is more difficult to fight two or more opponents. In other types of contest many-against-one may actually hinder because contenders get in each other's way, such as an attempt to persuade another. In situations in a scored contest where numerical advantage exists, award a **situational modifier** usually of *zero* **degrees** or *one* degree. This is a **bonus** if the PCs outnumber their opponents and a penalty if they don't. Don't use this rule if you are treating the resistance as a mob (see §2.10)
+
+
 
 ## 5.5 Chained Contest
 
