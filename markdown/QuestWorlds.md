@@ -679,6 +679,7 @@ The nurse has **graduated** goals: escape the huntsman and save the children. On
 Sometimes you will face large numbers of opponents. Your GM can treat many as one. Your GM divides the number of opponents by the number of contesting PCs. Your GM then treats each of these sections of the crowd as a single **resistance** with one **rating**. Their numbers are factored into the **rating** your GM assigns to the **resistance**.
 
 When the mob loses an exchange, your GM describes individuals within it as being hurt or falling away. When it wins, describe them overwhelming you, or swelling in numbers.
+
 ## 2.11 Ganging Up
 
 Sometimes you may outnumber your opponent. As above, the GM should alter the **resistance** depending on how significantly you outnumber them.
@@ -854,8 +855,8 @@ A **group simple contest** may pit all of you against a single **resistance**, r
 2. You choose a **tactic**. Your **target number (TN)** is your **rating**, adding any **augments** (see §2.6), **hindrances** (see §2.7), **stretches** and **situational modifiers** (see §2.5), **consequences** and **benefits** (see §2.8).
 3. Your GM determines the **resistance**.  If two PCs contend, your opponent figures their **TN** as described in step 2.
 4. For each of your group, roll a D20 vs your relevant **ability**, while your GM rolls a D20 vs the **resistance**. Your GM compares the difference **successes** between the two rolls to assesses the individual **outcome** (see §2.4.7).
-5. The side with the highest number of **victories** is the overall victor in the **contest**. Award **experience points** if appropriate (see §8.1).
-6. Describe the **outcome** based on the agreed **prize**.
+5. The side with the highest number of **successes** is the overall victor in the **contest**. Award **experience points** if appropriate (see §8.1).
+6. Describe the **outcome** based on the agreed **prize**. If you need to determine the **degree** of **victory** or **defeat** for the PCs, divide the difference in **successes** by the number of **PCs** rounding down. For example: if there are 4 PCs and they win by six **successes** they gain 6/4 or *one* **degree** of **victory**; if there are 4 PCs and they lose by three **successes** they lose by 3/4 or *zero* **degrees** of victory.
 
 It is possible that you suffer a **defeat**, even though your side gains the **victory**. It is possible that, as a result, that your PC will suffer a **consequence** (see §2.8) related to your **defeat**, even though your side won. If your side loses, then you may suffer both a **consequence** for your own individual **contest**, and a **consequence** for the overall **contest**.
 
@@ -1030,7 +1031,7 @@ If you fail, your effort is wasted and the score against you increases, as it wo
 
 As in a **scored contest** between a single PC and an opponent, only one **simple contest** per pair of adversaries occurs each **round**. Usually the PCs make up one team, and their antagonists the other.
 
-A **group scored contest** continues until one side has no active participants. If you **defeat** your opponent you can pair with a new opponent. The new opponent might be unengaged, but might also be engaged in an existing pairing. When you pair with a new opponent, you begin a new **contest**, even if your opponent is already engaged in a **contest**. Alternatively, if you are unopposed, you may choose to **assist**. Of course, you may be later engaged by an opponent who becomes free yourself.
+A **group scored contest** continues until one side has no active participants. If you **defeat** your opponent you can pair with a new opponent. The new opponent might be unengaged, but might also be engaged in an existing pairing. When you pair with a new opponent, you begin a new **contest**. If your opponent is already engaged in a **contest**, you participate in the existing **resolution** points tally. Alternatively, if you are unopposed, you may choose to **assist**. Of course, you may be later engaged by an opponent who becomes free yourself.
 
 You may lose some pairings amongst the PCs, but still win if the last participant standing is a PC; otherwise if the last participant belongs to the opposition you lose.
 
