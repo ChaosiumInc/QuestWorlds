@@ -514,11 +514,11 @@ If your GM accepts your **augment** proposal, it will be resolved by the method 
 
 Your GM treats an **augment** as an **assured contest**.
 
-If the use of the **ability** to augment seems unlikely to fail, your GM simply awards you a **zero* **degree** **bonus**, or +5. If your description of how you were using the **augmenting ability** was dramatic or entertaining, your GM may increase this to a **one* *degree** **bonus**, or +10.
+If the use of the **ability** to augment seems unlikely to fail, your GM simply awards you a *zero* **degree** **bonus**, or +5. If your description of how you were using the **augmenting ability** was dramatic or entertaining, your GM may increase this to a *one* **degree** **bonus**, or +10.
 
 As with any **assured contest** GM might still ask you to roll if there is a risk that the **augment** results in a **penalty** to other **abilities** such as resources or **relationships** (see §6.0), which become stressed in providing the **augment**, or that more variation in **bonuses** is possible (such as the **augmenting** ability having several **masteries**).
 
-On a **victory** base the **bonus** of the **augment** off the **degree** of the **victory**. So **zero* **degrees** of **victory** yields a **zero* *degree** bonus (+5). On a **defeat** still award a +5 bonus, but apply a penalty related to **degree** of the **defeat** to the **tactic** used to **augment**, as described above.
+On a **victory** base the **bonus** of the **augment** off the **degree** of the **victory**. So *zero* **degrees** of **victory** yields a *zero* *degree** bonus (+5). On a **defeat** still award a +5 bonus, but apply a penalty related to **degree** of the **defeat** to the **tactic** used to **augment**, as described above.
 
 ## 2.7 Triggering Flaws
 
@@ -526,11 +526,11 @@ During play, either you, or your GM, may decide that your **flaw** has been trig
 
 ### 2.7.1 Hindrance
 
-if you describe a **tactic** for a **contest** that is in conflict with a **flaw**, your GM may decide to impose a **penalty** called a **hindrance** against you in the upcoming **contest**. You should choose to remind your GM when you feel a flaw might be triggered. Your GM may also use an **ability** on your character sheet against you in this way too, if appropriate. This may be the case for relationships you have, philosophies you espouse, or groups you belong to. 
+If you describe a **tactic** that is in conflict with a **flaw**, your GM may decide to impose a **penalty** called a **hindrance** against you in the upcoming **contest**. You should choose to remind your GM when you feel a flaw might be triggered. Your GM may also use an **ability** on your character sheet against you in this way too, if appropriate. This may be the case for relationships you have, philosophies you espouse, or groups you belong to. 
 
 Your GM should follow a similar approach to **augments** when applying a **hindrance**. They should ask themselves if it is *fresh*, *interesting* or *illuminates character*. In a movie of book would your **flaw** be prominent here?
 
-If your GM feels that there is no uncertainty as to whether the **flaw** applies to your **tactic** in the contest they apply a **penalty** of **zero* *degrees** or -5 or a **penalty** of **two* *degrees** or -10 depending on how serious a handicap the **flaw** is. (In effect an **assured contest** for the flaw).
+If your GM feels that there is no uncertainty as to whether the **flaw** applies to your **tactic** in the contest they apply a **penalty** of *zero* **degrees** or -5 or a **penalty** of *one* **degree** or -10 depending on how serious a handicap the **flaw** is. (In effect an **assured contest** for the flaw).
 
 If your GM feels that it is uncertain as to whether the **flaw** hinders you, or you are able to overcome it, and you agree that you wish to try, treat it as a **simple contest**. Roll the rating of your **flaw** against the **base resistance**. On a **victory**, you receive a **penalty** from the **degree** of your **victory** - if you get *zero* **successes** use a *zero* **degree** **penalty** of -5, on *one* **success**, use a *one* **degree** **penalty** of -10 and so on. On a **defeat**, you overcome the **flaw**.
 
@@ -558,7 +558,7 @@ If you choose to, or your GM compels you to, act according to a **flaw**, you ga
 
 Your GM may simply determine narrative **consequences** and **benefits** from what makes fictional sense, given the agreed **prize** for the **contest**, as described above. Optionally, your GM may assign you ongoing **bonuses** and **penalties** that may affect related future **contests**, related to the **outcome** of this **contest**. Your GM should always respond to the flow of the story, if narrative **consequences** are enough, they should not reach for additional mechanical **bonuses** or **penalties**. Your GM should use mechanical **bonuses** or **penalties** where it strains credibility that there is no ongoing **consequence** or **benefit** from the **outcome** of the **contest**.
 
-In a fight, it may strain credibility that a **defeat** does not leave you impaired for further physical activity. In a display or oratory before the assembled townsfolk, it may strain credibility if they would not later act according to your rousing words. In a romance, it may strain credibility of the wonderful date night, does not improve your chances of taking your relationship to the next level.
+In a fight, it may strain credibility that a **defeat** does not leave you impaired for further physical activity. In a display or oratory before the assembled townsfolk, it may strain credibility if they would not later act according to your rousing words. In a romance, it may strain credibility if the wonderful date night does not improve your chances of taking your relationship to the next level.
 
 ### 2.8.1 Consequences
 
@@ -708,7 +708,7 @@ Your GM may decide that **resistance** to your actions gets harder, as the campa
 
 Your GM should adopt a strategy that mimics a TV show where the **resistance** does not increase during a season of the show, allowing our protagonists to get more competent as the show progresses towards its climax. In the next season though the **resistance** usually goes up, and the writers reflect this with more challenging opposition in the new season of the show. At the same time, the opposition that was tough in the first season, now become mooks that can be easily dispatched to show the increased competence of the protagonists.
 
-In that case your GM should increment the **base resistance** by *one* to *three** **degrees** for the next campaign you play with the same characters. The size of the change should reflect the increase in your previous **abilities** in the last campaign. For example, if in the last season you increased your **occupation keyword** by +10, your GM may decide to increase the **resistance** by *one* or *two* **degrees** to reflect the more challenging opposition in the new campaign. The GM should consider triggering **resistance progression** when your PCs find it difficult to earn **experience points** because they too regularly outclass even the climatic encounters (the boss monsters) of their game.
+In that case your GM should increment the **base resistance** by *one* to *three* **degrees** for the next campaign you play with the same characters. The size of the change should reflect the increase in your previous **abilities** in the last campaign. For example, if in the last season you increased your **occupation keyword** by +10, your GM may decide to increase the **resistance** by *one* or *two* **degrees** to reflect the more challenging opposition in the new campaign. The GM should consider triggering **resistance progression** when your PCs find it difficult to earn **experience points** because they too regularly outclass even the climatic encounters (the boss monsters) of their game.
 
 Your GM should also take into account that the opposition you were improving with respect to the previous season should now be considered more-easily defeated mooks, and use lower **ratings** for them when they appear in the story or even allow them to be taken out with an **assured contest**.
 
