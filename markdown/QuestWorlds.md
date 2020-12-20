@@ -827,7 +827,11 @@ There is no limit to the number of **abilities** you can gain from a single sent
 
 # 4.0 Simple Contests
 
-**Simple contest**s are the default resolution method for all **story obstacles** or **story question**.
+**Simple contest**s are the default resolution method for **story obstacles** or **story question** where there is a dramatic branch from uncertainty. If the branch does not lead to new story, just use an **assured contest**.
+
+A **simple contest** is conflict resolution, we don't resolve the individual tasks that form part of the **story obstacle** or **story question** instead we resolve the whole **story obstacle** or **story question** in one roll. When you pick your **tactic** it may encompass your approach to the whole, or be a spotlight moment, where the part stands for the whole. In the latter case your chosen **tactic** is the focus of the key moment. It all comes down to this moment, where you win the **prize** or your plans go awry. Your GM will narrate your passage through the other obstacles once the outcome is known, but the focus of win and lose always hinges on this moment.
+
+Using **simple contest** as the default speeds up play, and keeps the story hitting major events, reinforcing the sense of adventure.
 
 ## 4.1 Simple Contest
 
@@ -851,6 +855,8 @@ A **group simple contest** may pit all of you against a single **resistance**, r
 
 ### 4.2.1 Procedure
 
+A **group simple contest** can be summarized as follows:
+
 1. Your GM **frames the contest**.
 2. You choose a **tactic**. Your **target number (TN)** is your **rating**, adding any **augments** (see §2.6), **hindrances** (see §2.7), **stretches** and **situational modifiers** (see §2.5), **consequences** and **benefits** (see §2.8).
 3. Your GM determines the **resistance**.  If two PCs contend, your opponent figures their **TN** as described in step 2.
@@ -872,7 +878,9 @@ It is possible that all the contestants lose. In this case, the GM needs to deci
 
 Use a **simple contest** when you have multiple contenders for a single **prize** over a **long contest** (see §5.0).
 
-In summary, when there are multiple contestants and one prize:
+### 4,3,1 Procedure
+
+Multiple contestants and one prize can be summarized as follows:
 
 1. Find the highest number of **successes** amongst the participants.
 2. If only one contestant has that number of **successes** amongst the players, award them the **prize**.
@@ -882,19 +890,14 @@ In summary, when there are multiple contestants and one prize:
 
 # 5.0 Long Contests
 
-Most conflicts should be resolved simply and quickly, using the **simple contest** rules.
+Most conflicts should be resolved simply and quickly, using the **simple contest** rules. However, every so often, your GM wants to draw out the resolution, breaking it down into a series of smaller actions, increasing the suspense you feel as you wait to see if they triumph or fail. 
 
-However, every so often, your GM wants to draw out the resolution, breaking it down into a series of smaller actions, increasing the suspense you feel as you wait to see if they triumph or fail.
+Think of the different ways a film director can choose to portray a given moment, depending on how important it is to the story, and how invested they want us to feel in its outcome. For example, there are two ways to shoot a scene in which a thief breaks into the bank to steal the contents of the safe.
 
-Think of the different ways a film director can choose to portray a given moment, depending on how important it is to the story, and how invested they want us to feel in its outcome.
+* The action can be portrayed quickly, cutting to a moment with the thief, their ear pressed against the safe trying to get the tumblers to fall into place. Then they sigh with relief, open the safe, and get whatever is inside. In this instance, the story is about what happens after the thief gets what’s in the safe, not about what might happen to them if they fail.
+* Another film might instead choose to make the bank robbery a pivotal turning point in the story, if not its climactic moment. It would spend many scenes building up to the safe-cracking sequence: obtaining the plans of the bank, learning the movements of the guards, crawling through the air conditioning ducts, sliding past the motion sensors and pressure plates, and finally cracking the safe itself.
 
-For example, there are two ways to shoot a scene in which a thief breaks into the bank to steal the contents of the safe.
-
-The action can be portrayed quickly, cutting to a moment with the thief, their ear pressed against the safe trying to get the tumblers to fall into place. Then they sigh with relief, open the safe, and get whatever is inside. In this instance, the story is about what happens after the thief gets what’s in the safe, not about what might happen to them if they fail.
-
-Another film might instead choose to make the bank robbery a pivotal turning point in the story, if not its climactic moment. It would spend many scenes building up to the safe-cracking sequence: obtaining the plans of the bank, learning the movements of the guards, crawling through the air conditioning ducts, sliding past the motion sensors and pressure plates, and finally cracking the safe itself.
-
-A **simple contest** is conflict resolution, we don't resolve the individual tasks that form part of the **story obstacle** or **story question**. It represents the former approach. If your GM wants to focus on how you complete a sequence of tasks to overcome the **story obstacles** or **story questions** then then use a **long contest**. It represents the latter approach.
+A **simple contest** mirrors the first approach. A **long contest** mirrors the second. If your GM wants to focus on how you complete a sequence of tasks to overcome the **story obstacles** or **story questions** then then use a **long contest**.
 
 Even a movie driven by action and suspense will typically include only a handful of these set-piece sequences. They need the rest of their running time to build up to their big moments, to make us care about the characters, and to give us quiet moments to contrast with the white-knuckle parts.
 
@@ -902,45 +905,138 @@ So pacing may always trump your desire to work through the sequence of tasks, as
 
 Your GM may be tempted, to adjudicate every fight with a **long contest**, because fights seem like they should be played out blow-by-blow. They should resist this temptation, as fights are often repetitive trading of blows that can drag when everyone repeats actions from **round** to **round**. Only use **long contests** for fights where the PCs want to do more than slug it out toe-to-toe with their opponents until only one is left standing.
 
-## 5.0.1 No Nesting
+## 5.1 Long Contest 
 
-Your GM should never “nest” one **long contest** inside another. If a **long contest** is in progress and you want to perform an action your GM should treat it as an **unrelated action**, or disallow it completely during the current **contest**.
+### 5.1.1 Overview
 
-## 5.0.2 Choose a Long Contest Type
+All long contests are a sequence of simple contests. The sequence represent tasks required for the PC to triumph. A **long contest** is played out in **rounds**. Each **round** represents an attempt by the PC to wear down the **resistance** by succeeding at a task, that makes up part of the goal. In a **long contest** where a PC thief tries to break into a bank to steal from the safe, individual rounds might represent:
 
-There are three types of **long contest**. Your GM should choose **ONE** to use with their campaign: **scored contest**, **extended contest**, or **chained contest** (see §5.6).
+* Obtaining the plans of the bank
+* Surveillance to learn the movements of the guards
+* Crawling through the air conditioning ducts
+* Sliding past the motion sensors and pressure plates
+* Cracking the safe itself.
 
-## 5.0.2 The Essence of Long Contests
+The GM needs to be aware of pacing during this, skipping potential obstacles to try and time the final roll to be as the thief cracks open the safe (or fails triggering more complications).
 
-All long contests are a sequence of simple contests. The sequence represent tasks required for the PC to triumph. They differ only in the how we interpret the **degrees** of the **simple contest** outcome.
+**Long contests** are longer and more dramatic than **simple contests**. Your GM uses **long contests** when the drama of the conflict is as important as the **outcome** to the story. A **long contest** generates suspense with a back-and-forth struggle. It is something you and your GM should visualize and describe.
 
-* In a scored contest, the first contestant to have five 'strikes' against them loses.
-* In an extended contest, the contenders trade momentum and position until one of them crashes.
-* In chained contest the contestants deal harm to each other, and may elect to withdraw if in difficulty.
+A **long contest** consists of one or more **rounds**, which you resolve as **simple contests**. However **rounds** do not decide the **outcome** of the whole **contest**, only who has momentum at that time.
 
-## 5.1 Scored Contest
+Different types of **long contest** change how we record who has the upper hand at any one time, based on the **degrees** of the **simple contest** outcome.
 
-**Scored contests** are longer and more dramatic than **simple contests**. Your GM uses **scored contests** when the **outcome** of the struggle is important, to generate suspense for you, or when your GM want a back-and-forth struggle. It is something you and your GM should visualize and describe.
+* In a scored contest, the first contestant to have five 'strikes' against them loses. We *tally* **resolution points (RP)**.
+* In an extended contest, the contenders trade momentum and position until one of them crashes. We *tally* **advantage points (AP)**.
+* In chained contest the contestants deal harm to each other, and may elect to withdraw if in difficulty. We don't keep a *tally* but apply **consequences**.
 
-A **scored contest** consists of one or more **rounds**, in which you perform a **simple contest**. However, actions and **rounds** do not decide the **outcome** of the whole **contest**, only who gains or loses **resolution points** at that time. 
+#### 5.1.1.1 Procedure
 
-In a **scored contest** there is no distinction between aggressor and defender, each **round** represents attempts by both parties to overcome their opponent. Your GM should determine who has the initiative to describe what they are doing for any **exchange**, based on their interpretation of the flow of events. If in doubt your GM should defer to you over your opponent to describe what you do in the **round**, and describe the NPC reacting to that.
+1. Your GM **frames the contest**.
+2. You choose a **tactic**. Your **target number (TN)** is your **rating**, adding any **augments** (see §2.6), **hindrances** (see §2.7), **stretches** and **situational modifiers** (see §2.5), **consequences** and **benefits** (see §2.8). 
+3. Your GM determines the **resistance** (see §2.4.3). (If two PCs contend, your opponent figures their **TN** as described in step 2.)
+4. Carry out one or more **rounds**, repeating as necessary.
+    1. Your GM decides which contender has the initiative, the 'aggressor', and describes what they are trying to do to achieve the **prize**. The 'defender' describes how they counter the aggressor's attempt to seize the **prize**. If it is not obvious from the unfolding narrative, your GM should choose your PC as the 'aggressor'.
+    2. Resolve the **round** as described for the **long contest** type.
+    3. The outcome determines the new *tally* or applies **consequences**. Tied **results** leave the score unchanged.
+    4. Determine if an opponent is knocked out of the **contest** from their *tally* or **consequences**, according to the rules for that **contest** type.
+    5. The winner has an opportunity to perform a **parting shot** (see §5.1.8).
+5. Determine the **outcome** according to the **long contest** type. Award or deny the **prize**, and give **experience points** if appropriate (see §8.1).
+6. Determine **benefits** or **consequences**.
+7. Describe the **outcome** based on the **story obstacle** or **story question**
 
-### 5.1.1 Procedure
+### 5.1.2 Group Overview
+
+**Group long contests** proceed as a series of **long contests** between pairs of PC and opponents, interwoven so that they happen nearly simultaneously.
+
+As in a **long contest** between a single PC and an opponent, each per pair of adversaries contend in a **round**. Usually the PCs make up one team, and their antagonists the other.
+
+A **group long contest** continues until one side has no active participants. If you **defeat** your opponent you can pair with a new opponent. The new opponent might be unengaged, but might also be engaged in an existing pairing. When you pair with an unengaged opponent, you begin a new **long contest**. If your opponent is already engaged in a **long contest**, you participate in the existing **long contest** and  points tally for that type of **long contest**. Alternatively, if you are unopposed, you may choose to help lower the *tally* of an existing participant with an **assist** appropriate to that **long contest** type. Of course, you may be later engaged by an opponent who becomes free yourself.
+
+You may lose some pairings amongst the PCs, but still win if the last participant standing is a PC; otherwise if the last participant belongs to the opposition you lose.
+
+#### 5.1.2.1 Group Procedure
 
 1. Your GM **frames the contest**.
 2. You choose a **tactic**. Your **target number (TN)** is your **rating**, adding any **augments** (see §2.6), **hindrances** (see §2.7), **stretches** and **situational modifiers** (see §2.5), **consequences** and **benefits** (see §2.8).
-3. Your GM determines the **resistance**. (If two PCs contend, your opponent figures their **TN** as described in step 2.)
-4. Carry out one or more **rounds**, repeating as necessary.
+3. The GM determines the **resistance** (see §2.4.3). If two PCs contend, your opponent figures their **TN** as described in step 2.
+4. The PCs choose their opponents in order of their **TN** where it makes sense. Otherwise your GM will allocate opponents to you dependent on what makes narrative sense.
+5. Establish an order of the paired **long contests**. The narrative may indicate who should go first but use your group's **TN**s from highest to lowest if no other option presents itself.
+6. For each pairing your GM carries out one **round**. Then they repeat by carrying out more **rounds** in order, as necessary.
     1. Your GM decides which contender has the initiative, the 'aggressor', and describes what they are trying to do to achieve the **prize**. The 'defender' describes how they counter the aggressor's attempt to seize the **prize**. If it is not obvious from the unfolding narrative, your GM should choose your PC as the 'aggressor'.
-    2. Conduct a **simple contest** as normal, but once the **outcome** has been determined, it becomes a number of **resolution points** scored by the winning side. Tied **results** leave the score unchanged.(see §5.1.2)
-    3. The first to accumulate a total of 5 **resolution points** wins; their opponent is knocked out of the **contest** and loses the **prize**.
-    4. The winner has an opportunity to perform a **parting shot**.
-5. Determine the **scored contest outcome** (see §5.1.3). Award **experience points** if appropriate (see §8.1).
-6. Determine **benefits** or **consequences**.
-7. Describe the **outcome** based on the **story obstacle** or **story question**.
+    2. Resolve the **round** as described for the **long contest** type.
+    3. The outcome determines the new *tally* or applies **consequences**. Tied **results** leave the score unchanged.
+    4. Determine if an opponent is knocked out of the **contest**, according to the rules for that **contest** type.
+    5. The winner has an opportunity to perform a **parting shot** (see §5.1.8).
+7. As one of a pair is eliminated from the **group long contest**, their victorious opponents may then move on to engage new targets, either *starting new **contests*** with an unengaged opponent or *joining an existing **contest*** (see §5.1.9). These new contest are added to the end of the existing roster. Alternatively, unengaged contests may **assist** (see §5.1.10) those who are engaged.
+8. The group with the last undefeated contestant wins.
+9. Award **experience points** if appropriate (see §8.1).
+10. Describe the **outcome** based on the **story obstacle** or **story question**.
 
-#### 5.1.2 Resolution Points
+### 5.1.3 No Nesting
+
+Your GM should never “nest” one **long contest** inside another. If a **long contest** is in progress and you want to perform an action your GM should treat it as an **unrelated action** (see §5.1.8), or disallow it completely during the current **contest**.
+
+### 5.1.4 Switching Abilities
+
+You may describe an action in a **long contest** that is not covered by the **ability** that you started the contest with. There are two possibilities here: either you are trying to provide color to your actions in the **round**, without seeking to gain advantage, or you are seeking to gain advantage over your opponent with a novel **tactic**. In the former case, you can continue to use the **ability** you started the contest with, as you should not be penalized for wanting to enhance the contest with colorful or entertaining descriptions. In the latter case you should switch **abilities**, and your GM must decide if the **resistance** changes because of your new **ability**. Your GM is encouraged to reward **tactics** that exploit weaknesses that have been identified in the story so far with a lower **resistance**. Sometimes your GM may respond with a higher **resistance** because your **tactic** looks less likely to succeed due to conditions already established in the story.
+
+Either way any *tally* does not change. However, it may be possible to avoid **consequences** in a **chained contest** by switching to am ability that would not be **penalized**.
+
+### 5.1.5 Asymmetrical Round
+
+You may choose to briefly suspend your attempt to best your opponent in a **long contest**, in order to do something else. An instance where you are trying to do something else and your opponent is trying to win the **contest** is called an **asymmetrical round**.
+
+In an **asymmetrical round**, you do not change the *tally* against your opponent,or inflict **consequences** if you win the **round**. Instead, you succeed at whatever else you were doing. Your *tally* is still altered, or you suffer **consequences** if you lose the **round**. Often you will be using an **ability** other than the one you've been waging the **contest** with, one better suited to the task at hand. This becomes additionally dangerous when the **TN** associated with your substitute **ability** is significantly lower than the one used for the rest of the **contest**.
+
+In addition to secondary objectives, as in the above example, you may engage in **asymmetrical round** to **augment** (see §2.6) yourself or others.
+
+### 5.1.6 Disengaging
+
+You can always abandon a **contest**, but, in addition to failing at the **story obstacle**, you may also suffer negative consequences. In a **contest** where your opponent intends to harm you, you will always suffer negative consequences if you withdraw, unless you successfully **disengage**. If your opponent also decides to **disengage** you both do; it is a stand-off and neither side obtains the **prize**.
+
+To make a contested attempt to **disengage**, you make an **asymmetrical round**, using the **ability** relevant to the **contest** you’re trying to wriggle out of.
+
+If you fail, your effort is wasted and the score against you increases, as it would have during a normal **round**. If you succeed, you escape the clutches, literal or metaphorical, of your opponent, without further harm from a **contest**. In the case of a **group contest**, you do not count as 'last contestant standing' for the purpose of determining victory. For a contest that uses a *tally*, the GM applies **consequences** against you immediately based upon your *tally* according to the **long contest** type.
+
+### 5.1.7 Unrelated Actions
+
+If you are not currently enmeshed in a **round**, either after a successful disengagement, or after winning a **long contest** as part of a **group long contest**, you may take actions within the scene that do not directly contribute to the **defeat** of the other side. These **unrelated actions** may grant an **augment** to yourself or to a teammate. You may achieve a secondary story objective. This resembles an **asymmetrical round**, except that, as you are not targeted by any opponents, there is no additional risk.
+
+### 5.1.8 Parting Shot
+
+Immediately after you defeat an opponent, you may attempt to worsen the defeat suffered by your opponent by engaging in a **parting shot**. This is an attempt (metaphoric or otherwise) to kick your opponent while he’s down:
+
+* Striking an incapacitated enemy
+* Attacking a retreating army
+* Attaching one more punitive rider to a legal settlement
+* Demanding additional money from a business partner
+* Delivering one last humiliating insult
+
+Your GM should not use a **parting shot** for the **resistance**.
+
+The **parting shot** is another **simple contest** against your **defeated** opponent. The **ability** you use must relate to the consequences the opposition will suffer, but needn’t be the same one you used to win the **contest**. If the loser is a PC they use a suitable **ability** to resist; otherwise the GM rolls a suitable **resistance** value.
+
+The mechanics for a **parting shot** differ for each **long contest** type, reflecting the *tally* or **consequences**.
+
+### 5.1.9 Joining an In-Progress Contest
+
+When you wish to join a **long contest** in progress, you and your GM should discuss whether you accept the current framing. If so, you can participate. You simply select an opponent and start a new **round** with them. The mechanics for joining an in-progress **contest** differ for each **long contest** type, reflecting the *tally* or **consequences**. If you want to achieve something other than the goal established during framing, you may instead perform **unrelated actions**, including **assists** and **augments**.
+
+In some types of conflict, many-against-one may have an advantage. In a melee for example it is more difficult to fight two or more opponents. In other types of contest many-against-one may actually hinder because contenders get in each other's way, such as an attempt to persuade another. In situations in a scored contest where numerical advantage exists, award a **situational modifier** usually of *zero* **degrees** or *one* degree. This is a **bonus** if the PCs outnumber their opponents and a penalty if they don't. Don't use this rule if you are treating the resistance as a mob (see §2.10)
+
+### 5.1.10 Assists
+
+You may take an **unrelated action** to grant an **assist** to a teammate enmeshed in a **round**. Describe what your character is trying to do to improve the position of the target. For example, your PC might throw them a weapon, jeer at an opponent, or simply shout words of encouragement. **Assists** are subject to the same restrictions as **augments**: they must be both credible and interesting.
+
+The mechanics for a **assist** differ for each **long contest** type, reflecting the *tally* or **consequences**.
+
+## 5.2 Scored Contest
+
+A **scored contest** consists of one or more **rounds**, in which you perform a **simple contest**. We *tally* the position of the contestants in a **scored contest** via **resolution points**. Once *five* or more resolution points have been *tallied* against a contestant, they lose that **scored contest**.
+
+In a **scored contest** there is no distinction between aggressor and defender, each **round** represents attempts by both parties to overcome their opponent and so a is a *single* **simple contest**. Your GM should determine who has the initiative to describe what they are doing for any **round**, based on their interpretation of the flow of events. If in doubt your GM should defer to you over your opponent to describe what you do in the **round**, and describe the NPC reacting to that.
+
+### 5.2.1 Resolution Points
 
 You score **resolution points** equal to *one* more than the **degree** of the **outcome**. So a *zero* **degree** **outcome** produces *one* **resolution point**, a *one* **degree** **outcome** produces *two* **resolution points** and so on. (You can take the shortcut of adding *one* to the difference in **successes** of the two rolls, if your prefer).
 
@@ -961,7 +1057,7 @@ In interpreting the individual **simple contests** within a **scored contest**, 
 1. No consequence is certain until the entire **scored contest** is over.
 2. When a character scores points, it can reflect any positive change in fortunes, not just the most obvious one.
 
-#### 5.1.2.1 RESOLUTION POINT TABLE
+#### 5.2.1.1 RESOLUTION POINT TABLE
 
 |Degree    |Value     |
 |:------:|:------------:|
@@ -971,13 +1067,29 @@ In interpreting the individual **simple contests** within a **scored contest**, 
 |3|4|
 |4|5|
 
-### 5.1.3 Scored Contest Outcomes
+#### 5.2.1.2 Resource Point Knowledge
 
-In a **scored contest** the contestant that is the first to gain a total of 5 **resolution points** gains the **prize**.
+Your GM should make the **resource point** totals for each side public.
+
+#### 5.2.1.3 Followers
+
+You may choose to have your **followers** take part in **scored contests** in one of three ways: as full contestants, as secondary contestants, or as supporters.
+
+**Contestant**: The **follower** takes part in the **contest** as any other PC would. You roll for your **followers** as you would their main characters. However, your **followers** are removed from the **contest** whenever 3 **resolution points** are scored against them in a given **round**.
+
+**Secondary contestant**: To act as a secondary contestant, your **follower** must have an **ability** relevant to the **contest**. The **follower** sticks by your side, contributing directly to the effort: fighting in a battle, tossing in arguments in a legal dispute, acting as the ship’s navigator, or whatever. Although you describe this, you do not roll for the **follower**. Instead, you may, at any point, shift any number of **resolution points** to a **follower** acting as a secondary contestant. Followers with 3 or more **resource points** lodged against them are removed from the scene. 
+
+**Supporter**: Your **follower** is present in the scene, but does not directly engage your opponents. Instead they may perform **assists** and other **unrelated actions**.
+
+**Followers** acting in any of these three capacities may be removed from the **contest** by otherwise unengaged opponents. To remove a **follower** from a scene, an opponent engages your **follower** in a **simple contest**. Your GM sets the **resistance**, or if it is another PC's **follower** they determine the relevant **ability** of the **follower** engaging yours. On any failure, your **follower** is taken out of the **contest**.
+
+Your GM determines any long-term implications for the follower being removed from the **contest**. Whilst your GM should not end your character's story without consent, such as via death, they may choose to end the story of a follower in such circumstances, viscerally demonstrating the threat that the PCs face.
+
+### 5.2.2 Scored Contest Outcomes
 
 Your GM treats the half the difference in **resource points**, rounding up, as the **degree** of your **victory** or **defeat**.
 
-#### 5.1.3.1 SCORED CONTEST OUTCOME TABLE
+#### 5.2.2.1 SCORED CONTEST OUTCOME TABLE
 
 |Difference    |Degree     |
 |:------:|:------------:|
@@ -989,19 +1101,7 @@ Your GM treats the half the difference in **resource points**, rounding up, as t
 
 Your GM applies results as described in §2.4.7.2, including assigning **benefits** and **consequences**.
 
-### 5.1.4 Parting Shot
-
-Immediately after you drive an opponent below five *RP*, you may attempt to worsen the defeat suffered by your opponent by engaging in a **parting shot**. This is an attempt (metaphoric or otherwise) to kick your opponent while he’s down:
-
-* Striking an incapacitated enemy
-* Attacking a retreating army
-* Attaching one more punitive rider to a legal settlement
-* Demanding additional money from a business partner
-* Delivering one last humiliating insult
-
-Your GM should not use a **parting shot**.
-
-The **parting shot** is another simple contest against your **defeated** opponent. The **ability** you use must relate to the consequences the opposition will suffer, but needn’t be the same one you used to win the **contest**. If the loser is a PC they use a suitable **ability** to resist; otherwise the GM rolls a suitable **resistance** value.
+### 5.2.3 Parting Shot
 
 If you succeed in your **parting shot** roll, you score additional **resource points** against your opponent, worsening their defeat.
 
@@ -1009,139 +1109,49 @@ However, if your opponent succeeds, they take the number of **resolution points*
 
 Where it makes sense, unengaged PCs may attempt **parting shots** against opponents taken out of the **contest** by someone else. You may not revive your teammates by using your lamest abilities to make **parting shots** on them; this, by definition, does not pass a **credibility test**.
 
-### 5.1.5 Asymmetrical Round
-
-You may choose to briefly suspend your attempt to best your opponent in a **scored contest**, in order to do something else. An instance where you are trying to do something else and your opponent is trying to win the **contest** is called an **asymmetrical round**.
-
-In an **asymmetrical round**, you do not score **RPs** against your opponent if you win the **round**. Instead, you succeed at whatever else you were doing. You still lose **RPs** if you fail. Often you will be using an **ability** other than the one you've been waging the **contest** with, one better suited to the task at hand. This becomes additionally dangerous when the **score** associated with your substitute **ability** is significantly lower than the one used for the rest of the **contest**.
-
-In addition to secondary objectives, as in the above example, you may engage in **asymmetrical round** to grant **augments** (see above) to yourself or others.
-
-### 5.1.6 Disengaging
-
-You can always abandon a **contest**, but, in addition to failing at the **story obstacle**, you may also suffer negative consequences. In a **contest** where your opponent intends to harm you, you will always suffer negative consequences if you withdraw, unless you successfully disengage.
-
-To disengage, you make an **asymmetrical round**, using the **ability** relevant to the **contest** you’re trying to wriggle out of.
-
-If you fail, your effort is wasted and the score against you increases, as it would have during a normal **round**. If you succeed, you escape the clutches, literal or metaphorical, of your opponent, without further harm from a **contest** during the **rising action**. In a **climactic** scene, however, **RPs** scored during **contests** you disengaged from are still taken into account when determining **consequences**. In the case of a **group contest**, **consequences** against you are determined as soon as you disengage.
-
-## 5.2 Group Scored Contest
-
-**Group scored contests** proceed as a series of **scored contests** between pairs of PC and opponents, interwoven so that they happen nearly simultaneously.
-
-As in a **scored contest** between a single PC and an opponent, only one **simple contest** per pair of adversaries occurs each **round**. Usually the PCs make up one team, and their antagonists the other.
-
-A **group scored contest** continues until one side has no active participants. If you **defeat** your opponent you can pair with a new opponent. The new opponent might be unengaged, but might also be engaged in an existing pairing. When you pair with an unengaged opponent, you begin a new **contest**. If your opponent is already engaged in a **contest**, you participate in the existing **contest** and **resolution** points tally. You and your opponent roll each round, as does the other PC who is engaged with them, and you both score **resolution points**, for and against, tracking against the same total. Alternatively, if you are unopposed, you may choose to **assist**. Of course, you may be later engaged by an opponent who becomes free yourself.
-
-You may lose some pairings amongst the PCs, but still win if the last participant standing is a PC; otherwise if the last participant belongs to the opposition you lose.
-
-### 5.2.1 Procedure
-
-1. Your GM **frames the contest**.
-2. You choose a **tactic**. Your **target number (TN)** is your **rating**, adding any **augments** (see §2.6), **hindrances** (see §2.7), **stretches** and **situational modifiers** (see §2.5), **consequences** and **benefits** (see §2.8).
-3. The GM determines the **resistance**. If two PCs contend, your opponent figures their **TN** as described in step 2.
-4. The PCs choose their opponents in order of their **TN** where it makes sense. Otherwise your GM will allocate opponents to you dependent on what makes narrative sense.
-5. Establish an order of the paired **contests**. There is no significant advantage to going first, but use your group's **TN**s from highest to lowest if no other option presents itself.
-6. For each pairing your GM carries out one **round**. Then they repeat by carrying out more **rounds** in order, as necessary. 
-    1. Your GM decides which contender has the initiative, the 'aggressor', and describes what they are trying to do to achieve the **prize**. The 'defender' describes how they counter the aggressor's attempt to seize the **prize**. If it is not obvious from the unfolding narrative, your GM should choose your PC as the 'aggressor'.
-    2. Conduct a **simple contest** as normal, but once the **outcome** has been determined, it becomes a number of **resolution points** scored by the winning side. Tied **results** leave the score unchanged.(see §5.1.2)
-    3. The first to accumulate a total of 5 **resolution points** wins; their opponent is knocked out of the **contest** and loses the **prize**.
-    4. The winner has an opportunity to perform a **parting shot**.
-    5. As one of a pair is eliminated from the **group scored contest**, their victorious opponents may then move on to engage new targets, either starting new **contests** with an unengaged opponent or joining an existing one as a new pairing but using the existing totals of **resolution points**. These new contest are added to the end of the existing roster.
-7. The group with the last undefeated contestant wins.
-8. Award **experience points** if appropriate (see §8.1).
-9. Describe the **outcome** based on the **story obstacle** or **story question**.
-
-### 5.2.2 Group Scored Contest Outcomes
-
-In a **group scored contest** the team that has the last undefeated contestant gains the **prize**.
-
-Your GM may decide that you suffer individual **consequences** or gain individual **benefits** from the **outcome** of the contests you pursued, regardless of whether your team won or lost. These are not the **prize** but should be related to the **tactics** used to win the **prize**. If you pursued more than one contest before the end, you may experience **benefits** and **consequences** for each of them. See §5.1.3 for a discussion of **consequences** and **benefits** in **scored contests**.
-
-### 5.2.3 Unrelated Actions
-
-If you are not currently enmeshed in a **round**, either after a successful disengagement, or after winning a **round**, you may take actions within the scene that do not directly contribute to the **defeat** of the other side. These **unrelated actions** may grant an **augment** to yourself or to a teammate. You may achieve a secondary story objective. This resembles an **asymmetrical round**, except that, as you are not targeted by any opponents, there is no additional risk.
-
-### 5.2.4 Assists
-
-You may take an **unrelated action** to grant an **assist** to a teammate enmeshed in a **round**. **Assists** are subject to the same restrictions as **augments**: they must be both credible and interesting.
-
-Your first **assist** faces a **moderate resistance**. Each subsequent **assist** attempt to the same beneficiary, steps up by one **degree** of increase (+5, +10, +15, +M, +M2). The **resistance** escalation occurs even when another PC steps in to make a subsequent **assist**. This escalation allows the occasional dramatic rescue but makes it difficult for players to prolong losing battles to excruciating length. Your GM should make it seem credible by justifying the increasing **resistances** with descriptions of ever-escalating countermeasures on the part of the opposition.
-
-Your GM may adjust the starting **resistance** up or down by one step to account for campaign credibility or other dramatic factors. If an **assist** as proposed seems too improbable or insufficiently useful, your GM should collaborate with you to propose alternate suggestions which would face **moderate resistance**.
-
-The **assist** alters the score against your teammate according to the **outcome** of a **simple contest**.
-
-On a victory, you reduce the number of **resolution points** by *one* more than the **degree** of the **victory**. On a defeat, you increase the number of **resolution points** by *one* more than the **degree** of the **resistance's** **victory**. See table §5.1.2.1.
-
-Scores can never be reduced below 0.
-
-### 5.2.5 Followers
-
-You may choose to have your **followers** take part in **group scored contests** in one of three ways: as full contestants, as secondary contestants, or as supporters.
-
-**Contestant**: The **follower** takes part in the **contest** as any other PC would. You roll for your **followers** as you would their main characters. However, your **followers** are removed from the **contest** whenever 3 **resolution points** are scored against them in a given **round**. 
-
-**Secondary contestant**: To act as a secondary contestant, your **follower** must have an **ability** relevant to the **contest**. The **follower** sticks by your side, contributing directly to the effort: fighting in a battle, tossing in arguments in a legal dispute, acting as the ship’s navigator, or whatever. Although you describe this, you do not roll for the **follower**. Instead, you may, at any point, shift any number of **resolution points** to a **follower** acting as a secondary contestant. Followers with 3 or more **resource points** lodged against them are removed from the scene. 
-
-**Supporter**: Your **follower** is present in the scene, but does not directly engage your opponents. Instead they may perform **assists** and other **unrelated actions**.
-
-**Followers** acting in any of these three capacities may be removed from the **contest** by otherwise unengaged opponents. To remove a **follower** from a scene, an opponent engages your **follower** in a **simple contest**. Your GM sets the **resistance**, or if it is another PC's **follower** they determine the relevant **ability** of the **follower** engaging yours. On any failure, your **follower** is taken out of the **contest**.
-
-Your GM determines any long-term implications for the follower being removed from the contest. Whilst your GM should not end your character's story without consent, such as via death, they may choose to end the story of a follower in such circumstances, viscerally demonstrating the threat that the PCs face.
-
-### 5.2.6 Risky Gambits
+### 5.2.4 Risky Gambits
 
 During a **scored contest**, you can attempt to force a conflict to an early resolution by making a **risky gambit**. If you win the **round**, you lodge an additional 1 **resolution point** against your opponent. However, if you lose the **round**, your opponent lodges an additional 2 **resolution points** against you.
 
 If both contestants engage in a **risky gambit**, the winner lodges an additional 2 **resolution points** against the loser.
 
-### 5.2.7 Defensive Responses
+### 5.2.5 Defensive Responses
 
 In a **scored contest**, you can make a **defensive response**, lowering the number of **resolution points** lodged against you in a **round**. If you win the **round**, the number of **resolution points** you lodge against your opponent decreases by 1. If you lose, your opponent lodges 2 fewer **resolution points** against you. The total number of **resolution points** assigned by a **round** is never less than 0; there is no such thing as a negative **resolution point**.
 
-### 5.2.8 Joining Scored Contests in Progress
+### 5.2.6 Assists
 
-When you wish to join a **scored contest** in progress, you and your GM should discuss whether you accept the current framing. If so, you can participate. In a **scored contest**, you simply select an opponent and enter into a new **round**. If you want to achieve something other than the goal established during framing, you may instead perform **unrelated actions**, including **assists** and **augments**.
+The **assist** alters the score against your teammate according to the **outcome** of a **simple contest**.
 
-### 5.2.9 Switching Abilities
+Your first **assist** faces a **moderate resistance**. Each subsequent **assist** attempt to the same beneficiary, steps up by one **degree** of increase (+5, +10, +15, +M, +M2). The **resistance** escalation occurs even when another PC steps in to make a subsequent **assist**. This escalation allows the occasional dramatic rescue but makes it difficult for players to prolong losing battles to excruciating length. Your GM should make it seem credible by justifying the increasing **resistances** with descriptions of ever-escalating countermeasures on the part of the opposition.
 
-You may describe an action in a **scored contest** that is not covered by the **ability** that you started the contest with. There are two possibilities here: either you are trying to provide color to your actions in the **round**, without seeking to gain advantage, or you are seeking to gain advantage over your opponent with a novel **tactic**. In the former case, you can continue to use the **ability** you started the contest with, as you should not be penalized for wanting to enhance the contest with colorful or entertaining descriptions. In the latter case you should switch **abilities**, and your GM must decide if the **resistance** changes because of your new **ability**. Your GM is encouraged to reward **tactics** that exploit weaknesses that have been identified in the story so far with a lower **resistance**. Sometimes your GM may respond with a higher **resistance** because your **tactic** looks less likely to succeed due to conditions already established in the story.
+Your GM may adjust the starting **resistance** up or down by one step to account for campaign credibility or other dramatic factors. If an **assist** as proposed seems too improbable or insufficiently useful, your GM should collaborate with you to propose alternate suggestions which would face **moderate resistance**.
 
-### 5.2.10 Multiple Opponents
+On a victory, you reduce the number of **resolution points** by *one* more than the **degree** of the **victory**. On a defeat, you increase the number of **resolution points** by *one* more than the **degree** of the **resistance's** **victory**. See table §5.2.2.1.
 
-When you join an existing pairing, you have your own **round** but any **resolution points** scored, are scored against the existing totals. Your fate and those of your comrade become linked. In some types of conflict, many-against-one may have an advantage. In a melee for example it is more difficult to fight two or more opponents. In other types of contest many-against-one may actually hinder because contenders get in each other's way, such as an attempt to persuade another. In situations in a scored contest where numerical advantage exists, award a **situational modifier** usually of *zero* **degrees** or *one* degree. This is a **bonus** if the PCs outnumber their opponents and a penalty if they don't. Don't use this rule if you are treating the resistance as a mob (see §2.10)
+Scores can never be reduced below 0.
+
+### 5.2.7 Joining an In-Progress Contest
+
+If you join in an existing **scored contest** use the same *tally* of **resolution points**; your fate is now bound to your comrade's fate. 
 
 ## 5.3 Extended Contest
 
-**Extended contests** are longer and more dramatic than **simple contests**. Your GM uses **extended contests** when the **outcome** of the struggle is important, to generate suspense for the players, or when they want a back-and-forth struggle. It is something you and your GM should visualize and describe.
+An **extended contest** consists of one or more **rounds**, in which you perform **simple contests**. We *tally* the position of the contestants in **advantage points (AP)**. Once a contestant reach *zero* or fewer **APs** they lose that **extended contest**.
 
-An **extended contest** consists of one or more **rounds**, in which you perform actions that are similar to **simple contests**. However, actions and **rounds** do not decide the **outcome** of the whole **contest**, only who gains or loses **advantage points (AP)** at that time. You take actions in turn, an **exchange**, losing and gaining the advantage, until either you or your opponent runs out of **advantage points** and is **defeated**.
+ In a **round** *both* you and your opponent take actions in turn, an **exchange**. Each **exchange** is a **simple contest** so you have a pair for any **round**. If a contestant falls below *zero* **APs** as a result of their opponent's **exchange**, they immediately lose, and do not get to conduct their own **exchange**. Your GM should determine who has the initiative to describe what they are doing for any **exchange**, the 'aggressor', based on their interpretation of the flow of events. The aggressor describes their action, and wagers a matching number of **APs**. The defender then describes their response and wages a matching number of **APs**.
 
-### 5.3.1 Procedure
+ These **exchanges** are then conducted in order of the highest bid first.
 
-1. Your GM **frames the contest**.
-2. You choose a **tactic**. Your **target number (TN)** is your **rating**, adding any **augments** (see §2.6), **hindrances** (see §2.7), **stretches** and **situational modifiers** (see §2.5), **consequences** and **benefits** (see §2.8). Figure your starting **advantage point (AP)** total (see §5.3.2.1).
-3. The GM determines the **resistance**. The GM opposes the PC with a **resistance**—the harder the task or tougher the opponent, the higher the **resistance**. The GM figures starting **APs** for the **resistance** (see §5.3.2.1).
-4. Carry out one or more **rounds**, repeating as necessary.
-    1. Each **round** consists of two **exchanges**: an action and immediate response.
-        1. You describe your action towards the desired **prize** and bid **APs** *(see §5.3.2.2).
-        2. The GM then hazards a number of **APs** bid by the **resistance**.
-        3. Then starting with the highest bid, conduct the pair of **exchanges**.
-            1. Conduct a **simple contest** as normal, but once the **outcome** has been determined, it becomes a number of **advantage points** scored by the winning side.
-            2. The number of **advantage points** the winner garners at the end of each **round** depends on the difference in their **results**, (see below).
-            3. If either contestant reaches 0 **advantage points** or fewer, the contest is over.
-5. Award **experience points** if appropriate (see §8.1).
+### 5.3.1 Advantage Points
 
-### 5.3.2 Advantage Points
-
-#### 5.3.2.1 Starting AP Totals
+#### 5.3.1.1 Starting AP Totals
 
 You describe your action towards the desired **prize** and what **ability** you use. The **ability** used in the contest can be varied, but **APs** are always calculated on the first **ability** that you use in a contest. That **ability** must be used in the first **round**. Figure your starting **advantage point (AP)** total using the **TN**. The **AP** include +20 for each level of **mastery**, and can also be increased by **followers**.
 
 The GM figures starting **APs** for the **resistance** from the **resistance** **TN**.
 
-#### 5.3.2.2  Bidding Advantage Points
+#### 5.3.1.2  Bidding Advantage Points
 
 You gamble a number of your **APs** in an attempt to reduce your opponent’s **AP**, but if you fail the attempt you lose the **AP**.
 
@@ -1149,11 +1159,11 @@ You describe your action towards the desired **prize**, what **ability** you use
 
 The size of the **bid** mirrors how bold and risky your character’s action is. Extreme or aggressive actions mean a high **AP bid**, and cautious actions require less. If you describe an all-out offensive with your sword cutting vicious arcs, you need to bid a lot of **APs**; if you say that you are circling your foe cautiously, a low **bid** is in order. Your GM  will look at the level of risk you are taking, and may suggest that you change your **bid** to better match your actions. If you do not declare a **bid** before rolling the die, your GM will decide how many points are **bid** (using 3 as a default), with riskier actions calling for higher **AP bids**.
 
-#### 5.3.2.3 Losing Advantage Points
+#### 5.3.1.3 Losing Advantage Points
 
 The number of advantage points lost by a contestant is a multiplier of their bid depending on the **degree** of the **victory**. Determine the multiplier used as follows:
 
-#### 5.3.2.4 EXTENDED CONTEST EXCHANGE TABLE
+#### 5.3.1.4 EXTENDED CONTEST EXCHANGE TABLE
 
 |Degree    |AP loss by loser|
 |:------:|:------------:|
@@ -1167,7 +1177,7 @@ The number of advantage points lost by a contestant is a multiplier of their bid
 
 * If the victor rolled a **big success**, the **APs** lost by the loser are gained by the winner - a transfer.
 
-#### 5.3.2.5  Followers and Advantage Points
+#### 5.3.1.5  Followers and Advantage Points
 
 **Followers** can act in different ways during a **contest**, **augmenting** you with their **abilities** or allowing you to use one of your **abilities** as if it were your own. Alternatively, a **follower** with a relevant **ability** or **keyword** can simply add their **APs** to the PC’s at the beginning of the **contest**.
 
@@ -1175,19 +1185,19 @@ Neither you nor the GM makes rolls for **followers**. Instead, their actions are
 
 You can assign your **followers** to someone else, although you may have to succeed at a contest to persuade a reluctant follower to go along.
 
-#### 5.3.2.6 Advantage Point Knowledge
+#### 5.3.1.6 Advantage Point Knowledge
 
 Once your opponent has won or lost **APs** during the current contest, you can ask the GM what the opposition's **AP** total is. This is where the element of skill comes in. When choosing how many **APs** to stake, you must weigh the effect they want to gain if you succeed versus the risk you face if the action fails.
 
-#### 5.3.2.7 Advantage Point Recalculation
+#### 5.3.1.7 Advantage Point Recalculation
 
 **Advantage points** are only relevant for the length of a particular **contest**. Your PC does not have any until the next **extended contest** begins, when you calculate them all over again.
 
-### 5.3.3 Extended Contest Outcomes
+### 5.3.2 Extended Contest Outcomes
 
 Your GM uses the final **AP** total of the loser to determine the **degree** of the **victory** or **defeat** for the PC.
 
-#### 10.3.6.1 EXTENDED CONTEST TABLE
+#### 5.3.2.1 EXTENDED CONTEST OUTCOME TABLE
 
 |Final AP Total  |Degree|
 |:--------------:|:-------------:|
@@ -1199,91 +1209,17 @@ Your GM uses the final **AP** total of the loser to determine the **degree** of 
 
 Your GM may apply **consequences** and **benefits**  for your PC as they see fit, based on this outcome. 
 
-### 5.3.4 Parting Shot
-
-When you **defeat** an opponent in an **extended contest**, you can act again immediately to try to make their **consequences** more severe. This is called a **parting shot**. 
-
-In the **round** immediately after you take an opponent out of the **contest**, you may attempt to gain another **prize** from your opponent suffers by engaging in a **parting shot**. This is an attempt (metaphoric or otherwise) to kick your opponent while he’s down:
-
-* Striking an incapacitated enemy
-* Attacking a retreating army
-* Attaching one more punitive rider to a legal settlement
-* Demanding additional money from a business partner
-* Delivering one last humiliating insult
-
-Your GM should not use a **parting shot**.
+### 5.3.3 Parting Shot
 
 You once again **bid** **AP** and use an appropriate **ability** against your opponent. Your GM must agree that the size of your **AP** **bid** is sufficient to gain the additional **prize**. The greater the **prize** the more risk that failure will bring them back into the contest, and so the higher the **bid** must be. If you succeed, their **AP** will decrease; their **outcome** may or may not change, but they cannot finish the **round** by taking an action against you.
 
 **Parting shots** are risky; if you fail, an **AP** transfer might bring your opponent back into the **contest**. Your stumble can give them an opening that they can exploit in an effort to snatch **victory** from the jaws of **defeat**.
 
-### 5.3.5 Desperation Stake
+### 5.3.4 Desperation Stake
 
 You can stake more **advantage points** than you currently have, to a maximum of your starting **AP** total. This allows you to attempt a **desperation stake** even when you are within a single **AP** of **defeat**. Your GM can never stake more **advantage points** than they have.
 
-### 5.3.6 Asymmetrical Exchange
-
-If you are engaged, you may choose to briefly suspend your attempt to best your opponent in an **extended contest**, in order to do something else. An instance where you are trying to do something else and your opponent is trying to win the **contest** is called an **asymmetrical exchange**.
-
-In an **asymmetrical exchange**, you do not score **APs** against your opponent if you win the **exchange**. Instead, you succeed at whatever else you were doing. You still lose **AP** if you fail. Often you will be using an **ability** other than the one you've been waging the **contest** with, one better suited to the task at hand. This becomes additionally dangerous when the **score** associated with your substitute **ability** is significantly lower than the one used for the rest of the **contest**.
-
-In addition to secondary objectives, as in the above example, you may engage in **asymmetrical exchange** to grant **augments** (see §2.6) to yourself or others.
-
-### 5.3.7 Switching Abilities
-
-You can usually switch freely from one **ability** to another in the middle of an **extended contest**. It makes sense to do so if you think a different **ability** will yield an advantage. 
-
-Your **AP** total stays the same when you change your **ability**, so it makes sense to start the contest with your best **ability** (appropriate to your goal, of course). If this seems odd, remember that **advantage points** measure advantage—how well the character is doing in the contest at the current moment. They do not measure proficiency; that is what the **target number** is for.
-
-When you switch **abilities**, your **prize** does not change, just the means by which you pursue it.
-
-### 5.3.8 Disengaging
-
-To disengage from an **extended contest** when your opponent is actively trying to keep you in the conflict, use an **asymmetrical exchange** (see ±5.3.6). You use an **ability** relevant to your attempt to disengage; the opponent counters with the **resistance** or, if a PC, an appropriate **ability**. If the GM attempts to disengage, they use the **resistance** to do so. These **abilities** may or may not be those used in the main **contest**.
-
-On any **victory**, you are able to leave the **contest**.
-
-If you withdraw from a **group extended contest** and later decide to rejoin it (or are forced to), you rejoin with the **advantage point** total you had when you left. If you can show how your leaving and returning substantially changes the situation, the GM may restore some of your **AP**—for example, if you leave a street fight to get your **followers** from a nearby tavern. Leaving a **contest** just to pick up a weapon or catch your breath is an **unrelated action**, and does not change your **advantage points**.
-
-### 5.3.9 AP Gifting
-
-If you are uninvolved in the contest you can also increase a participant’s **AP** total. First, agree the **tactic** you are using to help the engaged participant. Second, figure your **APs** from that ability (see §5.3.2.1). You **bid** a number of **APs** which may not exceed your **target number**. The **resistance** is twice the **bid**. 
-
-On a **victory** you transfer that number to the participant. On a **defeat** you transfer that number to the participant's opponent.
-
-## 5.4 Group Extended Contests
-
-When an **extended contest** involves three or more contestants, it is a **group extended contest**. The conflict is often between two groups; each side wants to knock the other out of the contest by reducing all of its opponents to 0 or fewer **APs**.
-
-Sometimes a contest will be a free-for-all involving three or more groups.
-
-### 5.4.1 Procedure
-
-1. Your GM **frames the contest**.
-2. You choose a **tactic**. Your **target number (TN)** is your **rating**, adding any **augments** (see §2.6), **hindrances** (see §2.7), **stretches** and **situational modifiers** (see §2.5), **consequences** and **benefits** (see §2.8). Figure your starting **advantage point (AP)** total (see §5.3.2.1).
-3. The GM determines the **resistance**. The GM opposes the PC with a **resistance**—the harder the task or tougher the opponent, the higher the **resistance**. The GM figures starting **APs** for the **resistance** (see §5.3.2.1).
-4. You describe your action towards the desired **prize** and bid **APs*** (see §5.3.2.2).
-5. The GM describes actions for the resistance and bids **APs** (see §5.3.2.2).
-6. The GM determines the order of action from highest **bid** to lowest: a **bid** of 20 **APs** goes before a **bid** of 5 **APs**. (In case of a tie, the contestant whose **bid** is the most daring goes first.)
-    1. Conduct **exchanges** in order of action: 
-        1. Decide if you want to defer your action, you can jump back into the order at any point. 
-        2. Conduct a **simple contest** as normal, but once the **outcome** has been determined, it becomes a number of **advantage points** scored by the winning side.
-        3. The number of **advantage points** the winner garners at the end of each **round** depends on the difference in their **results**, (see below).
-        4. If either contestant reaches 0 **advantage points** or fewer, the contestant is out of the contest.
-        5. Once a contestant is eliminated they free contestant can now engage with any other contestant and their AP totals remain as is.
-7. When all characters still in the contest have completed their action the **round** ends and a new one begins.
-8. When one side has reduced all of its opponents to 0 or fewer **APs** the contest ends.
-9. Award **experience points** if appropriate (see §8.1).
-
-If your chosen opponent is knocked out before your PC acts, the GM decides if you can change your declared action. If you defer your action and jump back in, the GM decides if you can change your declared action. 
-
-### 5.4.2 Group Extended Contest Outcomes
-
-In a **group extended contest** the side that has the last undefeated contestant gains the **prize**.
-
-Your GM may decide that you suffer individual **consequences** or gain individual **benefits** from the **outcome** of the contests you pursued, regardless of whether your team won or lost. These are not the **prize** but should be related to the **tactics** used to win the **prize**. If you pursued more than one contest before the end, you may experience **benefits** and **consequences** for each of them. See §5.3.3 for a discussion of **consequences** and **benefits** in **extended contests**.
-
-### 5.4.3 Second Chance
+### 5.3.5 Second Chance
 
 If your PC falls to 0 or fewer **advantage points** in a standard **extended contest**, you are **defeated**. In a **group extended contest**, however, you can try a **second chance** to stay in the **contest**. A **second chance** represents the knack to come back when your opponent turns away to gloat or deal with the other player characters. A character may only attempt one **second chance** in any **contest**.
 
@@ -1295,65 +1231,71 @@ Your GM should not use a **second chance** for the **resistance**.
 
 Your GM may decide to impost a **consequence** on you, even if you are later victorious in a contest, or your team wins the prize, that represents the adversity you suffered that brought you initially to defeat.
 
-### 5.4.4 AP Lending
+### 5.3.6 Assists
 
-**AP lending** is a common and important option in **extended contests**. You can transfer some or all of your **advantage points** to another PC engaged in a **group extended contest** on your side. With more **advantage points**, they can stay in the **contest** for longer, or make larger **bids** without driving themselves to **defeat**.
+You can transfer some or all of your **advantage points** to another contestant engaged in a **group extended contest** on your side. With more **advantage points**, they can stay in the **contest** for longer, or make larger **bids** without driving themselves to **defeat**.
 
-You cannot lend **advantage points** to yourself.
+State the number of **AP** you are trying to transfer. (The GM may suggest a higher or lower **bid** based on the action you describe.) The number of **APs** you are attempting to transfer is the **resistance** you face in a **simple contest**. You lost the **APs** whether or not you **succeed** in the contest.
 
-If a **follower’s AP** are already included in your **AP** total, the **follower** cannot lend them to you.
+You cannot transfer **advantage points** to yourself.
 
-Use an **unrelated action** and describe what your character is trying to do to improve the position of the target. For example, your PC might throw them a weapon, jeer at an opponent, or simply shout words of encouragement. Then, state the number of **AP** you are trying to **lend**. (The GM may suggest a higher or lower **bid** based on the action you describe.) The number of **APs** you are attempting to lend is the **resistance** you face in a **simple contest**. You lost the **APs** whether or not you **succeed** in the contest.
+If a **follower’s AP** are already included in your **AP** total, the **follower** cannot transfer them to you.
 
-### 5.2.10 Multiple Opponents
+### 5.3.7  Joining an In-Progress Contest
 
-When you defeat an existing opponent, you can engage with a new opponent. Both you and your opponent use your existing **AP** totals. In some types of conflict, many-against-one may have an advantage. In a melee for example it is more difficult to fight two or more opponents. In other types of contest many-against-one may actually hinder because contenders get in each other's way, such as an attempt to persuade another. In situations in a scored contest where numerical advantage exists, award a **situational modifier** usually of *zero* **degrees** or *one* degree. This is a **bonus** if the PCs outnumber their opponents and a penalty if they don't. Don't use this rule if you are treating the resistance as a mob (see §2.10)
+Both you and your opponent use your existing **AP** totals.
 
-
-
-## 5.5 Chained Contest
+## 5.4 Chained Contest
 
 **Chained contests** do not defer **consequences** to the end of the **contest**, instead your GM applies the **consequences** to the loser in the **contest** immediately following a **round**. This leads to a grittier feel to the **contest**, but at the price of a death spiral: once you lose the **consequences** make it likelier that you will lose again. **Chained contests** tend to produce the most extreme **outcomes**, as participants tend to accumulate significant **consequences**.
 
-To run an **chained contest** your GM runs a **simple contest** as normal, and then applies  **consequences** (see §2.6) with immediate effect. A **chained contest** benefits from using the **degree** when assessing the **consequences** (see §2.8).
+In a **chained contest** there is no distinction between aggressor and defender, each **round** represents attempts by both parties to overcome their opponent. Your GM should determine who has the initiative to describe what they are doing for any **exchange**, based on their interpretation of the flow of events. If in doubt your GM should defer to you over your opponent to describe what you do in the **round**, and describe the NPC reacting to that.
+
+### 5.4.1 Immediate Consequences
+
+Apply  **consequences** (see §2.6) with immediate effect to the loser, according to the **outcome** of that round. Use the **degree** to assess the **consequences** (see §2.8).
 
 **Chained contests** are asymmetric, in that they accumulate **consequences** for the loser, and not **benefits** for the winner. Your GM may decide to award **benefits** to a victorious PC after the **contest** ends (see §2.6).
 
-You decide if you wish to continue the **chained contest**, and your GM makes a similar determination for the **resistance**. Both you and your GM then express your intent. If your or your GM wishes to continue, play out another **simple contest**. If you, or your GM, wishes to **disengage**, then on a **victory** you leave the contest, without inflicting consequences on the opposition. If both you and the GM wish to leave the contest, then you both **disengage**, and the contest ends.
+After consequences, you decide if you wish to continue the **chained contest** or if you wish to **disengage**, and your GM makes a similar determination for the **resistance**. Both you and your GM then express your intent.
 
-If you **disengage** you do not gain the **prize** and suffer **defeat**, unless both sides **disengaged** which is a **tie** and neither gets the **prize**.
+If the **penalties** suffered by one contestant reduce their **ability** below *zero*, they must concede the contest. If it makes sense, your GM may allow you to continue by switching **abilities**. Accumulated **penalties** apply to the new ability used in the contest - this may still force you to concede.
 
-You can switch **abilities** within the contest, provided your GM agrees that the new **ability** represents a suitable **tactic** to obtain the **prize**.
+#### 5.4.2 Followers in a Chained Contest
 
-If the **penalties** suffered by one contestant reduce their **ability** below 0, they must concede the contest. If it makes sense, your GM may allow you to continue by switching **abilities**. The GM may decide that accumulated **penalties** apply to the new ability used in the contest - this may still force you to concede.
+**Followers** may augment your character in a **chained contest**.
 
-Award **experience points** if appropriate (see §8.1).
+In addition, if you suffer a defeat in a round of a **chained contest** you may transfer that **outcome** to a follower. Doing so takes that **follower** out of further rounds of the **chained contest**.
 
-### 5.5.1 Group Chained Contest
-
-In a **group chained contest** opponents pair off and fight a series of **chained contest** **rounds** with each other.
-
-Your GM should determine the order of action, but as all rounds represent actions by both aggressor and defender there is no advantage to be obtained by going first. If there are surplus characters on your side, you may engage an already engaged opponent in a second **contest**; your GM may choose to apply a **penalty** to them as they are already engaged with one opponent. Alternatively you may choose to **augment** an existing player character, reflecting aiding them in their fight instead.
-
-### 5.5.2 Group Chained Contest Outcomes
+### 5.4.3 Group Chained Contest Outcomes
 
 In a **group chained contest** the side that has not conceded gains the **prize**.
 
 Individual **consequences** or **benefits** will have already been determined by the **chained contest** **outcomes** on each **round**.
 
-### 5.5.3 Followers in a Chained Contest
+### 5.4.4 Parting Shot
 
-**Followers** may augment your character in a **chained contest**.
+The **parting shot** is another simple contest against your **defeated** opponent. The **ability** you use must relate to the consequences the opposition will suffer, but needn’t be the same one you used to win the **contest**. If the loser is a PC they use a suitable **ability** to resist; otherwise the GM rolls a suitable **resistance** value.
 
-In addition, if you suffer a defeat in a round of a **chained contest** you may transfer that **outcome** to a follower, but they suffer a **state of adversity** one level worse than you would do, so marginal becomes minor etc., and the **follower** is removed from the **contest**.
+If you succeed in your **parting shot** roll, you inflict additional immediate **immediate** against your opponent, worsening their defeat.
 
-## 5.6 Extended vs Scored Contests vs Chained Contests
+However, if your opponent succeeds, they use the **benefits** they would accrue on a **victory**, and subtract them from the number of **consequences** scored against them. If this returns their **TN** above *zero* they may re-enter the **contest**. Your GM describes this as a dramatic turnaround, in which your overreaching has somehow granted them an advantage allowing them to recover from their previous misfortune.
+
+### 5.3.6 Assists
+
+You may either **augment** a teammate to improve their **TN** or 'heal' some of their existing **consequences** (see §2.8.3).
+
+### 5.3.7  Joining an In-Progress Contest
+
+Any **consequences** that you have in effect, or participants in the in-progress **contest** you are joining have, remain in effect.
+
+## 5.5 Extended vs Scored Contests vs Chained Contests
 
 We recommend that your GM chooses ONE form of **long contest** only, and stick to it, within a given campaign of *QuestWorlds*. If in doubt, use a **scored contest** by default. We also recommend that game designers choosing to use *QuestWorlds* as the basis of their own game, choose ONE form of **long contest** to include. This document is comprehensive to allow designers and GMs to choose.
 
-**Scored contests** have the advantage of speed and simplicity. **Extended contests** have the advantage of each **exchange** allowing both parties to take turns acting, over your GM adjudicating who has the initiative; the bidding system also adds drama. **Chained contests** offer the benefit of grittier exchanges where the **outcomes** of each **round** have impact, as opposed to being 'cosmetic' until the end of the **contest**.
+**Scored contests** have the advantage of speed and simplicity. **Extended contests** have the advantage of each **exchange** allowing both parties to take turns acting in a **round** and the bidding system adds drama. They may also give *momentum* to the victor of an **exchange** through a transfer that gives them an edge against other opponents. **Chained contests** offer the benefit of grittier exchanges where the **outcomes** of each **round** have impact, as opposed to being 'cosmetic' until the end of the **contest**.
 
-**Scored contests** require more interpretation by your GM, to determine who has the initiative and describe the nature of the next **round**. **Extended contests** drama comes at the cost of increased complexity, and some harder to interpret corner cases. **Chained contests** create a death spiral which can be hard to break out of.
+**Scored contests** require more interpretation by your GM, to determine who has the initiative and describe the nature of the next **round**. **Extended contests** drama comes at the cost of increased complexity, and favors higher abilities more. **Chained contests** create a death spiral which can be hard to break out of.
 
 ## 5.7 Extremely Long Contests
 
