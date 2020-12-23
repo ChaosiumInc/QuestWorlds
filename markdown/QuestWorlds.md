@@ -2,14 +2,14 @@
 
 ## 0.1 Legal Information
 
-The *QuestWorlds* System Reference Document 0.71 (“QWSRD0.71”) describes the rules of *QuestWorlds*. You may incorporate the rules as they appear in QWSRD0.71, wholly or in part, into a derivative work, through the use of the *QuestWorlds* Open Game License, Version 1.0. You should read and understand the terms of that License before creating a derivative work from QWSRD0.71.
+The *QuestWorlds* System Reference Document 0.80 (“QWSRD0.80”) describes the rules of *QuestWorlds*. You may incorporate the rules as they appear in QWSRD0.80, wholly or in part, into a derivative work, through the use of the *QuestWorlds* Open Game License, Version 1.0. You should read and understand the terms of that License before creating a derivative work from QWSRD0.80.
 
 Thanks to Wizards of the Coast, the Open Source Initiative, and Creative Commons for their work in creating the framework behind Open Source (and in this case Open Game) licenses. You should be aware that the *QuestWorlds* Open Game License for use of the *QuestWorlds* system differs from the Wizards Open Game License and has
 different terms and conditions.
 
 ### 0.1.1 Using This License
 
-You should note that this is version of 0.71 of the *QuestWorlds* System Reference Document. We expect to release revised versions of this SRD, especially after development of Chaosium’s upcoming *QuestWorlds Core Book*. When we release the *QuestWorlds Core Book* we will update the version designation to 1.0, indicating that the SRD reflects the text published in that book. If you are developing materials for *QuestWorlds* projects you may want to bear this in mind. We will track any changes to the SRD at *https://github.com/ChaosiumInc/QuestWorlds*.
+You should note that this is version of 0.80 of the *QuestWorlds* System Reference Document. We expect to release revised versions of this SRD, especially after development of Chaosium’s upcoming *QuestWorlds Core Book*. When we release the *QuestWorlds Core Book* we will update the version designation to 1.0, indicating that the SRD reflects the text published in that book. If you are developing materials for *QuestWorlds* projects you may want to bear this in mind. We will track any changes to the SRD at *https://github.com/ChaosiumInc/QuestWorlds*.
 
 Once we release SRD version 1.0 we expect that to be stable for some time.
 
@@ -750,19 +750,11 @@ You may build your PC around one or more **keywords**. A **keyword** gives you a
 
 In certain genres, you may require multiple **keywords**: for example, one for **occupation**, another for species or culture, and perhaps a third for religious affiliation.
 
-Here are two ways to handle **keywords**. If in doubt, choose Umbrella.
+Treat **keywords** as shorthand for a package of **abilities**. The list of **abilities** is open-ended, but your GM's genre pack at least has a text description, which hints at the credible uses of a package **keyword**, and might provide a list of suggested **abilities** for unfamiliar settings, where it is less clear what a **keyword** encompasses. Even if there is a suggested list, the potential uses of the **keyword** are always open-ended, provided they are credible. In the kinds of fiction that *QuestWorlds* emulates it is usually enough to know that someone has a particular **occupation** or **heritage** to know what they can do.
 
-### 3.2.1 Keywords as Packages
+### 3.2.1 Breakouts
 
-Treat **keywords** simply as shorthand for a package of **abilities**. These can be increased together during character creation, but are too unrelated to increase together during a game. You are still free to use the **keyword** as an **ability**, and in fact may prefer to write only the specific **abilities** they’ve improved on their character sheet.
-
-### 3.2.2 Keywords as an Umbrella
-
-Treat **keywords** both as a raisable **ability**. To ensure that the potential uses of the keyword are credible the umbrella **keyword** usually has a text description, which mirrors the ability list from a package **keyword**. This approach keeps the character sheet from getting too cluttered. 
-
-#### 3.2.2.1 Breakouts
-
-If your character is particularly good at an aspect of an umbrella **keyword**, you create a **breakout ability** under the **keyword** at a **bonus** from the **rating** of the **keyword** you write these specialized **breakout abilities** under the **keyword**, along with how much they've improved from the **keyword**:
+If your character is particularly good at an aspect of a **keyword**, you create a **breakout ability** under the **keyword** at a **bonus** from the **rating** of the **keyword** you write these specialized **breakout abilities** under the **keyword**, along with how much they've improved from the **keyword**:
 
 Detective 15
 
@@ -771,11 +763,13 @@ Detective 15
 
 In this example, whilst the **rating** for most **contests** in which Detective was an appropriate **tactic** would be 15, for contests involving Deduction it would be 20.
 
-**Breakouts** may be similar to the list of **abilities** that a **package** would include. However, as these tend to be assumed in the umbrella **keyword** which is treated as an **ability** it is more interesting to have them *differentiate* your PC as an archetype from others. For example, if you want to portray the *stereotype* of the hard-drinking detective, you might add that as a **breakout** under the **keyword**. That **breakout** might also be flagged as a **flaw**.
+**Breakouts** may be similar to the list of **abilities** that the package of **abilities** would include. However, as these tend to be assumed in the **keyword** which is already treated as an **ability** it is more interesting to have them *differentiate* your PC as an archetype from others. For example, if you want to portray the *stereotype* of the hard-drinking detective, you might add that as a **breakout** under the **keyword**. That **breakout** might also be flagged as a **flaw**.
 
-### 3.2.3 Doubling Up
+### 3.2.2 Doubling Up
 
 In some settings, an **ability** may be listed in more than one of a PC’s **keywords**. You should choose only one to list it under.
+
+If your **distinguishing characteristic** is an **ability** that fits under a **keyword** then you can make it a breakout there.
 
 ## 3.3 Flaws
 
