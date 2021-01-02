@@ -29,8 +29,8 @@ VAR1=$(CAT << EOF
 3.3_Flaws.md \
 3.4_Assigning_Ability_Ratings.md \
 3.5_Prose_Method.md \
-4.0_Simple_Contests.md \
-4.1_Simple_Contest.md \
+4.0_Contests.md \
+4.1_Contest.md \
 4.2_Group_Simple_Contest.md \
 4.3_Multiple_Contestants_One_Prize.md \
 5.0_Long_Contests.md \

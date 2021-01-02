@@ -1886,7 +1886,7 @@ These are the major changes in this version of the rules
 * Provided clarity that consequences of defeat and benefit of victory are optional and the GM should focus on using the prize to narrate the outcome of a contest, only applying mechanical benefits if they make sense. 
 * For use with Degrees of Victory, added States of Fortune to mirror States of Adversity. Overall mirrored benefits and consequences more closely
 * Specific Ability Bonuses are dropped. They were hard for the GM to adjudicate and the same intent is better served by using a stretch on a broad ability when contesting against a PC with a more specific ability.
-* A winning group in a Group Simple Contest does not suffer a Consequence of Defeat as a result of a low RP difference victory any more, the GM should narrate consequences from the level of victory, if appropriate.
+* A winning group in a Group mple Contest does not suffer a Consequence of Defeat as a result of a low RP difference victory any more, the GM should narrate consequences from the level of victory, if appropriate.
 * Dropped the negative consequences for the winner in an Extended Contest during the Rising Action. If the winner is a PC the different results suggest additional consequences. So this rule is an over-complication.
 * Made it clear that only a PC should use a parting shot, not the resistance.
 * Long contests include both extended contest and scored contests. Between version 1 and version 2 extended contests switched to scored contests, this approach restores both variants, but requires changing the generic name to a long contest.
