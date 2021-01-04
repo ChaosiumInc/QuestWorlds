@@ -917,13 +917,15 @@ The GM needs to be aware of pacing during this, skipping potential obstacles to 
 
 **Sequences** are longer and more dramatic than **contests**. Your GM uses **sequences** when the drama of the conflict is as important as the **outcome** to the story. A **sequence** generates suspense with a back-and-forth struggle. It is something you and your GM should visualize and describe.
 
-A **sequence** consists of one or more **rounds**, which you resolve as **contests**. However **rounds** do not decide the **outcome** of the whole **contest**, only who has momentum at that time.
+A **sequence** consists of one or more **rounds**, which you resolve as **contests**. However an individual **round** does not decide the **outcome** of the whole **sequence**, only who has momentum at that time.
 
 Different types of **sequence** change how we record who has the upper hand at any one time, based on the **degrees** of the **contest** outcome.
 
 * In a **scored sequence**, the first contestant to have five 'strikes' against them loses. We *tally* **resolution points (RP)**.
 * In a **bidding sequence**, the contenders trade momentum and position until one of them crashes. We *tally* **advantage points (AP)**.
 * In **chained sequence** the contestants deal harm to each other, and may elect to withdraw if in difficulty. We don't keep a *tally* but apply **consequences**.
+
+Your GM uses this record, either *tallying* or applying **consequences**, to determine when to trigger the end of the **sequence** and the **outcome** for the victor.
 
 #### 5.1.1.1 Procedure
 
