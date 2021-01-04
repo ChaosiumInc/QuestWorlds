@@ -929,8 +929,8 @@ Your GM uses this record, either *tallying* or applying **consequences**, to det
 
 #### 5.1.1.1 Procedure
 
-1. Your GM **frames the contest**.
-2. You choose a **tactic**. Your **target number (TN)** is your **rating**, adding any **augments** (see §2.6), **hindrances** (see §2.7), **stretches** and **situational modifiers** (see §2.5), **consequences** and **benefits** (see §2.8). 
+1. Your GM **frames the sequence**.
+2. You choose a **tactic**. Your **target number (TN)** is your **rating**, adding any **augments** (see §2.6), **hindrances** (see §2.7), **stretches** and **situational modifiers** (see §2.5), **consequences** and **benefits** (see §2.8.
 3. Your GM determines the **resistance** (see §2.4.3). (If two PCs contend, your opponent figures their **TN** as described in step 2.)
 4. Carry out one or more **rounds**, repeating as necessary.
     1. Your GM decides which contender has the initiative, the 'aggressor', and describes what they are trying to do to achieve the **prize**. The 'defender' describes how they counter the aggressor's attempt to seize the **prize**. If it is not obvious from the unfolding narrative, your GM should choose your PC as the 'aggressor'.
@@ -942,7 +942,7 @@ Your GM uses this record, either *tallying* or applying **consequences**, to det
 6. Determine **benefits** or **consequences**.
 7. Describe the **outcome** based on the **story obstacle** or **story question**
 
-### 5.1.2 Group Overview
+### 5.1.2 Group Sequence Overview
 
 **Group sequences** proceed as a series of **sequences** between pairs of PC and opponents, interwoven so that they happen nearly simultaneously.
 
@@ -952,9 +952,9 @@ A **group sequence** continues until one side has no active participants. If you
 
 You may lose some pairings amongst the PCs, but still win if the last participant standing is a PC; otherwise if the last participant belongs to the opposition you lose.
 
-#### 5.1.2.1 Group Procedure
+#### 5.1.2.1 Group Sequence Procedure
 
-1. Your GM **frames the contest**.
+1. Your GM **frames the sequence**.
 2. You choose a **tactic**. Your **target number (TN)** is your **rating**, adding any **augments** (see §2.6), **hindrances** (see §2.7), **stretches** and **situational modifiers** (see §2.5), **consequences** and **benefits** (see §2.8).
 3. The GM determines the **resistance** (see §2.4.3). If two PCs contend, your opponent figures their **TN** as described in step 2.
 4. The PCs choose their opponents in order of their **TN** where it makes sense. Otherwise your GM will allocate opponents to you dependent on what makes narrative sense.
