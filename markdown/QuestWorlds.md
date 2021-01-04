@@ -903,7 +903,9 @@ Your GM may be tempted, to adjudicate every fight with a **sequence**, because f
 
 ### 5.1.1 Overview
 
-All sequences are a sequence of contests. The sequence represent tasks required for the PC to triumph. A **sequence** is played out in **rounds**. Each **round** represents an attempt by the PC to wear down the **resistance** by succeeding at a task, that makes up part of the goal. In a **sequence** where a PC thief tries to break into a bank to steal from the safe, individual rounds might represent:
+A sequence is a succession of **contests**. It represents a set of tasks required for the PC to overcome an obstacle.
+
+A **sequence** is played out in **rounds**. Each **round** represents an attempt by the PC to wear down the **resistance** by succeeding at a task, that makes up part of the goal. In a **sequence** where a PC thief tries to break into a bank to steal from the safe, individual rounds might represent:
 
 * Obtaining the plans of the bank
 * Surveillance to learn the movements of the guards
