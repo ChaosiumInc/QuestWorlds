@@ -2,14 +2,14 @@
 
 ## 0.1 Legal Information
 
-The *QuestWorlds* System Reference Document 0.80 (“QWSRD0.80”) describes the rules of *QuestWorlds*. You may incorporate the rules as they appear in QWSRD0.80, wholly or in part, into a derivative work, through the use of the *QuestWorlds* Open Game License, Version 1.0. You should read and understand the terms of that License before creating a derivative work from QWSRD0.80.
+The *QuestWorlds* System Reference Document 0.90 (“QWSRD0.90”) describes the rules of *QuestWorlds*. You may incorporate the rules as they appear in QWSRD0.90, wholly or in part, into a derivative work, through the use of the *QuestWorlds* Open Game License, Version 1.0. You should read and understand the terms of that License before creating a derivative work from QWSRD0.90.
 
 Thanks to Wizards of the Coast, the Open Source Initiative, and Creative Commons for their work in creating the framework behind Open Source (and in this case Open Game) licenses. You should be aware that the *QuestWorlds* Open Game License for use of the *QuestWorlds* system differs from the Wizards Open Game License and has
 different terms and conditions.
 
 ### 0.1.1 Using This License
 
-You should note that this is version of 0.80 of the *QuestWorlds* System Reference Document. We expect to release revised versions of this SRD, especially after development of Chaosium’s upcoming *QuestWorlds Core Book*. When we release the *QuestWorlds Core Book* we will update the version designation to 1.0, indicating that the SRD reflects the text published in that book. If you are developing materials for *QuestWorlds* projects you may want to bear this in mind. We will track any changes to the SRD at *https://github.com/ChaosiumInc/QuestWorlds*.
+You should note that this is version of 0.90 of the *QuestWorlds* System Reference Document. We expect to release revised versions of this SRD, especially after development of Chaosium’s upcoming *QuestWorlds Core Book*. When we release the *QuestWorlds Core Book* we will update the version designation to 1.0, indicating that the SRD reflects the text published in that book. If you are developing materials for *QuestWorlds* projects you may want to bear this in mind. We will track any changes to the SRD at *https://github.com/ChaosiumInc/QuestWorlds*.
 
 Once we release SRD version 1.0 we expect that to be stable for some time.
 
@@ -1877,25 +1877,18 @@ These are the major changes in this version of the rules
 
 * Moved to measuring a result by a number of successes and comparing them, simplifying masteries.
 * Split hero points into story points (bumps) and experience points (character improvement). Flaws generate experience points as do failures.
-* Removed the Degree of Victory. Now just calculate degrees. 
-* Added degrees to codify the +5, +10, +15, ... progression used throughout.
-* For Degree of Victory, clarified that contest results are only reciprocal between PCs. When the contest is against a resistance set by the GM, the results indicate whether the PC gains the prize, and the GM narrates the result for the resistance based on this.
-* Rephrased the Degree of Victory outcomes to emphasize: Yes, No, And..., But..., This change is designed to dissuade GMs from misunderstanding that the prize is obtained on a marginal victory, one of the most common result types, and instead encourage GMs to allow PCs to fail forward on such a result by introducing downstream complications.
-* Provided clarity that consequences of defeat and benefit of victory are optional and the GM should focus on using the prize to narrate the outcome of a contest, only applying mechanical benefits if they make sense. 
-* For use with Degrees of Victory, added States of Fortune to mirror States of Adversity. Overall mirrored benefits and consequences more closely
-* Specific Ability Bonuses are dropped. They were hard for the GM to adjudicate and the same intent is better served by using a stretch on a broad ability when contesting against a PC with a more specific ability.
-* A winning group in a Group Contest does not suffer a Consequence of Defeat as a result of a low RP difference victory any more, the GM should narrate consequences from the level of victory, if appropriate.
-* Dropped the negative consequences for the winner in a bidding sequence during the Rising Action. If the winner is a PC the different results suggest additional consequences. So this rule is an over-complication.
-* Made it clear that only a PC should use a parting shot, not the resistance.
-* Sequences include both extended contest and scored sequences. Between version 1 and version 2 extended contests switched to scored sequences, this approach restores both variants, but requires changing the generic name to a sequence.
-* Dropped edges and handicaps from extended contests - we use a resistance not stats, so makes no sense to have edges and handicaps
-* Added alternate mechanisms for determining if resistance advances and when
-* Added story-based resistance mechanics
-* Added story-based improvements
-* Added Mythic Russia's Plot Edits
-* Added Mythic Russia's Pyrrhic Victories for Extended Contests but as Climatic Contests
+* Removed the Degree of Victory. Now just calculate outcome degrees from success counts.
 * Changed degree of success and failure, to degree of victory and defeat, as success and failure are for individual rolls, victory and defeat once compared.
-* Simplified how multiple opponents are handled
-* Clarified contest outcomes for sequences, and how to determine the overall winner in a sequence
+* Made degrees codify the +5, +10, +15, ... progression used throughout, for example degrees of resistance.
+* For outcomes clarified that contest results are only reciprocal between PCs. When the contest is against a resistance set by the GM, the results indicate whether the PC gains the prize, and the GM narrates the result for the resistance based on this.
+* Changed outcomes to emphasize degrees. This change is designed to dissuade GMs from misunderstanding that the prize is obtained on a marginal victory, one of the most common result types, and instead encourage GMs to allow PCs to fail forward on a zero degree victory by introducing downstream complications or consequences.
+* Provided clarity that consequences of defeat and benefit of victory are optional and the GM should focus on using the prize to narrate the outcome of a contest, only applying mechanical benefits or penalties if they make sense.
+* Specific Ability Bonuses are dropped. They were hard for the GM to adjudicate and the same intent is better served by using a stretch on a broad ability when contesting against a PC with a more specific ability.
+* Made it clear that only a PC should use a parting shot, not the resistance.
+* Sequences replace all 'long' contest types. Between version 1 and version 2 extended contests switched to scored contests, this approach restores both variants, but changes the name to a sequence generically, factoring out commonality, and to scored and bidding respectively. Goal is to show contest as the atomic unit within a sequence.
+* Dropped edges and handicaps - we use a resistance not stats, so makes no sense to have edges and handicaps
+* Added Mythic Russia's Plot Edits
+* Simplified how multiple opponents are handled.
+* Clarified contest outcomes for sequences, and how to determine the overall winner in a sequence.
 * Do not allow transfers in a bidding sequence where the abilities differ by 6 or more. Consistent with benefits of victory and prevents 'loading up on mooks' as a strategy.
 
