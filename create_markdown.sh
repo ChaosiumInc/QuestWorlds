@@ -22,7 +22,7 @@ VAR1=$(CAT << EOF
 2.10_Mobs_Gangs_and_Hordes.md \
 2.11_Ganging_Up.md \
 2.12_Mass_Effort.md \
-2.14_Resistance_Progression.md \
+2.13_Resistance_Progression.md \
 3.0_Character_Creation.md \
 3.1_As-You-Go_Method.md \
 3.2_Keywords.md \
