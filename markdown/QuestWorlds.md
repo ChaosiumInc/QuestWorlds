@@ -1,15 +1,15 @@
 # 0.0 Credits & Legal Information
 
-## 0.1 Legal Information
+u# 0.1 Legal Information
 
-The *QuestWorlds* System Reference Document 0.91 (“QWSRD0.90”) describes the rules of *QuestWorlds*. You may incorporate the rules as they appear in QWSRD0.91, wholly or in part, into a derivative work, through the use of the *QuestWorlds* Open Game License, Version 1.0. You should read and understand the terms of that License before creating a derivative work from QWSRD0.91.
+The *QuestWorlds* System Reference Document 0.92 (“QWSRD0.92”) describes the rules of *QuestWorlds*. You may incorporate the rules as they appear in QWSRD0.92, wholly or in part, into a derivative work, through the use of the *QuestWorlds* Open Game License, Version 1.0. You should read and understand the terms of that License before creating a derivative work from QWSRD0.92.
 
 Thanks to Wizards of the Coast, the Open Source Initiative, and Creative Commons for their work in creating the framework behind Open Source (and in this case Open Game) licenses. You should be aware that the *QuestWorlds* Open Game License for use of the *QuestWorlds* system differs from the Wizards Open Game License and has
 different terms and conditions.
 
 ### 0.1.1 Using This License
 
-You should note that this is version of 0.91 of the *QuestWorlds* System Reference Document. We expect to release revised versions of this SRD, especially after development of Chaosium’s upcoming *QuestWorlds Core Book*. When we release the *QuestWorlds Core Book* we will update the version designation to 1.0, indicating that the SRD reflects the text published in that book. If you are developing materials for *QuestWorlds* projects you may want to bear this in mind. We will track any changes to the SRD at *https://github.com/ChaosiumInc/QuestWorlds*.
+You should note that this is version of 0.92 of the *QuestWorlds* System Reference Document. We expect to release revised versions of this SRD, especially after development of Chaosium’s upcoming *QuestWorlds Core Book*. When we release the *QuestWorlds Core Book* we will update the version designation to 1.0, indicating that the SRD reflects the text published in that book. If you are developing materials for *QuestWorlds* projects you may want to bear this in mind. We will track any changes to the SRD at *https://github.com/ChaosiumInc/QuestWorlds*.
 
 Once we release SRD version 1.0 we expect that to be stable for some time.
 
@@ -86,7 +86,7 @@ Original Rules: Robin D. Laws
 
 Further Development: Greg Stafford, Ian Cooper, David Dunham, Mark Galeotti, Jeff Richard, Neil Robinson, Roderick Robinson, David Scott, Lawrence Whitaker
 
-Additional Contributions: Paul Abertella, Shannon Appelcline, Simon Bray, David Cake, Dave Camoirano, Melissa Camoirano, John Carnahan, Charles Corrigan, David Dunham, Alex Ferguson, James Frusetta, Phil Hibbs, Simon D. Hibbs, Jeff Kyer, Martin Laurie, Mark Leymaster, Julian Lord, Rick Meints, Peter Metcalfe, Peter Nordstrand, Wesley Quadros, Mikael Raaterova, Jamie Revell, Graham Robinson, Jonas Schiött, Gary Sturgess, Ian Thomson, Nils Weinander
+Additional Contributions: Paul Abertella, Shannon Appelcline, Simon Bray, David Cake, Dave Camoirano, Melissa Camoirano, John Carnahan, Charles Corrigan, David Dunham, Alex Ferguson, James Frusetta, Phil Hibbs, Simon D. Hibbs, Jeff Kyer, Martin Laurie, Mark Leymaster, Julian Lord, Rick Meints, Peter Metcalfe, Peter Nordstrand, Randy Pytel, Wesley Quadros, Mikael Raaterova, Jamie Revell, Graham Robinson, Jonas Schiött, Gary Sturgess, Ian Thomson, Nils Weinander
 
 Chained Contests and Plot Edits from *Mythic Russia* © copyright 2006, 2010 Mark Galeotti; developed by Graham Robinson (for “Chained Contests”) and added as Open Game Content here with permission.
 
@@ -196,9 +196,9 @@ Ultimately, **abilities** are just names for the interesting things your charact
 
 ### 2.1.1 Flaws
 
-Your character may have one or more **flaws**. A **flaw** is an **ability** that you do not use to accomplish something, but instead the GM uses to hinder you from accomplishing something, or invokes to force you to act a certain way.
+Your character may have one or more **flaws**. Unlike an **ability**, you do not use a **flaw** to accomplish something; instead the GM uses your **flaw** to hinder you from accomplishing something, or invokes your **flaw** to force you to act a certain way.
 
-**Flaws** maybe psychological weaknesses such as "Alcoholic" or "Heroin Addict", or physical weaknesses such as "One-Eye," "Wheelchair-Bound" or "Asthmatic." A **flaw** might also be a moral philosophy such as "Code Against Killing," "Pacifist," or "Radical Candor" that limit your behavior in some way. A **flaw** also might be a relationship such as a "Frail Aunt," "Single Dad," or "Blackmailed".
+**Flaws** may be psychological weaknesses such as "Alcoholic" or "Heroin Addict", or physical weaknesses such as "One-Eye," "Wheelchair-Bound" or "Asthmatic." A **flaw** might also be a moral philosophy such as "Code Against Killing," "Pacifist," or "Radical Candor" that limit your behavior in some way. A **flaw** also might be a relationship such as a "Frail Aunt," "Single Dad," or "Blackmailed".
 
 Many **flaws** describe attributes that can be viewed positively. By making it a **flaw** and not an **ability** you are inviting your GM to use it to make your life more difficult, not easier.
 
@@ -212,7 +212,7 @@ You can add a new **flaw** if play suggests one might emerge, with discussion wi
 
 ### 2.1.2 Ratings and Masteries
 
-*QuestWorlds* **abilities** are scored on a **rating** of 1–20, representing the **target number (TN)** you need to roll or less to succeed on your roll during a **contest** (see §2.4 for more details).
+*QuestWorlds* **abilities** are scored on a **rating** of 1–20, representing the **target number (TN)** you need to roll or less to succeed in a **contest** (see §2.4 for more details).
 
  Once your **ability** passes 20, you would always be able to roll under it on a D20. So to allow abilities to scale over 20 we use **tiers** of capability we refer to as a **masteries**.  
  
@@ -224,7 +224,7 @@ Specific *QuestWorlds* games or genre packs may use other symbols relevant to th
 
 For how **masteries** work in play, see §2.4.6.
 
-### 2.1.3 No Relevant **ability**
+### 2.1.3 No Relevant **Ability**
 
 You may sometimes be faced with a **story obstacle**  or **story question** for which you have no relevant **ability** whatsoever. In such cases, you may still enter into conflict with the **story obstacle** using a **rating** of 5 for your **contest** roll.
 
@@ -248,22 +248,28 @@ In *QuestWorlds*, wealth is treated as just another way to overcome **story obst
 
 ## 2.3 Degrees
 
-Your GM uses a scale known as **degrees** throughout the game. **Degree** represent the scale of a **contest** **outcome** (§2.4.7), an **augment** (see §2.6), **stretches** and **situational modifiers** (see §2.5), **benefits** and **consequences** (see §2.8). Your GM also uses the same **degree** as a modifier to a **base resistance** when determining the **resistance's** **TN**.
+Your GM uses a scale known as **degrees** throughout the game.
 
-To add to the dice roll use the scale of values: +5, +10, +15, +M, +M2
-To subtract from the dice roll use the scale of values: -5, -10, -15, -M, -M2
+**Degrees** represent:
 
-So  *zero* **degrees** is +5 or -5, *one* **degree**  is +10 or -10, and so on. It is usually clear but you can use *decreasing* **degree** to refer to a subtraction and *higher* **increasing** to refer to an addition.
+* The scale of a **contest** **outcome** (§2.4.7)
+* An **augment** (see §2.6), **stretches** and **situational modifiers** (see §2.5)
+* **Benefits** and **consequences** (see §2.8).
+* The modifier to apply to the **base resistance** when determining the **resistance's** **TN**; harder challenges have a higher **degree** of **resistance** (see $2.4.3).
+
+See Table 2.3.1, Degrees, for details of the scale.
+
+So  *zero* **degrees** is +5 or -5, *one* **degree**  is +10 or -10, and so on. It is usually clear but you can use *decreasing* **degree** to refer to a subtraction and *increasing* **degree** to refer to an addition.
 
 ### 2.3.1 DEGREE TABLE
 
-|Degree    |Value     |
-|:------:|:------------:|
-|0|+5 or -5|
-|1|+10 or -10|
-|2|+15 or -15|
-|3|+M or -M|
-|4|+M2 or -M2|
+|Degree    |Bonus   | Penalty |
+|:------:|:--------:|:-------:| 
+|0|+5|-5|
+|1|+10|-10|
+|2|+15|-15|
+|3|+M|-M|
+|4|+M2|-M2|
 
 ## 2.4 Contest Procedure
 
@@ -702,7 +708,7 @@ Otherwise, your GM will start by determining your degree of influence over the *
 * Contributors: One of the forces enjoys a clear advantage over the others, but your efforts may tip the balance in favor of a chosen side. Your GM will give you a **rating** to roll against that represents the strength of your force, but you can **augment** that **rating** with an appropriate leadership **ability**.
 * Acted Upon: You have little influence over the **outcome**, but are stuck in the middle of the conflict and must struggle to prosper within it. The GM predetermines the **outcome** of the overall competition on dramatic grounds. To determine your fate in the battle, you **contest** against a **resistance** determined by the GM, derived from the overall battle **outcome**.
 
-## 2.14 Resistance Progression
+## 2.13 Resistance Progression
 
 Your GM may decide that **resistance** to your actions gets harder, as the campaign progresses. This reflects the trope of the type of challenges you face getting tougher as you improve.
 
@@ -712,7 +718,7 @@ In that case your GM should increment the **base resistance** by *one* to *three
 
 Your GM should also take into account that the opposition you were improving with respect to the previous season should now be considered more-easily defeated mooks, and use lower **ratings** for them when they appear in the story or even allow them to be taken out with an **assured contest**.
 
-### 2.14.1 No Progression
+### 2.13.1 No Progression
 
 Your GM may also decide that the **resistances** do not get harder as the campaign progresses, reflecting the PCs **ability** to disregard minor challenges, and simply choose harder **resistances** to challenge the players and allow them to earn **experience points**.
 
