@@ -1298,9 +1298,13 @@ We recommend that your GM chooses ONE form of **sequence** only, and stick to it
 You can think of this as a continuum. At one end are gritty genres where you want to use a **chained sequence** to reflect how punishing conflict is. At the other end are gonzo, larger-than-life genres where you want to use a **wagered sequence** to encourage crazy stunts and outrageous action. In the middle is the **scored sequence** which lets you focus in on tasks to add suspense and drama, without being too grim or too over-the-top.
 
 
-## 5.7 Extremely Long Contests
+## 5.7 Lengthy Sequences
 
-There’s no particular time scale associated with **contests**. But some **contests** may by their very nature be a drama that can’t be resolved at one point in the narrative. Examples include political campaigns, construction projects, or seductions. These can be resolved by **sequences** where each **round** is conducted at an appropriate moment, rather than in close succession. Your GM will need to keep track of the *tally*. They need to keep the running total for **advantage points** or **resolution points**, and perhaps track running totals for **consequences** or **benefits** in a **chained sequence** if they only impact future **rounds** in the **sequence**. They will also have to track the **resistance**, though this might change as the context changes (a civil war started by the players could impede their castle-building plans). The challenges of each round will vary, and you may use a different **ability** or **augment** in the next exchange.
+There’s no particular time scale associated with **sequences**. But some **sequences** may by their very nature be a drama that can’t be resolved at one point in the narrative. Examples include political campaigns, construction projects, or seductions. These can be resolved by **sequences** where each **round** is conducted at an appropriate moment, rather than in close succession. 
+
+Your GM will need to keep track of the *tally*. They need to keep the running total for **advantage points** or **resolution points**, and perhaps track running totals for **consequences** or **benefits** in a **chained sequence** if they only impact future **rounds** in the **sequence**. They will also have to track the **resistance**, though this might change as the context changes (a civil war started by the players could impede their castle-building plans). 
+
+The challenges of each round will vary, and you may use a different **ability** or **augment** in the each round.
 
 # 6.0 Relationships
 

@@ -39,7 +39,7 @@ VAR1=$(CAT << EOF
 5.3_Bidding_Sequence.md \
 5.4_Chained_Sequence.md \
 5.5_Bidding_vs_Scored_vs_Chained.md \
-5.6_Extremely_Long_Contests.md \
+5.6_Lengthy_Sequences.md \
 6.0_Relationships.md \
 6.1_Supporting_Characters.md \
 6.2_Allies.md \
