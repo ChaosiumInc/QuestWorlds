@@ -1,15 +1,15 @@
 # 0.0 Credits & Legal Information
 
-u# 0.1 Legal Information
+# 0.1 Legal Information
 
-The *QuestWorlds* System Reference Document 0.92 (“QWSRD0.92”) describes the rules of *QuestWorlds*. You may incorporate the rules as they appear in QWSRD0.92, wholly or in part, into a derivative work, through the use of the *QuestWorlds* Open Game License, Version 1.0. You should read and understand the terms of that License before creating a derivative work from QWSRD0.92.
+The *QuestWorlds* System Reference Document 0.921 (“QWSRD0.921”) describes the rules of *QuestWorlds*. You may incorporate the rules as they appear in QWSRD0.921, wholly or in part, into a derivative work, through the use of the *QuestWorlds* Open Game License, Version 1.0. You should read and understand the terms of that License before creating a derivative work from QWSRD0.921.
 
 Thanks to Wizards of the Coast, the Open Source Initiative, and Creative Commons for their work in creating the framework behind Open Source (and in this case Open Game) licenses. You should be aware that the *QuestWorlds* Open Game License for use of the *QuestWorlds* system differs from the Wizards Open Game License and has
 different terms and conditions.
 
 ### 0.1.1 Using This License
 
-You should note that this is version of 0.92 of the *QuestWorlds* System Reference Document. We expect to release revised versions of this SRD, especially after development of Chaosium’s upcoming *QuestWorlds Core Book*. When we release the *QuestWorlds Core Book* we will update the version designation to 1.0, indicating that the SRD reflects the text published in that book. If you are developing materials for *QuestWorlds* projects you may want to bear this in mind. We will track any changes to the SRD at *https://github.com/ChaosiumInc/QuestWorlds*.
+You should note that this is version of 0.921 of the *QuestWorlds* System Reference Document. We expect to release revised versions of this SRD, especially after development of Chaosium’s upcoming *QuestWorlds Core Book*. When we release the *QuestWorlds Core Book* we will update the version designation to 1.0, indicating that the SRD reflects the text published in that book. If you are developing materials for *QuestWorlds* projects you may want to bear this in mind. We will track any changes to the SRD at *https://github.com/ChaosiumInc/QuestWorlds*.
 
 Once we release SRD version 1.0 we expect that to be stable for some time.
 
@@ -83,10 +83,9 @@ except as expressly licensed in another, independent Agreement with the owner of
 ## 0.2 Credits
 
 Original Rules: Robin D. Laws
-
-Further Development: Greg Stafford, Ian Cooper, David Dunham, Mark Galeotti, Jeff Richard, Neil Robinson, Roderick Robinson, David Scott, Lawrence Whitaker
-
-Additional Contributions: Paul Abertella, Shannon Appelcline, Simon Bray, David Cake, Dave Camoirano, Melissa Camoirano, John Carnahan, Charles Corrigan, David Dunham, Alex Ferguson, James Frusetta, Phil Hibbs, Simon D. Hibbs, Jeff Kyer, Martin Laurie, Mark Leymaster, Julian Lord, Rick Meints, Peter Metcalfe, Peter Nordstrand, Randy Pytel, Wesley Quadros, Mikael Raaterova, Jamie Revell, Graham Robinson, Jonas Schiött, Gary Sturgess, Ian Thomson, Nils Weinander
+Lead System Development: Ian Cooper
+Development Assistance: David Scott
+Further Development Assistance: Paul Abertella, Shawn Carpenter, Ludovic Chabant, Rickard Elimää, Martin Helsdon, Jonathan Laufersweiler, James Lowder, Michael O’Brien, Jeff Richard, Adam RKitch 
 
 Chained Contests and Plot Edits from *Mythic Russia* © copyright 2006, 2010 Mark Galeotti; developed by Graham Robinson (for “Chained Contests”) and added as Open Game Content here with permission.
 
@@ -95,12 +94,6 @@ Material in *Section 1, Introduction* and *Section 2, Basic Mechanics* © copyri
 Material in *Section 2, Basic Mechanics* © copyright 2020 Shawn Carpenter and added as Open Game Content here with permission.
 
 QuestWorlds SRD with annotations for individual contributions can be found at GitHub: [https://github.com/ChaosiumInc/QuestWorlds/pulls](https://github.com/ChaosiumInc/QuestWorlds/pulls).
-
-Development of this version: Ian Cooper
-
-Development Assistance for this version: Shawn Carpenter, Ludovic Chabant, Rickard Elimää, Jonathan Laufersweiler, James Lowder, Michael O’Brien, Jeff Richard, David Scott
-
-Proofreading of this version: Martin Helsdon
 
 # 1.0 Introduction
 
@@ -194,7 +187,34 @@ Some **abilities** might be broad descriptions of your background or expertise, 
 
 Ultimately, **abilities** are just names for the interesting things your character can do.
 
-### 2.1.1 Flaws
+### 2.1.1 Keywords
+
+A **keyword** is a broad **ability** that often represents an occupation, a heritage, a belief system or participation in a community. The simplest way to use a **keyword** is as an **ability** that represents the competencies of an occupation, knowledge and attitudes passed down via a heritage, values of a belief system, or relationships from a community. In the kinds of fiction that *QuestWorlds* emulates it is usually enough to know that someone has a particular occupation or heritage to know what they can do.
+
+A **keyword** reduces the number of **abilities** your PC needs to track, and is a simplification to help you easily create archetypical characters for a genre without excessive bookkeeping.
+
+Your GM's genre pack should have a text description, which hints at the credible uses of a **keyword**.
+
+Any broad concept you come up with for an **ability**, may be better presented as a **keyword**.
+
+#### 2.1.1.1 Breakouts
+
+A **breakout** allows you to track a competency within the **keyword** individually, as an **ability**.
+
+If your character is renowned for a skill that credibly falls under one of your **keywords**, you create a **breakout ability** under the **keyword** at a **bonus** from the **rating** of the **keyword**. You write these specialized **breakout abilities** under the **keyword**, along with how much they've improved from the **keyword**:
+
+Detective 15
+
+* Deduction +5
+* Hard Drinking +5
+
+In this example, whilst the **rating** for most **contests** in which Detective was an appropriate **tactic** would be 15, for contests involving Deduction it would be 20.
+
+The list of **breakout abilities** in a **keyword** is open-ended, but your GM's genre pack description of the keyword will provide inspiration, and might include a list of suggested **abilities** for unfamiliar settings, where it is less clear what a **keyword** encompasses.
+
+Even if there is a suggested list, the potential uses of the **keyword** are always open-ended, provided they are credible. As the genre pack description tends to be assumed in the **keyword**, which is already treated as an **ability**, it can be more interesting to have them *differentiate* your PC from the archetype.
+
+### 2.1.2 Flaws
 
 Your character may have one or more **flaws**. Unlike an **ability**, you do not use a **flaw** to accomplish something; instead the GM uses your **flaw** to hinder you from accomplishing something, or invokes your **flaw** to force you to act a certain way.
 
@@ -210,7 +230,7 @@ In play your PC may work to overcome a **flaw** and you may reach the point that
 
 You can add a new **flaw** if play suggests one might emerge, with discussion with the GM, when you receive an **advance** (see §8.2).
 
-### 2.1.2 Ratings and Masteries
+### 2.1.3 Ratings and Masteries
 
 *QuestWorlds* **abilities** are scored on a **rating** of 1–20, representing the **target number (TN)** you need to roll or less to succeed in a **contest** (see §2.4 for more details).
 
@@ -224,11 +244,11 @@ Specific *QuestWorlds* games or genre packs may use other symbols relevant to th
 
 For how **masteries** work in play, see §2.4.6.
 
-### 2.1.3 No Relevant **Ability**
+### 2.1.4 No Relevant **Ability**
 
-You may sometimes be faced with a **story obstacle**  or **story question** for which you have no relevant **ability** whatsoever. In such cases, you may still enter into conflict with the **story obstacle** using a **rating** of 5 for your **contest** roll.
+You may sometimes be faced with a **story obstacle**  or **story question** for which you have no relevant **ability** whatsoever. In such cases, you may still enter into conflict with the **story obstacle** using a **stretch** or a **rating** of 5 for your **contest** roll.
 
-### 2.1.4 Understanding Ratings
+### 2.1.5 Understanding Ratings
 
 *QuestWorlds* treats **ratings** as a measure of how effective you are at solving problems with the **ability**, and does not limit what you can do with that **ability**, provided your actions are credible in genre.
 
@@ -363,7 +383,7 @@ The basic resolution methods are as follows:
 
 #### 2.4.4.1 Contest
 
-The **contest** is *QuestWorlds*' primary resolution mechanic for overcoming **story obstacles**, and is used the most often where the outcome is uncertain. It also provides the foundation for other types of uncertain **contest**, including several **long** ones. As such, it receives both an overview of key concepts here as well as a more detailed treatment in §4.
+The **contest** is *QuestWorlds*' primary resolution mechanic for overcoming **story obstacles**, and is used the most often where the outcome is uncertain. It also provides the foundation for other types of uncertain **contest**, including several **sequences** (see §5.0). As such, it receives both an overview of key concepts here as well as a more detailed treatment in §4.
 
 A **contest** can be summarized as follows:
 
@@ -626,35 +646,34 @@ If you lost the **prize**, your GM may still decide that you gain a **benefit**,
 
 On *zero* **degrees** of **defeat** your GM might assign a **bonus** of *zero* **degrees** or *one* **degree** to represent a glimmer of hope for the PC despite the **defeat**, such as gaining an insight into the **resistance's** weakness. If you have *one* **degree** of **defeat** your GM may assign a **bonus** of *zero* **degrees**, for similar reasons, if it makes dramatic sense.
 
-### 2.8.3 Recovery and Healing
+### 2.8.3 Recovery
 
-**Consequences** lapse on their own with the passage of time. Your GM will determine when the **consequences** have faded, and you should ask about whether they still apply at each new game session. The worse the **penalty**, the longer it may last, though the GM may reduce its **degree** with time, as you recover or heal. However, you’ll often want to remove them ahead of schedule, with the use of **abilities**.
+**Consequences** lapse on their own with the passage of time. Your GM will determine when the **consequences** have faded, and you should ask about whether they still apply at each new game session. The worse the **penalty**, the longer it may last, though the GM may reduce its **degree** with time, as you recover. However, you’ll often want to remove them ahead of schedule, with the use of **abilities**.
 
-#### 2.8.3.1 Healing Abilities
+#### 2.8.3.1 Recovery Abilities
 
-The **ability** used to bring about recovery from a **consequence** must relate to the type of harm.
+When deciding the **tactic** to use for recovery, the **ability** used to bring about recovery from a **consequence** must relate to the type of **consequence**.
 
-You can heal physical injuries with medical or extraordinary **abilities**.
+* You can aid recovery from physical injuries with medical **abilities** or extraordinary healing **abilities** such as magic, regenerative powers, or super-science. 
+* You can remove mental traumas, including those of confidence and morale, with mundane psychology **abilities** or through **extraordinary abilities** such as telepathy. You might also remove them through a dramatic confrontation between the victim and the source of the psychic injury. 
+* You can remove social injury through social **abilities** or extraordinary social **abilities** such as charm spells, love potions, or mind control. You probably have to make a public apology of some sort, often including a negotiation with the offended parties and the payment of compensation, either in disposable wealth or something more symbolic.
+* You can fix damage to items and equipment with some sort of repair **ability**. If you want to fix an extraordinary item, you may require genre-specific expertise: a broken magic ring may require a ritual to reforge.
 
-You can remove mental traumas, including those of confidence and morale, with mundane psychology or through **extraordinary abilities**. You might also remove them through a dramatic confrontation between the victim and the source of the psychic injury.
-
-You use social abilities to heal social injuries. You probably have to make a public apology of some sort, often including a negotiation with the offended parties and the payment of compensation, either in disposable wealth or something more symbolic.
-
-You can fix damage to items and equipment with some sort of repair **ability**. If you want to fix an extraordinary item, you may require genre-specific expertise: a broken magic ring may require a ritual to reforge.
-
-Your GM should almost always resolve healing attempts as **contests**. An exception might be a medical drama, in which surgeries would comprise the suspenseful set-piece sequences of the game, and your GM might chose a **sequence**.
-
-#### 2.8.3.2 Healing Resistances
+#### 2.8.3.2 Recovery Resistances
 
 The **resistances** to remove a states of adversity is the **base resistance** modified by the **degree** of the **consequence**. So if you were suffering from *one* **degree** of **consequence** (-10), you modify the **base resistance** by *one* **degree** (+10).
 
 Your GM can more easily calculate this as the **base resistance** with a **bonus** that is equal to and opposite your **penalty**. So if you have a **penalty** of *zero* **degrees** (-5), it is **base resistance** +5; if you have a **penalty** of *one* **degree** (-10), it is **base resistance** +10 and so on.
 
-When you make a successful healing attempt, you remove the **penalty**.
+#### 2.8.3.3 Recovery Contests and Sequences
+
+Your GM should almost always resolve healing attempts as **contests**. An exception might be a medical drama, in which surgeries would comprise the suspenseful set-piece sequences of the game, and your GM might chose a **sequence**. If the source of recovery is an NPC, the contest should always relate to the **tactic** used to obtain the services of the NPC.
+
+Any **victory** on a recovery attempt, clears the **consequence** (and so remove any **peanlty**). On a *zero* **degree** **victory** your GM might choose to apply a **consequence** to the **ability** used to recover representing exhaustion (of supplies, energy, etc.).
 
 ### 2.8.4 Waning Benefits
 
-Just as you recover from **consequences** with time, or through healing, so **benefits** fade with time.
+Just as you recover from **consequences** with time, or through recovery, so **benefits** fade with time.
 
 At the beginning of a session, especially when a significant period of game-world time passes between the conclusion of one session and the beginning of the next, the GM may declare that all **benefits** have expired or waned. A waning benefit may reduce its **degree** with time, as the effect fades. You are no longer charged with the confidence of your recent victory, the fans have forgotten your last concert, or the people of the village have started to think once again about the day-to-day struggle of their lives not how the stranger helped them. An expired benefit no longer gives you a **bonus**, your past victories no longer bring you solace, your fickle fans have moved on to the latest sensation.
 
@@ -662,7 +681,7 @@ At the beginning of a session, especially when a significant period of game-worl
 
 A PC may apply **bonuses** from multiple **benefits** to a single **contest**, or apply **penalties** from multiple **consequences** to a single **contest**. **Benefits and consequences** may cancel each other out.
 
-Because it is confusing to track both **benefits and consequences** against the same **ability** your GM may simply rule that one cancels the other out. This is particularly true of social **contest**s where a moment of shame can erase your previous triumphs, or your confidence eroded by a **failure**. Physical benefits may cancel out, flushed with victory you may be able to ignore pain, but it may defy credibility for wounds to be healed by an athletic performance.
+Because it is confusing to track both **benefits and consequences** against the same **ability** your GM may simply rule that one cancels the other out. This is particularly true of social **contests** where a moment of shame can erase your previous triumphs, or your confidence eroded by a **failure**. Physical benefits may cancel out, flushed with victory you may be able to ignore pain, but it may defy credibility for wounds to be healed by an athletic performance.
 
 Your GM may simply rule that **benefits** and **consequences** cancel out, or they may take the difference between the two benefits and create a new one. For example if you have a *one* **degree** **bonus** from impressing the crowd with your previous performance in the dance **contest**, but then suffer an injured ankle with a *zero* **degree** **penalty** of -5, your GM may rule that your twisted ankle cancels out your energy from the last performance, or your GM might rule that your success sees you through the pain, but you are now only *zero* **degrees** of **benefit** to impress the crowd.
 
@@ -692,7 +711,7 @@ Sometimes you may outnumber your opponent. As above, the GM should alter the **r
 
 ## 2.12 Mass Effort
 
-Clashes of massive forces resolve like any other **contest**, **simple** or **long**. These include:
+Clashes of massive forces resolve like any other **contest** or **sequence**. These include:
 
 * Military engagements
 * Corporate struggles for market share
@@ -750,26 +769,11 @@ Your GM should not use this method for creating NPCs. NPCs do not require defini
 
 ## 3.2 Keywords
 
-You may build your PC around one or more **keywords**. A **keyword** gives you a package deal: you get a number of **abilities** by selecting a pre-existing character concept, which the player then modifies.
+We recommend that you build your PC around one or more **keywords** (see §2.1.1).
 
-**Keywords** are best suited for use as the PC’s **occupation**. Often a keyword represents an occupation common the genre and has a narrative description of that occupation.
+**Keywords** are best suited for use as the PC’s occupation, heritage, beliefs, or memberships of a community.
 
-In certain genres, you may require multiple **keywords**: for example, one for **occupation**, another for species or culture, and perhaps a third for religious affiliation.
-
-Treat **keywords** as shorthand for a package of **abilities**. The list of **abilities** is open-ended, but your GM's genre pack at least has a text description, which hints at the credible uses of a package **keyword**, and might provide a list of suggested **abilities** for unfamiliar settings, where it is less clear what a **keyword** encompasses. Even if there is a suggested list, the potential uses of the **keyword** are always open-ended, provided they are credible. In the kinds of fiction that *QuestWorlds* emulates it is usually enough to know that someone has a particular **occupation** or **heritage** to know what they can do.
-
-### 3.2.1 Breakouts
-
-If your character is particularly good at an aspect of a **keyword**, you create a **breakout ability** under the **keyword** at a **bonus** from the **rating** of the **keyword** you write these specialized **breakout abilities** under the **keyword**, along with how much they've improved from the **keyword**:
-
-Detective 15
-
-* Deduction +5
-* Hard Drinking +5
-
-In this example, whilst the **rating** for most **contests** in which Detective was an appropriate **tactic** would be 15, for contests involving Deduction it would be 20.
-
-**Breakouts** may be similar to the list of **abilities** that the package of **abilities** would include. However, as these tend to be assumed in the **keyword** which is already treated as an **ability** it is more interesting to have them *differentiate* your PC as an archetype from others. For example, if you want to portray the *stereotype* of the hard-drinking detective, you might add that as a **breakout** under the **keyword**. That **breakout** might also be flagged as a **flaw**.
+In certain genres, your GM may require that your PC has multiple **keywords**: for example, one for **occupation**, another for species or culture, and perhaps a third for religious affiliation.
 
 ### 3.2.2 Doubling Up
 
@@ -1685,7 +1689,7 @@ Your GM may decide that the community's **degree** in a **resource** is temporar
 : A **supporting character** who shares an **occupation** or interest with your character.
 
 **Contest**
-: Where there is uncertainty as to whether a PC can overcome a **story obstacle** or discover a secret, then your GM can call for a contest to determine if the PC succeeds or fails. A contest may be **simple** (one roll) of **long** (a series of rolls).
+: Where there is uncertainty as to whether a PC can overcome a **story obstacle** or discover a secret, then your GM can call for a contest to determine if the PC succeeds or fails. 
 
 **Consequences**
 : Long term negative modifier, because you lost a contest. Usually a **state of adversity**.
