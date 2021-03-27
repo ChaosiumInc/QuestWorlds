@@ -185,7 +185,7 @@ Characters in *QuestWorlds* are defined by the **abilities** they use to face th
 
 Some **abilities** might be broad descriptions of your background or expertise, like "Dwarf of the Chalk Hills" or "Private Detective" - implying a variety of related capabilities. Others might represent specific capabilities or assets such as "Lore of the Ancients," "Captain of the Fencing Team," or "The Jade Eye Medallion."
 
-Ultimately, **abilities** are just names for the interesting things your character can do.
+Ultimately, **abilities** are names for the interesting things your character can do.
 
 ### 2.1.1 Keywords
 
@@ -216,9 +216,9 @@ Even if there is a suggested list, the potential uses of the **keyword** are alw
 
 ### 2.1.2 Flaws
 
-Your character may have one or more **flaws**. Unlike an **ability**, you do not use a **flaw** to accomplish something; instead the GM uses your **flaw** to hinder you from accomplishing something, or invokes your **flaw** to force you to act a certain way.
+Your character may have one or more **flaws**. Unlike an **ability**, you do not use a **flaw** to accomplish something; instead the GM uses your **flaw** to hinder you from accomplishing something, or invokes your **flaw** to force you to act a certain way. **Flaws** are used to enrich your character and provide story obstacles to be overcome.
 
-**Flaws** may be challenges such as "Addict", "One-Eyed," "Wheelchair-Bound" or "Asthmatic." A **flaw** might also be a philosophy such as "Code Against Killing," "Pacifist," or "Radical Candor" that limit your freedom of action. A **flaw**  might be a relationship that creates obligations such as a "Frail Aunt," "Single Dad," or "Blackmailed".
+**Flaws** may be psychological challenges such as "Addict", fears or compulsive behaviors such as "Afraid of Snakes" or "Needs Lucky Rabbit's Foot", physical challenges such as "One-Eyed," "Wheelchair-Bound" or "Asthmatic." A **flaw** might also be a philosophy such as "Code Against Killing," "Pacifist," or "Radical Candor" that limit your freedom of action. A **flaw**  might be a relationship that creates obligations such as a "Frail Aunt," "Single Dad," or "Blackmailed".
 
 Many **flaws** describe attributes that can be viewed positively. By making it a **flaw** and not an **ability** you are inviting your GM to use it to make your life more difficult, not easier.
 
@@ -321,7 +321,7 @@ A conflict to overcome a **story obstacle** or **story question** moves the stor
 
 If there is no **story obstacle**  or **story question** to your actions, your GM should not call for a **contest** but simply let you narrate what you do, provided that seems credible.
 
-For example, you are traveling from one star system to another. In the next star system you hope to confront the aged rebel who holds long-forgotten secrets that could bring freedom to the galaxy. Your GM feels there is no useful **story obstacle** for you to **contest** against, and so lets you describe heading down to the spaceport to secure a ship, meeting the captain and crew of your vessel, and traveling to the next world. Your GM encourages you to summarize what happens quickly so you can get to the meeting with the old rebel. Your GM knows there **story question** to convince the old rebel to part with their secrets.
+For example, you are traveling from one star system to another. In the next star system you hope to confront the aged rebel who holds long-forgotten secrets that could bring freedom to the galaxy. Your GM feels there is no useful **story obstacle** for you to **contest** against, and so lets you describe heading down to the spaceport to secure a ship, meeting the captain and crew of your vessel, and traveling to the next world. Your GM encourages you to summarize what happens quickly so you can get to the meeting with the old rebel. Your GM knows their **story question** to convince the old rebel to part with their secrets is the real drama.
 
 #### 2.4.1.3 No Repeat Attempts
 
@@ -337,9 +337,7 @@ Either way, if you succeed at that roll, you overcome the whole **story obstacle
 
 When deciding on your **tactic**, focus on how your unique abilities would help you overcome the **story obstacle** or reveal the answer to the **story question**. This as the "key moment" where we focus on your PC. Use this moment to reveal your PC's strengths to the group.
 
-Your GM will determine if your **tactic** passes a **credibility test**. If you try to jump a 100 meters gap or run faster than a speeding car, your action is not credible and your GM will ask you to choose a different **tactic**.
-
-Credibility depends on the genre, as what is not credible in a gritty police procedural might be in pulp where you might be able to leap from a bridge onto a speeding train. If in dispute, your GM should discuss with the group whether they consider your **tactic** credible for the genre.
+Your GM will determine if your **tactic** passes a **credibility test**. Credibility depends on the genre, as what is not credible in a gritty police procedural might be in pulp. If in dispute, your GM should discuss with the group whether they consider your **tactic** credible for the genre. If your action is not credible, your GM will ask you to choose a different **tactic**.
 
 **Extraordinary abilities** in some genres give you the capability to do the incredible. For example in a superhero genre you might fly or be invulnerable to bullets, in a fantasy genre hurl magical lightning bolts. A genre pack for the game should help define what incredible **tactics** are allowed for that game as part of an *Extraordinary Powers Framework*.
 
