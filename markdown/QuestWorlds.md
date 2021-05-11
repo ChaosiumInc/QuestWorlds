@@ -2,7 +2,7 @@
 
 # 0.1 Legal Information
 
-The *QuestWorlds* System Reference Document 0.921 (“QWSRD0.921”) describes the rules of *QuestWorlds*. You may incorporate the rules as they appear in QWSRD0.921, wholly or in part, into a derivative work, through the use of the *QuestWorlds* Open Game License, Version 1.0. You should read and understand the terms of that License before creating a derivative work from QWSRD0.921.
+The *QuestWorlds* System Reference Document 0.930 (“QWSRD0.930”) describes the rules of *QuestWorlds*. You may incorporate the rules as they appear in QWSRD0.930, wholly or in part, into a derivative work, through the use of the *QuestWorlds* Open Game License, Version 1.0. You should read and understand the terms of that License before creating a derivative work from QWSRD0.930.
 
 Thanks to Wizards of the Coast, the Open Source Initiative, and Creative Commons for their work in creating the framework behind Open Source (and in this case Open Game) licenses. You should be aware that the *QuestWorlds* Open Game License for use of the *QuestWorlds* system differs from the Wizards Open Game License and has
 different terms and conditions.
@@ -1362,7 +1362,7 @@ You should give your **sidekick** a name. You should, when asked, explain how th
 
 If the sidekick is nonhuman or a member of an unusual culture, one of its three starting **abilities** must be its species or culture **keyword**.
 
-Once you have determined the **sidekick’s** base **abilities**, they allocate three + 5 **boosts** between them, spending no more than two **boosts** on any one **ability**.
+Once you have determined the **sidekick’s** base **abilities**, you can allocate 15 **improvement points** amongst them, as described in Assigning Ability Ratings (see $3.4).
 
 You can improve these **abilities** through the expenditure of **experience points**.
 
@@ -1798,7 +1798,7 @@ Your GM may decide that the community's **degree** in a **resource** is temporar
 : An ability has a **rating**, between 1 and 20, indicating how likely a character is to succeed at using it.
 
 **Resistance**
-: The forces opposing the PC in a conflict, or concealing a secret that must be overcome by using an **ability** in a **contest**. One of: **Extreme**, **Huge**, **Very High**, **High**, **Raised**, **Moderate**, **Low**, **Very Low**, **Tiny**, **Rock-bottom**.
+: The forces opposing the PC in a conflict, or concealing a secret that must be overcome by using an **ability** in a **contest**. A **resistance** is measured as a **base resistance** modified by a **degree** depending on how easy or hard the obstacle is to overcome in genre.
 
 **Resolution Point (RP)**
 : In a **scored sequence** an **RP** tracks the advantage one contestant has over the other.
