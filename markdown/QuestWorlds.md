@@ -803,9 +803,9 @@ A **breakout** from a **keyword** starts at +5. In some cases, you may treat you
 
 **Flaws** are assigned a **rating** equivalent to your **abilities**. The first **flaw** is rated at the highest **ability**, the second shares the same **rating** as the second-highest **ability**, and the third equals the lowest **ability**. All **flaws** after the third are given the same **rating** as the lowest **ability**. You may designate **flaws** from **keywords** as your first or second-ranked **flaw**.
 
-Now, you get 30 **improvement points** to spend to improve your **abilities**. Each **improvement point** increases an ability by +1. You can spend up to ten **improvement points** on an ability. You cannot increase a **breakout** with **improvement points**. The maximum starting **ability rating** is 5M.
+Now, you get 20 **improvement points** to spend to improve your **abilities**. Each **improvement point** increases an ability by +1. You can spend up to ten **improvement points** on an ability. You cannot increase a **breakout** with **improvement points**. The maximum starting **ability rating** is 5M.
 
-You can spend **improvement points** after a roll, so as to **succeed** and no **fail**.
+You can spend **improvement points** after a roll, so as to **succeed** and not **fail**.
 
 Some genre packs may require you to have additional **keywords** that reflect the setting. These additional **keywords** come from the 12 **abilities** allowance, so in many genres you will have fewer wildcard **abilities** but better fit the setting.
 
@@ -1362,7 +1362,7 @@ You should give your **sidekick** a name. You should, when asked, explain how th
 
 If the sidekick is nonhuman or a member of an unusual culture, one of its three starting **abilities** must be its species or culture **keyword**.
 
-Once you have determined the **sidekick’s** base **abilities**, you can allocate 15 **improvement points** amongst them, as described in Assigning Ability Ratings (see $3.4).
+Once you have determined the **sidekick’s** base **abilities**, you can allocate 10 **improvement points** amongst them, as described in Assigning Ability Ratings (see $3.4).
 
 You can improve these **abilities** through the expenditure of **experience points**.
 
