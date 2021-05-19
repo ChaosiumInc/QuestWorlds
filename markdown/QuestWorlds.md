@@ -210,6 +210,8 @@ Detective 15
 
 In this example, whilst the **rating** for most **contests** in which Detective was an appropriate **tactic** would be 15, for contests involving Deduction it would be 20.
 
+A **breakout** begins at +5 when purchased during character creation or improvement. A **distinguishing characteristic** (see §3.0) under a **keyword** begins at +10.
+
 The list of **breakout abilities** in a **keyword** is open-ended, but your GM's genre pack description of the keyword will provide inspiration, and might include a list of suggested **abilities** for unfamiliar settings, where it is less clear what a **keyword** encompasses.
 
 Even if there is a suggested list, the potential uses of the **keyword** are always open-ended, provided they are credible. As the genre pack description tends to be assumed in the **keyword**, which is already treated as an **ability**, it can be more interesting to have them *differentiate* your PC from the archetype.
@@ -814,11 +816,15 @@ All other **abilities** start at a **rating** of 10.
 
 A **breakout** from a **keyword** starts at +5. In some cases, you may treat your **distinguishing characteristic** as a **breakout ability** from a **keyword** in this case, treat it as a +10.
 
-**Flaws** are assigned a **rating** equivalent to your **abilities**. The first **flaw** is rated at the highest **ability**, the second shares the same **rating** as the second-highest **ability**, and the third equals the lowest **ability**. All **flaws** after the third are given the same **rating** as the lowest **ability**. You may designate **flaws** from **keywords** as your first or second-ranked **flaw**.
+**Flaws** are assigned a **rating** equivalent to your **abilities**. The first **flaw** is rated at the highest **ability**, the second shares the same **rating** as the second-highest **ability**, and the third equals the lowest **ability**.
 
-Now, you get 20 **improvement points** to spend to improve your **abilities**. Each **improvement point** increases an ability by +1. You can spend up to ten **improvement points** on an ability. You cannot increase a **breakout** with **improvement points**. The maximum starting **ability rating** is 5M.
+**Flaws** should include **breakouts** when figuring the PC's highest **ability**.
 
-You can spend **improvement points** after a roll, so as to **succeed** and not **fail**.
+All **flaws** after the third are given the same **rating** as the lowest **ability**. You may designate **flaws** from **keywords** as your first or second-ranked **flaw**.
+
+Now, you get 20 **improvement points** to spend to improve your **abilities**. Each **improvement point** increases an ability by +1. You cannot increase a **breakout** with **improvement points**. The maximum starting **ability rating** is 5M; the maximum starting **breakout rating** is +5, or +10 for a **distinguishing characteristic** (see §3.0) agreed with your GM to be under a **keyword**.
+
+You can modify an ability using **improvement points** after a roll. This may allow you to to **succeed** and not **fail**.
 
 Some genre packs may require you to have additional **keywords** that reflect the setting. These additional **keywords** come from the 12 **abilities** allowance, so in many genres you will have fewer wildcard **abilities** but better fit the setting.
 
@@ -877,7 +883,7 @@ A **group contest** can be summarized as follows:
 3. Your GM determines the **resistance**.  If two PCs contend, your opponent figures their **TN** as described in step 2.
 4. For each of your group, roll a D20 vs your relevant **ability**, while your GM rolls a D20 vs the **resistance**. Your GM compares the difference **successes** between the two rolls to assesses the individual **outcome** (see §2.4.7).
 5. The side with the highest number of **successes** is the overall victor in the **contest**. Award **experience points** if appropriate (see §8.1).
-6. Describe the **outcome** based on the agreed **prize**. If you need to determine the **degree** of **victory** or **defeat** for the PCs, divide the difference in **successes** by the number of **PCs** rounding down. For example: if there are 4 PCs and they win by six **successes** they gain 6/4 or *one* **degree** of **victory**; if there are 4 PCs and they lose by three **successes** they lose by 3/4 or *zero* **degrees** of victory.
+6. Describe the **outcome** based on the agreed **prize**. If you need to determine the **degree** of **victory** or **defeat** for the PCs, divide the difference in **successes** by the number of **PCs** rounding down. For example: if there are 4 PCs and they win by six **successes** they gain 6/4 or *one* **degree** of **victory**; if there are 4 PCs and they lose by three **successes** they lose by 3/4 or *zero* **degrees** of **defeat**.
 
 It is possible that you suffer a **defeat**, even though your side gains the **victory**. It is possible that, as a result, that your PC will suffer a **consequence** (see §2.8) related to your **defeat**, even though your side won. If your side loses, then you may suffer both a **consequence** for your own individual **contest**, and a **consequence** for the overall **contest**.
 
