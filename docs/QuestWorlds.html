@@ -1,9 +1,9 @@
 <h1 id="credits-legal-information">0.0 Credits &amp; Legal Information</h1>
 <h1 id="legal-information">0.1 Legal Information</h1>
-<p>The <em>QuestWorlds</em> System Reference Document 0.930 (“QWSRD0.930”) describes the rules of <em>QuestWorlds</em>. You may incorporate the rules as they appear in QWSRD0.930, wholly or in part, into a derivative work, through the use of the <em>QuestWorlds</em> Open Game License, Version 1.0. You should read and understand the terms of that License before creating a derivative work from QWSRD0.930.</p>
+<p>The <em>QuestWorlds</em> System Reference Document 0.940 (“QWSRD0.940”) describes the rules of <em>QuestWorlds</em>. You may incorporate the rules as they appear in QWSRD0.940, wholly or in part, into a derivative work, through the use of the <em>QuestWorlds</em> Open Game License, Version 1.0. You should read and understand the terms of that License before creating a derivative work from QWSRD0.940.</p>
 <p>Thanks to Wizards of the Coast, the Open Source Initiative, and Creative Commons for their work in creating the framework behind Open Source (and in this case Open Game) licenses. You should be aware that the <em>QuestWorlds</em> Open Game License for use of the <em>QuestWorlds</em> system differs from the Wizards Open Game License and has different terms and conditions.</p>
 <h3 id="using-this-license">0.1.1 Using This License</h3>
-<p>You should note that this is version of 0.921 of the <em>QuestWorlds</em> System Reference Document. We expect to release revised versions of this SRD, especially after development of Chaosium’s upcoming <em>QuestWorlds Core Book</em>. When we release the <em>QuestWorlds Core Book</em> we will update the version designation to 1.0, indicating that the SRD reflects the text published in that book. If you are developing materials for <em>QuestWorlds</em> projects you may want to bear this in mind. We will track any changes to the SRD at <em>https://github.com/ChaosiumInc/QuestWorlds</em>.</p>
+<p>You should note that this is version of 0.940 of the <em>QuestWorlds</em> System Reference Document. We expect to release revised versions of this SRD, especially after development of Chaosium’s upcoming <em>QuestWorlds Core Book</em>. When we release the <em>QuestWorlds Core Book</em> we will update the version designation to 1.0, indicating that the SRD reflects the text published in that book. If you are developing materials for <em>QuestWorlds</em> projects you may want to bear this in mind. We will track any changes to the SRD at <em>https://github.com/ChaosiumInc/QuestWorlds</em>.</p>
 <p>Once we release SRD version 1.0 we expect that to be stable for some time.</p>
 <p>If you have questions about this license, please reach out to Moon Design at licensing@chaosium.com.</p>
 <h3 id="questworlds-open-game-license-version-1.0">0.1.2 <em>QuestWorlds</em> Open Game License, Version 1.0</h3>
@@ -31,7 +31,7 @@
 </ol>
 <p>This work created using the <em>QuestWorlds</em> Open Game License.</p>
 <p><em>QuestWorlds</em> Open Game License v 1.0 © copyright 2020 Moon Design Publications LLC.</p>
-<p><em>QuestWorlds</em> © copyright 2019–2020 Moon Design Publications LLC; Author, original rules: Robin D. Laws; developed by Greg Stafford, Ian Cooper, David Dunham, Mark Galeotti, Jeff Richard, Neil Robinson, Roderick Robinson, David Scott, and Lawrence Whitaker.</p>
+<p><em>QuestWorlds</em> © copyright 2019–2021 Moon Design Publications LLC; Author, original rules: Robin D. Laws; developed by Greg Stafford, Ian Cooper, David Dunham, Mark Galeotti, Jeff Richard, Neil Robinson, Roderick Robinson, David Scott, and Lawrence Whitaker.</p>
 <p>QuestWorlds and the QuestWorlds logo are trademarks of Moon Design Publications LLC. Used with permission.</p>
 <ol start="8" type="1">
 <li><p>Limitations on Grant: You agree not to Use any Prohibited Content, except as expressly licensed in another, independent Agreement with Moon Design. You agree not to indicate compatibility or co-adaptability with any Trademark or Registered Trademark in conjunction with a work containing <em>QuestWorlds</em> Open Game Content except as expressly licensed in another, independent Agreement with the owner of such Trademark or Registered Trademark.</p></li>
@@ -142,54 +142,98 @@
 <p>Conversely, if in the course of play you find your character in a situation without equipment essential to utilize an ability effectively, or where your character’s gear is poorly suited to the task at hand, your GM may take into account in assessing credibility-based <strong>situational modifiers</strong> (see §2.5).</p>
 <h3 id="wealth">2.2.1 Wealth</h3>
 <p>In <em>QuestWorlds</em>, wealth is treated as just another way to overcome <strong>story obstacles</strong>. Many characters may not even have an explicit wealth <strong>ability</strong>, with their wealth or assets instead implied by <strong>abilities</strong> representing their background, profession, or status. Whether explicit or implied, the relevant <strong>rating</strong> is not an objective measure of the size of your fortune, but instead indicates how well you solve problems with money and resources.</p>
-<h2 id="degrees">2.3 Degrees</h2>
-<p>Your GM uses a scale known as <strong>degrees</strong> throughout the game.</p>
-<p><strong>Degrees</strong> represent:</p>
+<h2 id="modifiers">2.3 Modifiers</h2>
+<p>Your GM uses <strong>modifiers</strong> throughout the game. <strong>Modifiers</strong> increment by 5. See Table 2.3.1, Modifiers, for details of the scale.</p>
+<p>A positive <strong>modifier</strong> is a <strong>bonus</strong> and a negative <strong>modifier</strong> is a <strong>penalty</strong>.</p>
+<p><strong>Modifiers</strong> represent:</p>
 <ul>
-<li>The scale of a <strong>contest</strong> <strong>outcome</strong> (§2.4.7)</li>
-<li>An <strong>augment</strong> (see §2.6), <strong>stretches</strong> and <strong>situational modifiers</strong> (see §2.5)</li>
-<li><strong>Benefits</strong> and <strong>consequences</strong> (see §2.8).</li>
-<li>The modifier to apply to the <strong>base resistance</strong> when determining the <strong>resistance’s</strong> <strong>TN</strong>; harder challenges have a higher <strong>degree</strong> of <strong>resistance</strong> (see $2.4.3).</li>
+<li>The <strong>modifier</strong> to apply to the <strong>base resistance</strong> when determining the <strong>resistance’s</strong> <strong>TN</strong>; harder challenges have a higher <strong>degree</strong> of <strong>resistance</strong> (see $2.4.3).</li>
+<li>A <strong>stretch</strong> based on a lack of credible abilities to overcome an obstacle (see §2.5)</li>
+<li>A <strong>situational modifier</strong> based on the <strong>tactics</strong> chosen by a PC (see §2.5)</li>
+<li>The <strong>outcome</strong> of an <strong>augment</strong> (see §2.6) or <strong>hindrance</strong> (see §2.7)</li>
+<li>The <strong>bonus</strong> of a <strong>benefit</strong> or <strong>penalty</strong> of <strong>consequences</strong> (see §2.8).</li>
 </ul>
-<p>See Table 2.3.1, Degrees, for details of the scale.</p>
-<p>So <em>zero</em> <strong>degrees</strong> is +5 or -5, <em>one</em> <strong>degree</strong> is +10 or -10, and so on. It is usually clear but you can use <em>decreasing</em> <strong>degree</strong> to refer to a subtraction and <em>increasing</em> <strong>degree</strong> to refer to an addition.</p>
-<h3 id="degree-table">2.3.1 DEGREE TABLE</h3>
+<p>The table includes two aspects besides <strong>bonuses</strong> and <strong>penalties</strong>.</p>
+<p>We name the <strong>modifiers</strong> for <strong>resistances</strong>. Some people like using the names, other people just use the value of the <strong>modifier</strong>.</p>
+<p>We equate <strong>degrees</strong> of <strong>victory</strong> and <strong>degrees</strong> of <strong>defeat</strong> to <strong>modifiers</strong> (§2.4.7), in case the GM wants to assign corresponding <strong>benefits</strong> or <strong>consequences</strong>. (Note that as <strong>degrees</strong> represent the difference between results, they begin at <em>zero</em>).</p>
+<h3 id="modifiers-table">2.3.1 MODIFIERS TABLE</h3>
 <table>
 <thead>
 <tr class="header">
-<th style="text-align: center;">Degree</th>
-<th style="text-align: center;">Bonus</th>
 <th style="text-align: center;">Penalty</th>
+<th style="text-align: center;">Bonus</th>
+<th style="text-align: center;">Resistance</th>
+<th style="text-align: center;">Degree of Victory</th>
+<th style="text-align: center;">Degree of Defeat</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;">0</td>
-<td style="text-align: center;">+5</td>
-<td style="text-align: center;">-5</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">1</td>
-<td style="text-align: center;">+10</td>
-<td style="text-align: center;">-10</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">2</td>
-<td style="text-align: center;">+15</td>
-<td style="text-align: center;">-15</td>
-</tr>
-<tr class="even">
+<td style="text-align: center;">-20</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">Simple</td>
+<td style="text-align: center;">-</td>
 <td style="text-align: center;">3</td>
-<td style="text-align: center;">+M</td>
-<td style="text-align: center;">-M</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">-15</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">Easy</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">2</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;">4</td>
-<td style="text-align: center;">+M2</td>
-<td style="text-align: center;">-M2</td>
+<td style="text-align: center;">-10</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">Routine</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">1</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">-5</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">Straightforward</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">0</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">Challenging</td>
+<td style="text-align: center;">Tie</td>
+<td style="text-align: center;">Tie</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">5</td>
+<td style="text-align: center;">Hard</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">10</td>
+<td style="text-align: center;">Punishing</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">15</td>
+<td style="text-align: center;">Extreme</td>
+<td style="text-align: center;">2</td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">20</td>
+<td style="text-align: center;">Exceptional</td>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;">-</td>
 </tr>
 </tbody>
 </table>
+<p>A routine obstacle, or less, will usually be an <strong>assured contest</strong> (see §2.4.4.2) and there is no need to roll if a <strong>TN</strong> is reduced below 0 by <strong>modifiers</strong>.</p>
 <h2 id="contest-procedure">2.4 Contest Procedure</h2>
 <p>You choose an <strong>ability</strong> relevant to the conflict at hand, describe exactly what you are trying to accomplish, and how. Your GM may modify these suggested actions to better fit the fictional circumstances, and describe the actions of the NPCs or forces on the other side of the conflict.</p>
 <h3 id="framing-the-contest">2.4.1 Framing the Contest</h3>
@@ -220,10 +264,10 @@
 <p><strong>Extraordinary abilities</strong> in some genres give you the capability to do the incredible. For example in a superhero genre you might fly or be invulnerable to bullets, in a fantasy genre hurl magical lightning bolts. A genre pack for the game should help define what incredible <strong>tactics</strong> are allowed for that game as part of an <em>Extraordinary Powers Framework</em>.</p>
 <p>The GM can narrate the remaining tasks that make sense of the story depending on your <strong>success</strong> with that roll, or have them occur ‘off-stage’ for speed. Think of the way TV or Cinema often cuts to the key moment of drama in a break-in, over showing us the whole heist from beginning to end.</p>
 <h3 id="target-number-bonuses-and-penalties">2.4.2 Target Number, Bonuses and Penalties</h3>
-<p>Your <strong>ability’s</strong> <strong>rating</strong> may be modified by a number of factors. Your <strong>target number</strong>—the number you must roll under or equal to on a D20 to succeed—is your <strong>rating</strong> with any applicable modifiers. Positive modifiers are called <strong>bonuses</strong>; negative modifiers are called <strong>penalties</strong>.</p>
+<p>Your <strong>ability’s</strong> <strong>rating</strong> may be modified by a number of factors. Your <strong>target number</strong>—the number you must roll under or equal to on a D20 to succeed—is your <strong>rating</strong> with any applicable <strong>modifiers</strong>. Positive <strong>modifiers</strong> are <strong>bonuses</strong>; negative <strong>modifiers</strong> are <strong>penalties</strong>.</p>
 <p><strong>Bonuses</strong>, may raise your <strong>target number</strong> high enough to gain a <strong>mastery</strong>. <strong>Penalties</strong>, may lower an <strong>target number</strong> to the point where it loses one or more <strong>masteries</strong>.</p>
-<p>The following rules sections describe sources of <strong>bonuses</strong> and <strong>penalties</strong>: <strong>augments</strong> (see §2.6), <strong>hindrances</strong> (see §2.7), <strong>stretches</strong> and <strong>situational modifiers</strong> (see §2.5), <strong>consequences</strong> and <strong>benefits</strong> (see §2.8).</p>
-<p>These apply to PC’s <strong>target numbers</strong> only, and never to the <strong>resistance</strong> (see §2.4.3). The GM sets the <strong>resistance</strong> according to the needs of the story, and thus it is not further modified.</p>
+<p>The following rules sections describe sources of <strong>modifiers</strong>: <strong>augments</strong> (see §2.6), <strong>hindrances</strong> (see §2.7), <strong>stretches</strong> and <strong>situational modifiers</strong> (see §2.5), <strong>consequences</strong> and <strong>benefits</strong> (see §2.8).</p>
+<p>These <strong>modifiers</strong> apply to PC’s <strong>target numbers</strong> only (see §2.4.3). Once the GM sets the <strong>resistance</strong> according to the needs of the story, it is not further modified.</p>
 <p>If <strong>penalties</strong> reduce your <strong>target number</strong> to 0 or less, any attempt to use it automatically <strong>results</strong> in <strong>failure</strong>. You must find another way to achieve your aim.</p>
 <h3 id="resistance">2.4.3 Resistance</h3>
 <p>Your GM chooses a <strong>resistance</strong> to represent the difficulty of the <strong>story obstacle</strong> or <strong>story question</strong>. By default, the <strong>base resistance</strong> starts at 10.</p>
@@ -232,9 +276,9 @@
 <p>For example, let’s say that your GM is playing a game inspired by fast-paced, non-fantastic, martial arts movies in a contemporary setting. You are running along a bridge, pacing a hovercraft, piloted by the main bad guy. You want your character, Joey Chun, to jump onto the hovercraft and punch the villain’s lights out.</p>
 <p>Your GM starts with the proposed action’s position in the storyline. They consider a range of narrative factors, from how entertaining it would be for you to have a succeed, how much failure would slow the pacing of the current sequence, and how long it has been since you last scored a thrilling victory. If, after this, they need further reference points, your GM can draw inspiration more from martial arts movies than the physics of real-life jumps from bridges onto moving hovercraft. Having decided how difficult the task ought to be dramatically,your GM will then supply the physical details as color, to justify their choice and create suspension of disbelief, the illusion of authenticity that makes us accept fictional incidents as credible on their own terms. If they want Joey to have a high chance of success, your GM describes the distance between bridge and vehicle as impressive (so it feels exciting if you make it) but not insurmountable (so it seems believable if you make it).</p>
 <p>In <em>QuestWorlds</em> your GM will pick a <strong>resistance</strong> based on dramatic needs and then justify it by adding details into the story.</p>
-<p>Your GM determines the <strong>resistance</strong> from a <strong>base resistance</strong>. If your GM feels that it is hard then they will modify the <strong>resistance</strong> by a <strong>degree</strong> depending on their view of how difficult the obstacle is for you. Increasing <strong>degrees</strong> make it harder to succeed, and decreasing <strong>degrees</strong> easier.</p>
-<p>The <strong>degree</strong> never reduces the <strong>resistance</strong> value below 0. If the GM assesses a <strong>degree</strong> for the resistance that would take the <strong>target number</strong> below 0, it becomes an <strong>assured contest</strong>.</p>
-<p>All <strong>contests</strong> use the <strong>base resistance</strong> + <em>optional</em> <strong>degrees</strong>, except for <strong>contests</strong> to determine <strong>augments</strong>. <strong>Augmenting</strong> always faces the <strong>base resistance</strong>.</p>
+<p>Your GM determines the <strong>resistance</strong> from a <strong>base resistance</strong>. If your GM feels that it is hard then they will increase the <strong>resistance</strong> by a <strong>modifier</strong> depending on their view of how difficult the obstacle is for you (see §2.3). Increasing <strong>modifiers</strong> make it harder to succeed, and decreasing <strong>modifiers</strong> easier.</p>
+<p>The <strong>modifier</strong> never reduces the <strong>resistance</strong> value below 0. If the GM assesses a <strong>modifier</strong> for the resistance that would take the <strong>target number</strong> below 0, it becomes an <strong>assured contest</strong>.</p>
+<p>All <strong>contests</strong> use the <strong>base resistance</strong> + <em>optional</em> <strong>modifier</strong>, except for <strong>contests</strong> to determine <strong>augments</strong>. <strong>Augmenting</strong> always faces the <strong>base resistance</strong>.</p>
 <h3 id="resolution-methods">2.4.4 Resolution Methods</h3>
 <p>The basic resolution methods are as follows:</p>
 <h4 id="contest">2.4.4.1 Contest</h4>
@@ -329,7 +373,7 @@
 <p>The definition of <strong>stretch</strong> is elastic, depending on genre.</p>
 <p>Your GM should not impose <strong>stretch penalties</strong> on action descriptions that add flavor and variety to a scene, but do not fundamentally change what you can do with your <strong>ability</strong>. These make the scene more fun but don’t really gain any advantage.</p>
 <h3 id="situational-modifiers">2.5.2 Situational Modifiers</h3>
-<p>Your GM may also impose <strong>situational modifiers</strong> when, given the description of the current situation, believability demands that you should face a notable <strong>bonus</strong> or <strong>penalty</strong>. Your GM should choose <em>one</em> or <em>two</em> <strong>degrees</strong> of +10, +5, –5, or –10. <strong>Bonuses</strong> and <strong>penalties</strong> of less than 5 don’t exert enough effect to be worth the bother. Those higher than 10 give the <strong>situational modifier</strong> a disproportionate role in determining <strong>outcomes</strong>.</p>
+<p>Your GM may also impose <strong>situational modifiers</strong> when, given the description of the current situation, believability demands that you should face a notable <strong>bonus</strong> or <strong>penalty</strong>. Your GM should use the scale in §2.3 Modifiers when determining a <strong>bonus</strong> or <strong>penalty</strong>; most modifiers should +/5 or +/-10.. <strong>Bonuses</strong> and <strong>penalties</strong> of less than 5 don’t exert enough effect to be worth the bother. Those higher than 10 give the <strong>situational modifier</strong> a disproportionate role in determining <strong>outcomes</strong>.</p>
 <p>During a <strong>sequence</strong> (see §5.0), they should typically last for a single <strong>round</strong>, and reflect clever or foolish choices.</p>
 <h2 id="augments">2.6 Augments</h2>
 <p>You may sometimes face <strong>contests</strong> where more than one <strong>ability</strong> may be applicable to the conflict at hand. In such cases, you may attempt to use one <strong>ability</strong> to give a supporting bonus to the main ability you are using to frame the <strong>contest</strong>. This is called an <strong>augment</strong>. It results in a <strong>bonus</strong> to your <strong>target number</strong>. For example, if your character has the <strong>abilities</strong> “The Queen’s Intelligencer” and “Master of Disguise”, you might use the latter to <strong>augment</strong> the former when infiltrating a rival nation’s capitol. Similarly, a character with “Knight Errant” and “My Word is my Bond” <strong>abilities</strong> might use one to <strong>augment</strong> the other when in conflict with a <strong>story obstacle</strong> the character has sworn to overcome.</p>
@@ -341,16 +385,16 @@
 <p>If your GM accepts your <strong>augment</strong> proposal, it will be resolved by the method below. The main <strong>contest</strong> then proceeds as normal, with any bonus from the <strong>augment</strong> added onto the <strong>rating</strong> of the <strong>ability</strong> chosen when <strong>framing the contest</strong>. The <strong>augment</strong> remains in effect for the duration of the <strong>contest</strong>.</p>
 <h3 id="augment-procedure">2.6.1 Augment Procedure</h3>
 <p>Your GM treats an <strong>augment</strong> as an <strong>assured contest</strong>.</p>
-<p>If the use of the <strong>ability</strong> to augment seems unlikely to fail, your GM simply awards you a <em>zero</em> <strong>degree</strong> <strong>bonus</strong>, or +5. If your description of how you were using the <strong>augmenting ability</strong> was dramatic or entertaining, your GM may increase this to a <em>one</em> <strong>degree</strong> <strong>bonus</strong>, or +10.</p>
+<p>If the use of the <strong>ability</strong> to augment seems unlikely to fail, your GM simply awards you a <strong>bonus</strong>, or +5. If your description of how you were using the <strong>augmenting ability</strong> was dramatic or entertaining, your GM may increase this to a <strong>bonus</strong> of +10.</p>
 <p>As with any <strong>assured contest</strong> GM might still ask you to roll if there is a risk that the <strong>augment</strong> results in a <strong>penalty</strong> to other <strong>abilities</strong> such as resources or <strong>relationships</strong> (see §6.0), which become stressed in providing the <strong>augment</strong>, or that more variation in <strong>bonuses</strong> is possible (such as the <strong>augmenting</strong> ability having several <strong>masteries</strong>).</p>
-<p>On a <strong>victory</strong> base the <strong>bonus</strong> of the <strong>augment</strong> off the <strong>degree</strong> of the <strong>victory</strong>. So <em>zero</em> <strong>degrees</strong> of <strong>victory</strong> yields a <em>zero</em> *degree<strong> bonus (+5). On a </strong>defeat<strong> still award a +5 bonus, but apply a penalty related to </strong>degree<strong> of the </strong>defeat<strong> to the </strong>tactic<strong> used to </strong>augment**, as described above.</p>
+<p>On a <strong>victory</strong> base the <strong>bonus</strong> of the <strong>augment</strong> off the <strong>degree</strong> of the <strong>victory</strong> (see §2.3). So <em>zero</em> <strong>degrees</strong> of <strong>victory</strong> yields +5 bonus. On a <strong>defeat</strong> still award a +5 bonus, but apply a <strong>penalty</strong> related to <strong>degree</strong> of the <strong>defeat</strong> to the <strong>tactic</strong> used to <strong>augment</strong>, as described above.</p>
 <h2 id="triggering-flaws">2.7 Triggering Flaws</h2>
 <p>During play, either you, or your GM, may decide that your <strong>flaw</strong> has been triggered. A <strong>flaw</strong> might apply to the <strong>tactic</strong> you are using in upcoming <strong>contest</strong>, when it is called a <strong>hindrance</strong> (see §2.7.1). Alternatively a <strong>flaw</strong> might simply come into play when you want to describe your PC acting in a certain way, and you or your GM feels that one of your <strong>flaws</strong> could prevent this, or you, or your GM, feel that a situation raises a challenge that means one of your <strong>flaws</strong> would lead to you responding in a certain way.</p>
 <h3 id="hindrance">2.7.1 Hindrance</h3>
 <p>If you describe a <strong>tactic</strong> that is in conflict with a <strong>flaw</strong>, your GM may decide to impose a <strong>penalty</strong> called a <strong>hindrance</strong> against you in the upcoming <strong>contest</strong>. You should choose to remind your GM when you feel a flaw might be triggered. Your GM may also use an <strong>ability</strong> on your character sheet against you in this way too, if appropriate. This may be the case for relationships you have, philosophies you espouse, or groups you belong to.</p>
 <p>Your GM should follow a similar approach to <strong>augments</strong> when applying a <strong>hindrance</strong>. They should ask themselves if it is <em>fresh</em>, <em>interesting</em> or <em>illuminates character</em>. In a movie of book would your <strong>flaw</strong> be prominent here?</p>
-<p>If your GM feels that there is no uncertainty as to whether the <strong>flaw</strong> applies to your <strong>tactic</strong> in the contest they apply a <strong>penalty</strong> of <em>zero</em> <strong>degrees</strong> or -5 or a <strong>penalty</strong> of <em>one</em> <strong>degree</strong> or -10 depending on how serious a handicap the <strong>flaw</strong> is. (In effect an <strong>assured contest</strong> for the flaw).</p>
-<p>If your GM feels that it is uncertain as to whether the <strong>flaw</strong> hinders you, or you are able to overcome it, and you agree that you wish to try, treat it as a <strong>contest</strong>. Roll the rating of your <strong>flaw</strong> against the <strong>base resistance</strong>. On a <strong>victory</strong>, you receive a <strong>penalty</strong> from the <strong>degree</strong> of your <strong>victory</strong> - if you get <em>zero</em> <strong>successes</strong> use a <em>zero</em> <strong>degree</strong> <strong>penalty</strong> of -5, on <em>one</em> <strong>success</strong>, use a <em>one</em> <strong>degree</strong> <strong>penalty</strong> of -10 and so on. On a <strong>defeat</strong>, you overcome the <strong>flaw</strong>.</p>
+<p>If your GM feels that there is no uncertainty as to whether the <strong>flaw</strong> applies to your <strong>tactic</strong> in the contest they apply a <strong>penalty</strong> of -5 or a <strong>penalty</strong> of -10 depending on how serious a handicap the <strong>flaw</strong> is. (In effect an <strong>assured contest</strong> for the flaw).</p>
+<p>If your GM feels that it is uncertain as to whether the <strong>flaw</strong> hinders you, or you are able to overcome it, and you agree that you wish to try, treat it as a <strong>contest</strong>. Roll the rating of your <strong>flaw</strong> against the <strong>base resistance</strong>. On a <strong>victory</strong>, you receive a <strong>penalty</strong> from the <strong>degree</strong> of your <strong>victory</strong> (see §2.3). For example, if you get <em>zero</em> <strong>successes</strong> use a <strong>penalty</strong> of -5, on <em>one</em> <strong>success</strong>, use a <strong>penalty</strong> of -10 and so on. On a <strong>defeat</strong>, you overcome the <strong>flaw</strong>.</p>
 <p>When you experience a <strong>penalty</strong> due to a flaw, you gain an <strong>experience point</strong> (see §8.1).</p>
 <h3 id="act-according-to-your-flaw">2.7.2 Act according to your flaw</h3>
 <p>At times the direction of the story you are all telling may place your PC in situations when it seems likely they would act according to their <strong>flaw</strong>. The addict may reach for drink or drugs following an emotional setback, a lust for vengeance may come between your PC and showing mercy, prejudices or bigotry may prevent you from seeing others positively.</p>
@@ -373,7 +417,7 @@
 <li>In an economic struggle, you lose money, other resources, or opportunities.</li>
 <li>In a morale crisis, you may suffer bouts of crippling self-doubt.</li>
 </ul>
-<p>Your GM may assign a <strong>penalty</strong> to reflect this <strong>consequence</strong>. Your GM should assign a <strong>penalty</strong> that corresponds to a <strong>degree</strong>. The <strong>degree</strong> will depend on how severe they feel the <strong>consequences</strong> are. If your opponent defeats you, your GM can use the <strong>degree</strong> of the <strong>outcome</strong> as the <strong>degree</strong> of the <strong>penalty</strong>. Whilst this is a good ‘rule of thumb’ a GM can use their discretion as to the story needs and assign a different <strong>degree</strong> of penalty.</p>
+<p>Your GM may assign a <strong>penalty</strong> to reflect this <strong>consequence</strong>. The <strong>penalty</strong> will depend on how severe they feel the <strong>consequences</strong> are. If your opponent defeats you, your GM can use the <strong>degree</strong> of the <strong>outcome</strong> as the <strong>penalty</strong>(see §2.3). Whilst this is a good ‘rule of thumb’ a GM can use their discretion as to the story needs and assign a different <strong>penalty</strong>.</p>
 <p>If you <strong>defeat</strong> your opponent, your GM may still decide that you suffer a <strong>consequence</strong>, representing fatigue, exhaustion, disapproval or other expenditure of resources on earning the <strong>prize</strong>.</p>
 <ul>
 <li>In a fight, you are left bruised and battered.</li>
@@ -382,7 +426,7 @@
 <li>In an economic struggle, you take significant losses to win market share.</li>
 <li>In a morale crisis, your resolve alienates the cowardly.</li>
 </ul>
-<p>If you have <em>zero</em> <strong>degrees</strong> of <strong>victory</strong> your GM might assign a <strong>penalty</strong> of <em>zero</em> <strong>degrees</strong> or <em>one</em> <strong>degree</strong> to represent effort expended in the <strong>victory</strong>. If you have <em>one</em> <strong>degree</strong> of <strong>victory</strong>, your GM might assign a <strong>penalty</strong> of <em>one</em> <strong>degree</strong> , for similar reasons, if it makes dramatic sense.</p>
+<p>If you have <em>zero</em> <strong>degrees</strong> of <strong>victory</strong> your GM might assign a <strong>penalty</strong> of -5 or -10 to represent effort expended in the <strong>victory</strong>. If you have <em>one</em> <strong>degree</strong> of <strong>victory</strong>, your GM might assign a <strong>penalty</strong> of -5 , for similar reasons, if it makes dramatic sense.</p>
 <h4 id="ending-a-pcs-story">2.8.1.2 Ending a PC’s story</h4>
 <p>Your GM should not impose a narrative <strong>consequence</strong> on your PC that takes them permanently out of the game, such as by death, without discussion. Some games allow characters to be taken out of the story by the result of a dice roll, but QuestWorlds is a co-operative storytelling game where a failed dice roll should not automatically remove a character from play. However, you, or the GM, might feel that your PC’s story has come to an end with this failure, and you can consent to that <strong>outcome</strong>. Usually, your GM should refrain from suggesting this option unless the story itself suggests it.</p>
 <p>A story-ending <strong>outcome</strong> may not just be death. It can include anything that takes the PC out of play, such as exile, dismissal from the secret agency, a broken heart. In some cases the ending to your PCs story could be ambiguous, allowing the PC to return at a future point when the story makes their salvation possible.</p>
@@ -404,7 +448,7 @@
 <li>In an economic struggle, you gain status as one of the wealthy elite.</li>
 <li>In a morale crisis, your rallied troops strengthen your army.</li>
 </ul>
-<p>Your GM may assign a <strong>bonus</strong> to reflect this <strong>benefit</strong>. Your GM may assign a <strong>bonus</strong> that corresponds in <strong>degree</strong>. If you win the <strong>prize</strong>, your GM may choose to use <strong>degree</strong> of your <strong>outcome</strong> as the <strong>degree</strong> of the <strong>bonus</strong>. Whilst this is a good ‘rule of thumb’ a GM can use their discretion as to the story needs and assign a different <strong>degree</strong> of <strong>bonus</strong>.</p>
+<p>Your GM may assign a <strong>bonus</strong> to reflect this <strong>benefit</strong>. If you win the <strong>prize</strong>, your GM may choose to use the <strong>degree</strong> of your <strong>outcome</strong> to determine the <strong>bonus</strong> (see §2.3). Whilst this is a good ‘rule of thumb’ a GM can use their discretion as to the story needs and assign a different <strong>bonus</strong>.</p>
 <p>If you lost the <strong>prize</strong>, your GM may still decide that you gain a <strong>benefit</strong>, representing learning, gratitude, or resolve developed from losing the <strong>prize</strong>.</p>
 <ul>
 <li>In a fight or test of physical mettle, you learn your opponent’s weaknesses.</li>
@@ -413,9 +457,9 @@
 <li>In an economic struggle, your organization becomes leaner and fitter.</li>
 <li>In a morale crisis, you reflect on your failure and gain new inner strength.</li>
 </ul>
-<p>On <em>zero</em> <strong>degrees</strong> of <strong>defeat</strong> your GM might assign a <strong>bonus</strong> of <em>zero</em> <strong>degrees</strong> or <em>one</em> <strong>degree</strong> to represent a glimmer of hope for the PC despite the <strong>defeat</strong>, such as gaining an insight into the <strong>resistance’s</strong> weakness. If you have <em>one</em> <strong>degree</strong> of <strong>defeat</strong> your GM may assign a <strong>bonus</strong> of <em>zero</em> <strong>degrees</strong>, for similar reasons, if it makes dramatic sense.</p>
+<p>On <em>zero</em> <strong>degrees</strong> of <strong>defeat</strong> your GM might assign a <strong>bonus</strong> of +5 or +10 to represent a glimmer of hope for the PC despite the <strong>defeat</strong>, such as gaining an insight into the <strong>resistance’s</strong> weakness. If you have <em>one</em> <strong>degree</strong> of <strong>defeat</strong> your GM may assign a <strong>bonus</strong> of +10, for similar reasons, if it makes dramatic sense.</p>
 <h3 id="recovery">2.8.3 Recovery</h3>
-<p><strong>Consequences</strong> lapse on their own with the passage of time. Your GM will determine when the <strong>consequences</strong> have faded, and you should ask about whether they still apply at each new game session. The worse the <strong>penalty</strong>, the longer it may last, though the GM may reduce its <strong>degree</strong> with time, as you recover. However, you’ll often want to remove them ahead of schedule, with the use of <strong>abilities</strong>.</p>
+<p><strong>Consequences</strong> lapse on their own with the passage of time. Your GM will determine when the <strong>consequences</strong> have faded, and you should ask about whether they still apply at each new game session. The worse the <strong>consequence</strong>, the longer it may last, though the GM may reduce the <strong>penalty</strong> in increments of -5 as you recover, reflecting the passage of time. However, you’ll often want to remove them ahead of schedule, with the use of <strong>abilities</strong>.</p>
 <h4 id="recovery-abilities">2.8.3.1 Recovery Abilities</h4>
 <p>When deciding the <strong>tactic</strong> to use for recovery, the <strong>ability</strong> used to bring about recovery from a <strong>consequence</strong> must relate to the type of <strong>consequence</strong>.</p>
 <ul>
@@ -425,18 +469,18 @@
 <li>You can fix damage to items and equipment with some sort of repair <strong>ability</strong>. If you want to fix an extraordinary item, you may require genre-specific expertise: a broken magic ring may require a ritual to reforge.</li>
 </ul>
 <h4 id="recovery-resistances">2.8.3.2 Recovery Resistances</h4>
-<p>The <strong>resistances</strong> to remove a states of adversity is the <strong>base resistance</strong> modified by the <strong>degree</strong> of the <strong>consequence</strong>. So if you were suffering from <em>one</em> <strong>degree</strong> of <strong>consequence</strong> (-10), you modify the <strong>base resistance</strong> by <em>one</em> <strong>degree</strong> (+10).</p>
-<p>Your GM can more easily calculate this as the <strong>base resistance</strong> with a <strong>bonus</strong> that is equal to and opposite your <strong>penalty</strong>. So if you have a <strong>penalty</strong> of <em>zero</em> <strong>degrees</strong> (-5), it is <strong>base resistance</strong> +5; if you have a <strong>penalty</strong> of <em>one</em> <strong>degree</strong> (-10), it is <strong>base resistance</strong> +10 and so on.</p>
+<p>The <strong>resistances</strong> to remove a states of adversity is the <strong>base resistance</strong> modified by the <strong>bonus</strong> equal and opposite to the <strong>penalty</strong>. So if you were suffering from a penalty of -10, you modify the <strong>base resistance</strong> +10.</p>
 <h4 id="recovery-contests-and-sequences">2.8.3.3 Recovery Contests and Sequences</h4>
 <p>Your GM should almost always resolve healing attempts as <strong>contests</strong>. An exception might be a medical drama, in which surgeries would comprise the suspenseful set-piece sequences of the game, and your GM might chose a <strong>sequence</strong>. If the source of recovery is an NPC, the contest should always relate to the <strong>tactic</strong> used to obtain the services of the NPC.</p>
-<p>Any <strong>victory</strong> on a recovery attempt, clears the <strong>consequence</strong> (and so remove any <strong>peanlty</strong>). On a <em>zero</em> <strong>degree</strong> <strong>victory</strong> your GM might choose to apply a <strong>consequence</strong> to the <strong>ability</strong> used to recover representing exhaustion (of supplies, energy, etc.).</p>
+<p>Any <strong>victory</strong> on a recovery attempt, clears the <strong>consequence</strong> (and so remove any <strong>penalty</strong>). On a <em>zero</em> <strong>degree</strong> <strong>victory</strong> your GM might choose to apply a <strong>consequence</strong> to the <strong>ability</strong> used to recover representing exhaustion (of supplies, energy, etc.).</p>
 <h3 id="waning-benefits">2.8.4 Waning Benefits</h3>
 <p>Just as you recover from <strong>consequences</strong> with time, or through recovery, so <strong>benefits</strong> fade with time.</p>
-<p>At the beginning of a session, especially when a significant period of game-world time passes between the conclusion of one session and the beginning of the next, the GM may declare that all <strong>benefits</strong> have expired or waned. A waning benefit may reduce its <strong>degree</strong> with time, as the effect fades. You are no longer charged with the confidence of your recent victory, the fans have forgotten your last concert, or the people of the village have started to think once again about the day-to-day struggle of their lives not how the stranger helped them. An expired benefit no longer gives you a <strong>bonus</strong>, your past victories no longer bring you solace, your fickle fans have moved on to the latest sensation.</p>
+<p>At the beginning of a session, especially when a significant period of game-world time passes between the conclusion of one session and the beginning of the next, the GM may declare that all <strong>benefits</strong> have expired or waned. A waning benefit may reduce its <strong>bonus</strong> with time, as the effect fades. You are no longer charged with the confidence of your recent victory, the fans have forgotten your last concert, or the people of the village have started to think once again about the day-to-day struggle of their lives not how the stranger helped them. Benefits always decline in increments of 5 (§ see 2.3).</p>
+<p>An expired benefit no longer gives you a <strong>bonus</strong>, your past victories no longer bring you solace, your fickle fans have moved on to the latest sensation.</p>
 <h3 id="multiple-benefits-and-consequences">2.8.5 Multiple Benefits And Consequences</h3>
 <p>A PC may apply <strong>bonuses</strong> from multiple <strong>benefits</strong> to a single <strong>contest</strong>, or apply <strong>penalties</strong> from multiple <strong>consequences</strong> to a single <strong>contest</strong>. <strong>Benefits and consequences</strong> may cancel each other out.</p>
 <p>Because it is confusing to track both <strong>benefits and consequences</strong> against the same <strong>ability</strong> your GM may simply rule that one cancels the other out. This is particularly true of social <strong>contests</strong> where a moment of shame can erase your previous triumphs, or your confidence eroded by a <strong>failure</strong>. Physical benefits may cancel out, flushed with victory you may be able to ignore pain, but it may defy credibility for wounds to be healed by an athletic performance.</p>
-<p>Your GM may simply rule that <strong>benefits</strong> and <strong>consequences</strong> cancel out, or they may take the difference between the two benefits and create a new one. For example if you have a <em>one</em> <strong>degree</strong> <strong>bonus</strong> from impressing the crowd with your previous performance in the dance <strong>contest</strong>, but then suffer an injured ankle with a <em>zero</em> <strong>degree</strong> <strong>penalty</strong> of -5, your GM may rule that your twisted ankle cancels out your energy from the last performance, or your GM might rule that your success sees you through the pain, but you are now only <em>zero</em> <strong>degrees</strong> of <strong>benefit</strong> to impress the crowd.</p>
+<p>Your GM may simply rule that <strong>benefits</strong> and <strong>consequences</strong> cancel out, or they may take the difference between the two benefits and create a new one. For example if you have a +10 <strong>benefit</strong> from impressing the crowd with your previous performance in the dance <strong>contest</strong>, but then suffer an injured ankle with a <strong>consequence</strong> of -5, your GM may rule that your twisted ankle cancels out your energy from the last performance, or your GM might rule that your success sees you through the pain, but you are now only +5 <strong>benefit</strong> to impress the crowd.</p>
 <h2 id="mismatched-and-graduated-goals">2.9 Mismatched and Graduated Goals</h2>
 <p>Sometimes, the two sides in a <strong>contest</strong> may have goals that do not directly conflict one another. A huntsman pursues a nurse, who is trying to escape through the forest with two small children. The huntsman wants to capture the nurse. The nurse wants to save the children.</p>
 <p>When encountering <strong>mismatched goals</strong>, your GM should determine whether the mismatch is complete, or partial.</p>
@@ -468,14 +512,14 @@
 <h2 id="resistance-progression">2.13 Resistance Progression</h2>
 <p>Your GM may decide that <strong>resistance</strong> to your actions gets harder, as the campaign progresses. This reflects the trope of the type of challenges you face getting tougher as you improve.</p>
 <p>Your GM should adopt a strategy that mimics a TV show where the <strong>resistance</strong> does not increase during a season of the show, allowing our protagonists to get more competent as the show progresses towards its climax. In the next season though the <strong>resistance</strong> usually goes up, and the writers reflect this with more challenging opposition in the new season of the show. At the same time, the opposition that was tough in the first season, now become mooks that can be easily dispatched to show the increased competence of the protagonists.</p>
-<p>In that case your GM should increment the <strong>base resistance</strong> by <em>one</em> to <em>three</em> <strong>degrees</strong> for the next campaign you play with the same characters. The size of the change should reflect the increase in your previous <strong>abilities</strong> in the last campaign. For example, if in the last season you increased your <strong>occupation keyword</strong> by +10, your GM may decide to increase the <strong>resistance</strong> by <em>one</em> or <em>two</em> <strong>degrees</strong> to reflect the more challenging opposition in the new campaign. The GM should consider triggering <strong>resistance progression</strong> when your PCs find it difficult to earn <strong>experience points</strong> because they too regularly outclass even the climatic encounters (the boss monsters) of their game.</p>
+<p>In that case your GM should increment the <strong>base resistance</strong> by +5 to +10 for the next campaign you play with the same characters. The size of the change should reflect the increase in your previous <strong>abilities</strong> in the last campaign. For example, if in the last season you increased your <strong>occupation keyword</strong> by +10, your GM may decide to increase the <strong>resistance</strong> by +5 or +10 to reflect the more challenging opposition in the new campaign. The GM should consider triggering <strong>resistance progression</strong> when your PCs find it difficult to earn <strong>experience points</strong> because they too regularly outclass even the climatic encounters (the boss monsters) of their game.</p>
 <p>Your GM should also take into account that the opposition you were improving with respect to the previous season should now be considered more-easily defeated mooks, and use lower <strong>ratings</strong> for them when they appear in the story or even allow them to be taken out with an <strong>assured contest</strong>.</p>
 <h3 id="no-progression">2.13.1 No Progression</h3>
 <p>Your GM may also decide that the <strong>resistances</strong> do not get harder as the campaign progresses, reflecting the PCs <strong>ability</strong> to disregard minor challenges, and simply choose harder <strong>resistances</strong> to challenge the players and allow them to earn <strong>experience points</strong>.</p>
 <h1 id="character-creation">3.0 Character Creation</h1>
 <p>The first step in creating your character is to come up with a concept that fits in with the genre of the game that your GM intends to run. With that, you can assign <strong>abilities</strong>, <strong>ratings</strong> for those <strong>abilities</strong>, and if required <strong>flaws</strong>.</p>
 <p>In addition, you will want to give your character a name, and provide a physical description. We recommend focusing on three physical things about your PC that others would immediately notice, over anything more detailed.</p>
-<p>Your GM should not use this method for creating NPCs. NPCs do not require definition via <strong>abilities</strong> and <strong>keywords</strong>. Instead, your GM simply describes the NPC, and picks an appropriate <strong>resistance</strong> in any contest with them, based on their feeling for what would be <strong>credible</strong> for that NPC. If in doubt the GM just uses the <strong>base resistance</strong> for a mook, with a suitably higher <strong>degree</strong> for a boss. The design intent is to remove the need for the GM to prepare stat blocks, making improvisation of NPCs easier, and shifting focus to the NPCs personality or role in the story instead.</p>
+<p>Your GM should not use this method for creating NPCs. NPCs do not require definition via <strong>abilities</strong> and <strong>keywords</strong>. Instead, your GM simply describes the NPC, and picks an appropriate <strong>resistance</strong> in any contest with them, based on their feeling for what would be <strong>credible</strong> for that NPC. If in doubt the GM just uses the <strong>base resistance</strong> for a mook, with a suitably higher <strong>resistance</strong> for a boss. The design intent is to remove the need for the GM to prepare stat blocks, making improvisation of NPCs easier, and shifting focus to the NPCs personality or role in the story instead.</p>
 <h2 id="as-you-go-method">3.1 As-You-Go Method</h2>
 <ol type="1">
 <li>Choose a <strong>concept</strong>. Your <strong>concept</strong> is a brief phrase, often just a couple of words that tells the GM and other players what you do and how you act. Start with a noun or phrase indicating your <strong>occupation keyword</strong> or area of expertise, and modify it with an adjective suggesting a <strong>distinguishing characteristic</strong>, a personality trait that defines you in broad strokes:</li>
@@ -678,7 +722,7 @@
 <p>The mechanics for a <strong>parting shot</strong> differ for each <strong>sequence</strong> type, reflecting the <em>tally</em> or <strong>consequences</strong>.</p>
 <h3 id="joining-an-in-progress-contest">5.1.9 Joining an In-Progress Contest</h3>
 <p>When you wish to join a <strong>sequence</strong> in progress, you and your GM should discuss whether you accept the current framing. If so, you can participate. You simply select an opponent and start a new <strong>round</strong> with them. The mechanics for joining an in-progress <strong>contest</strong> differ for each <strong>sequence</strong> type, reflecting the <em>tally</em> or <strong>consequences</strong>. If you want to achieve something other than the goal established during framing, you may instead perform <strong>unrelated actions</strong>, including <strong>assists</strong> and <strong>augments</strong>.</p>
-<p>In some types of conflict, many-against-one may have an advantage. In a melee for example it is more difficult to fight two or more opponents. In other types of contest many-against-one may actually hinder because contenders get in each other’s way, such as an attempt to persuade another. In situations in a <strong>sequence</strong> where numerical advantage exists, award a <strong>situational modifier</strong> usually of <em>zero</em> <strong>degrees</strong> or <em>one</em> degree. This is a <strong>bonus</strong> if the PCs outnumber their opponents and a penalty if they don’t. Don’t use this rule if you are treating the resistance as a mob (see §2.10)</p>
+<p>In some types of conflict, many-against-one may have an advantage. In a melee for example it is more difficult to fight two or more opponents. In other types of contest many-against-one may actually hinder because contenders get in each other’s way, such as an attempt to persuade another. In situations in a <strong>sequence</strong> where numerical advantage exists, award a <strong>situational modifier</strong> usually of +/-5 or +/-10. This is a <strong>bonus</strong> if the PCs outnumber their opponents and a <strong>penalty</strong> if they don’t. Don’t use this rule if you are treating the <strong>resistance</strong> as a mob (see §2.10)</p>
 <h3 id="assists">5.1.10 Assists</h3>
 <p>You may take an <strong>unrelated action</strong> to grant an <strong>assist</strong> to a teammate enmeshed in a <strong>round</strong>. Describe what your character is trying to do to improve the position of the target. For example, your PC might throw them a weapon, jeer at an opponent, or simply shout words of encouragement. <strong>Assists</strong> are subject to the same restrictions as <strong>augments</strong>: they must be both credible and interesting.</p>
 <p>The mechanics for a <strong>assist</strong> differ for each <strong>sequence</strong> type, reflecting the <em>tally</em> or <strong>consequences</strong>.</p>
@@ -686,7 +730,7 @@
 <p>A <strong>scored sequence</strong> consists of one or more <strong>rounds</strong>; each <strong>round</strong> is a <strong>contest</strong>. We <em>tally</em> the position of the contestants in a <strong>scored sequence</strong> via <strong>resolution points</strong>. Once <em>five</em> or more resolution points have been <em>tallied</em> against a contestant, they lose that <strong>scored sequence</strong>.</p>
 <p>In a <strong>scored sequence</strong> there is no distinction between aggressor and defender, each <strong>round</strong> represents attempts by both parties to overcome their opponent and so a is a <em>single</em> <strong>contest</strong>. Your GM should determine who has the initiative to describe what they are doing for any <strong>round</strong>, based on their interpretation of the flow of events. If in doubt your GM should defer to you over your opponent to describe what you do in the <strong>round</strong>, and describe the NPC reacting to that.</p>
 <h3 id="resolution-points">5.2.1 Resolution Points</h3>
-<p>You score <strong>resolution points</strong> equal to <em>one</em> more than the <strong>degree</strong> of the <strong>outcome</strong>. So a <em>zero</em> <strong>degree</strong> <strong>outcome</strong> produces <em>one</em> <strong>resolution point</strong>, a <em>one</em> <strong>degree</strong> <strong>outcome</strong> produces <em>two</em> <strong>resolution points</strong> and so on. (You can take the shortcut of adding <em>one</em> to the difference in <strong>successes</strong> of the two rolls, if your prefer).</p>
+<p>You score <strong>resolution points</strong> equal to <em>one</em> more than the <strong>degree</strong> of the <strong>outcome</strong>. So a <em>zero</em> <strong>degree</strong> <strong>outcome</strong> produces <em>one</em> <strong>resolution point</strong>, a <em>one</em> <strong>degree</strong> <strong>outcome</strong> produces <em>two</em> <strong>resolution points</strong> and so on. (You can take the shortcut of adding <em>one</em> to the difference in <strong>successes</strong> of the two rolls, if you prefer).</p>
 <p>Your <strong>resolution point</strong> score tells you how well you’re doing, relative to your opponent, in the ebb and flow of a fluid, suspenseful conflict. If you’re leading your opponent by 0–4, you’re giving them a thorough pasting. If you’re behind 4–0, you’re on your last legs, while your opponent has had an easy time of it. If you’re tied, you’ve each been getting in some good licks.</p>
 <ul>
 <li>In a fight, scoring <em>one</em> <strong>RP</strong> might mean that you hit your opponent with a grazing blow, or knocked him into an awkward position.</li>
@@ -789,8 +833,8 @@
 <p>In a <strong>scored sequence</strong>, you can make a <strong>defensive response</strong>, lowering the number of <strong>resolution points</strong> lodged against you in a <strong>round</strong>. If you win the <strong>round</strong>, the number of <strong>resolution points</strong> you lodge against your opponent decreases by 1. If you lose, your opponent lodges 2 fewer <strong>resolution points</strong> against you. The total number of <strong>resolution points</strong> assigned by a <strong>round</strong> is never less than 0; there is no such thing as a negative <strong>resolution point</strong>.</p>
 <h3 id="assists-1">5.2.6 Assists</h3>
 <p>The <strong>assist</strong> alters the score against your teammate according to the <strong>outcome</strong> of a <strong>contest</strong>.</p>
-<p>Your first <strong>assist</strong> faces a <strong>moderate resistance</strong>. Each subsequent <strong>assist</strong> attempt to the same beneficiary, steps up by one <strong>degree</strong> of increase (+5, +10, +15, +M, +M2). The <strong>resistance</strong> escalation occurs even when another PC steps in to make a subsequent <strong>assist</strong>. This escalation allows the occasional dramatic rescue but makes it difficult for players to prolong losing battles to excruciating length. Your GM should make it seem credible by justifying the increasing <strong>resistances</strong> with descriptions of ever-escalating countermeasures on the part of the opposition.</p>
-<p>Your GM may adjust the starting <strong>resistance</strong> up or down by one step to account for campaign credibility or other dramatic factors. If an <strong>assist</strong> as proposed seems too improbable or insufficiently useful, your GM should collaborate with you to propose alternate suggestions which would face <strong>moderate resistance</strong>.</p>
+<p>Your first <strong>assist</strong> faces the <strong>base resistance</strong>. Each subsequent <strong>assist</strong> attempt to the same beneficiary increases the <strong>resistance</strong> by +5 (as per the scale in §2.3). The <strong>resistance</strong> escalation occurs even when another PC steps in to make a subsequent <strong>assist</strong>. This escalation allows the occasional dramatic rescue but makes it difficult for players to prolong losing battles to excruciating length. Your GM should make it seem credible by justifying the increasing <strong>resistances</strong> with descriptions of ever-escalating countermeasures on the part of the opposition.</p>
+<p>Your GM may adjust the starting <strong>resistance</strong> up or down to account for campaign credibility or other dramatic factors. If an <strong>assist</strong> as proposed seems too improbable or insufficiently useful, your GM should collaborate with you to propose alternate suggestions.</p>
 <p>On a victory, you reduce the number of <strong>resolution points</strong> by <em>one</em> more than the <strong>degree</strong> of the <strong>victory</strong>. On a defeat, you increase the number of <strong>resolution points</strong> by <em>one</em> more than the <strong>degree</strong> of the <strong>resistance’s</strong> <strong>victory</strong>. See table §5.2.2.1.</p>
 <p>Scores can never be reduced below 0.</p>
 <h3 id="joining-an-in-progress-contest-1">5.2.7 Joining an In-Progress Contest</h3>
@@ -1131,33 +1175,33 @@
 </ul>
 <p>Similar communities in the genre, should have the same set of <strong>resources</strong>.</p>
 <h3 id="rating-resources">9.1.2 Rating Resources</h3>
-<p>Your GM distributes each of the <strong>degrees</strong> 0-3 between the four of the five <strong>resources</strong>. The last resource has no <strong>bonus</strong> So each of the <strong>degrees</strong>: 3 (+M), 2(+15), 1(+10) 0(+5) and 0 should apply to one resource. Note that the size of the group doesn’t affect the <strong>degrees</strong>.</p>
+<p>Your GM distributes each of bonuses of: 5, 10, 15, and 20 between the four of the five <strong>resources</strong>. The last resource has no <strong>bonus</strong>. Note that the size of the group doesn’t affect the <strong>bonuses</strong>.</p>
 <h3 id="community-questionnaires">9.1.3 Community Questionnaires</h3>
 <p>Your GM may create a questionnaire that asks the players to make choices about the priorities of their community. The responses to each question should be multiple-choice. Each choice you make adds points to a score for each <strong>resource</strong> type. Points are awarded according to what the answer reveals about the community’s relative priorities. An answer may give points to more than one <strong>resource</strong>.</p>
 <p>You can choose your answers by consensus, majority vote, or take turns.</p>
-<p>When you’re done, rank the <strong>resources</strong> in the order of the scores. Assign the high <strong>degrees</strong> to the highest scores and the lowest to the low.</p>
+<p>When you’re done, rank the <strong>resources</strong> in the order of the scores. Assign the high <strong>bonuses</strong> to the highest scores and the lowest to the low.</p>
 <p>A questionnaire also introduces your setting in a punchy, interactive format, and tailors the community to the players’ desires, increasing their investment in it.</p>
 <h2 id="drawing-on-resources">9.2 Drawing on Resources</h2>
 <p>You can use community <strong>resources</strong> as a <strong>bonus</strong> to your <strong>abilities</strong> after convincing the community to let you expend precious assets. This requires a preliminary <strong>contest</strong> using a social <strong>ability</strong>, most likely your community relationship. Your GM will use a <strong>moderate resistance</strong> as the baseline, with higher <strong>resistance</strong>s when your proposals seem selfish or likely to fail, and lower ones when everyone but the dullest dolt would readily see their collective benefits. Your GM may increase <strong>resistance</strong>s if your group draws constantly on community <strong>resources</strong> without replenishing them.</p>
 <p>The lobbying effort and the actual resource use require framing, a clear description of what you are doing, and other details to bring them to fictional life. You cannot use <strong>resource abilities</strong> directly, but as an <strong>bonus</strong> to your own <strong>abilities</strong>.</p>
 <p>Use of community <strong>resources</strong> should pass the threshold for being <em>memorable</em> and <em>entertaining</em>. Normally there should be a clear benefit to the community, or risk to the community. The PC’s actions should be in support of the community, not themselves. Community involvement becomes part of the story. A certain amount of routine support for your character is assumed; a <strong>bonus</strong> implies that the community is expending abnormal effort on your behalf, that will cost the community itself.</p>
 <h3 id="resource-depletion">9.2.1 Resource Depletion</h3>
-<p>Unlike character abilities, each use of community <strong>resources</strong> temporarily <strong>depletes</strong> it. Regardless of <strong>outcome</strong> a <strong>resource</strong> drops a <strong>degree</strong> when used.</p>
+<p>Unlike character abilities, each use of community <strong>resources</strong> temporarily <strong>depletes</strong> it. Regardless of <strong>outcome</strong> a <strong>resource</strong> takes a <strong>penalty</strong> of -5 when used. Effectively, this reduces the <strong>bonus</strong> by 5.</p>
 <p>Your GM decides when a <strong>resource</strong> is restored to its original value. Your GM should decide what the credible interval is for the community to recover from the expenditure of effort. At that point, your GM restores the <strong>bonus</strong> for the <strong>resource</strong>.</p>
-<p>You might chose to use a <strong>resource</strong> when it is already depleted, in which case you use its lower <strong>degree</strong>. Your GM may use this to represent attrition to your community from a continued struggle. A <strong>resource</strong> that is depleted enough, may become a <strong>penalty</strong>.</p>
-<p>Threats to community <strong>resources</strong> act as a spur to PC action. Your GM may rule that the <strong>outcome</strong> from a <strong>contest</strong> where you did not use the <strong>resource</strong> may still deplete the <strong>degree</strong> of a community <strong>resource</strong>.</p>
+<p>You might chose to use a <strong>resource</strong> when it is already depleted, in which case you use it at its reduced value. Your GM may use this to represent attrition to your community from a continued struggle. A <strong>resource</strong> that is depleted enough to fall below <em>zero</em> becomes a <strong>penalty</strong>.</p>
+<p>Threats to community <strong>resources</strong> act as a spur to PC action. Your GM may rule that the <strong>outcome</strong> from a <strong>contest</strong> where you did not use the <strong>resource</strong> may still deplete a community <strong>resource</strong>.</p>
 <h3 id="required-resource-use">9.2.2 Required Resource Use</h3>
 <p>As part of your GM’s setting design, they may specify that certain actions in a setting always require the use of a community <strong>resource</strong>. Because the <strong>resource</strong> use is obligatory, it need not meet the usual criteria for entertainment value.</p>
 <h3 id="resource-as-a-penalty">9.2.4 Resource as a Penalty</h3>
-<p>A <strong>resource’s</strong> <strong>degree</strong> may fall below 0. If you require use of a community’s <strong>resources</strong> (see §9.2.2) your actions will be subject to a <strong>penalty</strong> equal to the resource <strong>degree</strong> below 0.</p>
+<p>A <strong>resource’s</strong> <strong>bonus</strong> may fall below 0. If you require use of a community’s <strong>resources</strong> (see §9.2.2) your actions will be subject to a <strong>penalty</strong>.</p>
 <h3 id="bolstering-resources">9.2.4 Bolstering Resources</h3>
-<p>Your GM may offer you the opportunity to <strong>bolster</strong> a community <strong>resources</strong> ahead of need by seeking out and overcoming relevant <strong>story obstacles</strong>. If you succeed, the community resource improves a <strong>degree</strong>. Your GM will set the <strong>resistance</strong> for the <strong>bolster</strong>. The community’s higher ranked resources should have higher <strong>resistances</strong> to <strong>bolstering</strong>. As a default, use the current <strong>degree</strong> as the resistance to <strong>bolstering</strong>.</p>
+<p>Your GM may offer you the opportunity to <strong>bolster</strong> a community <strong>resources</strong> ahead of need by seeking out and overcoming relevant <strong>story obstacles</strong>. If you succeed, the community resource improves by +5. Your GM will set the <strong>resistance</strong> for the <strong>bolster</strong>. The community’s higher ranked resources should have higher <strong>resistances</strong> to <strong>bolstering</strong>. As a default, use the current <strong>bonus</strong> as the <strong>modifier</strong> to <strong>base resistance</strong> as the <strong>TN</strong> for the <strong>bolstering</strong>.</p>
 <p>For clarity, a <strong>resource</strong> rated at +M can be bolstered to +M2.</p>
-<p><strong>Bolstering</strong> lasts until the <strong>resource</strong> is used. When your GM depletes a <strong>bolstered resource</strong> following usage, they remove only the additional <strong>degree</strong> from <strong>bolstering</strong>.</p>
-<p>If a <strong>resource</strong> is already suffering from a <strong>penalty</strong>, bolstering removes that <strong>penalty</strong> instead of improving the <strong>degree</strong>.</p>
+<p><strong>Bolstering</strong> lasts until the <strong>resource</strong> is used. When your GM depletes a <strong>bolstered resource</strong> following usage, they remove only the additional +5 from <strong>bolstering</strong>.</p>
+<p>If a <strong>resource</strong> is already suffering from a <strong>penalty</strong>, bolstering removes that <strong>penalty</strong> instead of improving it by +5.</p>
 <h3 id="background-events">9.2.5 Background Events</h3>
 <p>In the background all sorts of other events periodically alter the community’s prosperity. These include the actions of other community members, who are <strong>depleting and bolstering resources</strong> all the time, as well as the unexpected intrusion of outside forces.</p>
-<p>Your GM may decide that the community’s <strong>degree</strong> in a <strong>resource</strong> is temporarily at a higher or lower <strong>degree</strong> due to these outside events. Your GM decides when the <strong>resource</strong> returns to normal. For a lower <strong>degree</strong>, this may require you to overcome a <strong>story obstacle</strong>.</p>
+<p>Your GM may decide that the community’s <strong>bonus</strong> in a <strong>resource</strong> is temporarily at a higher or lower due to these outside events. Your GM decides when the <strong>resource</strong> returns to normal. This may require you to overcome a <strong>story obstacle</strong>.</p>
 <h1 id="appendix">10.0 Appendix</h1>
 <h2 id="glossary-of-terms">10.1 Glossary of Terms</h2>
 <dl>
@@ -1243,7 +1287,7 @@
 <dd>In a <strong>scored sequence</strong> you can choose a defensive <strong>tactic</strong> which reduces the <strong>resolution points</strong> you lose on a negative <strong>result</strong>.
 </dd>
 <dt><strong>Degree</strong></dt>
-<dd>The scale of a modifier (<strong>bonus</strong> or <strong>penalty</strong>); the difference between the <strong>successes</strong> of the victor and the loser in a <strong>contest</strong>; the scale of the <strong>resistance</strong>.
+<dd>The difference between the <strong>successes</strong> of the victor and the loser in a <strong>contest</strong>.
 </dd>
 <dt><strong>Dependent</strong></dt>
 <dd>A <strong>supporting character</strong> who depends on your PC.
@@ -1310,6 +1354,9 @@
 </dd>
 <dt><strong>Mismatched Goals</strong></dt>
 <dd>When the opposing sides in a <strong>contest</strong> want different <strong>prizes</strong>.
+</dd>
+<dt><strong>Modifier</strong></dt>
+<dd>A change to the PC’s <strong>target number</strong> from the situation; the strength of the <strong>resistance</strong> to the PC’s actions.
 </dd>
 <dt><strong>Occupation</strong></dt>
 <dd>An <strong>ability</strong> that indicates the profession, or primary area of expertise, of your character.
