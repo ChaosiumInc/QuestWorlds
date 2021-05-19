@@ -276,7 +276,7 @@ A positive **modifier** is a **bonus** and a negative **modifier** is a **penalt
 
 **Modifiers** represent:
 
-* The **modifier** to apply to the **base resistance** when determining the **resistance's** **TN**; harder challenges have a higher **degree** of **resistance** (see $2.4.3).
+* The **modifier** to apply to the **base resistance** when determining the **resistance's** **TN**; harder challenges have a **bonus** added to the **base resistance**; easier challenges have **penalty** subtracted from the **base resistance** (see $2.4.3).
 * A **stretch** based on a lack of credible abilities to overcome an obstacle (see §2.5)
 * A **situational modifier** based on the **tactics** chosen by a PC (see §2.5)
 * The **outcome** of an **augment** (see §2.6) or **hindrance** (see §2.7)
@@ -284,23 +284,25 @@ A positive **modifier** is a **bonus** and a negative **modifier** is a **penalt
 
 The table includes two aspects besides **bonuses** and **penalties**.
 
-We name the **modifiers** for **resistances**. Some people like using the names, other people just use the value of the **modifier**.
+We name the **resistances** and equate them to a **bonus** or **penalty** to the **base resistance**. Some people like using the names, other people just use the value of the **modifier**.
 
-We equate **degrees** of **victory** and **degrees** of **defeat** to **modifiers** (§2.4.7), in case the GM wants to assign corresponding **benefits** or **consequences**. (Note that as **degrees** represent the difference between results, they begin at *zero*).
+For convenience, we show the **target number (TN)** for the default **rating** of 10. (Note that *Assured* indicates that there is not chance of **defeat**).
+
+We equate **degrees** of **victory** and **degrees** of **defeat** to a **bonus** or **penalty** (§2.4.7), in case the GM wants to assign corresponding **benefits** or **consequences**. (Note that as **degrees** represent the difference between results, they begin at *zero*).
 
 ### 2.3.1 MODIFIERS TABLE
 
-|Penalty|Bonus|Resistance|Degree of Victory|Degree of Defeat|
-|:-----:|:---:|:--------:|:---------------:|:---------------:|
-|-20|-|Simple|-|3|
-|-15|-|Easy|-|2|
-|-10|-|Routine|-|1|
-|-5|-|Straightforward|-|0|
-|-|0|Challenging|Tie|Tie|
-|-|5|Hard|0|-|
-|-|10|Punishing|1|-|
-|-|15|Extreme|2|-|
-|-|20|Exceptional|3|-|
+|Resistance|Degree of Victory|Degree of Defeat|Penalty|Bonus| Base (10) TN|
+|:-----:|:---------------:|:---------------:|:---:|:--------:|:---:|
+|Simple|-|3|-20|-|Assured|
+|Easy|-|2|-15|-|Assured|
+|Routine|-|1|-10|-|Assured|
+|Straightforward|-|0|-5|-|5|
+|Base|-|-|-|-|10|
+|Challenging|0|-|-|5|15|
+|Hard|1|-|-|10|20|
+|Punishing|2|-|-|15|5M|
+|Exceptional|3|-|-|20|10M|
 
  A routine obstacle, or less, will usually be an **assured contest** (see §2.4.4.2) and there is no need to roll if a **TN** is reduced below 0 by **modifiers**.
 
@@ -1706,7 +1708,7 @@ Your GM may decide that the community's **bonus** in a **resource** is temporari
 : A **supporting character** who shares an **occupation** or interest with your character.
 
 **Contest**
-: Where there is uncertainty as to whether a PC can overcome a **story obstacle** or discover a secret, then your GM can call for a contest to determine if the PC succeeds or fails. 
+: Where there is uncertainty as to whether a PC can overcome a **story obstacle** or discover a secret, then your GM can call for a contest to determine if the PC succeeds or fails.
 
 **Consequences**
 : Long term negative modifier, because you lost a contest. Usually a **state of adversity**.
