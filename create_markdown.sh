@@ -36,7 +36,7 @@ VAR1=$(CAT << EOF
 5.0_Sequences.md \
 5.1_Sequence.md \
 5.2_Scored_Sequence.md \
-5.3_Bidding_Sequence.md \
+5.3_Wagered_Sequence.md \
 5.4_Chained_Sequence.md \
 5.5_Bidding_vs_Scored_vs_Chained.md \
 5.6_Lengthy_Sequences.md \
