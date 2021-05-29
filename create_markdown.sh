@@ -12,7 +12,7 @@ VAR1=$(CAT << EOF
 2.0_Basic_Mechanics.md \
 2.1_Abilities.md \
 2.2_Possessions_and_Equipment.md \
-2.3_Degrees.md \
+2.3_Modifiers.md \
 2.4_Contest_Procedure.md \
 2.5_Bonuses_and_Penalties_From_Tactics.md \
 2.6_Augments.md \
@@ -36,7 +36,7 @@ VAR1=$(CAT << EOF
 5.0_Sequences.md \
 5.1_Sequence.md \
 5.2_Scored_Sequence.md \
-5.3_Bidding_Sequence.md \
+5.3_Wagered_Sequence.md \
 5.4_Chained_Sequence.md \
 5.5_Bidding_vs_Scored_vs_Chained.md \
 5.6_Lengthy_Sequences.md \
