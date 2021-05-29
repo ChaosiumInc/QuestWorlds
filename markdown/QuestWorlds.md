@@ -286,7 +286,7 @@ The table includes two aspects besides **bonuses** and **penalties**.
 
 We name the **resistances** and equate them to a **bonus** or **penalty** to the **base resistance**. Some people like using the names, other people just use the value of the **modifier**.
 
-For convenience, we show the **target number (TN)** for the default **rating** of 10. (Note that *Assured* indicates that there is not chance of **defeat**).
+For convenience, we show the **target number (TN)** for the default **rating** of 10. (Note that *Assured* indicates that there is no chance of **defeat**).
 
 We equate **degrees** of **victory** and **degrees** of **defeat** to a **bonus** or **penalty** (§2.4.7), in case the GM wants to assign corresponding **benefits** or **consequences**. (Note that as **degrees** represent the difference between results, they begin at *zero*).
 
@@ -304,7 +304,7 @@ We equate **degrees** of **victory** and **degrees** of **defeat** to a **bonus*
 |Punishing|2|-|-|15|5M|
 |Exceptional|3|-|-|20|10M|
 
- A routine obstacle, or less, will usually be an **assured contest** (see §2.4.4.2) and there is no need to roll if a **TN** is reduced below 0 by **modifiers**.
+ A routine obstacle, or less, will usually be an **assured contest** (see §2.4.4.2) and there is no need to roll if the resistance's **TN** is reduced below 0 by **modifiers**.
 
 
 ## 2.4 Contest Procedure
@@ -367,7 +367,7 @@ Your **ability's** **rating** may be modified by a number of factors. Your **tar
 
 The following rules sections describe sources of **modifiers**: **augments** (see §2.6), **hindrances** (see §2.7), **stretches** and **situational modifiers** (see §2.5), **consequences** and **benefits** (see §2.8).
 
-These **modifiers** apply to PC's **target numbers** only (see §2.4.3). Once the GM sets the **resistance** according to the needs of the story, it is not further modified.
+ **Modifiers** apply to PC's **target numbers** only (see §2.4.3). The GM applies a **bonus** or **penalty** to the **resistance** to reflect the needs of the story, but after that it is not further modified.
 
 If **penalties** reduce your **target number** to 0 or less, any attempt to use it automatically **results** in  **failure**. You must find another way to achieve your aim.
 
@@ -502,7 +502,7 @@ Your GM can either change the situation on such a tie, introducing a new element
 
 #### 2.4.7.4 Victory at a Price
 
-Your GM may treat *zero* **degrees** of **victory** as 'victory at a price' and *zero* **degree** of **defeat** as 'defeat with a gift'. The 'price' is a cost that the victor pays for obtaining the prize, a 'gift' is something positive the loser takes away. Your GM may ignore this option, and simply award you or deny you the **prize**, if they cannot think of a dramatically interesting reason to provide a 'price' or 'gift'. Your GM may use **consequences** to represent a 'price' and **benefits** to represent a 'gift', see §2.8. Your GM may also decide that the 'price' or 'gift' is represented by the narration.
+Your GM may treat *zero* **degrees** of **victory** as 'victory at a price' and *zero* **degree** of **defeat** as 'defeat with a boon'. The 'price' is a cost that the victor pays for obtaining the prize, a 'boon' is something positive the loser takes away. Your GM may ignore this option, and simply award you or deny you the **prize**, if they cannot think of a dramatically interesting reason to provide a 'price' or 'boon'. Your GM may use **consequences** to represent a 'price' and **benefits** to represent a 'boon', see §2.8. Your GM may also decide that the 'price' or 'boon' is represented by the narration.
 
 * PC one **success** vs. Ath'Zul one **success**, the PC has the higher roll, *zero* **successes** difference, and *zero* **degree** of **victory**: Ath'Zul tries to shake the PCs, his hover bike, weaving in and out of traffic, but the PCs are always on his tail, and catch him at the lights on Bradbury Junction, *by ramming their pursuit car into Ath'Zul's bike, damaging both vehicles*. The GM may award a **consequence** (see §2.8) to represent the damage to the PC's car, injuries from the crash, or displeasure from their commander for damaging more police property.
 
@@ -768,13 +768,18 @@ Your GM should not use this method for creating NPCs. NPCs do not require defini
 
 1. Choose a **concept**. Your **concept** is a brief phrase, often just a couple of words that tells the GM and other players what you do and how you act. Start with a noun or phrase indicating your **occupation keyword** or area of expertise, and modify it with an adjective suggesting a **distinguishing characteristic**, a personality trait that defines you in broad strokes:
 
-* haughty priestess
-* hotshot lawyer
-* noble samurai
-* remorseful assassin
-* sardonic ex-mercenary
-* slothful vampire
-* naive warrior
+### 3.1.1 EXAMPLE CONCEPTS
+
+|Distinguishing Characteristic|Occupation|
+|:---------------------------:|:---------|
+|Haughty|Priestess|
+|Hotshot|Lawyer|
+|Noble|Samurai|
+|Remorseful|Assassin|
+|Sardonic|Ex-mercenary|
+|Slothful|Vampire|
+|Naive|Warrior|
+
 
 2. Now provide your character with a name.
 3. If the series uses other **keywords**, such as those for culture or religion, you may gain one for free.
@@ -818,7 +823,7 @@ All other **abilities** start at a **rating** of 10.
 
 A **breakout** from a **keyword** starts at +5. In some cases, you may treat your **distinguishing characteristic** as a **breakout ability** from a **keyword** in this case, treat it as a +10.
 
-**Flaws** are assigned a **rating** equivalent to your **abilities**. The first **flaw** is rated at the highest **ability**, the second shares the same **rating** as the second-highest **ability**, and the third equals the lowest **ability**.
+**Flaws** are assigned a **rating** equivalent to your **abilities**. The first **flaw** is rated at the highest **ability**, the second shares the same **rating** as the second-highest **ability**, and the third equals the lowest **ability**. As **abilities** improve, so the **rating** of your **flaw** changes to reflect those changes.
 
 **Flaws** should include **breakouts** when figuring the PC's highest **ability**.
 
@@ -1509,10 +1514,13 @@ If the GM finds that the PCs are no longer regularly earning **experience points
 
 ## 8.2 Improving Your Character
 
-When you accumulate 10 **experience points**, you can buy an **advance**. An **advance** allows you to select two of the following. You cannot choose an element more than once.
+When you accumulate 10 **experience points**, you can buy an **advance**. An **advance** allows you to select two of the following. You cannot choose an option more than once, unless it is repeated.
 
-- 10 **improvement points** across a standalone **abilities** or breakout **abilities**; or 5  **improvement points** across  **keywords**.
-- 10 **improvement points** across a standalone **abilities** or breakout **abilities**; or 5  **improvement points** across  **keywords**.
+- 10 **improvement points** across a standalone **abilities**.
+- 10 **improvement points** across a standalone **abilities**.
+- 5  **improvement points** across  **keywords**.
+- 5  **improvement points** across  **keywords**.
+- increase an existing breakout **ability** by +5.
 - a new breakout **ability** at + 5.
 - a new standalone **ability** at 10.
 - Turn a stand-alone **ability** into a **keyword** by adding a new +5 breakout **ability** to it.
@@ -1521,7 +1529,7 @@ When you accumulate 10 **experience points**, you can buy an **advance**. An **a
 
 In addition, if you have less than three **flaws**, you may add another, provided it fits the story, when you take an **advance**.
 
-You may spend **improvement points** immediately, or in play, even after a roll.
+You may spend **improvement points** immediately, or in play, even after a roll. You may not spend **improvement** points to increase **breakouts** only **keywords** or standalone **abilities**.
 
 In some genres you may wish to maintain a tally of the total **experience points** earned as a measure of your reputation.
 
