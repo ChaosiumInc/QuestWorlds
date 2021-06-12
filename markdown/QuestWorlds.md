@@ -2,14 +2,14 @@
 
 # 0.1 Legal Information
 
-The *QuestWorlds* System Reference Document 0.940 (“QWSRD0.940”) describes the rules of *QuestWorlds*. You may incorporate the rules as they appear in QWSRD0.940, wholly or in part, into a derivative work, through the use of the *QuestWorlds* Open Game License, Version 1.0. You should read and understand the terms of that License before creating a derivative work from QWSRD0.940.
+The *QuestWorlds* System Reference Document 0.942 (“QWSRD0.942”) describes the rules of *QuestWorlds*. You may incorporate the rules as they appear in QWSRD0.940, wholly or in part, into a derivative work, through the use of the *QuestWorlds* Open Game License, Version 1.0. You should read and understand the terms of that License before creating a derivative work from QWSRD0.942.
 
 Thanks to Wizards of the Coast, the Open Source Initiative, and Creative Commons for their work in creating the framework behind Open Source (and in this case Open Game) licenses. You should be aware that the *QuestWorlds* Open Game License for use of the *QuestWorlds* system differs from the Wizards Open Game License and has
 different terms and conditions.
 
 ### 0.1.1 Using This License
 
-You should note that this is version of 0.940 of the *QuestWorlds* System Reference Document. We expect to release revised versions of this SRD, especially after development of Chaosium’s upcoming *QuestWorlds Core Book*. When we release the *QuestWorlds Core Book* we will update the version designation to 1.0, indicating that the SRD reflects the text published in that book. If you are developing materials for *QuestWorlds* projects you may want to bear this in mind. We will track any changes to the SRD at *https://github.com/ChaosiumInc/QuestWorlds*.
+You should note that this is version of 0.942 of the *QuestWorlds* System Reference Document. We expect to release revised versions of this SRD, especially after development of Chaosium’s upcoming *QuestWorlds Core Book*. When we release the *QuestWorlds Core Book* we will update the version designation to 1.0, indicating that the SRD reflects the text published in that book. If you are developing materials for *QuestWorlds* projects you may want to bear this in mind. We will track any changes to the SRD at *https://github.com/ChaosiumInc/QuestWorlds*.
 
 Once we release SRD version 1.0 we expect that to be stable for some time.
 
@@ -404,7 +404,7 @@ A **contest** can be summarized as follows:
 1. You and your GM agree upon the terms of the **contest**.
 2. Your **target number (TN)** is your **rating**, adding any **augments** (see §2.6), **hindrances** (see §2.7), **stretches** and **situational modifiers** (see §2.5), **consequences** and **benefits** (see §2.8).
 3. You roll a D20 vs your relevant **target number**, while your GM rolls a D20 vs the **resistance**.
-4. Your GM compares the difference **successes** between the two rolls to assesses the **outcome** (see §2.4.6).
+4. Your GM determines the difference in the **successes** between the two rolls to assesses the **outcome** (see §2.4.6).
 5. Your GM then narrates the **outcome** of the conflict as appropriate and assesses any **benefits** or **consequences** that arose (see §2.8).
 
 If you enter into conflict with another player rather than a **story obstacle** or **story question** presented by your GM, you both roll your relevant abilities for the **contest** instead of against a GM-set **resistance**, and your GM interprets the **results**, as described above.
@@ -566,7 +566,7 @@ During play, either you, or your GM, may decide that your **flaw** has been trig
 
 ### 2.7.1 Hindrance
 
-If you describe a **tactic** that is in conflict with a **flaw**, your GM may decide to impose a **penalty** called a **hindrance** against you in the upcoming **contest**. You should choose to remind your GM when you feel a flaw might be triggered. Your GM may also use an **ability** on your character sheet against you in this way too, if appropriate. This may be the case for relationships you have, philosophies you espouse, or groups you belong to. 
+If you describe a **tactic** that is in conflict with a **flaw**, your GM may decide to impose a **penalty** called a **hindrance** against you in the upcoming **contest**. You should choose to remind your GM when you feel a flaw might be triggered. Your GM may also use an **ability** on your character sheet against you in this way too, if appropriate. This may be the case for relationships you have, philosophies you espouse, or groups you belong to.
 
 Your GM should follow a similar approach to **augments** when applying a **hindrance**. They should ask themselves if it is *fresh*, *interesting* or *illuminates character*. In a movie of book would your **flaw** be prominent here?
 
@@ -588,7 +588,7 @@ If you submit to your **flaw**, your GM might impose a **hindrance** on further 
 
 Your GM may impose a **penalty** against an **ability** if you gain the **victory** against your **flaw** representing your struggle against your inner nature, violating dearly held principles, or letting down dependents. This is often true where the GM invokes a flaw from a **keyword**. For example, if you had they **keyword** "Gangster" and decide to inform on a fellow mobster, your GM might invoke the **flaw** of "Code of Silence" even if it is not a **breakout** under you **keyword**; this is particularly appropriate where facts such as the "Code of Silence" have been established in game. Even if you overcome your **flaw**, and inform on your fellow mobster, the GM might still impose a **penalty** on use of the **keyword** to interact with your crime family for having breached the "Code of Silence."
  
-Similarly, your GM might give you a **bonus** for acting according to your **flaw**. representing the sacrifices you have made for dependents or a temporary boost from satisfying your inner demons. For example, if your superhero "Speedster" goes to see the premiere of his partner's new play, instead of heading to the docks to stop Dr. Squid's shipment of Vibrium, your GM might award you a **bonus** to your relationship to your partner.
+Similarly, your GM might give you a **bonus** for acting according to your **flaw**, representing the sacrifices you have made for dependents or a temporary boost from satisfying your inner demons. For example, if your superhero "Speedster" goes to see the premiere of his partner's new play, instead of heading to the docks to stop Dr. Squid's shipment of Vibrium, your GM might award you a **bonus** to your relationship to your partner.
 
 If you choose to, or your GM compels you to, act according to a **flaw**, you gain an **experience point** (see §8.1).
 
