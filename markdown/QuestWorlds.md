@@ -2,14 +2,14 @@
 
 # 0.1 Legal Information
 
-The *QuestWorlds* System Reference Document 0.943 (“QWSRD0.943”) describes the rules of *QuestWorlds*. You may incorporate the rules as they appear in QWSRD0.943, wholly or in part, into a derivative work, through the use of the *QuestWorlds* Open Game License, Version 1.0. You should read and understand the terms of that License before creating a derivative work from QWSRD0.943.
+The *QuestWorlds* System Reference Document 0.944 (“QWSRD0.944”) describes the rules of *QuestWorlds*. You may incorporate the rules as they appear in QWSRD0.944, wholly or in part, into a derivative work, through the use of the *QuestWorlds* Open Game License, Version 1.0. You should read and understand the terms of that License before creating a derivative work from QWSRD0.944.
 
 Thanks to Wizards of the Coast, the Open Source Initiative, and Creative Commons for their work in creating the framework behind Open Source (and in this case Open Game) licenses. You should be aware that the *QuestWorlds* Open Game License for use of the *QuestWorlds* system differs from the Wizards Open Game License and has
 different terms and conditions.
 
 ### 0.1.1 Using This License
 
-You should note that this is version of 0.943 of the *QuestWorlds* System Reference Document. We expect to release revised versions of this SRD, especially after development of Chaosium’s upcoming *QuestWorlds Core Book*. When we release the *QuestWorlds Core Book* we will update the version designation to 1.0, indicating that the SRD reflects the text published in that book. If you are developing materials for *QuestWorlds* projects you may want to bear this in mind. We will track any changes to the SRD at *https://github.com/ChaosiumInc/QuestWorlds*.
+You should note that this is version of 0.944 of the *QuestWorlds* System Reference Document. We expect to release revised versions of this SRD, especially after development of Chaosium’s upcoming *QuestWorlds Core Book*. When we release the *QuestWorlds Core Book* we will update the version designation to 1.0, indicating that the SRD reflects the text published in that book. If you are developing materials for *QuestWorlds* projects you may want to bear this in mind. We will track any changes to the SRD at *https://github.com/ChaosiumInc/QuestWorlds*.
 
 Once we release SRD version 1.0 we expect that to be stable for some time.
 
@@ -720,7 +720,7 @@ The nurse has **graduated** goals: escape the huntsman and save the children. On
 
 Sometimes you will face large numbers of opponents. Your GM can treat many as one. Your GM divides the number of opponents by the number of contesting PCs. Your GM then treats each of these sections of the crowd as a single **resistance** with one **rating**. Their numbers are factored into the **rating** your GM assigns to the **resistance**.
 
-When the mob loses an exchange, your GM describes individuals within it as being hurt or falling away. When it wins, describe them overwhelming you, or swelling in numbers.
+In a sequence, when the mob loses an exchange, your GM describes individuals within it as being hurt or falling away. When it wins, they describe them overwhelming you, or swelling in numbers.
 
 ## 2.11 Ganging Up
 
