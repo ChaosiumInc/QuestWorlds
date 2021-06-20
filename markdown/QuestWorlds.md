@@ -2,14 +2,14 @@
 
 # 0.1 Legal Information
 
-The *QuestWorlds* System Reference Document 0.942 (“QWSRD0.942”) describes the rules of *QuestWorlds*. You may incorporate the rules as they appear in QWSRD0.940, wholly or in part, into a derivative work, through the use of the *QuestWorlds* Open Game License, Version 1.0. You should read and understand the terms of that License before creating a derivative work from QWSRD0.942.
+The *QuestWorlds* System Reference Document 0.943 (“QWSRD0.943”) describes the rules of *QuestWorlds*. You may incorporate the rules as they appear in QWSRD0.943, wholly or in part, into a derivative work, through the use of the *QuestWorlds* Open Game License, Version 1.0. You should read and understand the terms of that License before creating a derivative work from QWSRD0.943.
 
 Thanks to Wizards of the Coast, the Open Source Initiative, and Creative Commons for their work in creating the framework behind Open Source (and in this case Open Game) licenses. You should be aware that the *QuestWorlds* Open Game License for use of the *QuestWorlds* system differs from the Wizards Open Game License and has
 different terms and conditions.
 
 ### 0.1.1 Using This License
 
-You should note that this is version of 0.942 of the *QuestWorlds* System Reference Document. We expect to release revised versions of this SRD, especially after development of Chaosium’s upcoming *QuestWorlds Core Book*. When we release the *QuestWorlds Core Book* we will update the version designation to 1.0, indicating that the SRD reflects the text published in that book. If you are developing materials for *QuestWorlds* projects you may want to bear this in mind. We will track any changes to the SRD at *https://github.com/ChaosiumInc/QuestWorlds*.
+You should note that this is version of 0.943 of the *QuestWorlds* System Reference Document. We expect to release revised versions of this SRD, especially after development of Chaosium’s upcoming *QuestWorlds Core Book*. When we release the *QuestWorlds Core Book* we will update the version designation to 1.0, indicating that the SRD reflects the text published in that book. If you are developing materials for *QuestWorlds* projects you may want to bear this in mind. We will track any changes to the SRD at *https://github.com/ChaosiumInc/QuestWorlds*.
 
 Once we release SRD version 1.0 we expect that to be stable for some time.
 
@@ -711,6 +711,8 @@ In a **complete mismatch**, neither side is at all interested in preventing the 
 In most instances, the **contest** goals are not actually **mismatched**, but **graduated**. You have both a **primary** and a **secondary** goal. In this case, your GM frames the **contest**, identifying which goal is which. It is possible to have **tertiary** goals and so on, but avoid needless sub-division.
 
 On a **victory** you choose one more **graduated** goals than you have **degrees**. On *zero* **degrees** of **victory** you choose one; on *one* **degree** of victory you choose two, and so on. Normally, the GM should give the player the choice of which goals they wish to choose. This goes to the heart of character - what is more important to you?
+
+On a **defeat** you normally get nothing, but when there are **graduated** goals on *zero* **degrees** of defeat, your GM may choose to pick one of your goals to give you. The GM may choose to go against the PC's likely preference here - the PC doesn't get the choice they would have made given they had to sacrifice something.
 
 The nurse has **graduated** goals: escape the huntsman and save the children. On a *zero* **degree** of **victory** she will have to decide between capture and the safety of the children. On *one* **degrees**  of **victory**, she can have both.
 
