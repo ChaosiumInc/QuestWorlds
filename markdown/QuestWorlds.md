@@ -2,14 +2,14 @@
 
 # 0.1 Legal Information
 
-The *QuestWorlds* System Reference Document 0.944 (“QWSRD0.944”) describes the rules of *QuestWorlds*. You may incorporate the rules as they appear in QWSRD0.944, wholly or in part, into a derivative work, through the use of the *QuestWorlds* Open Game License, Version 1.0. You should read and understand the terms of that License before creating a derivative work from QWSRD0.944.
+The *QuestWorlds* System Reference Document 0.945 (“QWSRD0.945”) describes the rules of *QuestWorlds*. You may incorporate the rules as they appear in QWSRD0.945, wholly or in part, into a derivative work, through the use of the *QuestWorlds* Open Game License, Version 1.0. You should read and understand the terms of that License before creating a derivative work from QWSRD0.945.
 
 Thanks to Wizards of the Coast, the Open Source Initiative, and Creative Commons for their work in creating the framework behind Open Source (and in this case Open Game) licenses. You should be aware that the *QuestWorlds* Open Game License for use of the *QuestWorlds* system differs from the Wizards Open Game License and has
 different terms and conditions.
 
 ### 0.1.1 Using This License
 
-You should note that this is version of 0.944 of the *QuestWorlds* System Reference Document. We expect to release revised versions of this SRD, especially after development of Chaosium’s upcoming *QuestWorlds Core Book*. When we release the *QuestWorlds Core Book* we will update the version designation to 1.0, indicating that the SRD reflects the text published in that book. If you are developing materials for *QuestWorlds* projects you may want to bear this in mind. We will track any changes to the SRD at *https://github.com/ChaosiumInc/QuestWorlds*.
+You should note that this is version of 0.945 of the *QuestWorlds* System Reference Document. We expect to release revised versions of this SRD, especially after development of Chaosium’s upcoming *QuestWorlds Core Book*. When we release the *QuestWorlds Core Book* we will update the version designation to 1.0, indicating that the SRD reflects the text published in that book. If you are developing materials for *QuestWorlds* projects you may want to bear this in mind. We will track any changes to the SRD at *https://github.com/ChaosiumInc/QuestWorlds*.
 
 Once we release SRD version 1.0 we expect that to be stable for some time.
 
@@ -740,9 +740,9 @@ If you are not participating in the **contest** and have no stake in its **outco
 
 Otherwise, your GM will start by determining your degree of influence over the **outcome**. They are either:
 
-* Determining factors: The success of the effort depends mostly on your choices and successes. For example, you might be a military leader facing a force of roughly equal potency. As all else is equal, the better general will win the day. In this instance, your **tactic** should be a relevant leadership **ability**.
-* Contributors: One of the forces enjoys a clear advantage over the others, but your efforts may tip the balance in favor of a chosen side. Your GM will give you a **rating** to roll against that represents the strength of your force, but you can **augment** that **rating** with an appropriate leadership **ability**.
-* Acted Upon: You have little influence over the **outcome**, but are stuck in the middle of the conflict and must struggle to prosper within it. The GM predetermines the **outcome** of the overall competition on dramatic grounds. To determine your fate in the battle, you **contest** against a **resistance** determined by the GM, derived from the overall battle **outcome**.
+* **Directing**: The success of the effort depends mostly on your leadership. For example, you might be a military leader facing a force of roughly equal potency. As all else is equal, the better general will win the day. In this instance, if you are in command, your **tactic** should be a relevant leadership **ability**.
+* **Contributors**: The outcome of the battle hangs in the balance and your efforts may tip the balance in favor of your side. You roll against a **resistance** determined by the GM, either in a **contest** (see §4.0) or **sequence** (see §5.0) representing the odds of your shifting the odds in your favor. If a PC leads the effort your GM should award them a **bonus** or **penalty** reflecting the **outcome** of the contest. They should then roll as described in Directing above. If an NPC leads the effort the **outcome** is that of the **contest** or **sequence**, and the PCs effort is assumed to tip the scale either way.
+* **Participants**: You have little influence over the **outcome**, but must struggle to prosper within the conflict. The GM predetermines the **outcome** of the overall competition on dramatic grounds. To determine your fate in the battle, you roll against a **resistance** determined by the GM from the overall battle **outcome**, in a **contest** (see §4.0) or **sequence** (see §5.0).
 
 ## 2.13 Resistance Progression
 
@@ -908,7 +908,7 @@ It is possible that all the contestants lose. In this case, the GM needs to deci
 
 Use a **contest** when you have multiple contenders for a single **prize** over a **sequence** (see §5.0).
 
-### 4,3,1 Procedure
+### 4.3.1 Procedure
 
 Multiple contestants and one prize can be summarized as follows:
 
