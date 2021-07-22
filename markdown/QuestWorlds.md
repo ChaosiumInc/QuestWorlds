@@ -2,14 +2,14 @@
 
 # 0.1 Legal Information
 
-The *QuestWorlds* System Reference Document 0.945 (“QWSRD0.945”) describes the rules of *QuestWorlds*. You may incorporate the rules as they appear in QWSRD0.945, wholly or in part, into a derivative work, through the use of the *QuestWorlds* Open Game License, Version 1.0. You should read and understand the terms of that License before creating a derivative work from QWSRD0.945.
+The *QuestWorlds* System Reference Document 0.95 (“QWSRD0.95”) describes the rules of *QuestWorlds*. You may incorporate the rules as they appear in QWSRD0.95, wholly or in part, into a derivative work, through the use of the *QuestWorlds* Open Game License, Version 1.0. You should read and understand the terms of that License before creating a derivative work from QWSRD0.95.
 
 Thanks to Wizards of the Coast, the Open Source Initiative, and Creative Commons for their work in creating the framework behind Open Source (and in this case Open Game) licenses. You should be aware that the *QuestWorlds* Open Game License for use of the *QuestWorlds* system differs from the Wizards Open Game License and has
 different terms and conditions.
 
 ### 0.1.1 Using This License
 
-You should note that this is version of 0.945 of the *QuestWorlds* System Reference Document. We expect to release revised versions of this SRD, especially after development of Chaosium’s upcoming *QuestWorlds Core Book*. When we release the *QuestWorlds Core Book* we will update the version designation to 1.0, indicating that the SRD reflects the text published in that book. If you are developing materials for *QuestWorlds* projects you may want to bear this in mind. We will track any changes to the SRD at *https://github.com/ChaosiumInc/QuestWorlds*.
+You should note that this is version of 0.95 of the *QuestWorlds* System Reference Document. We expect to release revised versions of this SRD, especially after development of Chaosium’s upcoming *QuestWorlds Core Book*. When we release the *QuestWorlds Core Book* we will update the version designation to 1.0, indicating that the SRD reflects the text published in that book. If you are developing materials for *QuestWorlds* projects you may want to bear this in mind. We will track any changes to the SRD at *https://github.com/ChaosiumInc/QuestWorlds*.
 
 Once we release SRD version 1.0 we expect that to be stable for some time.
 
@@ -1370,7 +1370,7 @@ You can describe a **contact** as being a particular individual, or as a group o
 
 ### 6.4.1 Occupational Contacts
 
-Any **occupational keyword** can be treated as a source of **contacts**. However, using an **occupational keyword** as a source of **contacts** will always be a **stretch** (see §2.5). To more reliably draw on particular **contacts** associated with your occupation, you should take an explicit ability. Use a **breakout ability** if you are using **umbrella keywords**.
+Any **occupational keyword** can be treated as a source of **contacts**. However, using an **occupational keyword** as a source of **contacts** will always be a **stretch** (see §2.5). To more reliably draw on particular **contacts** associated with your occupation, you should take a **breakout ability** under the **occupational keyword**.
 
 ## 6.5 Followers
 
