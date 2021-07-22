@@ -1360,7 +1360,7 @@ An **ally** is a character of roughly the same level of accomplishment as you, o
 
 **Patrons** enjoy greater access to assets than you, either through personal ownership (as in a wealthy entrepreneur or rich aristocrat) or authority (as in the governor of a state or province or the head of an organization). They may lend you advice or provide you with assets but are too busy and important to personally perform tasks for you. They may hire you to do jobs, or issue orders within a command structure to which you both belong.  
 
-When you roll your **patron** relationship, your GM adjusts the resistance class depending on what you have done for them lately.
+When you roll your **patron** relationship, your GM adjusts the **resistance** depending on what you have done for them lately.
 
 ## 6.4 Contacts
 
@@ -1402,7 +1402,7 @@ A **retainer** is a more or less anonymous servant or helper. You may specify a 
 
 Like any other **ability**, a **retainer** **ability** allows you to overcome relevant **story obstacles** by engaging in a **contest**. To model the contribution of **retainers**, when you are acting, you can use them to **augment** your **ability**. Your GM can rule that **consequences** apply to **retainers**.
 
-**Retainers** generally regard you with all the affection and loyalty due to an employer or master. If you treat them more poorly than is expected for their culture, your GM should increase the **resistance class** of attempts to make use of their talents.
+**Retainers** generally regard you with all the affection and loyalty due to an employer or master. If you treat them more poorly than is expected for their culture, your GM should increase the **resistance** of attempts to make use of their talents.
 
 ## 6.6 Relationships as Flaws
 
