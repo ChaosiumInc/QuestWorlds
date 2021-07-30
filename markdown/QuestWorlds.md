@@ -718,13 +718,13 @@ The nurse has **graduated** goals: escape the huntsman and save the children. On
 
 ## 2.10 Mobs, Gangs, and Hordes
 
-Sometimes you will face large numbers of opponents. Your GM can treat many as one. Your GM divides the number of opponents by the number of contesting PCs. Your GM then treats each of these sections of the crowd as a single **resistance** with one **rating**. Their numbers are factored into the **rating** your GM assigns to the **resistance**.
+Sometimes you will be outnumbered by your opponents. Your GM can treat many as one. Your GM treats a crowd as a single **resistance** with one **rating**. When selecting a **resistance** your GM should factor their numbers into the **rating**. Numbers are not always an advantage. Whilst in a fight, numbers give you a significant advantage - provided the mob has room to maneuver - in an attempt to win 'hearts and minds' too many voices can be counterproductive, unless you are trying to intimidate. The final decision on the amount of help provided by numerical advantage rests with your GM.
 
-In a sequence, when the mob loses an exchange, your GM describes individuals within it as being hurt or falling away. When it wins, they describe them overwhelming you, or swelling in numbers.
+In a sequence, when the mob loses an exchange, your GM describes individuals within it as being hurt or falling away. When it wins, they describe them overwhelming you.
 
 ## 2.11 Ganging Up
 
-Sometimes you may outnumber your opponent. As above, the GM should alter the **resistance** depending on how significantly you outnumber them.
+Sometimes you may outnumber your opponent. As above, the GM should alter the **resistance** depending on how significantly you outnumber them and depending on whether numbers provide advantage.
 
 ## 2.12 Mass Effort
 
@@ -881,7 +881,7 @@ A **contest** can be summarized as follows:
 
 In the **group contest**, multiple participants take part in a **contest**. Each of you in your group conducts an individual **contest** against the GM, and the **outcomes** for each side are collated to determine the victor.
 
-A **group contest** may pit all of you against a single **resistance**, representing one **story obstacle** or **story question**.  Alternatively, a **group contest** may be a series of paired match-ups between two groups of contestants. If you are forced to participate in more than one **contest**, then you face the standard multiple opponent **penalties**.
+A **group contest** may pit all of you against a single **resistance**, representing one **story obstacle** or **story question**.  Alternatively, a **group contest** may be a series of paired match-ups between two groups of contestants. If your PC is matched against multiple opponents, your GM should consider increasing the resistance instead of rolling multiple times (see Mobs, Gangs, and Hordes §2.12). If the resistance is forced to face off against multiple PCs the GM should consider, lowering the resistance (see Ganging Up §2.11).
 
 ### 4.2.1 Procedure
 
@@ -890,9 +890,14 @@ A **group contest** can be summarized as follows:
 1. Your GM **frames the contest**.
 2. You choose a **tactic**. Your **target number (TN)** is your **rating**, adding any **augments** (see §2.6), **hindrances** (see §2.7), **stretches** and **situational modifiers** (see §2.5), **consequences** and **benefits** (see §2.8).
 3. Your GM determines the **resistance**.  If two PCs contend, your opponent figures their **TN** as described in step 2.
-4. For each of your group, roll a D20 vs your relevant **ability**, while your GM rolls a D20 vs the **resistance**. Your GM compares the difference **successes** between the two rolls to assesses the individual **outcome** (see §2.4.7).
-5. The side with the highest number of **successes** is the overall victor in the **contest**. Award **experience points** if appropriate (see §8.1).
-6. Describe the **outcome** based on the agreed **prize**. If you need to determine the **degree** of **victory** or **defeat** for the PCs, divide the difference in **successes** by the number of **PCs** rounding down. For example: if there are 4 PCs and they win by six **successes** they gain 6/4 or *one* **degree** of **victory**; if there are 4 PCs and they lose by three **successes** they lose by 3/4 or *zero* **degrees** of **defeat**.
+4. For each of your group
+    1. Roll a D20 vs your relevant **ability**, while your GM rolls a D20 vs the **resistance**. Determine the **degree** of **victory** or **defeat** for the individual PC from the **outcome** (see §2.4.7).
+    2. Add the number of **successes** scored in the contest to a running total of **successes** for each group, regardless of the individual **outcome**. **Victory** or **defeat**, **successes** count towards the group **outcome**.
+5. The side with the highest number of **successes** is the overall victor in the **contest**. Award **experience points** if appropriate (see §8.1). If the number of **successes** is tied the contest ends in a stalemate, with neither side gaining control of the **prize**.
+6. Determine **degree of victory** from the difference between the **successes** scored by each side.
+7. Describe the **outcome** based on the agreed **prize**.
+
+If the result is a tie, but it does not make sense for there to be no outcome, then award the PCs group a *zero* **degree victory**
 
 It is possible that you suffer a **defeat**, even though your side gains the **victory**. It is possible that, as a result, that your PC will suffer a **consequence** (see §2.8) related to your **defeat**, even though your side won. If your side loses, then you may suffer both a **consequence** for your own individual **contest**, and a **consequence** for the overall **contest**.
 
