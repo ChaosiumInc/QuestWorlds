@@ -2,14 +2,14 @@
 
 # 0.1 Legal Information
 
-The *QuestWorlds* System Reference Document 0.95 (“QWSRD0.95”) describes the rules of *QuestWorlds*. You may incorporate the rules as they appear in QWSRD0.95, wholly or in part, into a derivative work, through the use of the *QuestWorlds* Open Game License, Version 1.0. You should read and understand the terms of that License before creating a derivative work from QWSRD0.95.
+The *QuestWorlds* System Reference Document 0.96 (“QWSRD0.96”) describes the rules of *QuestWorlds*. You may incorporate the rules as they appear in QWSRD0.96, wholly or in part, into a derivative work, through the use of the *QuestWorlds* Open Game License, Version 1.0. You should read and understand the terms of that License before creating a derivative work from QWSRD0.96.
 
 Thanks to Wizards of the Coast, the Open Source Initiative, and Creative Commons for their work in creating the framework behind Open Source (and in this case Open Game) licenses. You should be aware that the *QuestWorlds* Open Game License for use of the *QuestWorlds* system differs from the Wizards Open Game License and has
 different terms and conditions.
 
 ### 0.1.1 Using This License
 
-You should note that this is version of 0.95 of the *QuestWorlds* System Reference Document. We expect to release revised versions of this SRD, especially after development of Chaosium’s upcoming *QuestWorlds Core Book*. When we release the *QuestWorlds Core Book* we will update the version designation to 1.0, indicating that the SRD reflects the text published in that book. If you are developing materials for *QuestWorlds* projects you may want to bear this in mind. We will track any changes to the SRD at *https://github.com/ChaosiumInc/QuestWorlds*.
+You should note that this is version of 0.96 of the *QuestWorlds* System Reference Document. We expect to release revised versions of this SRD, especially after development of Chaosium’s upcoming *QuestWorlds Core Book*. When we release the *QuestWorlds Core Book* we will update the version designation to 1.0, indicating that the SRD reflects the text published in that book. If you are developing materials for *QuestWorlds* projects you may want to bear this in mind. We will track any changes to the SRD at *https://github.com/ChaosiumInc/QuestWorlds*.
 
 Once we release SRD version 1.0 we expect that to be stable for some time.
 
@@ -783,11 +783,14 @@ Your GM should not use this method for creating NPCs. NPCs do not require defini
 |Naive|Warrior|
 
 
-2. Now provide your character with a name.
-3. If the series uses other **keywords**, such as those for culture or religion, you may gain one for free.
-4. When events in the story put you in a situation where you want to overcome a **story obstacle**, or discover the answer to a **story question**, make up an applicable **ability** on the spot. The first time you use an **ability** (including the two you start play with: **distinguishing characteristic** and **occupational keyword**), assign a **rating** to it. This may be a **breakout ability** from a **keyword**. You are restricted to only one **sidekick**.
-5. If you want, describe **flaws**.
-6. Once you have 12 **abilities** (including the two for character concept), and up to three **flaws** you are done creating your character.
+2. Provide your character with a name.
+3. You have 12 **ability** slots and up to three slots for **flaws**.
+4. Your character concept uses two slots: one for their occupational **keyword** and one for their **distinguishing characteristic**.
+5. The first time you use an **ability** (including your **distinguishing characteristic** and **occupational keyword**), assign a **rating** to it (see §3.4).
+6. If the series uses other **keywords**, such as those for culture or religion, you will need to spend an **ability** slots on those.
+7. When events in the story put you in a situation where you want to overcome a **story obstacle**, or discover the answer to a **story question**, make up an applicable **ability** on the spot. This may be a **breakout ability** from a **keyword**. You are restricted to only one **sidekick**.
+8. If you want, describe any **flaws**.
+9. When you have used all your **ability** slots, you must use **experience points** to buy more. Once you have used all of your **flaw** slots, you must buy off an existing **flaw** with **experience points** to gain more.
 
 ## 3.2 Keywords
 
@@ -833,7 +836,7 @@ All **flaws** after the third are given the same **rating** as the lowest **abil
 
 Now, you get 20 **improvement points** to spend to improve your **abilities**. Each **improvement point** increases an ability by +1. You cannot increase a **breakout** with **improvement points**. The maximum starting **ability rating** is 5M; the maximum starting **breakout rating** is +5, or +10 for a **distinguishing characteristic** (see §3.0) agreed with your GM to be under a **keyword**.
 
-You can modify an ability using **improvement points** after a roll. This may allow you to to **succeed** and not **fail**.
+You can modify an ability using **improvement points** after a roll. This may allow you to **succeed** and not **fail**.
 
 Some genre packs may require you to have additional **keywords** that reflect the setting. These additional **keywords** come from the 12 **abilities** allowance, so in many genres you will have fewer wildcard **abilities** but better fit the setting.
 
