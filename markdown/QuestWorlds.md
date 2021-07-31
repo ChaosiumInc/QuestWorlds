@@ -2,14 +2,14 @@
 
 # 0.1 Legal Information
 
-The *QuestWorlds* System Reference Document 0.96 (“QWSRD0.96”) describes the rules of *QuestWorlds*. You may incorporate the rules as they appear in QWSRD0.96, wholly or in part, into a derivative work, through the use of the *QuestWorlds* Open Game License, Version 1.0. You should read and understand the terms of that License before creating a derivative work from QWSRD0.96.
+The *QuestWorlds* System Reference Document 0.961 (“QWSRD0.96”) describes the rules of *QuestWorlds*. You may incorporate the rules as they appear in QWSRD0.961, wholly or in part, into a derivative work, through the use of the *QuestWorlds* Open Game License, Version 1.0. You should read and understand the terms of that License before creating a derivative work from QWSRD0.961.
 
 Thanks to Wizards of the Coast, the Open Source Initiative, and Creative Commons for their work in creating the framework behind Open Source (and in this case Open Game) licenses. You should be aware that the *QuestWorlds* Open Game License for use of the *QuestWorlds* system differs from the Wizards Open Game License and has
 different terms and conditions.
 
 ### 0.1.1 Using This License
 
-You should note that this is version of 0.96 of the *QuestWorlds* System Reference Document. We expect to release revised versions of this SRD, especially after development of Chaosium’s upcoming *QuestWorlds Core Book*. When we release the *QuestWorlds Core Book* we will update the version designation to 1.0, indicating that the SRD reflects the text published in that book. If you are developing materials for *QuestWorlds* projects you may want to bear this in mind. We will track any changes to the SRD at *https://github.com/ChaosiumInc/QuestWorlds*.
+You should note that this is version of 0.961 of the *QuestWorlds* System Reference Document. We expect to release revised versions of this SRD, especially after development of Chaosium’s upcoming *QuestWorlds Core Book*. When we release the *QuestWorlds Core Book* we will update the version designation to 1.0, indicating that the SRD reflects the text published in that book. If you are developing materials for *QuestWorlds* projects you may want to bear this in mind. We will track any changes to the SRD at *https://github.com/ChaosiumInc/QuestWorlds*.
 
 Once we release SRD version 1.0 we expect that to be stable for some time.
 
@@ -896,6 +896,7 @@ A **group contest** can be summarized as follows:
 4. For each of your group
     1. Roll a D20 vs your relevant **ability**, while your GM rolls a D20 vs the **resistance**. Determine the **degree** of **victory** or **defeat** for the individual PC from the **outcome** (see §2.4.7).
     2. Add the number of **successes** scored in the contest to a running total of **successes** for each group, regardless of the individual **outcome**. **Victory** or **defeat**, **successes** count towards the group **outcome**.
+    3. Award **experience points** if appropriate (see §8.1).
 5. The side with the highest number of **successes** is the overall victor in the **contest**. Award **experience points** if appropriate (see §8.1). If the number of **successes** is tied the contest ends in a stalemate, with neither side gaining control of the **prize**.
 6. Determine **degree of victory** from the difference between the **successes** scored by each side.
 7. Describe the **outcome** based on the agreed **prize**.
