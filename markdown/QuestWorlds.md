@@ -2,14 +2,14 @@
 
 # 0.1 Legal Information
 
-The *QuestWorlds* System Reference Document 0.961 (“QWSRD0.96”) describes the rules of *QuestWorlds*. You may incorporate the rules as they appear in QWSRD0.961, wholly or in part, into a derivative work, through the use of the *QuestWorlds* Open Game License, Version 1.0. You should read and understand the terms of that License before creating a derivative work from QWSRD0.961.
+The *QuestWorlds* System Reference Document 0.962 (“QWSRD0.962”) describes the rules of *QuestWorlds*. You may incorporate the rules as they appear in QWSRD0.962, wholly or in part, into a derivative work, through the use of the *QuestWorlds* Open Game License, Version 1.0. You should read and understand the terms of that License before creating a derivative work from QWSRD0.962.
 
 Thanks to Wizards of the Coast, the Open Source Initiative, and Creative Commons for their work in creating the framework behind Open Source (and in this case Open Game) licenses. You should be aware that the *QuestWorlds* Open Game License for use of the *QuestWorlds* system differs from the Wizards Open Game License and has
 different terms and conditions.
 
 ### 0.1.1 Using This License
 
-You should note that this is version of 0.961 of the *QuestWorlds* System Reference Document. We expect to release revised versions of this SRD, especially after development of Chaosium’s upcoming *QuestWorlds Core Book*. When we release the *QuestWorlds Core Book* we will update the version designation to 1.0, indicating that the SRD reflects the text published in that book. If you are developing materials for *QuestWorlds* projects you may want to bear this in mind. We will track any changes to the SRD at *https://github.com/ChaosiumInc/QuestWorlds*.
+You should note that this is version of 0.962 of the *QuestWorlds* System Reference Document. We expect to release revised versions of this SRD, especially after development of Chaosium’s upcoming *QuestWorlds Core Book*. When we release the *QuestWorlds Core Book* we will update the version designation to 1.0, indicating that the SRD reflects the text published in that book. If you are developing materials for *QuestWorlds* projects you may want to bear this in mind. We will track any changes to the SRD at *https://github.com/ChaosiumInc/QuestWorlds*.
 
 Once we release SRD version 1.0 we expect that to be stable for some time.
 
@@ -967,7 +967,7 @@ A **sequence** consists of one or more **rounds**, which you resolve as **contes
 Different types of **sequence** change how we record who has the upper hand at any one time, based on the **degrees** of the **contest** outcome.
 
 * In a **scored sequence**, the first contestant to have five 'strikes' against them loses. We *tally* **resolution points (RP)**.
-* In a **wagered sequence**, the contenders trade momentum and position until one of them crashes. We *tally* **advantage points (AP)**.
+* In a **wagered sequence**, we *tally* **advantage points (AP)**, which represent momentum and position. The contenders trade **APs** until one of them runs out.
 * In **chained sequence** the contestants deal harm to each other, and may elect to withdraw if in difficulty. We don't keep a *tally* but apply **consequences**.
 
 Your GM uses this record, either *tallying* or applying **consequences**, to determine when to trigger the end of the **sequence** and the **outcome** for the victor.
@@ -1021,7 +1021,11 @@ Your GM should never “nest” one **sequence** inside another. If a **sequence
 
 ### 5.1.4 Switching Abilities
 
-You may describe an action in a **sequence** that is not covered by the **ability** that you started the **sequence** with. There are two possibilities here: either you are trying to provide color to your actions in the **round**, without seeking to gain advantage, or you are seeking to gain advantage over your opponent with a novel **tactic**. In the former case, you can continue to use the **ability** you started the contest with, as you should not be penalized for wanting to enhance the contest with colorful or entertaining descriptions. In the latter case you should switch **abilities**, and your GM must decide if the **resistance** changes because of your new **ability**. Your GM is encouraged to reward **tactics** that exploit weaknesses that have been identified in the story so far with a lower **resistance**. Sometimes your GM may respond with a higher **resistance** because your **tactic** looks less likely to succeed due to conditions already established in the story.
+You may describe an action in a **sequence** that is not covered by the **ability** that you started the **sequence** with. There are two possibilities here: either you are trying to provide color to your actions in the **round**, without seeking to gain advantage, or you are seeking to gain advantage over your opponent with a novel **tactic**. 
+
+In the former case, you can continue to use the **ability** you started the contest with, as you should not be penalized for wanting to enhance the contest with colorful or entertaining descriptions. 
+
+In the latter case you should switch **abilities**, and your GM must decide if the **resistance** changes because of your new **ability**. Your GM is encouraged to reward **tactics** that exploit weaknesses that have been identified in the story so far with a **bonus** from a **situational modifier**. Sometimes your GM may respond with a higher **penalty** from a **situational modifier** because your **tactic** looks less likely to succeed due to conditions already established in the story.
 
 Either way any *tally* does not change. However, it may be possible to avoid **consequences** in a **chained sequence** by switching to am ability that would not be **penalized**.
 
@@ -1075,30 +1079,17 @@ The mechanics for a **assist** differ for each **sequence** type, reflecting the
 
 ## 5.2 Scored Sequence
 
-A **scored sequence** consists of one or more **rounds**; each **round** is a **contest**. We *tally* the position of the contestants in a **scored sequence** via **resolution points**. Once *five* or more resolution points have been *tallied* against a contestant, they lose that **scored sequence**.
+A **scored sequence** consists of one or more **rounds**; each **round** is a **contest**.
 
-In a **scored sequence** there is no distinction between aggressor and defender, each **round** represents attempts by both parties to overcome their opponent and so a is a *single* **contest**. Your GM should determine who has the initiative to describe what they are doing for any **round**, based on their interpretation of the flow of events. If in doubt your GM should defer to you over your opponent to describe what you do in the **round**, and describe the NPC reacting to that.
+In a **scored sequence**, we *tally* the position of the contestants in a **scored sequence** via **resolution points**. Once *five* or more resolution points have been *tallied* against a contestant, they lose that **scored sequence**.
+
+In a **scored sequence** each **round** represents attempts by both parties to overcome their opponent and so a is a *single* **contest**.
+
+Your GM should determine who has the initiative to choose their **tactics** for any **round**, based on their interpretation of the flow of events. Their opponent has to react to that **tactic**. If in doubt your GM should defer to you over your opponent to describe what you do in the **round**, and describe the NPC reacting to that.
 
 ### 5.2.1 Resolution Points
 
 You score **resolution points** equal to *one* more than the **degree** of the **outcome**. So a *zero* **degree** **outcome** produces *one* **resolution point**, a *one* **degree** **outcome** produces *two* **resolution points** and so on. (You can take the shortcut of adding *one* to the difference in **successes** of the two rolls, if you prefer).
-
-Your **resolution point** score tells you how well you’re doing, relative to your opponent, in the ebb and flow of a fluid, suspenseful conflict. If you’re leading your opponent by 0–4, you’re giving them a thorough pasting. If you’re behind 4–0, you’re on your last legs, while your opponent has had an easy time of it. If you’re tied, you’ve each been getting in some good licks.
-
-* In a fight, scoring *one* **RP** might mean that you hit your opponent with a grazing blow, or knocked him into an awkward position.
-* Scoring *two* **RPs** might mean a palpable hit, most likely with bone-crunching sound effects.
-* A *three* **RP** hit sends them reeling, and, depending on the realism level of the genre, may be accompanied by a spray of blood.
-
-However, the exact physical harm you’ve dished out to them remains unclear until the **contest's** end. When that happens, the real effects of your various **victories** become suddenly apparent. Perhaps they stagger, merely dazed, up against a wall. Maybe they fall over dead.
-
-* In a debate, *one* **RP** might occasion mild head nodding from spectators, or a frown on your opponent’s face.
-* *Two* **RPs** would occasion mild applause from onlookers, or send a flush to your opponent’s face.
-* On *three* **RPs**, your opponent might be thrown completely off-track, as audience members wince at the force of your devastating verbal jab.
-
-In interpreting the individual **contest** **rounds** within a **scored sequence**, your GM is guided by two principles:
-
-1. No efect is certain until the entire **scored sequence** is over.
-2. When a character scores points, it can reflect any positive change in fortunes, not just the most obvious one.
 
 #### 5.2.1.1 RESOLUTION POINT TABLE
 
@@ -1128,9 +1119,30 @@ You may choose to have your **followers** take part in **scored sequences** in o
 
 Your GM determines any long-term implications for the follower being removed from the **contest**. Whilst your GM should not end your character's story without consent, such as via death, they may choose to end the story of a follower in such circumstances, viscerally demonstrating the threat that the PCs face.
 
+#### 5.2.1.4 What the Score Means
+
+Your **resolution point** score tells you how well you’re doing, relative to your opponent, in the ebb and flow of a fluid, suspenseful conflict. If you’re leading your opponent by 0–4, you’re giving them a thorough pasting. If you’re behind 4–0, you’re on your last legs, while your opponent has had an easy time of it. If you’re tied, you’ve each been getting in some good licks.
+
+* In a fight, scoring *one* **RP** might mean that you hit your opponent with a grazing blow, or knocked him into an awkward position.
+* Scoring *two* **RPs** might mean a palpable hit, most likely with bone-crunching sound effects.
+* A *three* **RP** hit sends them reeling, and, depending on the realism level of the genre, may be accompanied by a spray of blood.
+
+However, the exact physical harm you’ve dished out to them remains unclear until the **contest's** end. When that happens, the real effects of your various **victories** become suddenly apparent. Perhaps they stagger, merely dazed, up against a wall. Maybe they fall over dead.
+
+* In a debate, *one* **RP** might occasion mild head nodding from spectators, or a frown on your opponent’s face.
+* *Two* **RPs** would occasion mild applause from onlookers, or send a flush to your opponent’s face.
+* On *three* **RPs**, your opponent might be thrown completely off-track, as audience members wince at the force of your devastating verbal jab.
+
+If the opposition represents multiple opponents, then an **RP** loss may represent their ranks thinning.
+
+In interpreting the individual **contest** **rounds** within a **scored sequence**, your GM is guided by two principles:
+
+1. No effect is certain until the entire **scored sequence** is over.
+2. When a character scores points, it can reflect any positive change in fortunes, not just the most obvious one.
+
 ### 5.2.2 Scored Sequence Outcomes
 
-Your GM treats the half the difference in **resource points**, rounding up, as the **degree** of your **victory** or **defeat**.
+Your GM uses the difference in **resource points** between the contestants to determine the **degree** of your **victory** or **defeat**.
 
 #### 5.2.2.1 SCORED SEQUENCE OUTCOME TABLE
 
@@ -1176,29 +1188,49 @@ Scores can never be reduced below 0.
 
 ### 5.2.7 Joining an In-Progress Contest
 
-If you join in an existing **scored sequence** use the same *tally* of **resolution points**; your fate is now bound to your comrade's fate. 
+If you join in an existing **scored sequence** use the same *tally* of **resolution points**; your fate is now bound to your comrade's fate. In this case, two PCs may face off against the same opposition, both sharing the same *tally*.
+
+It is usually a better tactic to reduce a comrades *tally* via an **assist** if they have **resolution points** against them, before joining them, so that you don't risk being brought down by them.
 
 ## 5.3 Wagered sequence
 
-A **wagered sequence** consists of one or more **rounds**. We *tally* the position of the contestants in **advantage points (AP)**. Once a contestant reach *zero* or fewer **APs** they lose that a **wagered sequence**. In a **round** *both* you and your opponent take actions in turn; a pair of **exchanges**. Each **exchange** is a **contest**. If a contestant falls below *zero* **APs** as a result of their opponent's **exchange**, they immediately lose, and do not get to conduct their own **exchange**. Your GM should determine who has the initiative to describe what they are doing for any **exchange**, the 'aggressor', based on their interpretation of the flow of events. The aggressor describes their action, and wagers a matching number of **APs**. The defender then describes their response and wages a matching number of **APs**.
+A **wagered sequence** consists of one or more **rounds**. In a **round** *both* you and your opponent take actions in turn; a pair of **exchanges**. Each **exchange** is a **contest**.
 
- These **exchanges** are then conducted in order of the highest **wager** first.
+In a **wagered sequence**, we *tally* the position of the contestants in **advantage points (AP)**. Once a contestant reach *zero* or fewer **APs** they lose that a **wagered sequence**.
+
+Your GM should determine who has the initiative to describe what they are doing for any **exchange**. They describe the **tactic** for their **exchange**, and wagers a matching number of **APs**. Their opponent then describes their reaction to that **tactic** to determine the ability used in the contest. Next, their opponent then describes their **tactic** and wagers a matching number of **APs**. The initiative holder then describes their **tactic** in response.
+
+These **exchanges** are then conducted in order of the highest **AP** **wager** first.
+
+If a contestant falls below *zero* **APs** as a result of their opponent's **exchange**, they immediately lose, and do not get to conduct their own **exchange**.
+
+If on the second **exchange** of the **round**, a contestant no longer has the **AP** that they **bid** remaining, they should change their action to reflect a lower **bid**.
+
+If, on the second **exchange** the contestant's original intent no longer makes sense in the unfolding narrative, they can change their **tactic** but they do not change their **wager**.
 
 ### 5.3.1 Advantage Points
 
 #### 5.3.1.1 Starting AP Totals
 
-You describe your action towards the desired **prize** and what **ability** you use. The **ability** used in the contest can be varied, but **APs** are always calculated on the first **ability** that you use in a contest. That **ability** must be used in the first **round**. Figure your starting **advantage point (AP)** total using the **TN**. The **AP** include +20 for each level of **mastery**, and can also be increased by **followers**.
+You describe your action towards the desired **prize** and what **ability** you use. The **ability** used in the contest can be varied, but **APs** are always calculated on the first **ability** that you use in a contest. That **ability** must be used in the first **round**.
+
+Figure your starting **advantage point (AP)** total using the **TN**. So a **TN** of 15 is 15**APs**. The **AP** include +20 for each level of **mastery**, so a **TN** of 5M is 25**APs**. Your starting **APs** and can also be increased by **followers** (see below).
 
 The GM figures starting **APs** for the **resistance** from the **resistance** **TN**.
 
 #### 5.3.1.2  Wagering Advantage Points
 
-You gamble a number of your **APs** in an attempt to reduce your opponent’s **AP**, but if you fail the attempt you lose the **AP**.
+You gamble a number of your **APs** in an attempt to reduce your opponent’s **AP**, but if you fail the attempt you lose the **AP** or may even transfer them.
 
-You describe your action towards the desired **prize**, what **ability** you use, and how much risk you take. “I want to climb straight up to that outcrop, taking chances if needed.” You can specify your **wager**; if you do not, your GM determines this based on the amount of risk you are taking.
+You describe your action towards the desired **prize**, what **ability** you use, and how much risk you take. “I want to climb straight up to that outcrop, taking chances if needed.” You should specify your **wager**; if you do not, your GM determines this based on the amount of risk you are taking.
 
-The size of the **wager** mirrors how bold and risky your character’s action is. Extreme or aggressive actions mean a high **wager**, and cautious actions require less. If you describe an all-out offensive with your sword cutting vicious arcs, you need to wager a lot of **APs**; if you say that you are circling your foe cautiously, a low **wager** is in order. Your GM  will look at the level of risk you are taking, and may suggest that you change your **wager** to better match your actions. If you do not declare a **wager** before rolling the die, your GM will decide how many points are **wager** (using 3 as a default), with riskier actions calling for higher **wagers**.
+The size of the **wager** mirrors how bold and risky your character’s action is. Extreme or aggressive actions mean a high **wager**, and cautious actions require less. 
+
+If you describe an all-out offensive with your sword cutting vicious arcs, you need to wager a lot of **APs**; if you say that you are circling your foe cautiously, a low **wager** is in order.
+
+Your GM  will look at the level of risk you are taking, and may suggest that you change your **wager** to better match your actions.
+
+If you do not declare a **wager** before rolling the die, your GM will decide how many points are **wager** (using 3 as a default), with riskier actions calling for higher **wagers**.
 
 #### 5.3.1.3 Losing Advantage Points
 
@@ -1216,13 +1248,17 @@ The number of advantage points lost by a contestant is a multiplier of their **w
 |4|4 x wager|
 |*n*|*n* x wager|
 
-* If the victor rolled a **big success**, the **APs** lost by the loser are gained by the winner - a transfer.
+If the victor rolled a **big success**, the **APs** lost by the loser are gained by the winner - a **transfer**.
 
 #### 5.3.1.5  Followers and Advantage Points
 
-**Followers** can act in different ways during a **contest**, **augmenting** you with their **abilities** or allowing you to use one of your **abilities** as if it were your own. Alternatively, a **follower** with a relevant **ability** or **keyword** can simply add their **APs** to the PC’s at the beginning of the **contest**.
+**Followers** can act in *one* of the following ways during a **contest**:
 
-Neither you nor the GM makes rolls for **followers**. Instead, their actions are subsumed into yours. The **follower’s** relevant **ability** or **keyword** is used solely as a source of **advantage points**.
+* A follower can **augment** you with their **abilities**.
+* You can use one of their **abilities** as if it were your own.
+* For a **follower** with a relevant **ability** or **keyword**, you can simply add their **APs** to yours at the beginning of the **contest**.
+
+Neither you nor the GM makes rolls for **followers**. Instead, their actions are subsumed into yours.
 
 You can assign your **followers** to someone else, although you may have to succeed at a contest to persuade a reluctant follower to go along.
 
@@ -1233,6 +1269,25 @@ Once your opponent has won or lost **APs** during the current contest, you can a
 #### 5.3.1.7 Advantage Point Recalculation
 
 **Advantage points** are only relevant for the length of a particular **wagered sequence**. Your PC does not have any until the next **wagered sequence** begins, when you calculate them all over again.
+
+#### 5.3.1.8 What the AP Total Means
+
+**Advantage points** represent who has the advantage in a **sequence**. They represent who is enters the fray in the best starting position because of skill, support, or conviction.
+
+Losses represent:
+
+* Losing *momentum*.
+* Becoming overcome by *fatigue*.
+* *Morale* is failing.
+* Becoming close to losing *consciousness* from repeated blows.
+* Losing the support of the *audience*.
+
+If the opposition represents multiple opponents, then an **AP** loss may represent their ranks thinning.
+
+When your GM narrates **AP** losses they need to be guided by two principals:
+
+1. No effect is certain until the entire **wagered sequence** is over.
+2. When a character loses points, it can reflect any negative change in fortunes, not just the most obvious one
 
 ### 5.3.2 WAGERED SEQUENCE Outcomes
 
@@ -1251,10 +1306,11 @@ Your GM uses the final **AP** total of the loser to determine the **degree** of 
 Your GM may apply **consequences** and **benefits**  for your PC as they see fit, based on this outcome. 
 
 ### 5.3.3 Parting Shot
+A **parting shot** allows another round, in which only contestants with positive **APs** can act. You once again **wager** **APs** and use an appropriate **ability** against your opponent. Your **wager** must reflect what you are doing to drive them to greater defeat.
 
-You once again **wager** **APs** and use an appropriate **ability** against your opponent. Your GM must agree that the size of your **wager** is sufficient to gain the additional **prize**. The greater the **prize** the more risk that failure will bring them back into the contest, and so the higher the **wager** must be. If you succeed, their **AP** will decrease; their **outcome** may or may not change, but they cannot finish the **round** by taking an action against you.
+If you succeed, their **AP** will decrease; their **outcome** may or may not change.
 
-**Parting shots** are risky; if you fail, an **AP** transfer might bring your opponent back into the **contest**. Your stumble can give them an opening that they can exploit in an effort to snatch **victory** from the jaws of **defeat**.
+**Parting shots** are risky; if you fail, an **AP** transfer might bring your opponent back into positive **APs** in which case they get an **exchange** in this **round** (and subsequent rounds as normal). Your stumble gave them an opening that they exploited in an effort to snatch **victory** from the jaws of **defeat**.
 
 ### 5.3.4 Desperation Stake
 
@@ -1288,9 +1344,13 @@ Both you and your opponent use your existing **AP** totals.
 
 ## 5.4 Chained Sequence
 
-**Chained Sequences** consists of one or more **rounds**; each **round** is a **contest**. In a **chained contest** there is no *tally*, instead your GM applies the **consequences** to the loser in the **contest** immediately following a **round**. This leads to a grittier feel to the **contest**, but at the price of a 'death spiral.' Once you lose the **consequences** make it likelier that you will lose again. **Chained Sequences** tend to produce the most extreme **outcomes**, as participants tend to accumulate significant **consequences**.
+A **Chained Sequence** consists of one or more **rounds**; each **round** is a **contest**.
 
-In a **chained sequence** there is no distinction between aggressor and defender, each **round** represents attempts by both parties to overcome their opponent. Your GM should determine who has the initiative to describe what they are doing for any **round**, based on their interpretation of the flow of events. If in doubt your GM should defer to you over your opponent to describe what you do in the **round**, and describe the NPC reacting to that.
+In a **chained contest** there is no *tally*, instead your GM applies the **consequences** to the loser in the **contest** immediately following a **round**. This leads to a grittier feel to the **contest**, but at the price of a 'death spiral.' Once you lose the **consequences** make it likelier that you will lose again. **Chained Sequences** tend to produce the most extreme **outcomes**, as participants tend to accumulate significant **consequences**.
+
+In a **chained sequence** each **round** represents attempts by both parties to overcome their opponent.
+
+Your GM should determine who has the initiative to describe what they are doing for any **round**, based on their interpretation of the flow of events. If in doubt your GM should defer to you over your opponent to describe what you do in the **round**, and describe the NPC reacting to that.
 
 ### 5.4.1 Immediate Consequences
 
@@ -1302,7 +1362,7 @@ After **consequences** have been applied, you decide if you wish to continue the
 
 If the **penalties** suffered by one contestant reduce their **ability** below *zero*, they must concede the contest. If it makes sense, your GM may allow you to continue by switching **abilities**. Accumulated **penalties** apply to the new ability used in the contest - this may still force you to concede.
 
-#### 5.4.2 Followers in a chained sequence
+#### 5.4.2 Followers in a Chained Sequence
 
 **Followers** may augment your character in a **chained sequence**. In addition, if you suffer a **defeat** in a **round** of a **chained sequence** you may transfer that **outcome** to a **follower**. Doing so takes that **follower** out of further **rounds** of the **chained sequence**.
 
