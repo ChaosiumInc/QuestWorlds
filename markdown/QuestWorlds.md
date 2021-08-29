@@ -2,14 +2,14 @@
 
 # 0.1 Legal Information
 
-The *QuestWorlds* System Reference Document 0.962 (“QWSRD0.962”) describes the rules of *QuestWorlds*. You may incorporate the rules as they appear in QWSRD0.962, wholly or in part, into a derivative work, through the use of the *QuestWorlds* Open Game License, Version 1.0. You should read and understand the terms of that License before creating a derivative work from QWSRD0.962.
+The *QuestWorlds* System Reference Document 0.965 (“QWSRD0.965”) describes the rules of *QuestWorlds*. You may incorporate the rules as they appear in QWSRD0.965, wholly or in part, into a derivative work, through the use of the *QuestWorlds* Open Game License, Version 1.0. You should read and understand the terms of that License before creating a derivative work from QWSRD0.962.
 
 Thanks to Wizards of the Coast, the Open Source Initiative, and Creative Commons for their work in creating the framework behind Open Source (and in this case Open Game) licenses. You should be aware that the *QuestWorlds* Open Game License for use of the *QuestWorlds* system differs from the Wizards Open Game License and has
 different terms and conditions.
 
 ### 0.1.1 Using This License
 
-You should note that this is version of 0.962 of the *QuestWorlds* System Reference Document. We expect to release revised versions of this SRD, especially after development of Chaosium’s upcoming *QuestWorlds Core Book*. When we release the *QuestWorlds Core Book* we will update the version designation to 1.0, indicating that the SRD reflects the text published in that book. If you are developing materials for *QuestWorlds* projects you may want to bear this in mind. We will track any changes to the SRD at *https://github.com/ChaosiumInc/QuestWorlds*.
+You should note that this is version of 0.965 of the *QuestWorlds* System Reference Document. We expect to release revised versions of this SRD, especially after development of Chaosium’s upcoming *QuestWorlds Core Book*. When we release the *QuestWorlds Core Book* we will update the version designation to 1.0, indicating that the SRD reflects the text published in that book. If you are developing materials for *QuestWorlds* projects you may want to bear this in mind. We will track any changes to the SRD at *https://github.com/ChaosiumInc/QuestWorlds*.
 
 Once we release SRD version 1.0 we expect that to be stable for some time.
 
@@ -234,7 +234,7 @@ You can add a new **flaw** if play suggests one might emerge, with discussion wi
 
 ### 2.1.3 Ratings and Masteries
 
-*QuestWorlds* **abilities** are scored on a **rating** of 1–20, representing the **target number (TN)** you need to roll or less to succeed in a **contest** (see §2.4 for more details).
+*QuestWorlds* **abilities** are scored on a **rating** of 1–20, representing the **target number (TN)** you need to roll or less to succeed in a **contest** (see §2.3 for more details).
 
  Once your **ability** passes 20, you would always be able to roll under it on a D20. So to allow abilities to scale over 20 we use **tiers** of capability we refer to as a **masteries**.  
  
@@ -244,7 +244,7 @@ You can add a new **flaw** if play suggests one might emerge, with discussion wi
 
 Specific *QuestWorlds* games or genre packs may use other symbols relevant to their setting or genre to denote **mastery** instead of M. If so, this should be clearly noted by their designers.
 
-For how **masteries** work in play, see §2.4.6.
+For how **masteries** work in play, see §2.3.6.
 
 ### 2.1.4 No Relevant **Ability**
 
@@ -268,52 +268,13 @@ Conversely, if in the course of play you find your character in a situation with
 
 In *QuestWorlds*, wealth is treated as just another way to overcome **story obstacles**. Many characters may not even have an explicit wealth **ability**, with their wealth or assets instead implied by **abilities** representing their background, profession, or status. Whether explicit or implied, the relevant **rating** is not an objective measure of the size of your fortune, but instead indicates how well you solve problems with money and resources. 
 
-## 2.3 Modifiers
-
-Your GM uses **modifiers** throughout the game. **Modifiers** increment by 5. See Table 2.3.1, Modifiers, for details of the scale.
-
-A positive **modifier** is a **bonus** and a negative **modifier** is a **penalty**.
-
-**Modifiers** represent:
-
-* The **modifier** to apply to the **base resistance** when determining the **resistance's** **TN**; harder challenges have a **bonus** added to the **base resistance**; easier challenges have **penalty** subtracted from the **base resistance** (see $2.4.3).
-* A **stretch** based on a lack of credible abilities to overcome an obstacle (see §2.5)
-* A **situational modifier** based on the **tactics** chosen by a PC (see §2.5)
-* The **outcome** of an **augment** (see §2.6) or **hindrance** (see §2.7)
-* The **bonus** of a **benefit** or **penalty** of **consequences** (see §2.8).
-
-The table includes two aspects besides **bonuses** and **penalties**.
-
-We name the **resistances** and equate them to a **bonus** or **penalty** to the **base resistance**. Some people like using the names, other people just use the value of the **modifier**.
-
-For convenience, we show the **target number (TN)** for the default **rating** of 10. (Note that *Assured* indicates that there is no chance of **defeat**).
-
-We equate **degrees** of **victory** and **degrees** of **defeat** to a **bonus** or **penalty** (§2.4.7), in case the GM wants to assign corresponding **benefits** or **consequences**. (Note that as **degrees** represent the difference between results, they begin at *zero*).
-
-### 2.3.1 MODIFIERS TABLE
-
-|Resistance|Degree of Victory|Degree of Defeat|Penalty|Bonus| Base (10) TN|
-|:-----:|:---------------:|:---------------:|:---:|:--------:|:---:|
-|Simple|-|3|-20|-|Assured|
-|Easy|-|2|-15|-|Assured|
-|Routine|-|1|-10|-|Assured|
-|Straightforward|-|0|-5|-|5|
-|Base|-|-|-|-|10|
-|Challenging|0|-|-|5|15|
-|Hard|1|-|-|10|20|
-|Punishing|2|-|-|15|5M|
-|Exceptional|3|-|-|20|10M|
-
- A routine obstacle, or less, will usually be an **assured contest** (see §2.4.4.2) and there is no need to roll if the resistance's **TN** is reduced below 0 by **modifiers**.
-
-
-## 2.4 Contest Procedure
+## 2.3 Contest Procedure
 
 You choose an **ability** relevant to the conflict at hand, describe exactly what you are trying to accomplish, and how. Your GM may modify these suggested actions to better fit the fictional circumstances, and describe the actions of the NPCs or forces on the other side of the conflict.
 
-### 2.4.1 Framing the Contest
+### 2.3.1 Framing the Contest
 
-#### 2.4.1.1 Contest Framing Overview
+#### 2.3.1.1 Contest Framing Overview
 
 When a conflict arises during the game, you and your GM start by clearly agreeing on:
 
@@ -323,7 +284,7 @@ When a conflict arises during the game, you and your GM start by clearly agreein
 
 This process is called **framing the contest**.
 
-#### 2.4.1.2 Conflict: Goals vs Obstacles
+#### 2.3.1.2 Conflict: Goals vs Obstacles
 
 **Contests** in *QuestWorlds* don’t simply tell you how well you performed at a particular task: they tell you whether or not you overcame a **story obstacle**, or learned the answer to a **story question** which moves the story in a new direction. Unlike some other roleplaying games, a **contest** in *QuestWorlds* does not resolve a task, it resolves the whole **story obstacle** or provides a complete answer to the **story question**.
 
@@ -339,11 +300,11 @@ If there is no **story obstacle**  or **story question** to your actions, your G
 
 For example, you are traveling from one star system to another. In the next star system you hope to confront the aged rebel who holds long-forgotten secrets that could bring freedom to the galaxy. Your GM feels there is no useful **story obstacle** for you to **contest** against, and so lets you describe heading down to the spaceport to secure a ship, meeting the captain and crew of your vessel, and traveling to the next world. Your GM encourages you to summarize what happens quickly so you can get to the meeting with the old rebel. Your GM knows their **story question** to convince the old rebel to part with their secrets is the real drama.
 
-#### 2.4.1.3 No Repeat Attempts
+#### 2.3.1.3 No Repeat Attempts
 
 A **contest** represents all of your attempts to overcome a **story obstacle** or reveal the answer to the **story question**. If you lose it means that no matter how many times you tried to solve the problem, you finally had to give up. You can try again only if you use a new **tactic** to overcome the **story obstacle** or answer the **story question**.
 
-#### 2.4.1.4 Tactics
+#### 2.3.1.4 Tactics
 
 You either choose an **ability** that represents any 'key moment' in overcoming that **story obstacle** or answering that **story question**, or a broad **ability** that lets you overcome the whole **story obstacle** or solve the mystery of the **story question**. We call this choosing a **tactic**.
 
@@ -359,7 +320,7 @@ Your GM will determine if your **tactic** passes a **credibility test**. Credibi
 
 The GM can narrate the remaining tasks that make sense of the story depending on your **success** with that roll, or have them occur 'off-stage' for speed. Think of the way TV or Cinema often cuts to the key moment of drama in a break-in, over showing us the whole heist from beginning to end.
 
-### 2.4.2 Target Number, Bonuses and Penalties
+### 2.3.2 Target Number, Bonuses and Penalties
 
 Your **ability's** **rating** may be modified by a number of factors. Your **target number**—the number you must roll under or equal to on a D20 to succeed—is your **rating** with any applicable **modifiers**. Positive **modifiers** are **bonuses**; negative **modifiers** are **penalties**.
 
@@ -367,11 +328,11 @@ Your **ability's** **rating** may be modified by a number of factors. Your **tar
 
 The following rules sections describe sources of **modifiers**: **augments** (see §2.6), **hindrances** (see §2.7), **stretches** and **situational modifiers** (see §2.5), **consequences** and **benefits** (see §2.8).
 
- **Modifiers** apply to PC's **target numbers** only (see §2.4.3). The GM applies a **bonus** or **penalty** to the **resistance** to reflect the needs of the story, but after that it is not further modified.
+ **Modifiers** apply to PC's **target numbers** only (see §2.3.3). The GM applies a **bonus** or **penalty** to the **resistance** to reflect the needs of the story, but after that it is not further modified.
 
 If **penalties** reduce your **target number** to 0 or less, any attempt to use it automatically **results** in  **failure**. You must find another way to achieve your aim.
 
-### 2.4.3 Resistance
+### 2.3.3 Resistance
 
 Your GM chooses a **resistance** to represent the difficulty of the **story obstacle** or **story question**. By default, the **base resistance** starts at 10.
 
@@ -385,17 +346,35 @@ Your GM starts with the proposed action’s position in the storyline. They cons
 
 In *QuestWorlds* your GM will pick a **resistance** based on dramatic needs and then justify it by adding details into the story.
 
-Your GM determines the **resistance** from a **base resistance**. If your GM feels that it is hard then they will increase the **resistance** by a **modifier** depending on their view of how difficult the obstacle is for you (see §2.3). Increasing **modifiers** make it harder to succeed, and decreasing **modifiers** easier.
+Your GM determines the **resistance** from a **base resistance**. If your GM feels that it is hard then they will increase the **resistance** by a **modifier** depending on their view of how difficult the obstacle is for you (see Modifiers in §2.4). Increasing **modifiers** make it harder to succeed, and decreasing **modifiers** easier.
   
-The **modifier** never reduces the **resistance** value below 0. If the GM assesses a **modifier** for the resistance that would take the **target number** below 0, it becomes an **assured contest**.
+The **modifier** never reduces the **resistance** value below 0. If the GM assesses a **modifier** for the resistance that would take the **target number** below 0, it becomes an **assured contest** (see below).
 
 All **contests** use the **base resistance** + *optional* **modifier**, except for **contests** to determine **augments**. **Augmenting** always faces the **base resistance**.
 
-### 2.4.4 Resolution Methods
+#### 2.3.3.1 RESISTANCES TABLE
+
+|Resistance|TN|Modifier|
+|:---:|:---:|:--:
+|Simple|0|-20|
+|Easy|0|-15|
+|Routine|0|-10|
+|Straightforward|5|-5|
+|Base|10|-|
+|Challenging|15|5|
+|Hard|20|10|
+|Punishing|5M|15|
+|Exceptional|10M|20|
+
+Although a TN of 0 is treated as an **assured contest** (see below), further **modifiers** (see §2.4) may adjust that value so that there is a **TN** above 0.
+
+We show the **target number** for the **base resistance** of 10, and the **modifier** value to use if you are using Resistance Progression (see §2.13) to figure this from the new **base resistance**.
+
+### 2.3.4 Resolution Methods
 
 The basic resolution methods are as follows:
 
-#### 2.4.4.1 Contest
+#### 2.3.4.1 Contest
 
 The **contest** is *QuestWorlds*' primary resolution mechanic for overcoming **story obstacles**, and is used the most often where the outcome is uncertain. It also provides the foundation for other types of uncertain **contest**, including several **sequences** (see §5.0). As such, it receives both an overview of key concepts here as well as a more detailed treatment in §4.
 
@@ -404,12 +383,12 @@ A **contest** can be summarized as follows:
 1. You and your GM agree upon the terms of the **contest**.
 2. Your **target number (TN)** is your **rating**, adding any **augments** (see §2.6), **hindrances** (see §2.7), **stretches** and **situational modifiers** (see §2.5), **consequences** and **benefits** (see §2.8).
 3. You roll a D20 vs your relevant **target number**, while your GM rolls a D20 vs the **resistance**.
-4. Your GM determines the difference in the **successes** between the two rolls to assesses the **outcome** (see §2.4.6).
+4. Your GM determines the difference in the **successes** between the two rolls to assesses the **outcome** (see §2.3.6).
 5. Your GM then narrates the **outcome** of the conflict as appropriate and assesses any **benefits** or **consequences** that arose (see §2.8).
 
 If you enter into conflict with another player rather than a **story obstacle** or **story question** presented by your GM, you both roll your relevant abilities for the **contest** instead of against a GM-set **resistance**, and your GM interprets the **results**, as described above.
 
-#### 2.4.4.2 Assured Contest
+#### 2.3.4.2 Assured Contest
 
 Some **obstacles** don't require a roll to overcome. You’ll just do it and keep going, much as you get dressed in the morning or drive your car to work. We call these kinds of contests **assured** contests because your **victory** is assured. Your GM may want to describe your **victory** as a sweat inducing challenge for you, even though there is no risk of **defeat**, to highlight the heroic struggle of your PC to beat the obstacle, nonetheless.
 
@@ -419,7 +398,7 @@ As your character advances, the challenges that qualify for **assured contests**
 
 Your GM may also use an **assured contest** when there is no interesting story branch from **defeat**. If failing to open the derelict spaceship's hatch means that the story of your exploration of the ancient space hulk would end abruptly, your GM may choose to make it an **assured contest**. **Assured contests** may be used to find clues when your GM is running a mystery and correct application of one of your **abilities** should reveal the information and allow the story to continue, over becoming mired due to a missed roll and missing clue.
 
-Sometimes your GM will decide potential complications could arise in overcoming an **story obstacle** or answering a **story question**. Or they may want to give you a boost if you do particularly well. If so, they will call for you to make a die roll even though your **victory** is not in question. Your GM will use your die roll **outcome** (see §2.4.7) to decide if any unforeseen **consequences** or **benefits** arose from your actions, but still gives you a **victory**.
+Sometimes your GM will decide potential complications could arise in overcoming an **story obstacle** or answering a **story question**. Or they may want to give you a boost if you do particularly well. If so, they will call for you to make a die roll even though your **victory** is not in question. Your GM will use your die roll **outcome** (see §2.3.7) to decide if any unforeseen **consequences** or **benefits** arose from your actions, but still gives you a **victory**.
 
 An **assured contest** can be summarized as follows:
 
@@ -428,10 +407,10 @@ An **assured contest** can be summarized as follows:
 3. If not the GM conducts a contest.
 4. Your **target number (TN)** is your **rating**, adding any **augments** (see §2.6), **hindrances** (see §2.7), **stretches** and **situational modifiers** (see §2.5), **consequences** and **benefits** (see §2.8).
 5. You roll a D20 vs your relevant **target number**, while your GM rolls a D20 vs the **resistance**.
-6. Your GM compares the difference **successes** between the two rolls to assesses the **outcome** (see §2.4.7).
+6. Your GM compares the difference **successes** between the two rolls to assesses the **outcome** (see §2.3.7).
 7. Your GM then narrates how you obtained your **victory** and any **benefits** or **consequences** that arose.
 
-### 2.4.5 Die Rolls
+### 2.3.5 Die Rolls
 
 To determine how well you use an **ability**, roll a 20-sided die (D20). At the same time, your GM rolls for the **resistance**.
 
@@ -441,7 +420,7 @@ Compare your rolled number with your **target number (TN)** to determine the **r
 * **Success**: If the die roll is less than the **TN**, you succeed, but there is nothing remarkable about the success. You gain *one* **success**.
 * **Failure**: If the die roll is greater than the **TN**, you fail. Things do not happen as hoped. You gain *zero* **successes**
 
-### 2.4.6 Additional Successes
+### 2.3.6 Additional Successes
 
 You can gain additional **successes** beyond the dice roll. An additional **success** comes from one of two sources.
 
@@ -454,7 +433,7 @@ The additional **successes** add to any **success** obtained on the die roll.
 
 If a PC with a **mastery** rolls a **big success** they receive an **additional success** for the **mastery** and two **successes** for the **big success**, making a total of *three* **successes**.
 
-### 2.4.7 Outcome
+### 2.3.7 Outcome
 
 Your **successes** and the **resistance's** successes are compared to determine your overall **outcome** which will be either **victory** or **defeat** for the **contest** as a whole.
 
@@ -468,7 +447,7 @@ For an assured contest:
 
 * You have a **victory** and you gain the **prize** set out when the **contest** was framed.
 
-#### 2.4.7.1 Degrees of Victory and Defeat
+#### 2.3.7.1 Degrees of Victory and Defeat
 
 Your **degree** is the difference between your **successes** and the **resistance's** **successes**. It is a **degree** of **victory** if you win and a **degree** of **defeat** if you lose.
 
@@ -476,7 +455,7 @@ If you have *two* **successes** and the resistance has *zero* **successes** you 
 
 A lot of the time your GM won't need to figure out the **degrees** as knowing you won or lost is enough.
 
-#### 2.4.7.2 Narrating Outcomes
+#### 2.3.7.2 Narrating Outcomes
 
 Your GM narrates the contest **outcome**. Their narration should take into account the **prize** and the **tactics** used by each side. Your GM may invite you to contribute more detail on your actions as part of that narration, if they wish. But the GM is the final arbiter of how the story progresses as a result of the rolls - provided they respect the **outcome** in which you win or lose the **prize**.
 
@@ -492,7 +471,7 @@ Your GM should avoid robbing your PC of competence by describing your **defeat**
 
 The **degrees** may be more directly used when considering **consequences** and **benefits** (see §2.8)
 
-#### 2.4.7.3 Confusing Ties
+#### 2.3.7.3 Confusing Ties
 
 Your GM will describe most tied **outcomes** as inconclusive standoffs, in which neither of you gets what you wanted.
 
@@ -500,17 +479,45 @@ In some situations, ties become difficult to visualize. Chief among these are **
 
 Your GM can either change the situation on such a tie, introducing a new element that likely renders the original **prize** irrelevant to both participants, or they can resolve the ties in your favor as a **victory**.
 
-#### 2.4.7.4 Victory at a Price
+#### 2.3.7.4 Victory at a Price
 
 Your GM may treat *zero* **degrees** of **victory** as 'victory at a price' and *zero* **degree** of **defeat** as 'defeat with a boon'. The 'price' is a cost that the victor pays for obtaining the prize, a 'boon' is something positive the loser takes away. Your GM may ignore this option, and simply award you or deny you the **prize**, if they cannot think of a dramatically interesting reason to provide a 'price' or 'boon'. Your GM may use **consequences** to represent a 'price' and **benefits** to represent a 'boon', see §2.8. Your GM may also decide that the 'price' or 'boon' is represented by the narration.
 
 * PC one **success** vs. Ath'Zul one **success**, the PC has the higher roll, *zero* **successes** difference, and *zero* **degree** of **victory**: Ath'Zul tries to shake the PCs, his hover bike, weaving in and out of traffic, but the PCs are always on his tail, and catch him at the lights on Bradbury Junction, *by ramming their pursuit car into Ath'Zul's bike, damaging both vehicles*. The GM may award a **consequence** (see §2.8) to represent the damage to the PC's car, injuries from the crash, or displeasure from their commander for damaging more police property.
 
-#### 2.4.7.5 One Outcome, For the PC
+#### 2.3.7.5 One Outcome, For the PC
 
 There is one **outcome** to a **contest** and it always applies to the PC. Your GM does not consider a separate outcome for the **resistance**, instead they narrate the **outcome** based on whether the your PC obtains the **prize** and describe how the story branches for the **resistance** based on their interpretation of that. Rules on **benefits** and **consequences** in §2.8 and narration considerations such as 'victory at a price', only apply to your PC, not to the resistance.
 
 The only exception to this is a PC vs. PC contest, where each sides **outcome** needs to be determined.
+
+## 2.4 Modifiers
+
+Your GM uses **modifiers** throughout the game. **Modifiers** increment by 5. See Table 2.4.1, Modifiers, for details of the scale.
+
+A positive **modifier** is a **bonus** and a negative **modifier** is a **penalty**.
+
+**Modifiers** represent:
+
+* The **modifier** to apply to the **base resistance** when determining the **resistance's** **TN**; harder challenges have a **bonus** added to the **base resistance**; easier challenges have **penalty** subtracted from the **base resistance** (see $2.3.3).
+* A **stretch** based on a lack of credible abilities to overcome an obstacle (see §2.5)
+* A **situational modifier** based on the **tactics** chosen by a PC (see §2.5)
+* The **outcome** of an **augment** (see §2.6) or **hindrance** (see §2.7)
+* The **bonus** of a **benefit** or **penalty** of **consequences** (see §2.8).
+
+### 2.4.1 MODIFIERS SCALE TABLE
+
+|Penalty|Bonus|
+|:---:|:---:|
+|-20|-|
+|-15|-|
+|-10|-|
+|-5|-|
+|-|-|
+|-|5|
+|-|10|
+|-|15|
+|-|20|
 
 ## 2.5 Bonuses and Penalties from Tactics
 
@@ -544,7 +551,7 @@ Abilities that represent special items, weapons, armor, or other noteworthy equi
 
 If you have a good idea for an **augment**, propose it to your GM while the **contest** is being framed. When making your proposal, describe how the **augmenting ability** supports the main one in a way that is both *entertaining* and *memorable*. Don't just hunt for mechanical advantage, show your group more about your PC when you **augment**, their attitudes, passions, or lesser known **abilities**. If you are **augmenting** with a **broad ability** like "Fool's Luck", be prepared to describe the unlikely events that tilt the scales in your favor. Your GM will decide whether the **augment** is justified and can refuse boring and uninspired attempts to **augment**, where you are just looking for a bonus to your roll and not adding to the story.
 
-You may only use one of your own **abilities** to **augment** the **ability** you are using in the **contest**, and you may not use an **ability** to **augment** itself. You may not use a **breakout** to augment it's parent **keyword** (see §3.3), or another **breakout** from the parent **keyword**. Another player character may also augment you, however, **augments** from other player characters supporting you, only give you *one* **bonus** to add to your **target number**, regardless of the number of supporters you have.
+You may only use one of your own **abilities** to **augment** the **ability** you are using in the **contest**, and you may not use an **ability** to **augment** itself. You may not use a **breakout** to augment it's parent **keyword** (see §2.1.1), or another **breakout** from the parent **keyword**. Another player character may also augment you, however, **augments** from other player characters supporting you, only give you *one* **bonus** to add to your **target number**, regardless of the number of supporters you have.
 
 Your GM should bear in mind the credibility of more than one PC helping you. When persuading someone a cacophony of voices may not help, unless you are trying to intimidate; when fighting someone, only so much backup helps you take your opponent down; when flying a starship into the cave on the asteroid, only some crew activities provide credible help. The GM may thus decide to limit the number of augments from other PCs. Consider a group contest (see §4.2) instead if many PCs want to act against the **resistance**.
 
@@ -699,6 +706,22 @@ A PC may apply **bonuses** from multiple **benefits** to a single **contest**, o
 Because it is confusing to track both **benefits and consequences** against the same **ability** your GM may simply rule that one cancels the other out. This is particularly true of social **contests** where a moment of shame can erase your previous triumphs, or your confidence eroded by a **failure**. Physical benefits may cancel out, flushed with victory you may be able to ignore pain, but it may defy credibility for wounds to be healed by an athletic performance.
 
 Your GM may simply rule that **benefits** and **consequences** cancel out, or they may take the difference between the two benefits and create a new one. For example if you have a +10 **benefit** from impressing the crowd with your previous performance in the dance **contest**, but then suffer an injured ankle with a **consequence** of -5, your GM may rule that your twisted ankle cancels out your energy from the last performance, or your GM might rule that your success sees you through the pain, but you are now only +5 **benefit** to impress the crowd.
+
+### 2.8.6 BENEFITS AND CONSEQUENCES BY DEGREE
+
+|Degree of Victory|Degree of Defeat|Penalty|Bonus|
+|:---------------:|:---------------:|:---:|:--------:|
+|-|3|-20|-|
+|-|2|-15|-|
+|-|1|-10|-|
+|-|0|-5|-|
+|(Tie)|(Tie)|-|-|
+|0|-|-|5|
+|1|-|-|10|
+|2|-|-|15|
+|3|-|-|20|
+
+Although your GM is at liberty to assign any **bonus** or **penalty** they believe is credible, this table offers suggested **modifiers** for different **degrees of victory and defeat**.
 
 ## 2.9 Mismatched and Graduated Goals
 
@@ -876,7 +899,7 @@ A **contest** can be summarized as follows:
 2. You choose a **tactic**. Your **target number (TN)** is your **rating**, adding any **augments** (see §2.6), **hindrances** (see §2.7), **stretches** and **situational modifiers** (see §2.5), **consequences** and **benefits** (see §2.8).
 3. Your GM determines the **resistance**.  If two PCs contend, your opponent figures their **TN** as described in step 2.
 4. You roll a D20 vs your relevant **ability**, while your GM rolls a D20 vs the **resistance**.
-5. Your GM compares the difference **successes** between the two rolls to assesses the **outcome** (see §2.4.7).
+5. Your GM compares the difference **successes** between the two rolls to assesses the **outcome** (see §2.3.7).
 6. Your GM then narrates the **outcome** of the conflict as appropriate and assesses any **benefits** or **consequences** that arose (see §2.8).
 7. Award **experience points** if appropriate (see §8.1).
 
@@ -894,7 +917,7 @@ A **group contest** can be summarized as follows:
 2. You choose a **tactic**. Your **target number (TN)** is your **rating**, adding any **augments** (see §2.6), **hindrances** (see §2.7), **stretches** and **situational modifiers** (see §2.5), **consequences** and **benefits** (see §2.8).
 3. Your GM determines the **resistance**.  If two PCs contend, your opponent figures their **TN** as described in step 2.
 4. For each of your group
-    1. Roll a D20 vs your relevant **ability**, while your GM rolls a D20 vs the **resistance**. Determine the **degree** of **victory** or **defeat** for the individual PC from the **outcome** (see §2.4.7).
+    1. Roll a D20 vs your relevant **ability**, while your GM rolls a D20 vs the **resistance**. Determine the **degree** of **victory** or **defeat** for the individual PC from the **outcome** (see §2.3.7).
     2. Add the number of **successes** scored in the contest to a running total of **successes** for each group, regardless of the individual **outcome**. **Victory** or **defeat**, **successes** count towards the group **outcome**.
     3. Award **experience points** if appropriate (see §8.1).
 5. The side with the highest number of **successes** is the overall victor in the **contest**. Award **experience points** if appropriate (see §8.1). If the number of **successes** is tied the contest ends in a stalemate, with neither side gaining control of the **prize**.
@@ -976,7 +999,7 @@ Your GM uses this record, either *tallying* or applying **consequences**, to det
 
 1. Your GM **frames the sequence**.
 2. You choose a **tactic**. Your **target number (TN)** is your **rating**, adding any **augments** (see §2.6), **hindrances** (see §2.7), **stretches** and **situational modifiers** (see §2.5), **consequences** and **benefits** (see §2.8.
-3. Your GM determines the **resistance** (see §2.4.3). (If two PCs contend, your opponent figures their **TN** as described in step 2.)
+3. Your GM determines the **resistance** (see §2.3.3). (If two PCs contend, your opponent figures their **TN** as described in step 2.)
 4. Carry out one or more **rounds**, repeating as necessary.
     1. Your GM decides which contender has the initiative, the 'aggressor', and describes what they are trying to do to achieve the **prize**. The 'defender' describes how they counter the aggressor's attempt to seize the **prize**. If it is not obvious from the unfolding narrative, your GM should choose your PC as the 'aggressor'.
     2. Resolve the **round** as described for the **sequence** type.
@@ -1001,7 +1024,7 @@ You may lose some pairings amongst the PCs, but still win if the last participan
 
 1. Your GM **frames the sequence**.
 2. You choose a **tactic**. Your **target number (TN)** is your **rating**, adding any **augments** (see §2.6), **hindrances** (see §2.7), **stretches** and **situational modifiers** (see §2.5), **consequences** and **benefits** (see §2.8).
-3. The GM determines the **resistance** (see §2.4.3). If two PCs contend, your opponent figures their **TN** as described in step 2.
+3. The GM determines the **resistance** (see §2.3.3). If two PCs contend, your opponent figures their **TN** as described in step 2.
 4. The PCs choose their opponents in order of their **TN** where it makes sense. Otherwise your GM will allocate opponents to you dependent on what makes narrative sense.
 5. Establish an order of the paired **sequences**. The narrative may indicate who should go first but use your group's **TN**s from highest to lowest if no other option presents itself.
 6. For each pairing your GM carries out one **round**. Then they repeat by carrying out more **rounds** in order, as necessary.
@@ -1154,7 +1177,7 @@ Your GM uses the difference in **resource points** between the contestants to de
 |7-8|3|
 |9+|4|
 
-Your GM applies results as described in §2.4.7.2, including assigning **benefits** and **consequences**.
+Your GM applies results as described in §2.3.7.2, including assigning **benefits** and **consequences**.
 
 ### 5.2.3 Parting Shot
 
@@ -1465,7 +1488,7 @@ You can improve these **abilities** through the expenditure of **experience poin
 
 You may use any of your **sidekick’s abilities** as your own. The **sidekick** can go off and do things without you.
 
-### 6.5.3 Retainers
+### 6.5.2 Retainers
 
 A **retainer** is a more or less anonymous servant or helper. You may specify a single **retainer**, or, where appropriate to your character concept, an entire staff of them.
 
@@ -1531,7 +1554,7 @@ To summarize:
 
 ## 7.2 Success with a Story Point
 
-You can burn a **story point** to gain an additional **success** (see §2.4.6)
+You can burn a **story point** to gain an additional **success** (see §2.3.6)
 
 ## 7.3 Plot Edits
 
@@ -1581,7 +1604,7 @@ Awarding **experience points** on **defeat** is a self-correction mechanism.
 * It slows your advance if your PC regularly outclass the **resistance**. This pushes your GM to introduce threats that **credibly** present a greater threat to your PC.
 * If you regularly buy off **defeat** with **story points** you will find it harder to advance. In *QuestWorlds* your GM should provide an entertaining story branch on defeat;  you should not need to buy **defeat** off, unless it damages your character conception or is the climax.
 
-If the GM finds that the PCs are no longer regularly earning **experience points** they can consider using **resistance progression** (see §2.8) to increase the **base resistance** so that more **contests** will feature a high enough resistance to earn **experience points**.
+If the GM finds that the PCs are no longer regularly earning **experience points** they can consider using **resistance progression** (see §2.13) to increase the **base resistance** so that more **contests** will feature a high enough resistance to earn **experience points**.
 
 ## 8.2 Improving Your Character
 
@@ -1604,7 +1627,7 @@ You may spend **improvement points** immediately, or in play, even after a roll.
 
 In some genres you may wish to maintain a tally of the total **experience points** earned as a measure of your reputation.
 
-### 8.2.2 Rate of Advancement
+### 8.2.1 Rate of Advancement
 
 We assume an average earning rate of two **experience points** per session. This would lead to you gaining an advance every five sessions. If your rate is lower than one **experience point** a session, your GM should choose one of these options:
 
