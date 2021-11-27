@@ -2,14 +2,14 @@
 
 # 0.1 Legal Information
 
-The *QuestWorlds* System Reference Document 0.965 (“QWSRD0.965”) describes the rules of *QuestWorlds*. You may incorporate the rules as they appear in QWSRD0.965, wholly or in part, into a derivative work, through the use of the *QuestWorlds* Open Game License, Version 1.0. You should read and understand the terms of that License before creating a derivative work from QWSRD0.962.
+The *QuestWorlds* System Reference Document 0.97 (“QWSRD0.97”) describes the rules of *QuestWorlds*. You may incorporate the rules as they appear in QWSRD0.97, wholly or in part, into a derivative work, through the use of the *QuestWorlds* Open Game License, Version 1.0. You should read and understand the terms of that License before creating a derivative work from QWSRD0.97.
 
 Thanks to Wizards of the Coast, the Open Source Initiative, and Creative Commons for their work in creating the framework behind Open Source (and in this case Open Game) licenses. You should be aware that the *QuestWorlds* Open Game License for use of the *QuestWorlds* system differs from the Wizards Open Game License and has
 different terms and conditions.
 
 ### 0.1.1 Using This License
 
-You should note that this is version of 0.965 of the *QuestWorlds* System Reference Document. We expect to release revised versions of this SRD, especially after development of Chaosium’s upcoming *QuestWorlds Core Book*. When we release the *QuestWorlds Core Book* we will update the version designation to 1.0, indicating that the SRD reflects the text published in that book. If you are developing materials for *QuestWorlds* projects you may want to bear this in mind. We will track any changes to the SRD at *https://github.com/ChaosiumInc/QuestWorlds*.
+You should note that this is version of 0.97 of the *QuestWorlds* System Reference Document. We expect to release revised versions of this SRD, especially after development of Chaosium’s upcoming *QuestWorlds Core Book*. When we release the *QuestWorlds Core Book* we will update the version designation to 1.0, indicating that the SRD reflects the text published in that book. If you are developing materials for *QuestWorlds* projects you may want to bear this in mind. We will track any changes to the SRD at *https://github.com/ChaosiumInc/QuestWorlds*.
 
 Once we release SRD version 1.0 we expect that to be stable for some time.
 
@@ -447,7 +447,7 @@ For an assured contest:
 
 * You have a **victory** and you gain the **prize** set out when the **contest** was framed.
 
-#### 2.3.7.1 Degrees of Victory and Defeat
+#### 2.3.7.1 Degrees of Victory 
 
 Your **degree** is the difference between your **successes** and the **resistance's** **successes**. It is a **degree** of **victory** if you win and a **degree** of **defeat** if you lose.
 
@@ -991,7 +991,7 @@ Different types of **sequence** change how we record who has the upper hand at a
 
 * In a **scored sequence**, the first contestant to have five 'strikes' against them loses. We *tally* **resolution points (RP)**.
 * In a **wagered sequence**, we *tally* **advantage points (AP)**, which represent momentum and position. The contenders trade **APs** until one of them runs out.
-* In **chained sequence** the contestants deal harm to each other, and may elect to withdraw if in difficulty. We don't keep a *tally* but apply **consequences**.
+* In **chained sequence** we tally **resolve**, which represents willingness to continue. If you choose **chained sequence** all contests become a **chained sequence**.
 
 Your GM uses this record, either *tallying* or applying **consequences**, to determine when to trigger the end of the **sequence** and the **outcome** for the victor.
 
@@ -1050,7 +1050,7 @@ In the former case, you can continue to use the **ability** you started the cont
 
 In the latter case you should switch **abilities**, and your GM must decide if the **resistance** changes because of your new **ability**. Your GM is encouraged to reward **tactics** that exploit weaknesses that have been identified in the story so far with a **bonus** from a **situational modifier**. Sometimes your GM may respond with a higher **penalty** from a **situational modifier** because your **tactic** looks less likely to succeed due to conditions already established in the story.
 
-Either way any *tally* does not change. However, it may be possible to avoid **consequences** in a **chained sequence** by switching to am ability that would not be **penalized**.
+Either way any *tally* does not change. 
 
 ### 5.1.5 Asymmetrical Round
 
@@ -1066,7 +1066,7 @@ You can always abandon a **contest**, but, in addition to failing at the **story
 
 To make a contested attempt to **disengage**, you make an **asymmetrical round**, using the **ability** relevant to the **contest** you’re trying to wriggle out of.
 
-If you fail, your effort is wasted and the score against you increases, as it would have during a normal **round**. If you succeed, you escape the clutches, literal or metaphorical, of your opponent, without further harm from that **round**. In the case of a **group contest**, you do not count as 'last contestant standing' for the purpose of determining victory. For a contest that uses a *tally*, the GM applies **consequences** against you immediately based upon your *tally* according to the **sequence** type.
+If you fail, your effort is wasted and the score against you increases, as it would have during a normal **round**. If you succeed, you escape the clutches, literal or metaphorical, of your opponent, without further harm from that **round**. In the case of a **group contest**, you do not count as 'last contestant standing' for the purpose of determining victory. The GM applies **consequences** against you immediately based upon your *tally* according to the **sequence** type.
 
 ### 5.1.7 Unrelated Actions
 
@@ -1086,11 +1086,11 @@ Your GM should not use a **parting shot** for the **resistance**.
 
 The **parting shot** is another **contest** against your **defeated** opponent. The **ability** you use must relate to the consequences the opposition will suffer, but needn’t be the same one you used to win the **contest**. If the loser is a PC they use a suitable **ability** to resist; otherwise the GM rolls a suitable **resistance** value.
 
-The mechanics for a **parting shot** differ for each **sequence** type, reflecting the *tally* or **consequences**.
+The mechanics for a **parting shot** differ for each **sequence** type, reflecting the *tally*.
 
 ### 5.1.9 Joining an In-Progress Contest
 
-When you wish to join a **sequence** in progress, you and your GM should discuss whether you accept the current framing. If so, you can participate. You simply select an opponent and start a new **round** with them. The mechanics for joining an in-progress **contest** differ for each **sequence** type, reflecting the *tally* or **consequences**. If you want to achieve something other than the goal established during framing, you may instead perform **unrelated actions**, including **assists** and **augments**.
+When you wish to join a **sequence** in progress, you and your GM should discuss whether you accept the current framing. If so, you can participate. You simply select an opponent and start a new **round** with them. The mechanics for joining an in-progress **contest** differ for each **sequence** type, reflecting the *tally*. If you want to achieve something other than the goal established during framing, you may instead perform **unrelated actions**, including **assists** and **augments**.
 
 In some types of conflict, many-against-one may have an advantage. In a melee for example it is more difficult to fight two or more opponents. In other types of contest many-against-one may actually hinder because contenders get in each other's way, such as an attempt to persuade another. In situations in a **sequence** where numerical advantage exists, award a **situational modifier** usually of +/-5 or +/-10. This is a **bonus** if the PCs outnumber their opponents and a **penalty** if they don't. Don't use this rule if you are treating the **resistance** as a mob (see §2.10)
 
@@ -1367,58 +1367,127 @@ Both you and your opponent use your existing **AP** totals.
 
 ## 5.4 Chained Sequence
 
-A **Chained Sequence** consists of one or more **rounds**; each **round** is a **contest**.
+A **chained sequence** consists of one or more **rounds**; each **round** is a **contest**.
 
-In a **chained contest** there is no *tally*, instead your GM applies the **consequences** to the loser in the **contest** immediately following a **round**. This leads to a grittier feel to the **contest**, but at the price of a 'death spiral.' Once you lose the **consequences** make it likelier that you will lose again. **Chained Sequences** tend to produce the most extreme **outcomes**, as participants tend to accumulate significant **consequences**.
+Electing to use a **chained sequence** changes all **contests** into **sequences**. A **contest** is always just a **round** of a **sequence**.
 
-In a **chained sequence** each **round** represents attempts by both parties to overcome their opponent.
+In a **chained sequence** each **round** represents an attempt by both parties to overcome their opponent. After each **round**, participants who are able to continue must decide if they wish to continue the **sequence** or if they wish to **disengage** and yield the **prize** to their opponent.
+
+In a **chained sequence** we track **resolve**. Once contestants **resolve** reaches *zero* they cannot continue without recovering **resolve** (see §5.4.9).
+
+When electing to use **chained sequences** be aware of the impact of this choice.
+
+Your GM may should award **benefits** to a victorious PC after the **sequence** ends (see §2.6), but all **consequences**, other than loss of the **prize**, come from trading **resolve** for **consequences** (see §5.4.2).
 
 Your GM should determine who has the initiative to describe what they are doing for any **round**, based on their interpretation of the flow of events. If in doubt your GM should defer to you over your opponent to describe what you do in the **round**, and describe the NPC reacting to that.
 
-### 5.4.1 Immediate Consequences
+### 5.4.1 Resolve
 
-Apply  **consequences** (see §2.6) with immediate effect to the loser, according to the **outcome** of that **round's** **contest**. Use the **degree** to assess the **consequences** (see §2.8).
+**Resolve** represents your resistance to the exhaustion of your mental, physical, emotional or social reserves. Once your **resolve** is gone, you quit.
 
-**Chained sequences** are asymmetric, in that they accumulate **consequences** for the loser, and not **benefits** for the winner. Your GM may decide to award **benefits** to a victorious PC after the **sequence** ends (see §2.6).
+The loser of a **round** in a **sequence**, looses **resolve** equal to their opponent's **degrees of victory** plus one, see §5.4.1.1.
 
-After **consequences** have been applied, you decide if you wish to continue the **chained sequence** or if you wish to **disengage**, and your GM makes a similar determination for the **resistance**. Both you and your GM then express your intent.
+When your resolve hits *zero* it initiates a crisis, your desire to struggle on is gone: you collapse into exhaustion; you give in to despair; you succumb to your wounds; you flee in fear... depending on what harmed you. You cannot continue with the **sequence** and lose the **prize**. Until you recover positive **resolve**, you must rest and may not initiate a **sequence**.
 
-If the **penalties** suffered by one contestant reduce their **ability** below *zero*, they must concede the contest. If it makes sense, your GM may allow you to continue by switching **abilities**. Accumulated **penalties** apply to the new ability used in the contest - this may still force you to concede.
+### 5.4.1.1 RESOLVE LOSS TABLE
 
-#### 5.4.2 Followers in a Chained Sequence
+|Degree of Victory    |Lost Resolve    |
+|:-------------------:|:--------------:|
+|0|1|
+|1|2|
+|2|3|
+|3|4|
+|4|5|
 
-**Followers** may augment your character in a **chained sequence**. In addition, if you suffer a **defeat** in a **round** of a **chained sequence** you may transfer that **outcome** to a **follower**. Doing so takes that **follower** out of further **rounds** of the **chained sequence**.
+### 5.4.3 PC Resolve
 
-### 5.4.3 Group Chained Sequence Outcomes
+A PC begins with *five* **resolve**. On your PC's sheet record your current **resolve**. You can use check boxes to visually represent **resolve**.
 
-In a **group chained sequence** the side that has not conceded gains the **prize**.
+#### 5.4.3.1 Exchange Resolve for Consequences
 
-Individual **consequences** or **benefits** will have already been determined by the **chained sequence** **outcomes** on each **round**.
+As an alternative to losing **resolve** in a contest, you can choose to take a **consequence**. Taking a **consequence** concedes the **sequence**, and you yield the **prize**.
 
-### 5.4.4 Parting Shot
+Your GM should create a **consequence** which should be appropriate to the source of harm. A **consequence** only negates **resolve** losses from the most recent **round**; a consequence cannot negate **resolve** losses from earlier **rounds**. If you accept that **consequence** you do not lose **resolve** for this **round** but instead take the **consequence**.
 
-If you drive your opponent's **TN** below *zero* you are eligible for a **parting shot**. The **parting shot** is another contest against your **defeated** opponent. The **ability** you use must relate to the **consequences** the opposition will suffer, but needn’t be the same one you used to win the **contest**. If the loser is a PC they use a suitable **ability** to resist; otherwise the GM rolls a suitable **resistance** value.
+* Instead of marking 1 point of **resolve**, the GM offers a penalty -5.
+* Instead of marking 2 points of **resolve**, the GM offers a penalty of -10.
+* Instead of marking 3 points of **resolve**, the GM offers a penalty of -15.
+* Instead of marking 4 points of **resolve**, the GM offers a penalty of -20.
 
-If you succeed in your **parting shot** roll, you inflict additional immediate **consequences** against your opponent, worsening their position.
+You can't buy off 5 points of **resolve**, instead your resolve is immediately reduced to *zero* and you yield the **sequence**.
 
-However, if your opponent succeeds, they use the **benefits** they would accrue on a **victory**, and subtract them from the number of **consequences** scored against them. If this returns their **TN** above *zero* they may re-enter the **sequence**. Your GM describes this as a dramatic turnaround, in which your overreaching has somehow granted them an advantage allowing them to recover from their previous misfortune.
+### 5.4.3.2 Shift Resolve Loss to Followers
 
-### 5.3.6 Assists
+**Followers** may augment your character in a **chained sequence**.
 
-You may either **augment** a teammate to improve their **TN** or 'heal' some of their existing **consequences** (see §2.8.3).
+In addition, if you suffer a **defeat** in a **round** of a **chained sequence** you may transfer that **resolve** loss to a **follower**. Doing so takes that **follower** out of further **rounds** of the **chained sequence**. Any **augment** they provided is lost.
 
-### 5.3.7  Joining an In-Progress Contest
+If a **follower** absorbs *two* or less points of **resolve**, you can use recovery to return them to your service. You must recover their resolve losses, otherwise they leave your service exhausted, or succumbing to their wounds.
 
-Any **consequences** that you have in effect, or participants in the in-progress **sequence** you are joining have, remain in effect.
+If a **follower** absorbs *three or more* **resolve** they leave your service immediately, again perhaps exhausted or succumbing to wounds, and must be replaced.
+
+### 5.4.4 NPC Resolve
+
+We divide NPCs into two categories for **resolve**: mooks and named NPCs.
+
+Your GM should track **resolve** losses for an NPC. An NPC cannot trade **resolve** losses for a **consequence**.
+
+#### 5.4.4.1 Mooks
+
+A mook is a faceless, nameless NPC who exists to allow your PC to impress us with their competency. A mook yields a **sequence** after suffering *one* point of **resolve** loss.
+
+#### 5.4.4.2 Named NPCs
+
+A named NPC starts with between *two* and *four* **resolve**.
+
+* *Two* resolve: a recurring character, who appears in multiple scenes.
+* *Three* resolve: a main character, who the unfolding story hinges around.
+
+Your GM should decide if an NPC has recovered any **resolve** losses between encounters. An NPC who is reduced to *zero* resolve should not re-appear in the story - your PC has overcome them.
+
+Some rare encounters, extraordinary NPCs who your GM intends as an individual threat to a group of NPCs, may have greater **resolve**. This should be used sparingly.
+
+### 5.4.5 Group Chained Sequence Outcomes
+
+In a **group chained sequence** the side that has the last contestant that has not disengaged or exhausted their **resolve** gains the **prize**.
+
+### 5.4.6 Parting Shot
+
+There are no **parting shots** in a **chained sequence**.
+
+### 5.3.7 Assists
+
+You may either **augment** a teammate to improve their **TN** or help them recover **resolve**.
+
+### 5.3.8  Joining an In-Progress Contest
+
+On a **round** of a **group chained sequence**, if you are otherwise unengaged you can engage with any opponent who remains. As **resolve** only changes with **recovery** both participants use their existing **resolve**.
+
+#### 5.4.9 Recovery
+
+Your PC will recover over time. Your GM should decide at what point your character's resolve heals and they can return to play. If you wish to speed up your return to play, use the **Recovery** rules (see §2.8.3). The **resistance** (see §2.8.3.2) depends on your remaining **recovery** and is shown in the table below.
+
+If your resolve becomes exhausted (reaches *zero*), you return to play with your **resolve** permanently reduced by *one*. This is the impact of trauma on your reserves to cope with further stresses. If this reduction takes your **resolve** to *zero* your PC succumbs to the strains of an adventurous life and must retire from play, perhaps dead, perhaps in exile, perhaps incapacitated. It is time to create a new character.
+
+#### 5.4.2.1 RECOVERY RESISTANCE TABLE
+
+|Remaining Recovery    |Penalty    |
+|:--------------------:|:---------:|
+|4|-5|
+|3|-10|
+|2|-15|
+|1|-20|
+|0|-25|
 
 ## 5.5 Wagered Sequences vs Scored Sequences vs Chained Sequences
 
-We recommend that your GM chooses ONE form of **sequence** only, and stick to it, within a given campaign of *QuestWorlds*. If in doubt, use a **scored sequence** by default. The **sequence** rules presentation here is modular: your GMs should choose the one that matches their genre.
+Your GM chooses ONE form of **sequence** for their game, and sticks to it. The **sequence** rules presentation here is modular: your GMs should choose the one that matches their genre.
 
-**Scored sequences** have the advantage of speed and simplicity. **Wagered sequences** have the drama of wagering APs for your action. **Chained sequences** offer the benefit of grittier exchanges where the **outcomes** of each **round** have impact.
+**Scored sequences** are fast and simple, and we consider them the default. **Wagered sequences** have the drama of wagering and tend to encourage high-octane stunts, but can take longer to resolve. **Chained sequences** make all **contests** a sequence, where resolve is slowly worn down.
 
 You can think of this as a continuum. At one end are gritty genres where you want to use a **chained sequence** to reflect how punishing conflict is. At the other end are gonzo, larger-than-life genres where you want to use a **wagered sequence** to encourage crazy stunts and outrageous action. In the middle is the **scored sequence** which lets you focus in on tasks to add suspense and drama, without being too grim or too over-the-top.
 
+If in doubt, use a **scored sequence** by default. 
 
 ## 5.7 Lengthy Sequences
 
