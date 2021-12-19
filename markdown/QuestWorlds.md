@@ -1134,7 +1134,7 @@ You may choose to have your **followers** take part in **scored sequences** in o
 
 **Contestant**: The **follower** takes part in the **contest** as any other PC would. You roll for your **followers** as you would their main characters. However, your **followers** are removed from the **contest** whenever 3 **resolution points** are scored against them in a given **round**.
 
-**Secondary contestant**: To act as a secondary contestant, your **follower** must have an **ability** relevant to the **contest**. The **follower** sticks by your side, contributing directly to the effort: fighting in a battle, tossing in arguments in a legal dispute, acting as the ship’s navigator, or whatever. Although you describe this, you do not roll for the **follower**. Instead, you may, at any point, shift any number of **resolution points** to a **follower** acting as a secondary contestant. Followers with 3 or more **resource points** lodged against them are removed from the scene. 
+**Secondary contestant**: To act as a secondary contestant, your **follower** must have an **ability** relevant to the **contest**. The **follower** sticks by your side, contributing directly to the effort: fighting in a battle, tossing in arguments in a legal dispute, acting as the ship’s navigator, or whatever. Although you describe this, you do not roll for the **follower**. Instead, you may, at any point, shift any number of **resolution points** to a **follower** acting as a secondary contestant. Followers with 3 or more **resource points** lodged against them are removed from the scene.
 
 **Supporter**: Your **follower** is present in the scene, but does not directly engage your opponents. Instead they may perform **assists** and other **unrelated actions**.
 
@@ -1373,11 +1373,11 @@ Electing to use a **chained sequence** changes all **contests** into **sequences
 
 In a **chained sequence** each **round** represents an attempt by both parties to overcome their opponent. After each **round**, participants who are able to continue must decide if they wish to continue the **sequence** or if they wish to **disengage** and yield the **prize** to their opponent.
 
-In a **chained sequence** we track **resolve**. Once contestants **resolve** reaches *zero* they cannot continue without recovering **resolve** (see §5.4.9).
+In a **chained sequence** we track **resolve**. Once your **resolve** reaches *zero* you cannot continue without recovering **resolve** (see §5.4.9).
 
 When electing to use **chained sequences** be aware of the impact of this choice.
 
-Your GM may should award **benefits** to a victorious PC after the **sequence** ends (see §2.6), but all **consequences**, other than loss of the **prize**, come from trading **resolve** for **consequences** (see §5.4.2).
+Your GM should award **benefits** to a victorious PC after the **sequence** ends (see §2.6), but all **consequences**, other than loss of the **prize**, come from trading **resolve** for **consequences** (see §5.4.2).
 
 Your GM should determine who has the initiative to describe what they are doing for any **round**, based on their interpretation of the flow of events. If in doubt your GM should defer to you over your opponent to describe what you do in the **round**, and describe the NPC reacting to that.
 
@@ -1401,7 +1401,7 @@ When your resolve hits *zero* it initiates a crisis, your desire to struggle on 
 
 ### 5.4.3 PC Resolve
 
-A PC begins with *five* **resolve**. On your PC's sheet record your current **resolve**. You can use check boxes to visually represent **resolve**.
+A PC begins with a *starting* **resolve** of *five*. On your PC's sheet record your current **resolve**. You can use check boxes to visually represent **resolve**.
 
 #### 5.4.3.1 Exchange Resolve for Consequences
 
@@ -1416,78 +1416,111 @@ Your GM should create a **consequence** which should be appropriate to the sourc
 
 You can't buy off 5 points of **resolve**, instead your resolve is immediately reduced to *zero* and you yield the **sequence**.
 
-### 5.4.3.2 Shift Resolve Loss to Followers
+### 5.4.4 Followers
 
-**Followers** may augment your character in a **chained sequence**.
+You may choose to have your **followers** take part in **chained sequence** in one of three ways: as full contestants, as secondary contestants, or as supporters. You track resolve for **followers** as you do for a PC, but a **follower** begins the game with *three* resolve. **Retainers** are treated as a group for tracking **resolve** but **sidekicks** are handled individually.
 
-In addition, if you suffer a **defeat** in a **round** of a **chained sequence** you may transfer that **resolve** loss to a **follower**. Doing so takes that **follower** out of further **rounds** of the **chained sequence**. Any **augment** they provided is lost.
+**Contestant**: The **follower** takes part in the **contest** as any other PC would. You roll for your **followers** as you would their main characters.
 
-If a **follower** absorbs *two* or less points of **resolve**, you can use recovery to return them to your service. You must recover their resolve losses, otherwise they leave your service exhausted, or succumbing to their wounds.
+**Secondary contestant**: To act as a secondary contestant, your **follower** must have an **ability** relevant to the **contest**. The follower provides an **augment** to your character in a **chained sequence**. In addition, if you suffer a **defeat** in a **round** of a **chained sequence** you may transfer that **resolve** loss to a **follower**. Doing so takes that **follower** out of further **rounds** of the **chained sequence**, even if they still have remaining **resolve**. Any **augment** your **follower** provided is lost.
 
-If a **follower** absorbs *three or more* **resolve** they leave your service immediately, again perhaps exhausted or succumbing to wounds, and must be replaced.
+**Supporter**: Your **follower** is present in the scene, but does not directly engage your opponents. Instead they may perform **assists** and other **unrelated actions**.
 
-### 5.4.4 NPC Resolve
+If a **follower** checks off *three or more* **resolve** they leave your service immediately - they may be dead, exhausted, or in despair - and must be replaced.
+
+### 5.4.5 NPC Resolve
 
 We divide NPCs into two categories for **resolve**: mooks and named NPCs.
 
 Your GM should track **resolve** losses for an NPC. An NPC cannot trade **resolve** losses for a **consequence**.
 
-#### 5.4.4.1 Mooks
+#### 5.4.5.1 Mooks
 
 A mook is a faceless, nameless NPC who exists to allow your PC to impress us with their competency. A mook yields a **sequence** after suffering *one* point of **resolve** loss.
 
-#### 5.4.4.2 Named NPCs
+#### 5.4.5.2 Named NPCs
 
-A named NPC starts with between *two* and *three* **resolve**.
-
-* *Two* resolve: a recurring character, who appears in multiple scenes.
-* *Three* resolve: a main character, who the unfolding story hinges around.
+A named NPC starts with between *three* **resolve**.
 
 Your GM should decide if an NPC has recovered any **resolve** losses between encounters. An NPC who is reduced to *zero* resolve should not re-appear in the story - your PC has overcome them.
 
 Some rare encounters, extraordinary NPCs who your GM intends as an individual threat to a group of NPCs, may have greater **resolve**. This should be used sparingly.
 
-### 5.4.5 Resolve for Impersonal Opposition
+### 5.4.6 Resolve for Impersonal Opposition
 
-Impersonal opposition - a security system, a science or engineering problem, a mountain to climb or wilderness to cross - can have resolve too, representing how resistant it is to conquest. Impersonal opposition may include people, where are large number can be treated in an abstract fashion - the prison guards, the ship's crew - as such the rating reflects a collective resistance.
+Impersonal opposition - a security system, a science or engineering problem, a mountain to climb or wilderness to cross - can have resolve too, representing how resistant it is to resolution. Impersonal opposition may include people, where are large number can be treated in an abstract fashion - the prison guards, the ship's crew - as such the **rating** reflects a collective **resistance**.
 
-To justify your loss of resolve in a conflict, your GM should only call for a **sequence** when it can be explained how you might become worn out attempting to overcome the obstacle or run out of time, otherwise your GM should let you succeed if you have a relevant **ability**. The **resolve** of impersonal opposition represents your progress - as you complete more steps towards overcoming the opposition - defeating security systems, winning hearts and minds - then the **resolve** of the impersonal opposition ebbs away.
+To justify your loss of **resolve** in a conflict, your GM should only call for a **sequence** when it can be explained how you might become worn out attempting to overcome the obstacle or run out of time, otherwise your GM should let you succeed if you have a relevant **ability**. The **resolve** of impersonal opposition represents your progress - as you complete more steps towards overcoming the opposition - defeating security systems, winning hearts and minds - then the **resolve** of the impersonal opposition ebbs away.
 
 For a lot of impersonal opposition, where it has not taken on the role of a "character" or become a key obstacle in the evolving story, your GM will just set the **resolve** at *one*.  
 
-For more challenging impersonal opposition, your GM may consider setting **resolve** at *two* or *three* for an individual, or higher if overcoming it is a group effort.
+For more challenging impersonal opposition, your GM may consider setting **resolve** at  *three* for an individual conflict, or higher if overcoming it is a group effort.
 
-### 5.4.6 Group Chained Sequence Outcomes
+### 5.4.7 Group Chained Sequence Outcomes
 
 In a **group chained sequence** the side that has the last contestant that has not disengaged or exhausted their **resolve** gains the **prize**.
 
-### 5.4.7 Parting Shot
+### 5.4.8 Parting Shot
 
 There are no **parting shots** in a **chained sequence**.
 
-### 5.4.8 Assists
+### 5.4.9 Assists
 
-You may either **augment** a teammate to improve their **TN** or help them recover **resolve**.
+An unengaged PC or follower may attempt to help another PC recover **resolve**.
 
-### 5.4.9  Joining an In-Progress Contest
+### 5.4.10  Joining an In-Progress Contest
 
 On a **round** of a **group chained sequence**, if you are otherwise unengaged you can engage with any opponent who remains. As **resolve** only changes with **recovery** both participants use their existing **resolve**.
 
-#### 5.4.10 Recovery
+### 5.4.11 Recovery
 
-Your PC will recover over time. Your GM should decide at what point your character's resolve heals and they can return to play. If you wish to speed up your return to play, use the **Recovery** rules (see §2.8.3). The **resistance** (see §2.8.3.2) depends on your remaining **recovery** and is shown in the table below.
+Without intervention, your PC will recover, given time. Your GM should decide at what point your character recovers their resolve and can return to play. As a guideline: one or two points of resolve heal with a short rest, good meal, or time spent relaxing with friends; three or four points of resolve requires a longer period of recuperation, therapy or medical assistance; five points of resolve requires a long period of peaceful rest, away from conflict, to heal.
 
-If your resolve becomes exhausted (reaches *zero*), you return to play with your **resolve** permanently reduced by *one*. This is the impact of trauma on your reserves to cope with further stresses. If this reduction takes your **resolve** to *zero* your PC succumbs to the strains of an adventurous life and must retire from play, perhaps dead, perhaps in exile, perhaps incapacitated. It is time to create a new character.
+You may decide that you cannot wait for time to restore your PC, and instead want to use **abilities** to accelerate your **recovery**.
 
-#### 5.4.10.1 RECOVERY RESISTANCE TABLE
+#### 5.4.11.1 Recovery Abilities
 
-|Remaining Recovery    |Penalty    |
-|:--------------------:|:---------:|
-|4|-5|
-|3|-10|
-|2|-15|
-|1|-20|
-|0|-25|
+When deciding what **tactic** to use for **recovery**, credible choices depend on the nature of the conflict.
+
+* Medical **abilities** both conventional and extraordinary, such as first aid, trauma surgery, regenerative powers or AI doctors, can be used to recover from physical injuries.
+* Psychological **abilities** both conventional and extraordinary, such as therapy, psychiatry, meditation or telepathy, can be used to recover from mental injuries.
+* Social **abilities** both conventional and extraordinary, such as leadership, charisma, magical glamours or familiarity with social networks can help recovery from social injuries.
+* Engineering **abilities** such as mechanical repair, fusion engineering or blacksmithing can be used to repair damage to equipment.
+* **Abilities** that represent beliefs, convictions, or ties to a community can be used in multiple situations to recover, representing the emotional ties that keep your PC going despite adversity. Your GM is encouraged to be liberal when interpreting the usage of emotional ties to recover, provided their usage is 'fresh' within an episode.
+
+#### 5.4.11.1 Recovery Sequences
+
+Any attempt to recover is also a **chained sequence**. Your GM must decide how long each round takes in game time - the limitation on attempts to restore **resolve** is usually  time.
+
+On a **victory** you restore **recovery** equal to the **degrees of victory** plus *one* (see 5.4.11.2).
+
+On a **defeat** your GM has the following options:
+
+* Lost time is the only penalty - use this when there is little risk to helping others.
+* The helping PC loses **resolve** - use this when there is a risk of the helping PC becoming exhausted or otherwise drained by their efforts.
+* The PC being helped loses further **resolve** - use this when any intervention carries a risk of worsening the position such as when attempting to fix losses to relationships or mental health.
+
+As with all **resolve** losses the PC losing **resolve** may opt to take a **consequence** instead, and the recovery **sequence** ends immediately. If it is credible, then **resolve** losses during recovery may also be transferred to **followers**.
+
+The resistance for a recovery roll is always the **default** resistance.
+
+#### 5.4.11.2 RECOVERY OUTCOME TABLE
+
+|Degrees of Victory|Gain| Degrees of Defeat| Loss |
+|:----------------:|:--:|:----------------:|:----:|
+|0|1|0|1|
+|1|2|1|2|
+|2|3|2|3|
+|3|4|3|4|
+|4|5|4|5|
+
+#### 5.4.11.3 Exhaustion
+
+If your resolve becomes **exhausted** (reaches *zero* resolve), you return to play with your starting **resolve** permanently reduced by *one*. This is the impact of trauma on your reserves to cope with further stresses.
+
+When your starting **resolve** becomes *zero* your PC succumbs to the strains of an adventurous life and must retire from play, perhaps dead, perhaps in exile, perhaps incapacitated. It is time to create a new character.
+
+You might decide to retire your PC earlier - as your starting **resolve** lowers your PC's ability to cope with a life of adventure diminishes.
 
 ## 5.5 Wagered Sequences vs Scored Sequences vs Chained Sequences
 
