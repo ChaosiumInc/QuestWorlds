@@ -1036,7 +1036,8 @@ You may lose some pairings amongst the PCs, but still win if the last participan
 7. As one of a pair is eliminated from the **group sequence**, their victorious opponents may then move on to engage new targets, either *starting new **contests*** with an unengaged opponent or *joining an existing **contest*** (see §5.1.9). These new contest are added to the end of the existing roster. Alternatively, unengaged contests may **assist** (see §5.1.10) those who are engaged.
 8. The group with the last undefeated contestant wins.
 9. Award **experience points** if appropriate (see §8.1).
-10. Describe the **outcome** based on the **story obstacle** or **story question**.
+10. If necessary, your GM can determine your group's **degree of victory or defeat**. If your group has the "last contestant", your GM should use the **outcome** for the contest  in which your group **defeated** the opponent with the highest **ability rating**. If the opposition has the "last contestant", your GM should use the **outcome** for the contest in which the PC with the highest **ability rating** was **defeated**. In the event of a tie for **ability rating** pick the **outcome** that has the smaller **degree** of **victory** or **defeat**. Often, individual **outcomes** will be enough and there is no need to figure this out.
+11. Describe the **outcome** based on the **story obstacle** or **story question**.
 
 ### 5.1.3 No Nesting
 
@@ -1062,27 +1063,21 @@ In addition to secondary objectives, as in the above example, you may engage in 
 
 ### 5.1.6 Disengaging
 
-You can always abandon a **contest**, but, in addition to failing at the **story obstacle**, you may also suffer negative consequences. In a **contest** where your opponent intends to harm you, you will always suffer negative consequences if you withdraw, unless you successfully **disengage**. If your opponent also decides to **disengage** you both do; it is a stand-off and neither side obtains the **prize**.
-
-To make a contested attempt to **disengage**, you make an **asymmetrical round**, using the **ability** relevant to the **contest** you’re trying to wriggle out of.
-
-If you fail, your effort is wasted and the score against you increases, as it would have during a normal **round**. If you succeed, you escape the clutches, literal or metaphorical, of your opponent, without further harm from that **round**. In the case of a **group contest**, you do not count as 'last contestant standing' for the purpose of determining victory. The GM applies **consequences** against you immediately based upon your *tally* according to the **sequence** type.
+You can always abandon a **sequence**, but, in addition to failing at the **story obstacle**, you may also suffer negative consequences as your opponent may take a **parting shot** against you, as though you had suffered a **defeat**. Likewise, your opponent might seek to disengage before being defeated, entitling you to a **parting shot**. Taking the **parting shot** is always optional as it may worsen the attacker's position. 
 
 ### 5.1.7 Unrelated Actions
 
-If you are not currently enmeshed in a **round**, either after a successful disengagement, or after winning a **sequence** as part of a **group sequence**, you may take actions within the scene that do not directly contribute to the **defeat** of the other side. These **unrelated actions** may grant an **augment** to yourself or to a teammate. You may achieve a secondary story objective. This resembles an **asymmetrical round**, except that, as you are not targeted by any opponents, there is no additional risk.
+If you are not currently enmeshed in a **round**, you may take actions within the scene that do not directly contribute to the **defeat** of the other side. These **unrelated actions** may grant an **augment** to yourself or to a teammate. You may achieve a secondary story objective. This resembles an **asymmetrical round**, except that, as you are not targeted by any opponents, there is no additional risk.
 
 ### 5.1.8 Parting Shot
 
-Immediately after you defeat an opponent, you may attempt to worsen the defeat suffered by your opponent by engaging in a **parting shot**. This is an attempt (metaphoric or otherwise) to kick your opponent while he’s down:
+Immediately after you **defeat** an opponent, you may attempt to worsen the defeat suffered by your opponent by engaging in a **parting shot**. This is an attempt (metaphoric or otherwise) to kick your opponent while he’s down:
 
 * Striking an incapacitated enemy
 * Attacking a retreating army
 * Attaching one more punitive rider to a legal settlement
 * Demanding additional money from a business partner
 * Delivering one last humiliating insult
-
-Your GM should not use a **parting shot** for the **resistance**.
 
 The **parting shot** is another **contest** against your **defeated** opponent. The **ability** you use must relate to the consequences the opposition will suffer, but needn’t be the same one you used to win the **contest**. If the loser is a PC they use a suitable **ability** to resist; otherwise the GM rolls a suitable **resistance** value.
 
@@ -1183,9 +1178,9 @@ Your GM applies results as described in §2.3.7.2, including assigning **benefit
 
 If you succeed in your **parting shot** roll, you score additional **resource points** against your opponent, worsening their defeat.
 
-However, if your opponent succeeds, they take the number of **resolution points** they would, in a standard **round**, score against you, and instead subtracts them from the number of **resolution points** scored against them in the **round** that removed them from the **contest**. If the revised total is now less than 5 **RPs**, they return to the **contest**, and may re-engage you. Your GM describes this as a dramatic turnaround, in which your overreaching has somehow granted them an advantage allowing them to recover from their previous misfortune.
+However, if your opponent succeeds, they take the number of **resolution points** they would, in a standard **round**, score against you, and instead subtracts them from the number of **resolution points** scored against them in the **round** that removed them from the **sequence**. If the revised total is now less than 5 **RPs**, they return to the **sequence**, and may re-engage you. Your GM describes this as a dramatic turnaround, in which your overreaching has somehow granted them an advantage allowing them to recover from their previous misfortune.
 
-Where it makes sense, unengaged PCs may attempt **parting shots** against opponents taken out of the **contest** by someone else. You may not revive your teammates by using your lamest abilities to make **parting shots** on them; this, by definition, does not pass a **credibility test**.
+Where it makes sense, unengaged PCs may attempt **parting shots** against opponents taken out of the **sequence** by someone else. You may not revive your teammates by using your lamest abilities to make **parting shots** on them; this, by definition, does not pass a **credibility test**.
 
 ### 5.2.4 Risky Gambits
 
@@ -1312,7 +1307,7 @@ When your GM narrates **AP** losses they need to be guided by two principals:
 1. No effect is certain until the entire **wagered sequence** is over.
 2. When a character loses points, it can reflect any negative change in fortunes, not just the most obvious one
 
-### 5.3.2 WAGERED SEQUENCE Outcomes
+### 5.3.2 Wagered Sequence Outcomes
 
 Your GM uses the final **AP** total of the loser to determine the **degree** of the **victory** or **defeat** for the PC.
 
@@ -1377,7 +1372,7 @@ In a **chained sequence** we track **resolve**. Once your **resolve** reaches *z
 
 When electing to use **chained sequences** be aware of the impact of this choice.
 
-Your GM should award **benefits** to a victorious PC after the **sequence** ends (see §2.6), but all **consequences**, other than loss of the **prize**, come from trading **resolve** for **consequences** (see §5.4.2).
+Your GM should award **consequences** and **benefits** to a victorious PC after the **sequence** ends (see §2.6).
 
 Your GM should determine who has the initiative to describe what they are doing for any **round**, based on their interpretation of the flow of events. If in doubt your GM should defer to you over your opponent to describe what you do in the **round**, and describe the NPC reacting to that.
 
@@ -1385,9 +1380,11 @@ Your GM should determine who has the initiative to describe what they are doing 
 
 **Resolve** represents your resistance to the exhaustion of your mental, physical, emotional or social reserves. Once your **resolve** is gone, you quit.
 
-The loser of a **round** in a **sequence**, looses **resolve** equal to their opponent's **degrees of victory** plus one, see §5.4.1.1.
+The loser of a **round** in a **sequence**, loses **resolve** equal to their opponent's **degrees of victory** plus one, see §5.4.1.1.
 
 When your resolve hits *zero* it initiates a crisis, your desire to struggle on is gone: you collapse into exhaustion; you give in to despair; you succumb to your wounds; you flee in fear... depending on what harmed you. You cannot continue with the **sequence** and lose the **prize**. Until you recover positive **resolve**, you must rest and may not initiate a **sequence**.
+
+Your **resolve** may become negative due to losses from a **round**. You cannot return to play until your **resolve** becomes positive.
 
 ### 5.4.1.1 RESOLVE LOSS TABLE
 
@@ -1399,13 +1396,29 @@ When your resolve hits *zero* it initiates a crisis, your desire to struggle on 
 |3|4|
 |4|5|
 
+### 5.4.2 Chained Sequence Outcomes
+
+Your GM uses the number of **resolve points** scored against the losing contestant to determine the **degree** of your **victory** or **defeat**. Do not count **resolve points** traded for **consequences**, but do count any losses absorbed by followers.
+
+#### 5.4.2.1 CHAINED SEQUENCE OUTCOME TABLE
+
+|Loss    |Degree     |
+|:------:|:------------:|
+|1|0|
+|2-3|1|
+|4-5|2|
+|6-7|3|
+|8+|4|
+
+Your GM applies results as described in §2.3.7.2, including assigning **benefits** and **consequences**.
+
 ### 5.4.3 PC Resolve
 
 A PC begins with a *starting* **resolve** of *five*. On your PC's sheet record your current **resolve**. You can use check boxes to visually represent **resolve**.
 
 #### 5.4.3.1 Exchange Resolve for Consequences
 
-As an alternative to losing **resolve** in a contest, you can choose to take a **consequence**. Taking a **consequence** concedes the **sequence**, and you yield the **prize**.
+As an alternative to losing **resolve** in a **round**, you can choose to take a **consequence**.
 
 Your GM should create a **consequence** which should be appropriate to the source of harm. A **consequence** only negates **resolve** losses from the most recent **round**; a consequence cannot negate **resolve** losses from earlier **rounds**. If you accept that **consequence** you do not lose **resolve** for this **round** but instead take the **consequence**.
 
@@ -1415,6 +1428,18 @@ Your GM should create a **consequence** which should be appropriate to the sourc
 * Instead of marking 4 points of **resolve**, the GM offers a penalty of -20.
 
 You can't buy off 5 points of **resolve**, instead your resolve is immediately reduced to *zero* and you yield the **sequence**.
+
+#### 5.4.3.2 Resolve and Extraordinary Powers
+
+In some settings your use of extraordinary powers may be exhausting and may cost **resolve**.
+
+A setting may use one of several approaches to **resolve** losses for extraordinary powers.
+
+* Usage of the power always costs **resolve**.
+* Usage of the power costs **resolve** on any **degree of success**.
+* Usage of the power costs resolve on a partial victory (*zero* **degrees of success**).
+
+The **resolve** cost will be specified in the genre pack for the setting. Typically the more incredible the usage of the power, the greater the cost in **resolve**.
 
 ### 5.4.4 Followers
 
@@ -1454,7 +1479,7 @@ To justify your loss of **resolve** in a conflict, your GM should only call for 
 
 For a lot of impersonal opposition, where it has not taken on the role of a "character" or become a key obstacle in the evolving story, your GM will just set the **resolve** at *one*.  
 
-For more challenging impersonal opposition, your GM may consider setting **resolve** at  *three* for an individual conflict, or higher if overcoming it is a group effort.
+For more challenging impersonal opposition, your GM may consider setting **resolve** at  *three* for an individual conflict, or higher if overcoming it is a group effort. Where **resolve** represents overcoming a group being treated as a single opponent, then a **resolve** of *four* of *five* may be appropriate.
 
 ### 5.4.7 Group Chained Sequence Outcomes
 
@@ -1462,7 +1487,11 @@ In a **group chained sequence** the side that has the last contestant that has n
 
 ### 5.4.8 Parting Shot
 
-There are no **parting shots** in a **chained sequence**.
+If you succeed in your **parting shot** roll, you inflict additional **resolve** losses on your opponent, worsening their **defeat**.
+
+However, if your opponent succeeds, they take the number of **resolve** they would, in a standard **round**, score against you, and instead subtracts them from the **resolve** scored against them in the **round** that removed them from the **contest**. If your opponent now has positive **resolve**, they return to the **sequence**, and may re-engage you. Your GM describes this as a dramatic turnaround, in which your overreaching has somehow granted them an advantage allowing them to recover from their previous misfortune.
+
+Where it makes sense, unengaged PCs may attempt **parting shots** against opponents taken out of the **sequence** by someone else. You may not revive your teammates by using your lamest abilities to make **parting shots** on them; this, by definition, does not pass a **credibility test**.
 
 ### 5.4.9 Assists
 
@@ -1486,7 +1515,7 @@ When deciding what **tactic** to use for **recovery**, credible choices depend o
 * Psychological **abilities** both conventional and extraordinary, such as therapy, psychiatry, meditation or telepathy, can be used to recover from mental injuries.
 * Social **abilities** both conventional and extraordinary, such as leadership, charisma, magical glamours or familiarity with social networks can help recovery from social injuries.
 * Engineering **abilities** such as mechanical repair, fusion engineering or blacksmithing can be used to repair damage to equipment.
-* **Abilities** that represent beliefs, convictions, or ties to a community can be used in multiple situations to recover, representing the emotional ties that keep your PC going despite adversity. Your GM is encouraged to be liberal when interpreting the usage of emotional ties to recover, provided their usage is 'fresh' within an episode.
+* **Abilities** that represent beliefs, convictions, or ties to a community can be used in multiple situations to recover, representing the emotional ties that keep your PC going despite adversity. Your GM is encouraged to be liberal when allowing the usage of emotional ties to recover, provided their usage is 'fresh' within an episode.
 
 #### 5.4.11.1 Recovery Sequences
 
