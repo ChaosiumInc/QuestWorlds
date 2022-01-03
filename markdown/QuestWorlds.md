@@ -1041,7 +1041,7 @@ You may lose some pairings amongst the PCs, but still win if the last participan
 
 ### 5.1.3 No Nesting
 
-Your GM should never “nest” one **sequence** inside another. If a **sequence** is in progress and you want to perform an action your GM should treat it as an **unrelated action** (see §5.1.8), or disallow it completely during the current **contest**.
+Your GM should never “nest” one **sequence** inside another. If a **sequence** is in progress and you want to perform an action your GM should treat it as an **unrelated action** (see §5.1.8), or disallow it completely during the current **sequence**.
 
 ### 5.1.4 Switching Abilities
 
@@ -1057,13 +1057,13 @@ Either way any *tally* does not change.
 
 You may choose to briefly suspend your attempt to best your opponent in a **sequence**, in order to do something else. An instance where you are trying to do something else and your opponent is trying to win the **contest** is called an **asymmetrical round**.
 
-In an **asymmetrical round**, you do not change the *tally* against your opponent,or inflict **consequences** if you win the **round**. Instead, you succeed at whatever else you were doing. Your *tally* is still altered, or you suffer **consequences** if you lose the **round**. Often you will be using an **ability** other than the one you've been waging the **contest** with, one better suited to the task at hand. This becomes additionally dangerous when the **TN** associated with your substitute **ability** is significantly lower than the one used for the rest of the **contest**.
+In an **asymmetrical round**, you do not change the *tally* against your opponent,or inflict **consequences** if you win the **round**. Instead, you succeed at whatever else you were doing. Your *tally* is still altered, or you suffer **consequences** if you lose the **round**. Often you will be using an **ability** other than the one you've been waging the **contest** with, one better suited to the task at hand. This becomes additionally dangerous when the **TN** associated with your substitute **ability** is significantly lower than the one used for the rest of the **sequence**.
 
 In addition to secondary objectives, as in the above example, you may engage in **asymmetrical round** to **augment** (see §2.6) yourself or others.
 
 ### 5.1.6 Disengaging
 
-You can always abandon a **sequence**, but, in addition to failing at the **story obstacle**, you may also suffer negative consequences as your opponent may take a **parting shot** against you, as though you had suffered a **defeat**. Likewise, your opponent might seek to disengage before being defeated, entitling you to a **parting shot**. Taking the **parting shot** is always optional as it may worsen the attacker's position. 
+You can always abandon a **sequence**, but, in addition to failing at the **story obstacle**, you may also suffer negative consequences as your opponent may take a **parting shot** against you, as though you had suffered a **defeat**. Likewise, your opponent might seek to disengage before being defeated, entitling you to a **parting shot**. Taking the **parting shot** is always optional as it may worsen the attacker's position.
 
 ### 5.1.7 Unrelated Actions
 
@@ -1196,7 +1196,7 @@ In a **scored sequence**, you can make a **defensive response**, lowering the nu
 
 The **assist** alters the score against your teammate according to the **outcome** of a **contest**.
 
-Your first **assist** faces the **base resistance**. Each subsequent **assist** attempt to the same beneficiary increases the **resistance** by +5 (as per the scale in §2.3). The **resistance** escalation occurs even when another PC steps in to make a subsequent **assist**. This escalation allows the occasional dramatic rescue but makes it difficult for players to prolong losing battles to excruciating length. Your GM should make it seem credible by justifying the increasing **resistances** with descriptions of ever-escalating countermeasures on the part of the opposition.
+Your first **assist** faces the **base resistance**. Each subsequent **assist** attempt to the same beneficiary increases the **resistance** by +5. The **resistance** escalation occurs even when another PC steps in to make a subsequent **assist**. This escalation allows the occasional dramatic rescue but makes it difficult for players to prolong losing battles to excruciating length. Your GM should make it seem credible by justifying the increasing **resistances** with descriptions of ever-escalating countermeasures on the part of the opposition.
 
 Your GM may adjust the starting **resistance** up or down to account for campaign credibility or other dramatic factors. If an **assist** as proposed seems too improbable or insufficiently useful, your GM should collaborate with you to propose alternate suggestions.
 
@@ -1532,6 +1532,8 @@ On a **defeat** your GM has the following options:
 As with all **resolve** losses the PC losing **resolve** may opt to take a **consequence** instead, and the recovery **sequence** ends immediately. If it is credible, then **resolve** losses during recovery may also be transferred to **followers**.
 
 The resistance for a recovery roll is always the **default** resistance.
+
+When nested within another sequence the first **recovery** roll faces the **base resistance**. Each subsequent **recovery** attempt to the same beneficiary increases the **resistance** by +5. The **resistance** escalation occurs even when another PC steps in to make a subsequent **recovery**. This escalation allows the occasional dramatic rescue but makes it difficult for players to prolong losing battles to excruciating length. Increasing attempts to bring someone back from exhaustion become harder.
 
 #### 5.4.11.2 RECOVERY OUTCOME TABLE
 
