@@ -2,14 +2,14 @@
 
 # 0.1 Legal Information
 
-The *QuestWorlds* System Reference Document 0.965 (“QWSRD0.965”) describes the rules of *QuestWorlds*. You may incorporate the rules as they appear in QWSRD0.965, wholly or in part, into a derivative work, through the use of the *QuestWorlds* Open Game License, Version 1.0. You should read and understand the terms of that License before creating a derivative work from QWSRD0.962.
+The *QuestWorlds* System Reference Document 0.97 (“QWSRD0.97”) describes the rules of *QuestWorlds*. You may incorporate the rules as they appear in QWSRD0.97, wholly or in part, into a derivative work, through the use of the *QuestWorlds* Open Game License, Version 1.0. You should read and understand the terms of that License before creating a derivative work from QWSRD0.97.
 
 Thanks to Wizards of the Coast, the Open Source Initiative, and Creative Commons for their work in creating the framework behind Open Source (and in this case Open Game) licenses. You should be aware that the *QuestWorlds* Open Game License for use of the *QuestWorlds* system differs from the Wizards Open Game License and has
 different terms and conditions.
 
 ### 0.1.1 Using This License
 
-You should note that this is version of 0.965 of the *QuestWorlds* System Reference Document. We expect to release revised versions of this SRD, especially after development of Chaosium’s upcoming *QuestWorlds Core Book*. When we release the *QuestWorlds Core Book* we will update the version designation to 1.0, indicating that the SRD reflects the text published in that book. If you are developing materials for *QuestWorlds* projects you may want to bear this in mind. We will track any changes to the SRD at *https://github.com/ChaosiumInc/QuestWorlds*.
+You should note that this is version of 0.97 of the *QuestWorlds* System Reference Document. We expect to release revised versions of this SRD, especially after development of Chaosium’s upcoming *QuestWorlds Core Book*. When we release the *QuestWorlds Core Book* we will update the version designation to 1.0, indicating that the SRD reflects the text published in that book. If you are developing materials for *QuestWorlds* projects you may want to bear this in mind. We will track any changes to the SRD at *https://github.com/ChaosiumInc/QuestWorlds*.
 
 Once we release SRD version 1.0 we expect that to be stable for some time.
 
@@ -447,7 +447,7 @@ For an assured contest:
 
 * You have a **victory** and you gain the **prize** set out when the **contest** was framed.
 
-#### 2.3.7.1 Degrees of Victory and Defeat
+#### 2.3.7.1 Degrees of Victory 
 
 Your **degree** is the difference between your **successes** and the **resistance's** **successes**. It is a **degree** of **victory** if you win and a **degree** of **defeat** if you lose.
 
@@ -991,7 +991,7 @@ Different types of **sequence** change how we record who has the upper hand at a
 
 * In a **scored sequence**, the first contestant to have five 'strikes' against them loses. We *tally* **resolution points (RP)**.
 * In a **wagered sequence**, we *tally* **advantage points (AP)**, which represent momentum and position. The contenders trade **APs** until one of them runs out.
-* In **chained sequence** the contestants deal harm to each other, and may elect to withdraw if in difficulty. We don't keep a *tally* but apply **consequences**.
+* In **chained sequence** we tally **resolve**, which represents willingness to continue. If you choose **chained sequence** all contests become a **chained sequence**.
 
 Your GM uses this record, either *tallying* or applying **consequences**, to determine when to trigger the end of the **sequence** and the **outcome** for the victor.
 
@@ -1036,11 +1036,12 @@ You may lose some pairings amongst the PCs, but still win if the last participan
 7. As one of a pair is eliminated from the **group sequence**, their victorious opponents may then move on to engage new targets, either *starting new **contests*** with an unengaged opponent or *joining an existing **contest*** (see §5.1.9). These new contest are added to the end of the existing roster. Alternatively, unengaged contests may **assist** (see §5.1.10) those who are engaged.
 8. The group with the last undefeated contestant wins.
 9. Award **experience points** if appropriate (see §8.1).
-10. Describe the **outcome** based on the **story obstacle** or **story question**.
+10. If necessary, your GM can determine your group's **degree of victory or defeat**. If your group has the "last contestant", your GM should use the **outcome** for the contest  in which your group **defeated** the opponent with the highest **ability rating**. If the opposition has the "last contestant", your GM should use the **outcome** for the contest in which the PC with the highest **ability rating** was **defeated**. In the event of a tie for **ability rating** pick the **outcome** that has the smaller **degree** of **victory** or **defeat**. Often, individual **outcomes** will be enough and there is no need to figure this out.
+11. Describe the **outcome** based on the **story obstacle** or **story question**.
 
 ### 5.1.3 No Nesting
 
-Your GM should never “nest” one **sequence** inside another. If a **sequence** is in progress and you want to perform an action your GM should treat it as an **unrelated action** (see §5.1.8), or disallow it completely during the current **contest**.
+Your GM should never “nest” one **sequence** inside another. If a **sequence** is in progress and you want to perform an action your GM should treat it as an **unrelated action** (see §5.1.8), or disallow it completely during the current **sequence**.
 
 ### 5.1.4 Switching Abilities
 
@@ -1050,31 +1051,27 @@ In the former case, you can continue to use the **ability** you started the cont
 
 In the latter case you should switch **abilities**, and your GM must decide if the **resistance** changes because of your new **ability**. Your GM is encouraged to reward **tactics** that exploit weaknesses that have been identified in the story so far with a **bonus** from a **situational modifier**. Sometimes your GM may respond with a higher **penalty** from a **situational modifier** because your **tactic** looks less likely to succeed due to conditions already established in the story.
 
-Either way any *tally* does not change. However, it may be possible to avoid **consequences** in a **chained sequence** by switching to am ability that would not be **penalized**.
+Either way any *tally* does not change. 
 
 ### 5.1.5 Asymmetrical Round
 
 You may choose to briefly suspend your attempt to best your opponent in a **sequence**, in order to do something else. An instance where you are trying to do something else and your opponent is trying to win the **contest** is called an **asymmetrical round**.
 
-In an **asymmetrical round**, you do not change the *tally* against your opponent,or inflict **consequences** if you win the **round**. Instead, you succeed at whatever else you were doing. Your *tally* is still altered, or you suffer **consequences** if you lose the **round**. Often you will be using an **ability** other than the one you've been waging the **contest** with, one better suited to the task at hand. This becomes additionally dangerous when the **TN** associated with your substitute **ability** is significantly lower than the one used for the rest of the **contest**.
+In an **asymmetrical round**, you do not change the *tally* against your opponent,or inflict **consequences** if you win the **round**. Instead, you succeed at whatever else you were doing. Your *tally* is still altered, or you suffer **consequences** if you lose the **round**. Often you will be using an **ability** other than the one you've been waging the **contest** with, one better suited to the task at hand. This becomes additionally dangerous when the **TN** associated with your substitute **ability** is significantly lower than the one used for the rest of the **sequence**.
 
 In addition to secondary objectives, as in the above example, you may engage in **asymmetrical round** to **augment** (see §2.6) yourself or others.
 
 ### 5.1.6 Disengaging
 
-You can always abandon a **contest**, but, in addition to failing at the **story obstacle**, you may also suffer negative consequences. In a **contest** where your opponent intends to harm you, you will always suffer negative consequences if you withdraw, unless you successfully **disengage**. If your opponent also decides to **disengage** you both do; it is a stand-off and neither side obtains the **prize**.
-
-To make a contested attempt to **disengage**, you make an **asymmetrical round**, using the **ability** relevant to the **contest** you’re trying to wriggle out of.
-
-If you fail, your effort is wasted and the score against you increases, as it would have during a normal **round**. If you succeed, you escape the clutches, literal or metaphorical, of your opponent, without further harm from that **round**. In the case of a **group contest**, you do not count as 'last contestant standing' for the purpose of determining victory. For a contest that uses a *tally*, the GM applies **consequences** against you immediately based upon your *tally* according to the **sequence** type.
+You can always abandon a **sequence**, but, in addition to failing at the **story obstacle**, you may also suffer negative consequences as your opponent may take a **parting shot** against you, as though you had suffered a **defeat**. Likewise, your opponent might seek to disengage before being defeated, entitling you to a **parting shot**. Taking the **parting shot** is always optional as it may worsen the attacker's position.
 
 ### 5.1.7 Unrelated Actions
 
-If you are not currently enmeshed in a **round**, either after a successful disengagement, or after winning a **sequence** as part of a **group sequence**, you may take actions within the scene that do not directly contribute to the **defeat** of the other side. These **unrelated actions** may grant an **augment** to yourself or to a teammate. You may achieve a secondary story objective. This resembles an **asymmetrical round**, except that, as you are not targeted by any opponents, there is no additional risk.
+If you are not currently enmeshed in a **round**, you may take actions within the scene that do not directly contribute to the **defeat** of the other side. These **unrelated actions** may grant an **augment** to yourself or to a teammate. You may achieve a secondary story objective. This resembles an **asymmetrical round**, except that, as you are not targeted by any opponents, there is no additional risk.
 
 ### 5.1.8 Parting Shot
 
-Immediately after you defeat an opponent, you may attempt to worsen the defeat suffered by your opponent by engaging in a **parting shot**. This is an attempt (metaphoric or otherwise) to kick your opponent while he’s down:
+Immediately after you **defeat** an opponent, you may attempt to worsen the defeat suffered by your opponent by engaging in a **parting shot**. This is an attempt (metaphoric or otherwise) to kick your opponent while he’s down:
 
 * Striking an incapacitated enemy
 * Attacking a retreating army
@@ -1082,15 +1079,13 @@ Immediately after you defeat an opponent, you may attempt to worsen the defeat s
 * Demanding additional money from a business partner
 * Delivering one last humiliating insult
 
-Your GM should not use a **parting shot** for the **resistance**.
-
 The **parting shot** is another **contest** against your **defeated** opponent. The **ability** you use must relate to the consequences the opposition will suffer, but needn’t be the same one you used to win the **contest**. If the loser is a PC they use a suitable **ability** to resist; otherwise the GM rolls a suitable **resistance** value.
 
-The mechanics for a **parting shot** differ for each **sequence** type, reflecting the *tally* or **consequences**.
+The mechanics for a **parting shot** differ for each **sequence** type, reflecting the *tally*.
 
 ### 5.1.9 Joining an In-Progress Contest
 
-When you wish to join a **sequence** in progress, you and your GM should discuss whether you accept the current framing. If so, you can participate. You simply select an opponent and start a new **round** with them. The mechanics for joining an in-progress **contest** differ for each **sequence** type, reflecting the *tally* or **consequences**. If you want to achieve something other than the goal established during framing, you may instead perform **unrelated actions**, including **assists** and **augments**.
+When you wish to join a **sequence** in progress, you and your GM should discuss whether you accept the current framing. If so, you can participate. You simply select an opponent and start a new **round** with them. The mechanics for joining an in-progress **contest** differ for each **sequence** type, reflecting the *tally*. If you want to achieve something other than the goal established during framing, you may instead perform **unrelated actions**, including **assists** and **augments**.
 
 In some types of conflict, many-against-one may have an advantage. In a melee for example it is more difficult to fight two or more opponents. In other types of contest many-against-one may actually hinder because contenders get in each other's way, such as an attempt to persuade another. In situations in a **sequence** where numerical advantage exists, award a **situational modifier** usually of +/-5 or +/-10. This is a **bonus** if the PCs outnumber their opponents and a **penalty** if they don't. Don't use this rule if you are treating the **resistance** as a mob (see §2.10)
 
@@ -1134,7 +1129,7 @@ You may choose to have your **followers** take part in **scored sequences** in o
 
 **Contestant**: The **follower** takes part in the **contest** as any other PC would. You roll for your **followers** as you would their main characters. However, your **followers** are removed from the **contest** whenever 3 **resolution points** are scored against them in a given **round**.
 
-**Secondary contestant**: To act as a secondary contestant, your **follower** must have an **ability** relevant to the **contest**. The **follower** sticks by your side, contributing directly to the effort: fighting in a battle, tossing in arguments in a legal dispute, acting as the ship’s navigator, or whatever. Although you describe this, you do not roll for the **follower**. Instead, you may, at any point, shift any number of **resolution points** to a **follower** acting as a secondary contestant. Followers with 3 or more **resource points** lodged against them are removed from the scene. 
+**Secondary contestant**: To act as a secondary contestant, your **follower** must have an **ability** relevant to the **contest**. The **follower** sticks by your side, contributing directly to the effort: fighting in a battle, tossing in arguments in a legal dispute, acting as the ship’s navigator, or whatever. Although you describe this, you do not roll for the **follower**. Instead, you may, at any point, shift any number of **resolution points** to a **follower** acting as a secondary contestant. Followers with 3 or more **resource points** lodged against them are removed from the scene.
 
 **Supporter**: Your **follower** is present in the scene, but does not directly engage your opponents. Instead they may perform **assists** and other **unrelated actions**.
 
@@ -1183,9 +1178,9 @@ Your GM applies results as described in §2.3.7.2, including assigning **benefit
 
 If you succeed in your **parting shot** roll, you score additional **resource points** against your opponent, worsening their defeat.
 
-However, if your opponent succeeds, they take the number of **resolution points** they would, in a standard **round**, score against you, and instead subtracts them from the number of **resolution points** scored against them in the **round** that removed them from the **contest**. If the revised total is now less than 5 **RPs**, they return to the **contest**, and may re-engage you. Your GM describes this as a dramatic turnaround, in which your overreaching has somehow granted them an advantage allowing them to recover from their previous misfortune.
+However, if your opponent succeeds, they take the number of **resolution points** they would, in a standard **round**, score against you, and instead subtracts them from the number of **resolution points** scored against them in the **round** that removed them from the **sequence**. If the revised total is now less than 5 **RPs**, they return to the **sequence**, and may re-engage you. Your GM describes this as a dramatic turnaround, in which your overreaching has somehow granted them an advantage allowing them to recover from their previous misfortune.
 
-Where it makes sense, unengaged PCs may attempt **parting shots** against opponents taken out of the **contest** by someone else. You may not revive your teammates by using your lamest abilities to make **parting shots** on them; this, by definition, does not pass a **credibility test**.
+Where it makes sense, unengaged PCs may attempt **parting shots** against opponents taken out of the **sequence** by someone else. You may not revive your teammates by using your lamest abilities to make **parting shots** on them; this, by definition, does not pass a **credibility test**.
 
 ### 5.2.4 Risky Gambits
 
@@ -1201,7 +1196,7 @@ In a **scored sequence**, you can make a **defensive response**, lowering the nu
 
 The **assist** alters the score against your teammate according to the **outcome** of a **contest**.
 
-Your first **assist** faces the **base resistance**. Each subsequent **assist** attempt to the same beneficiary increases the **resistance** by +5 (as per the scale in §2.3). The **resistance** escalation occurs even when another PC steps in to make a subsequent **assist**. This escalation allows the occasional dramatic rescue but makes it difficult for players to prolong losing battles to excruciating length. Your GM should make it seem credible by justifying the increasing **resistances** with descriptions of ever-escalating countermeasures on the part of the opposition.
+Your first **assist** faces the **base resistance**. Each subsequent **assist** attempt to the same beneficiary increases the **resistance** by +5. The **resistance** escalation occurs even when another PC steps in to make a subsequent **assist**. This escalation allows the occasional dramatic rescue but makes it difficult for players to prolong losing battles to excruciating length. Your GM should make it seem credible by justifying the increasing **resistances** with descriptions of ever-escalating countermeasures on the part of the opposition.
 
 Your GM may adjust the starting **resistance** up or down to account for campaign credibility or other dramatic factors. If an **assist** as proposed seems too improbable or insufficiently useful, your GM should collaborate with you to propose alternate suggestions.
 
@@ -1312,7 +1307,7 @@ When your GM narrates **AP** losses they need to be guided by two principals:
 1. No effect is certain until the entire **wagered sequence** is over.
 2. When a character loses points, it can reflect any negative change in fortunes, not just the most obvious one
 
-### 5.3.2 WAGERED SEQUENCE Outcomes
+### 5.3.2 Wagered Sequence Outcomes
 
 Your GM uses the final **AP** total of the loser to determine the **degree** of the **victory** or **defeat** for the PC.
 
@@ -1367,58 +1362,206 @@ Both you and your opponent use your existing **AP** totals.
 
 ## 5.4 Chained Sequence
 
-A **Chained Sequence** consists of one or more **rounds**; each **round** is a **contest**.
+A **chained sequence** consists of one or more **rounds**; each **round** is a **contest**.
 
-In a **chained contest** there is no *tally*, instead your GM applies the **consequences** to the loser in the **contest** immediately following a **round**. This leads to a grittier feel to the **contest**, but at the price of a 'death spiral.' Once you lose the **consequences** make it likelier that you will lose again. **Chained Sequences** tend to produce the most extreme **outcomes**, as participants tend to accumulate significant **consequences**.
+Electing to use a **chained sequence** changes all **contests** into **sequences**. A **contest** is always just a **round** of a **sequence**.
 
-In a **chained sequence** each **round** represents attempts by both parties to overcome their opponent.
+In a **chained sequence** each **round** represents an attempt by both parties to overcome their opponent. After each **round**, participants who are able to continue must decide if they wish to continue the **sequence** or if they wish to **disengage** and yield the **prize** to their opponent.
+
+In a **chained sequence** we track **resolve**. Once your **resolve** reaches *zero* you cannot continue without recovering **resolve** (see §5.4.9).
+
+When electing to use **chained sequences** be aware of the impact of this choice.
+
+Your GM should award **consequences** and **benefits** to a victorious PC after the **sequence** ends (see §2.6).
 
 Your GM should determine who has the initiative to describe what they are doing for any **round**, based on their interpretation of the flow of events. If in doubt your GM should defer to you over your opponent to describe what you do in the **round**, and describe the NPC reacting to that.
 
-### 5.4.1 Immediate Consequences
+### 5.4.1 Resolve
 
-Apply  **consequences** (see §2.6) with immediate effect to the loser, according to the **outcome** of that **round's** **contest**. Use the **degree** to assess the **consequences** (see §2.8).
+**Resolve** represents your resistance to the exhaustion of your mental, physical, emotional or social reserves. Once your **resolve** is gone, you quit.
 
-**Chained sequences** are asymmetric, in that they accumulate **consequences** for the loser, and not **benefits** for the winner. Your GM may decide to award **benefits** to a victorious PC after the **sequence** ends (see §2.6).
+The loser of a **round** in a **sequence**, loses **resolve** equal to their opponent's **degrees of victory** plus one, see §5.4.1.1.
 
-After **consequences** have been applied, you decide if you wish to continue the **chained sequence** or if you wish to **disengage**, and your GM makes a similar determination for the **resistance**. Both you and your GM then express your intent.
+When your resolve hits *zero* it initiates a crisis, your desire to struggle on is gone: you collapse into exhaustion; you give in to despair; you succumb to your wounds; you flee in fear... depending on what harmed you. You cannot continue with the **sequence** and lose the **prize**. Until you recover positive **resolve**, you must rest and may not initiate a **sequence**.
 
-If the **penalties** suffered by one contestant reduce their **ability** below *zero*, they must concede the contest. If it makes sense, your GM may allow you to continue by switching **abilities**. Accumulated **penalties** apply to the new ability used in the contest - this may still force you to concede.
+Your **resolve** may become negative due to losses from a **round**. You cannot return to play until your **resolve** becomes positive.
 
-#### 5.4.2 Followers in a Chained Sequence
+### 5.4.1.1 RESOLVE LOSS TABLE
 
-**Followers** may augment your character in a **chained sequence**. In addition, if you suffer a **defeat** in a **round** of a **chained sequence** you may transfer that **outcome** to a **follower**. Doing so takes that **follower** out of further **rounds** of the **chained sequence**.
+|Degree of Victory    |Lost Resolve    |
+|:-------------------:|:--------------:|
+|0|1|
+|1|2|
+|2|3|
+|3|4|
+|4|5|
 
-### 5.4.3 Group Chained Sequence Outcomes
+### 5.4.2 Chained Sequence Outcomes
 
-In a **group chained sequence** the side that has not conceded gains the **prize**.
+Your GM uses the number of **resolve points** scored against the losing contestant to determine the **degree** of your **victory** or **defeat**. Do not count **resolve points** traded for **consequences**, but do count any losses absorbed by followers.
 
-Individual **consequences** or **benefits** will have already been determined by the **chained sequence** **outcomes** on each **round**.
+#### 5.4.2.1 CHAINED SEQUENCE OUTCOME TABLE
 
-### 5.4.4 Parting Shot
+|Loss    |Degree     |
+|:------:|:------------:|
+|1|0|
+|2-3|1|
+|4-5|2|
+|6-7|3|
+|8+|4|
 
-If you drive your opponent's **TN** below *zero* you are eligible for a **parting shot**. The **parting shot** is another contest against your **defeated** opponent. The **ability** you use must relate to the **consequences** the opposition will suffer, but needn’t be the same one you used to win the **contest**. If the loser is a PC they use a suitable **ability** to resist; otherwise the GM rolls a suitable **resistance** value.
+Your GM applies results as described in §2.3.7.2, including assigning **benefits** and **consequences**.
 
-If you succeed in your **parting shot** roll, you inflict additional immediate **consequences** against your opponent, worsening their position.
+### 5.4.3 PC Resolve
 
-However, if your opponent succeeds, they use the **benefits** they would accrue on a **victory**, and subtract them from the number of **consequences** scored against them. If this returns their **TN** above *zero* they may re-enter the **sequence**. Your GM describes this as a dramatic turnaround, in which your overreaching has somehow granted them an advantage allowing them to recover from their previous misfortune.
+A PC begins with a *starting* **resolve** of *five*. On your PC's sheet record your current **resolve**. You can use check boxes to visually represent **resolve**.
 
-### 5.3.6 Assists
+#### 5.4.3.1 Exchange Resolve for Consequences
 
-You may either **augment** a teammate to improve their **TN** or 'heal' some of their existing **consequences** (see §2.8.3).
+As an alternative to losing **resolve** in a **round**, you can choose to take a **consequence**.
 
-### 5.3.7  Joining an In-Progress Contest
+Your GM should create a **consequence** which should be appropriate to the source of harm. A **consequence** only negates **resolve** losses from the most recent **round**; a consequence cannot negate **resolve** losses from earlier **rounds**. If you accept that **consequence** you do not lose **resolve** for this **round** but instead take the **consequence**.
 
-Any **consequences** that you have in effect, or participants in the in-progress **sequence** you are joining have, remain in effect.
+* Instead of marking 1 point of **resolve**, the GM offers a penalty -5.
+* Instead of marking 2 points of **resolve**, the GM offers a penalty of -10.
+* Instead of marking 3 points of **resolve**, the GM offers a penalty of -15.
+* Instead of marking 4 points of **resolve**, the GM offers a penalty of -20.
+
+You can't buy off 5 points of **resolve**, instead your resolve is immediately reduced to *zero* and you yield the **sequence**.
+
+#### 5.4.3.2 Resolve and Extraordinary Powers
+
+In some settings your use of extraordinary powers may be exhausting and may cost **resolve**.
+
+A setting may use one of several approaches to **resolve** losses for extraordinary powers.
+
+* Usage of the power always costs **resolve**.
+* Usage of the power costs **resolve** on any **degree of success**.
+* Usage of the power costs resolve on a partial victory (*zero* **degrees of success**).
+
+The **resolve** cost will be specified in the genre pack for the setting. Typically the more incredible the usage of the power, the greater the cost in **resolve**.
+
+### 5.4.4 Followers
+
+You may choose to have your **followers** take part in **chained sequence** in one of three ways: as full contestants, as secondary contestants, or as supporters. You track resolve for **followers** as you do for a PC, but a **follower** begins the game with *three* resolve. **Retainers** are treated as a group for tracking **resolve** but **sidekicks** are handled individually.
+
+**Contestant**: The **follower** takes part in the **contest** as any other PC would. You roll for your **followers** as you would their main characters.
+
+**Secondary contestant**: To act as a secondary contestant, your **follower** must have an **ability** relevant to the **contest**. The follower provides an **augment** to your character in a **chained sequence**. In addition, if you suffer a **defeat** in a **round** of a **chained sequence** you may transfer that **resolve** loss to a **follower**. Doing so takes that **follower** out of further **rounds** of the **chained sequence**, even if they still have remaining **resolve**. Any **augment** your **follower** provided is lost.
+
+**Supporter**: Your **follower** is present in the scene, but does not directly engage your opponents. Instead they may perform **assists** and other **unrelated actions**.
+
+If a **follower** checks off *three or more* **resolve** they leave your service immediately - they may be dead, exhausted, or in despair - and must be replaced.
+
+### 5.4.5 NPC Resolve
+
+We divide NPCs into two categories for **resolve**: mooks and named NPCs.
+
+Your GM should track **resolve** losses for an NPC. An NPC cannot trade **resolve** losses for a **consequence**.
+
+#### 5.4.5.1 Mooks
+
+A mook is a faceless, nameless NPC who exists to allow your PC to impress us with their competency. A mook yields a **sequence** after suffering *one* point of **resolve** loss.
+
+#### 5.4.5.2 Named NPCs
+
+A named NPC starts with between *three* **resolve**.
+
+Your GM should decide if an NPC has recovered any **resolve** losses between encounters. An NPC who is reduced to *zero* resolve should not re-appear in the story - your PC has overcome them.
+
+Some rare encounters, extraordinary NPCs who your GM intends as an individual threat to a group of NPCs, may have greater **resolve**. This should be used sparingly.
+
+### 5.4.6 Resolve for Impersonal Opposition
+
+Impersonal opposition - a security system, a science or engineering problem, a mountain to climb or wilderness to cross - can have resolve too, representing how resistant it is to resolution. Impersonal opposition may include people, where are large number can be treated in an abstract fashion - the prison guards, the ship's crew - as such the **rating** reflects a collective **resistance**.
+
+To justify your loss of **resolve** in a conflict, your GM should only call for a **sequence** when it can be explained how you might become worn out attempting to overcome the obstacle or run out of time, otherwise your GM should let you succeed if you have a relevant **ability**. The **resolve** of impersonal opposition represents your progress - as you complete more steps towards overcoming the opposition - defeating security systems, winning hearts and minds - then the **resolve** of the impersonal opposition ebbs away.
+
+For a lot of impersonal opposition, where it has not taken on the role of a "character" or become a key obstacle in the evolving story, your GM will just set the **resolve** at *one*.  
+
+For more challenging impersonal opposition, your GM may consider setting **resolve** at  *three* for an individual conflict, or higher if overcoming it is a group effort. Where **resolve** represents overcoming a group being treated as a single opponent, then a **resolve** of *four* of *five* may be appropriate.
+
+### 5.4.7 Group Chained Sequence Outcomes
+
+In a **group chained sequence** the side that has the last contestant that has not disengaged or exhausted their **resolve** gains the **prize**.
+
+### 5.4.8 Parting Shot
+
+If you succeed in your **parting shot** roll, you inflict additional **resolve** losses on your opponent, worsening their **defeat**.
+
+However, if your opponent succeeds, they take the number of **resolve** they would, in a standard **round**, score against you, and instead subtracts them from the **resolve** scored against them in the **round** that removed them from the **contest**. If your opponent now has positive **resolve**, they return to the **sequence**, and may re-engage you. Your GM describes this as a dramatic turnaround, in which your overreaching has somehow granted them an advantage allowing them to recover from their previous misfortune.
+
+Where it makes sense, unengaged PCs may attempt **parting shots** against opponents taken out of the **sequence** by someone else. You may not revive your teammates by using your lamest abilities to make **parting shots** on them; this, by definition, does not pass a **credibility test**.
+
+### 5.4.9 Assists
+
+An unengaged PC or follower may attempt to help another PC recover **resolve**.
+
+### 5.4.10  Joining an In-Progress Contest
+
+On a **round** of a **group chained sequence**, if you are otherwise unengaged you can engage with any opponent who remains. As **resolve** only changes with **recovery** both participants use their existing **resolve**.
+
+### 5.4.11 Recovery
+
+Without intervention, your PC will recover, given time. Your GM should decide at what point your character recovers their resolve and can return to play. As a guideline: one or two points of resolve heal with a short rest, good meal, or time spent relaxing with friends; three or four points of resolve requires a longer period of recuperation, therapy or medical assistance; five points of resolve requires a long period of peaceful rest, away from conflict, to heal.
+
+You may decide that you cannot wait for time to restore your PC, and instead want to use **abilities** to accelerate your **recovery**.
+
+#### 5.4.11.1 Recovery Abilities
+
+When deciding what **tactic** to use for **recovery**, credible choices depend on the nature of the conflict.
+
+* Medical **abilities** both conventional and extraordinary, such as first aid, trauma surgery, regenerative powers or AI doctors, can be used to recover from physical injuries.
+* Psychological **abilities** both conventional and extraordinary, such as therapy, psychiatry, meditation or telepathy, can be used to recover from mental injuries.
+* Social **abilities** both conventional and extraordinary, such as leadership, charisma, magical glamours or familiarity with social networks can help recovery from social injuries.
+* Engineering **abilities** such as mechanical repair, fusion engineering or blacksmithing can be used to repair damage to equipment.
+* **Abilities** that represent beliefs, convictions, or ties to a community can be used in multiple situations to recover, representing the emotional ties that keep your PC going despite adversity. Your GM is encouraged to be liberal when allowing the usage of emotional ties to recover, provided their usage is 'fresh' within an episode.
+
+#### 5.4.11.1 Recovery Sequences
+
+Any attempt to recover is also a **chained sequence**. Your GM must decide how long each round takes in game time - the limitation on attempts to restore **resolve** is usually  time.
+
+On a **victory** you restore **recovery** equal to the **degrees of victory** plus *one* (see 5.4.11.2).
+
+On a **defeat** your GM has the following options:
+
+* Lost time is the only penalty - use this when there is little risk to helping others.
+* The helping PC loses **resolve** - use this when there is a risk of the helping PC becoming exhausted or otherwise drained by their efforts.
+* The PC being helped loses further **resolve** - use this when any intervention carries a risk of worsening the position such as when attempting to fix losses to relationships or mental health.
+
+As with all **resolve** losses the PC losing **resolve** may opt to take a **consequence** instead, and the recovery **sequence** ends immediately. If it is credible, then **resolve** losses during recovery may also be transferred to **followers**.
+
+The resistance for a recovery roll is always the **default** resistance.
+
+When nested within another sequence the first **recovery** roll faces the **base resistance**. Each subsequent **recovery** attempt to the same beneficiary increases the **resistance** by +5. The **resistance** escalation occurs even when another PC steps in to make a subsequent **recovery**. This escalation allows the occasional dramatic rescue but makes it difficult for players to prolong losing battles to excruciating length. Increasing attempts to bring someone back from exhaustion become harder.
+
+#### 5.4.11.2 RECOVERY OUTCOME TABLE
+
+|Degrees of Victory|Gain| Degrees of Defeat| Loss |
+|:----------------:|:--:|:----------------:|:----:|
+|0|1|0|1|
+|1|2|1|2|
+|2|3|2|3|
+|3|4|3|4|
+|4|5|4|5|
+
+#### 5.4.11.3 Exhaustion
+
+If your resolve becomes **exhausted** (reaches *zero* resolve), you return to play with your starting **resolve** permanently reduced by *one*. This is the impact of trauma on your reserves to cope with further stresses.
+
+When your starting **resolve** becomes *zero* your PC succumbs to the strains of an adventurous life and must retire from play, perhaps dead, perhaps in exile, perhaps incapacitated. It is time to create a new character.
+
+You might decide to retire your PC earlier - as your starting **resolve** lowers your PC's ability to cope with a life of adventure diminishes.
 
 ## 5.5 Wagered Sequences vs Scored Sequences vs Chained Sequences
 
-We recommend that your GM chooses ONE form of **sequence** only, and stick to it, within a given campaign of *QuestWorlds*. If in doubt, use a **scored sequence** by default. The **sequence** rules presentation here is modular: your GMs should choose the one that matches their genre.
+Your GM chooses ONE form of **sequence** for their game, and sticks to it. The **sequence** rules presentation here is modular: your GMs should choose the one that matches their genre.
 
-**Scored sequences** have the advantage of speed and simplicity. **Wagered sequences** have the drama of wagering APs for your action. **Chained sequences** offer the benefit of grittier exchanges where the **outcomes** of each **round** have impact.
+**Scored sequences** are fast and simple, and we consider them the default. **Wagered sequences** have the drama of wagering and tend to encourage high-octane stunts, but can take longer to resolve. **Chained sequences** make all **contests** a sequence, where resolve is slowly worn down.
 
 You can think of this as a continuum. At one end are gritty genres where you want to use a **chained sequence** to reflect how punishing conflict is. At the other end are gonzo, larger-than-life genres where you want to use a **wagered sequence** to encourage crazy stunts and outrageous action. In the middle is the **scored sequence** which lets you focus in on tasks to add suspense and drama, without being too grim or too over-the-top.
 
+If in doubt, use a **scored sequence** by default. 
 
 ## 5.7 Lengthy Sequences
 
