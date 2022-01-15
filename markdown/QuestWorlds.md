@@ -83,11 +83,14 @@ except as expressly licensed in another, independent Agreement with the owner of
 ## 0.2 Credits
 
 Original Rules: Robin D. Laws
+
 Lead System Development: Ian Cooper
+
 Development Assistance: David Scott
+
 Further Development Assistance: Paul Abertella, Shawn Carpenter, Ludovic Chabant, Rickard Elimää, Martin Helsdon, Jonathan Laufersweiler, James Lowder, Michael O’Brien, Jeff Richard, Adam RKitch 
 
-Chained Contests and Plot Edits from *Mythic Russia* © copyright 2006, 2010 Mark Galeotti; developed by Graham Robinson (for “Chained Contests”) and added as Open Game Content here with permission.
+A modified version of Chained Contests and Plot Edits from *Mythic Russia* © copyright 2006, 2010 Mark Galeotti; developed by Graham Robinson (for “Chained Contests”) appears in this game and is added as Open Game Content here with permission.
 
 Material in *Section 1, Introduction* and *Section 2, Basic Mechanics* © copyright 2018 Jonathan Laufersweiler and added as Open Game Content here with permission.
 
@@ -316,7 +319,7 @@ When deciding on your **tactic**, focus on how your unique abilities would help 
 
 Your GM will determine if your **tactic** passes a **credibility test**. Credibility depends on the genre, as what is not credible in a gritty police procedural might be in pulp. If in dispute, your GM should discuss with the group whether they consider your **tactic** credible for the genre. If your action is not credible, your GM will ask you to choose a different **tactic**.
 
-**Extraordinary abilities** in some genres give you the capability to do the incredible. For example in a superhero genre you might fly or be invulnerable to bullets, in a fantasy genre hurl magical lightning bolts. A genre pack for the game should help define what incredible **tactics** are allowed for that game as part of an *Extraordinary Powers Framework*.
+**Incredible abilities** in some genres give you the capability to do the incredible. For example in a superhero genre you might fly or be invulnerable to bullets, in a fantasy genre hurl magical lightning bolts. A genre pack for the game should help define what incredible **tactics** are allowed for that game as part of an *Incredible Powers Framework*.
 
 The GM can narrate the remaining tasks that make sense of the story depending on your **success** with that roll, or have them occur 'off-stage' for speed. Think of the way TV or Cinema often cuts to the key moment of drama in a break-in, over showing us the whole heist from beginning to end.
 
@@ -675,10 +678,10 @@ On *zero* **degrees** of **defeat** your GM might assign a **bonus** of +5 or +1
 
 When deciding the **tactic** to use for recovery, the **ability** used to bring about recovery from a **consequence** must relate to the type of **consequence**.
 
-* You can aid recovery from physical injuries with medical **abilities** or extraordinary healing **abilities** such as magic, regenerative powers, or super-science. 
-* You can remove mental traumas, including those of confidence and morale, with mundane psychology **abilities** or through **extraordinary abilities** such as telepathy. You might also remove them through a dramatic confrontation between the victim and the source of the psychic injury. 
-* You can remove social injury through social **abilities** or extraordinary social **abilities** such as charm spells, love potions, or mind control. You probably have to make a public apology of some sort, often including a negotiation with the offended parties and the payment of compensation, either in disposable wealth or something more symbolic.
-* You can fix damage to items and equipment with some sort of repair **ability**. If you want to fix an extraordinary item, you may require genre-specific expertise: a broken magic ring may require a ritual to reforge.
+* You can aid recovery from physical injuries with medical **abilities** or incredible healing **abilities** such as magic, regenerative powers, or super-science. 
+* You can remove mental traumas, including those of confidence and morale, with mundane psychology **abilities** or through **incredible abilities** such as telepathy. You might also remove them through a dramatic confrontation between the victim and the source of the psychic injury. 
+* You can remove social injury through social **abilities** or incredible social **abilities** such as charm spells, love potions, or mind control. You probably have to make a public apology of some sort, often including a negotiation with the offended parties and the payment of compensation, either in disposable wealth or something more symbolic.
+* You can fix damage to items and equipment with some sort of repair **ability**. If you want to fix an incredible item, you may require genre-specific expertise: a broken magic ring may require a ritual to reforge.
 
 #### 2.8.3.2 Recovery Resistances
 
@@ -1036,7 +1039,7 @@ You may lose some pairings amongst the PCs, but still win if the last participan
 7. As one of a pair is eliminated from the **group sequence**, their victorious opponents may then move on to engage new targets, either *starting new **contests*** with an unengaged opponent or *joining an existing **contest*** (see §5.1.9). These new contest are added to the end of the existing roster. Alternatively, unengaged contests may **assist** (see §5.1.10) those who are engaged.
 8. The group with the last undefeated contestant wins.
 9. Award **experience points** if appropriate (see §8.1).
-10. If necessary, your GM can determine your group's **degree of victory or defeat**. If your group has the "last contestant", your GM should use the **outcome** for the contest  in which your group **defeated** the opponent with the highest **ability rating**. If the opposition has the "last contestant", your GM should use the **outcome** for the contest in which the PC with the highest **ability rating** was **defeated**. In the event of a tie for **ability rating** pick the **outcome** that has the smaller **degree** of **victory** or **defeat**. Often, individual **outcomes** will be enough and there is no need to figure this out.
+10. If necessary, your GM can determine your group's **degree of victory or defeat**. 
 11. Describe the **outcome** based on the **story obstacle** or **story question**.
 
 ### 5.1.3 No Nesting
@@ -1094,6 +1097,16 @@ In some types of conflict, many-against-one may have an advantage. In a melee fo
 You may take an **unrelated action** to grant an **assist** to a teammate enmeshed in a **round**. Describe what your character is trying to do to improve the position of the target. For example, your PC might throw them a weapon, jeer at an opponent, or simply shout words of encouragement. **Assists** are subject to the same restrictions as **augments**: they must be both credible and interesting.
 
 The mechanics for a **assist** differ for each **sequence** type, reflecting the *tally* or **consequences**.
+
+### 5.1.11 Outcome
+
+Your GM may wish to determine the overall outcome, beyond the prize and individual outcomes.
+
+If your group has the "last contestant", your GM should use the **outcome** for the contest in which your group **defeated** the opponent with the highest **ability rating**.
+
+If the opposition has the "last contestant", your GM should use the **outcome** for the contest in which the PC with the highest **ability rating** was **defeated**.
+
+In the event of a tie for **ability rating** pick the **outcome** that has the second highest **degree** of **victory** or **defeat**.
 
 ## 5.2 Scored Sequence
 
@@ -1429,17 +1442,14 @@ Your GM should create a **consequence** which should be appropriate to the sourc
 
 You can't buy off 5 points of **resolve**, instead your resolve is immediately reduced to *zero* and you yield the **sequence**.
 
-#### 5.4.3.2 Resolve and Extraordinary Powers
+#### 5.4.3.2 Resolve and Incredible Powers
 
-In some settings your use of extraordinary powers may be exhausting and may cost **resolve**.
+In some settings your use of incredible powers may be exhausting and may cost **resolve**.
 
-A setting may use one of several approaches to **resolve** losses for extraordinary powers.
+A setting may use one of several approaches to **resolve** losses for incredible powers.
 
-* Usage of the power always costs **resolve**.
-* Usage of the power costs **resolve** on any **degree of success**.
+* Usage of the power costs **resolve** on any **degree of defeat**.
 * Usage of the power costs resolve on a partial victory (*zero* **degrees of success**).
-
-The **resolve** cost will be specified in the genre pack for the setting. Typically the more incredible the usage of the power, the greater the cost in **resolve**.
 
 ### 5.4.4 Followers
 
@@ -1469,7 +1479,7 @@ A named NPC starts with between *three* **resolve**.
 
 Your GM should decide if an NPC has recovered any **resolve** losses between encounters. An NPC who is reduced to *zero* resolve should not re-appear in the story - your PC has overcome them.
 
-Some rare encounters, extraordinary NPCs who your GM intends as an individual threat to a group of NPCs, may have greater **resolve**. This should be used sparingly.
+Some rare encounters, NPCs who your GM intends as an individual threat to a group of NPCs, may have greater **resolve**. This should be used sparingly.
 
 ### 5.4.6 Resolve for Impersonal Opposition
 
@@ -1511,9 +1521,9 @@ You may decide that you cannot wait for time to restore your PC, and instead wan
 
 When deciding what **tactic** to use for **recovery**, credible choices depend on the nature of the conflict.
 
-* Medical **abilities** both conventional and extraordinary, such as first aid, trauma surgery, regenerative powers or AI doctors, can be used to recover from physical injuries.
-* Psychological **abilities** both conventional and extraordinary, such as therapy, psychiatry, meditation or telepathy, can be used to recover from mental injuries.
-* Social **abilities** both conventional and extraordinary, such as leadership, charisma, magical glamours or familiarity with social networks can help recovery from social injuries.
+* Medical **abilities** both conventional and incredible, such as first aid, trauma surgery, regenerative powers or AI doctors, can be used to recover from physical injuries.
+* Psychological **abilities** both conventional and incredible, such as therapy, psychiatry, meditation or telepathy, can be used to recover from mental injuries.
+* Social **abilities** both conventional and incredible, such as leadership, charisma, magical glamours or familiarity with social networks can help recovery from social injuries.
 * Engineering **abilities** such as mechanical repair, fusion engineering or blacksmithing can be used to repair damage to equipment.
 * **Abilities** that represent beliefs, convictions, or ties to a community can be used in multiple situations to recover, representing the emotional ties that keep your PC going despite adversity. Your GM is encouraged to be liberal when allowing the usage of emotional ties to recover, provided their usage is 'fresh' within an episode.
 
@@ -1962,7 +1972,7 @@ Your GM may decide that the community's **bonus** in a **resource** is temporari
 : Setting the stakes of the **contest**, what is this conflict about. Often not the immediate aftermath of victory.
 
 **Credibility Test**
-: Is it possible to perform the action without an **ability**, with an ordinary **ability**, or only with a **extraordinary ability**?
+: Is it possible to perform the action without an **ability**, with an ordinary **ability**, or only with a **incredible ability**?
 
 **Crisis Test**
 : Used to determine if a **resource** that has a **penalty** creates a crisis.
@@ -1994,8 +2004,8 @@ Your GM may decide that the community's **bonus** in a **resource** is temporari
 **Experience Points (XP)**
 : When you experience **defeat**, or a **flaw** you may gain an **experience point**, which accumulate between sessions.
 
-**Extraordinary ability**
-: Certain genres allow player characters to have **abilities** that exceed human norms, these are **extraordinary abilities**. A genre pack normally outlines what is possible as part of its extraordinary powers framework.
+**Incredible ability**
+: Certain genres allow player characters to have **abilities** that exceed human norms, these are **incredible abilities**. A genre pack normally outlines what is possible as part of its incredible powers framework.
 
 **Failure**
 : Rolling over your **target number**. 
