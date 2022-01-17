@@ -1816,11 +1816,11 @@ Some series revolve around the relationship between a band of influential figure
 
 These rules allow your GM to track the rise and fall of the fortunes of your community, and your impact on them.
 
-If your GM intend to play a game centered around a community, you should have a relationship **ability** to that community.
+If your GM intends to play a game centered around a community, you should have a **keyword** for that community.
 
-It is possible that you have relationships with other communities that are not the focus of play. Treat these relationships as **abilities** that you can call on, but your GM should not track these communities with these rules. Your GM should pick the level of community that provides the greatest dramatic potential from its competition for **resources**, friendly or otherwise, with its rivals.
+It is possible that you have relationships with other communities that are not the focus of play. Treat these **abilities** as relationships that you can call on, but your GM should not track these communities with those rules. Your GM should pick the level of community that provides the greatest dramatic potential from its competition for **resources**, friendly or otherwise, with its rivals.
 
-Some campaigns do not center on a community, with the adventurers being footloose wanderers. In that case, even if you have community **abilities**, your GM will not track any community. Before you decide this though, consider where your PCs might turn for help, succor, or aid. Is there somewhere in the campaign defined as a place of refuge and safety for you. It may well be that there is a community, the bar where other footloose adventurers all meet, who will help each other out in a tight spot for example, that your GM can model.
+Some campaigns do not center on a community, with the adventurers being footloose wanderers. In that case, even if you have community **abilities**, your GM will not track any community. Before your GM decides this, they should consider where your PCs might turn for help, succor, or aid. Is there somewhere in the campaign defined as a place of refuge and safety for you? It may well be that  is a community. For example, the bar where other footloose adventurers all meet, who will help each other out in a tight spot.
 
 ## 9.1 Community Design
 
@@ -1858,7 +1858,7 @@ A questionnaire also introduces your setting in a punchy, interactive format, an
 
 ## 9.2 Drawing on Resources
 
-You can use community **resources** as a **bonus** to your **abilities** after convincing the community to let you expend precious assets. This requires a preliminary **contest** using a social **ability**, most likely your community relationship. Your GM will use a **moderate resistance** as the baseline, with higher **resistance**s when your proposals seem selfish or likely to fail, and lower ones when everyone but the dullest dolt would readily see their collective benefits. Your GM may increase **resistance**s if your group draws constantly on community **resources** without replenishing them.
+You can use community **resources** as a **bonus** to your **abilities** after convincing the community to let you expend precious assets. This requires a preliminary **contest** using a social **ability**, most likely your community **keyword**. Your GM will use a **moderate resistance** as the baseline, with higher **resistance**s when your proposals seem selfish or likely to fail, and lower ones when everyone but the dullest dolt would readily see their collective benefits. Your GM may increase **resistance**s if your group draws constantly on community **resources** without replenishing them.
 
 The lobbying effort and the actual resource use require framing, a clear description of what you are doing, and other details to bring them to fictional life. You cannot use **resource abilities** directly, but as an **bonus** to your own **abilities**.
 
