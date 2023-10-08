@@ -15,7 +15,7 @@ If you have questions about this license, please reach out to Moon Design at lic
 
 ### 0.1.2 *QuestWorlds* ORC License Statement
 
-This product is licensed under the ORC License held in the Library of Congress at TX000 [number tbd] and available online at various locations including www.chaosium.com/orclicense, www.azoralaw.com/orclicense, www.gencon.com/orclicense and others. All warranties are disclaimed as set forth therein.
+This product is licensed under the ORC License held in the Library of Congress at TX 9-307-067 and available online at various locations including www.chaosium.com/orclicense, www.azoralaw.com/orclicense, www.gencon.com/orclicense and others. All warranties are disclaimed as set forth therein.
 
 This product is the original work of Moon Design Publications.
 
@@ -27,8 +27,8 @@ Along with our logo
 
 ![BW QuestWorlds Logo](Logos/QW-Stamp-Red.png){ width=1inch height=1inch} ![Color QuestWorlds Logo](Logos/QW-Stamp-Black.png){ width=1inch height=1inch}
 
-Reserved Material elements in this product include but may not be limited to all artwork, illustrations, and graphic design, and trade dress, including runes and geometric symbols that are not part of the Latin alphabet or Hindu-Arabic numeral system, and all trademarks, including *Call of Cthulhu*, *Chaosium*, *Future-World*, *Magic World*, *Pendragon*, *RuneQuest*,
-*Superworld*, and *Worlds of Wonder*, and organizations, settings, locations, worlds, plots and storylines including proper nouns and the adjectives, names, and titles derived from proper nouns for Pioneer Space, Age of Miracles, Brave New World, Ouvergend, and the Ruptured Realm and all other elements designated as Reserved Material under the ORC license.
+Reserved Material elements in this product include but may not be limited to all artwork, illustrations, and graphic design, and trade dress, and all trademarks, including *Call of Cthulhu*, *Chaosium*, *Future-World*, *Magic World*, *Pendragon*, *RuneQuest*,
+*Superworld*, and *Worlds of Wonder*, and all other elements designated as Reserved Material under the ORC license.
 
 QuestWorlds SRD with annotations for individual contributions can be found at GitHub: https://github.com/ChaosiumInc/QuestWorlds/
 
